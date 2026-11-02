@@ -463,5 +463,115 @@
     "src": "https://tympanus.net/codrops/wp-content/uploads/2025/12/Screenshot-2025-12-20-at-09.49.23.png",
     "alt": "Draggable Image Gallery｜拖动整面影像墙，抽出一张成为分屏主角｜作品预览",
     "sourceUrl": "https://tympanus.net/codrops/hub/tag/draggable/"
+  },
+  "2026-11-02-motion-jhey-sphere": {
+    "src": "cover-2026-11-02-motion-jhey-sphere.jpg",
+    "alt": "Emoji Picker Sphere｜把表情网格卷成能搜索的旋转球 — 对应影片实截帧",
+    "sourceUrl": "https://motionvault.dev/jh3yy/status/2116321049851908266/"
+  },
+  "2026-11-02-motion-enes-fold": {
+    "src": "cover-2026-11-02-motion-enes-fold.jpg",
+    "alt": "Folded Scroll Edges｜列表像柔软纸带一样翻进容器边缘 — 对应影片实截帧",
+    "sourceUrl": "https://motionvault.dev/enesozturkdev/status/2115816197266477213/"
+  },
+  "2026-11-02-motion-fluid-glass": {
+    "src": "cover-2026-11-02-motion-fluid-glass.jpg",
+    "alt": "Fluid Glass｜玻璃环在点击后连续融成三角、方框与胶囊 — 对应影片实截帧",
+    "sourceUrl": "https://motionvault.dev/davidhaz/status/2110738519597437387/"
+  },
+  "2026-11-02-motion-metal-ui-film": {
+    "src": "cover-2026-11-02-motion-metal-ui-film.jpg",
+    "alt": "METAL UI 展示片｜让控件像零件一样按压、展开与分层 — 对应影片实截帧",
+    "sourceUrl": "https://motionvault.dev/dprophecyguy/status/2105341961305747619/"
+  },
+  "2026-11-01-18": {
+    "src": "cover-2026-11-01-18.jpg",
+    "alt": "Motion GA launch｜把生成过程本身剪成一支快节奏发布片 — 对应影片实截帧",
+    "sourceUrl": "https://motion.so/studio"
+  },
+  "2026-10-29-05": {
+    "src": "cover-2026-10-29-05.jpg",
+    "alt": "ValkaAI｜折射玻璃串联头像、内容与品牌标记 — 对应影片实截帧",
+    "sourceUrl": "https://tympanus.net/codrops/2026/03/29/motion-highlights-17/"
+  },
+  "2026-10-26-03": {
+    "src": "cover-2026-10-26-03.jpg",
+    "alt": "Gooey 官方交互演示 — 展开的液态融合菜单截图",
+    "sourceUrl": "https://libraries.dev/gooey"
+  },
+  "2026-10-26-09": {
+    "src": "cover-2026-10-26-09.jpg",
+    "alt": "Paper 液态金属标志 — 官方源码仓库展示图",
+    "sourceUrl": "https://github.com/paper-design/liquid-logo"
+  },
+  "2026-11-02-ui-glass-film": {
+    "src": "cover-2026-11-02-ui-glass-film.jpg",
+    "alt": "Rishi Raghu｜玻璃胶片时间轴：把播放头做成一片透明尺 — 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27828790-Liquid-Glass-Film-Scrubber-Skeuomorphic-Film-Timeline"
+  },
+  "2026-11-02-ui-leather-upload": {
+    "src": "cover-2026-11-02-ui-leather-upload.jpg",
+    "alt": "Rishi Raghu｜皮革上传器：让进度像逐针缝上去 — 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27817710-Skeuomorphic-File-Upload-UI-Leather-Brushed-Steel"
+  },
+  "2026-11-02-ui-beatbit": {
+    "src": "cover-2026-11-02-ui-beatbit.jpg",
+    "alt": "Riotters｜beatbit：蓝色掌机外壳里的像素音乐界面 — 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/25560120-beatbit-retro-music-player"
+  },
+  "2026-10-30-01": {
+    "src": "cover-2026-10-30-01.jpg",
+    "alt": "AI Phone OS thinking mode｜让 AI 结果接在原有上下文里 — 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27637405-AI-Phone-OS-thinking-mode"
+  },
+  "2026-10-30-02": {
+    "src": "cover-2026-10-30-02.jpg",
+    "alt": "Groceries Budget Sheet｜图表本身就是滑杆 — 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27724958-Groceries-Budget-Sheet"
+  },
+  "2026-10-28-01": {
+    "src": "cover-2026-10-28-01.jpg",
+    "alt": "Jelly Slider｜数值变化变成软玻璃的长度与弧度 — 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/26498172-Jelly-Slider"
+  },
+  "2026-10-28-05": {
+    "src": "cover-2026-10-28-05.jpg",
+    "alt": "AI Image Generator App Promo｜发光输入胶囊与漂浮图片卡 — 原作画面",
+    "sourceUrl": "https://www.behance.net/gallery/255853641/AI-Image-Generator-App-Promo"
+  },
+  "2026-10-26-01": {
+    "src": "cover-2026-10-26-01.jpg",
+    "alt": "原演示预览帧：模型切换界面与H形挡位选择器",
+    "sourceUrl": "https://x.com/aaraalto/status/2089916444960063577"
+  },
+  "2026-10-26-02": {
+    "src": "cover-2026-10-26-02.jpg",
+    "alt": "原演示预览帧：点阵、线框与微型界面构建",
+    "sourceUrl": "https://x.com/Jakubantalik/status/2109671433521815772"
+  },
+  "2026-10-26-04": {
+    "src": "cover-2026-10-26-04.jpg",
+    "alt": "原演示预览帧：手指捏合调整文字回答",
+    "sourceUrl": "https://x.com/Dianadotlu/status/2034321852970262627"
+  },
+  "2026-10-26-06": {
+    "src": "cover-2026-10-26-06.jpg",
+    "alt": "原演示预览帧：粉橙半透明果冻按钮",
+    "sourceUrl": "https://x.com/kaolti/status/2075201702412915116"
+  },
+  "2026-10-27-05": {
+    "src": "cover-2026-10-27-05.jpg",
+    "alt": "OpenUI 1.0 原发布影片的室内场景预览帧",
+    "sourceUrl": "https://x.com/rabi_guha/status/2110737805823672518"
+  },
+  "2026-10-29-03": {
+    "src": "cover-2026-10-29-03.jpg",
+    "alt": "PXDX 原帖视频截图：黑白小组件、时钟与蓝色圆环",
+    "sourceUrl": "https://www.instagram.com/pxdx.baddies/p/DeuWDe9ivjT/"
+  },
+  "2026-10-29-04": {
+    "src": "cover-2026-10-29-04.jpg",
+    "alt": "PXDX 原帖视频截图：Followers/Following 胶囊与头像容器",
+    "sourceUrl": "https://www.instagram.com/p/DWExX3XCnoW/"
   }
 }
