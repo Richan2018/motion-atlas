@@ -703,5 +703,185 @@
     "src": "cover-2026-11-03-ai-timelines.webp",
     "alt": "Timelines官方选帧：男人与复古电脑",
     "sourceUrl": "https://diffuse.runway.com/project/d44031f6-75cc-4a86-af14-04118dd1eccf"
+  },
+  "2026-11-04-ui-heron": {
+    "src": "cover-2026-11-04-ui-heron.jpg",
+    "alt": "Heron AI｜拖着建筑图找问题，把 AI 审查做成能看懂的界面｜原作预览",
+    "sourceUrl": "https://heronaiapp.com/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ui-aevion": {
+    "src": "cover-2026-11-04-ui-aevion.png",
+    "alt": "Aevion / Lidar Drone Scanning｜点云地图上的风险说明，比一张参数表更直观｜原作预览",
+    "sourceUrl": "https://drone.riotters.com/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ui-ai-design-report": {
+    "src": "cover-2026-11-04-ui-ai-design-report.png",
+    "alt": "AI in Design Report 2026｜让长报告读起来像可游览的编辑界面｜原作预览",
+    "sourceUrl": "https://stateofaidesign.com/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ui-glass": {
+    "src": "cover-2026-11-04-ui-glass.webp",
+    "alt": "Glass｜把一枚 Logo 做成可调、可敲响的玻璃 App 图标｜原作预览",
+    "sourceUrl": "https://phileeppov.com/glass/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ui-grids": {
+    "src": "cover-2026-11-04-ui-grids.jpg",
+    "alt": "Grids｜把布局网格本身变成页面的主角｜原作预览",
+    "sourceUrl": "https://grids.obys.agency/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-text-character": {
+    "src": "cover-2026-11-04-motion-text-character.webp",
+    "alt": "Text Character Animations with GSAP｜逐字生成、重排与强调｜原作预览",
+    "sourceUrl": "https://tympanus.net/Demos/TextCharacterAnimations/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-safe-ui": {
+    "src": "cover-2026-11-04-motion-safe-ui.png",
+    "alt": "Safe UI design by Milkinside｜AI 等待态转结构化结果｜原作预览",
+    "sourceUrl": "https://dribbble.com/shots/24569801-Safe-UI-design-by-Milkinside",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-voice-glass": {
+    "src": "cover-2026-11-04-motion-voice-glass.png",
+    "alt": "Voice AI Assistant – Liquid Glass Button｜低干扰语音入口｜原作预览",
+    "sourceUrl": "https://dribbble.com/shots/27070369-Voice-AI-Assistant-Liquid-Glass-Button",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-click-fiesta": {
+    "src": "cover-2026-11-04-motion-click-fiesta.png",
+    "alt": "Click Fiesta – Button Interaction in Rive｜悬停与点击分层反馈｜原作预览",
+    "sourceUrl": "https://dribbble.com/shots/26154044-Click-Fiesta-Button-Interaction-in-Rive",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-fluid-slider": {
+    "src": "cover-2026-11-04-motion-fluid-slider.png",
+    "alt": "UI/UX slider control fluid animation｜数值、轮廓与颜色同步｜原作预览",
+    "sourceUrl": "https://dribbble.com/shots/18436713-UI-UX-slider-control-fluid-animation-interactive-design",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-thumbnail-flow": {
+    "src": "cover-2026-11-04-motion-thumbnail-flow.webp",
+    "alt": "Thumbnail Flow Animation with GSAP MotionPath｜图堆展开为画廊｜原作预览",
+    "sourceUrl": "https://tympanus.net/Tutorials/MotionPathTransition/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-ease-reverse-menu": {
+    "src": "cover-2026-11-04-motion-ease-reverse-menu.webp",
+    "alt": "GSAP EaseReverse Clip Menu｜关闭不等于机械倒放｜原作预览",
+    "sourceUrl": "https://tympanus.net/Development/EaseReverseClipMenu/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-atelier-ui": {
+    "src": "cover-2026-11-04-motion-atelier-ui.webp",
+    "alt": "Atelier UI｜球面图片墙与聚焦转场｜原作预览",
+    "sourceUrl": "https://tympanus.net/Demos/AtelierUI/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-adrift": {
+    "src": "cover-2026-11-04-motion-adrift.jpg",
+    "alt": "A Drift｜滚动驱动的文字幽灵轨迹｜原作预览",
+    "sourceUrl": "https://tympanus.net/Demos/ADrift/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-motion-infinite-gallery": {
+    "src": "cover-2026-11-04-motion-infinite-gallery.png",
+    "alt": "Infinite GSAP Scroll Gallery｜散点浏览转单图详情｜原作预览",
+    "sourceUrl": "https://tympanus.net/Tutorials/InfiniteScrollGSAPGallery/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-interaction-format": {
+    "src": "cover-2026-11-04-interaction-format.png",
+    "alt": "FORMAT｜换一种边界，整张构图就换一种脾气｜原作预览",
+    "sourceUrl": "https://format.obys.agency/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-interaction-random-eyes": {
+    "src": "cover-2026-11-04-interaction-random-eyes.jpg",
+    "alt": "Random-eyes｜每按一次随机，生成一只会眨眼的人眼｜原作预览",
+    "sourceUrl": "https://random-eyes.vercel.app/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-interaction-slop-new-york": {
+    "src": "",
+    "alt": "暂无可核验的作品预览",
+    "sourceUrl": "https://mrdoob.github.io/slop-newyork/",
+    "credit": "原作链接"
+  },
+  "2026-11-04-interaction-ultra-water": {
+    "src": "",
+    "alt": "暂无可核验的作品预览",
+    "sourceUrl": "https://gelatin.games/ultrawater",
+    "credit": "原作链接"
+  },
+  "2026-11-04-interaction-pro-threads": {
+    "src": "cover-2026-11-04-interaction-pro-threads.jpg",
+    "alt": "PRO Threads｜把每个字母编成成千上万条发光细线｜原作预览",
+    "sourceUrl": "https://www.kubai.design/pro-threads/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ai-product-elevenlabs": {
+    "src": "cover-2026-11-04-ai-product-elevenlabs.jpg",
+    "alt": "ElevenLabs Reader × Motiohead｜让朗读光标成为整支影片的节拍｜原作预览",
+    "sourceUrl": "https://www.motiohead.com/cases/elevenlabs/",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ai-product-comet": {
+    "src": "cover-2026-11-04-ai-product-comet.jpg",
+    "alt": "Perplexity Comet × Studio Freight｜让浏览器窗口变成通往宇宙的开口｜原作预览",
+    "sourceUrl": "https://studiofreight.com/work/perplexity-comet",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ai-product-surface": {
+    "src": "cover-2026-11-04-ai-product-surface.png",
+    "alt": "Microsoft Surface Copilot+ PCs｜把 UI、硬件与实景剪进同一个动作｜原作预览",
+    "sourceUrl": "https://www.youtube.com/watch?v=_0u0fQuzikA",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ai-product-ibm": {
+    "src": "cover-2026-11-04-ai-product-ibm.jpg",
+    "alt": "IBM Concert × BUCK｜让一片圆盘从单个输入长成复杂系统｜原作预览",
+    "sourceUrl": "https://heewonk.com/ibm-concert",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ai-product-inner-critic": {
+    "src": "cover-2026-11-04-ai-product-inner-critic.jpg",
+    "alt": "Copilot: Inner Critic × Brut｜用 15 秒手绘角色表达一次心理转变｜原作预览",
+    "sourceUrl": "https://vimeo.com/1049230578",
+    "credit": "原作封面"
+  },
+  "2026-11-04-ai-isa": {
+    "src": "cover-2026-11-04-ai-isa.jpg",
+    "alt": "ISA 作者制作文章中的角色多视角参考图（页面截图）",
+    "sourceUrl": "https://evandro-miguel.com/articles/isa-short-film-production/#3-finding-the-characters-and-their-world",
+    "credit": "作者制作文章截图"
+  },
+  "2026-11-04-ai-star-patrol": {
+    "src": "cover-2026-11-04-ai-star-patrol.webp",
+    "alt": "Star Patrol 作者制作文章封面，非纯影片剧照",
+    "sourceUrl": "https://www.razi.pro/blog/making-an-ai-animated-film-with-veo-and-flow",
+    "credit": "作者制作文章封面"
+  },
+  "2026-11-04-ai-outbreak": {
+    "src": "",
+    "alt": "暂无可核验的作品预览",
+    "sourceUrl": "https://www.youtube.com/watch?v=iWTayOj9noE",
+    "credit": "原作链接"
+  },
+  "2026-11-04-ai-mara-milo": {
+    "src": "cover-2026-11-04-ai-mara-milo.jpg",
+    "alt": "Mara & Milo 工作室官网头图：紫衣女巫站在教室中",
+    "sourceUrl": "https://dimensionstudio.co/work/mara-milo-magic-mayhem/",
+    "credit": "工作室原作头图"
+  },
+  "2026-11-04-ai-outside-window": {
+    "src": "cover-2026-11-04-ai-outside-window.jpg",
+    "alt": "Outside the Window 作者制作回顾头图：短尾猫望向窗户",
+    "sourceUrl": "https://note.com/akajishiya/n/nd8d90fe850d8?hl=en",
+    "credit": "作者制作回顾头图"
   }
 }
