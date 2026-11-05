@@ -883,5 +883,185 @@
     "alt": "Outside the Window 作者制作回顾头图：短尾猫望向窗户",
     "sourceUrl": "https://note.com/akajishiya/n/nd8d90fe850d8?hl=en",
     "credit": "作者制作回顾头图"
+  },
+  "2026-11-05-ui-anatomy": {
+    "src": "cover-2026-11-05-ui-anatomy.jpg",
+    "alt": "Anatomy｜让机械键轴的爆炸图成为可探索界面｜原作画面",
+    "sourceUrl": "https://x.com/wheresryan22/status/2114881666023846116",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ui-diorama": {
+    "src": "cover-2026-11-05-ui-diorama.jpg",
+    "alt": "Diorama To-do｜把任务、日程和 AI 助手摆在同一张桌面上｜原作画面",
+    "sourceUrl": "https://tympanus.net/codrops/2026/11/01/design-systems-agents/",
+    "credit": "作者原作图片"
+  },
+  "2026-11-05-ui-soul-fighter": {
+    "src": "cover-2026-11-05-ui-soul-fighter.jpg",
+    "alt": "Soul Fighter｜把格斗角色、技能选择与战斗 HUD 收进同一套系统｜原作画面",
+    "sourceUrl": "https://www.behance.net/gallery/255177955/Game-UI-League-of-Legends-Soul-Fighter-Riot-Games",
+    "credit": "作者原作图片"
+  },
+  "2026-11-05-ui-glass-audio": {
+    "src": "cover-2026-11-05-ui-glass-audio.jpg",
+    "alt": "Glass Audio Player｜让进度条绕开手指，玻璃质感服务于操作｜原作画面",
+    "sourceUrl": "https://dribbble.com/shots/23528020-Glass-Audio-Player",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ui-isle-thorne": {
+    "src": "cover-2026-11-05-ui-isle-thorne.jpg",
+    "alt": "Isle Thorne Collective｜用编辑式网格把家具目录做得克制而完整｜原作画面",
+    "sourceUrl": "https://isle-thorne-collective.crnacura.workers.dev/",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-play-terrain": {
+    "src": "cover-2026-11-05-play-terrain.jpg",
+    "alt": "Moving Mountains｜把参数控件直接长在山峰上｜原作画面",
+    "sourceUrl": "https://x.com/nicforey/status/2117330727909883967",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-play-sheep": {
+    "src": "cover-2026-11-05-play-sheep.jpg",
+    "alt": "Sheep Grazing｜像选图层一样，给一只羊换个动作｜原作画面",
+    "sourceUrl": "https://x.com/AreadneMaria/status/2114898325451444419",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-play-crumpled-receipt": {
+    "src": "cover-2026-11-05-play-crumpled-receipt.jpg",
+    "alt": "Crumpled Receipt｜把关闭收据变成一次揉纸投篮｜原作画面",
+    "sourceUrl": "https://x.com/cabralorenzo/status/2114427621434081629",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-play-r3f-sketch": {
+    "src": "cover-2026-11-05-play-r3f-sketch.jpg",
+    "alt": "R3F Sketch Material｜把 3D 场景冲淡，再像笔迹一样重新长出来｜原作画面",
+    "sourceUrl": "https://r3f-sketch-material.vercel.app/",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-play-free-for-all": {
+    "src": "cover-2026-11-05-play-free-for-all.jpg",
+    "alt": "Free for All!｜点击重播一颗由字母与纸屑组成的庆祝彩蛋｜原作画面",
+    "sourceUrl": "https://codepen.io/GreenSock/full/OPPjMQV",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-learnr": {
+    "src": "cover-2026-11-05-motion-learnr.jpg",
+    "alt": "Learnr 原片：地图底部的教练匹配成功卡片",
+    "sourceUrl": "https://dribbble.com/shots/27464440-Mobile-App-UI-Animations-for-a-Driving-Lessons-Platform-Learnr",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-panolocal": {
+    "src": "cover-2026-11-05-motion-panolocal.jpg",
+    "alt": "Panolocal 原片：国家筛选和带照片标记的点阵地图",
+    "sourceUrl": "https://dribbble.com/shots/26730762-Panolocal-Map-UI-Animation",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-finly": {
+    "src": "cover-2026-11-05-motion-finly.jpg",
+    "alt": "Finly 原片：手机底部的 Successful 回执与绿色勾",
+    "sourceUrl": "https://dribbble.com/shots/26140256-Finly-Add-Expense-UI-Animation-Potential",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-payment": {
+    "src": "cover-2026-11-05-motion-payment.jpg",
+    "alt": "Payment Card Dashboard 原片：展开的白色账单卡与柱状图",
+    "sourceUrl": "https://dribbble.com/shots/26743232-Payment-Card-Dashboard-UI-Animation-Minimal-Finance-Experience",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-agent": {
+    "src": "cover-2026-11-05-motion-agent.jpg",
+    "alt": "Roobinium 原片：橙黑手机界面的语音球与转写文字",
+    "sourceUrl": "https://dribbble.com/shots/27502216-AI-Agent-Mobile-App-UI-Animation-for-Automation-Platform",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-cypheir": {
+    "src": "cover-2026-11-05-motion-cypheir.jpg",
+    "alt": "Cypheir 原片：Transparency 卡中的青绿色分层玻璃板",
+    "sourceUrl": "https://dribbble.com/shots/27407769-Cypheir-Card-UI-Animation",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-cinema": {
+    "src": "cover-2026-11-05-motion-cinema.jpg",
+    "alt": "Cinema Seat Preview 官方片：影院银幕与受光的观众厅",
+    "sourceUrl": "https://tympanus.net/Demos/CinemaSeatPreview/",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-interlude": {
+    "src": "cover-2026-11-05-motion-interlude.jpg",
+    "alt": "Interlude 官方片：由转场名称组成的黑白索引页",
+    "sourceUrl": "https://interlude.crnacura.workers.dev/",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-wide": {
+    "src": "cover-2026-11-05-motion-wide.jpg",
+    "alt": "WIDE 官方片：奶油色编辑网格、巨大标题与三张人像",
+    "sourceUrl": "https://codepen.io/editor/blacklead-studio/pen/01a0d773-dab5-744d-bc5e-3f11d4f2262e",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-motion-iphone": {
+    "src": "cover-2026-11-05-motion-iphone.jpg",
+    "alt": "iPhone Duo 官方片：展开中的概念折叠屏、连续山景和开发控制项",
+    "sourceUrl": "https://emotion-iphone-duo.vercel.app/",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ai-product-blueprint": {
+    "src": "cover-2026-11-05-ai-product-blueprint.jpg",
+    "alt": "Squarespace Blueprint AI × ManvsMachine｜把手账里的字、色块和布局变成网站｜原影片画面",
+    "sourceUrl": "https://mvsm.com/project/blueprint-ai",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ai-product-kongsberg": {
+    "src": "cover-2026-11-05-ai-product-kongsberg.jpg",
+    "alt": "KDI × Microsoft × Øyedrops｜让数据颗粒、工业部件与操作界面共用一个空间｜原影片画面",
+    "sourceUrl": "https://www.oyedrops.studio/work/kdi-x-microsoft",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ai-product-granola": {
+    "src": "cover-2026-11-05-ai-product-granola.jpg",
+    "alt": "Granola Briefs × Megan Renard｜三张来源卡片汇成一份会前摘要｜原影片画面",
+    "sourceUrl": "https://vimeo.com/1217320430",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ai-product-interfere": {
+    "src": "cover-2026-11-05-ai-product-interfere.jpg",
+    "alt": "Interfere Launch｜从弯曲的报错屏幕，转入清晰的 AI 排查时间线｜原影片画面",
+    "sourceUrl": "https://x.com/interfere_/status/2072003433926676508",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ai-product-cheats": {
+    "src": "cover-2026-11-05-ai-product-cheats.jpg",
+    "alt": "Spielwerk Cheats｜把提示词里的数字、颜色和风格变成可操作小控件｜原影片画面",
+    "sourceUrl": "https://x.com/eikedrescher/status/2033566191961137591",
+    "credit": "原作影片画面"
+  },
+  "2026-11-05-ai-dear-upstairs": {
+    "src": "cover-2026-11-05-ai-dear-upstairs.jpg",
+    "alt": "Dear Upstairs Neighbors｜先用手工动画锁表演，再让模型把笔触画出来｜Google 制作文章的官方海报，非重绘",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+    "credit": "Google 制作文章的官方海报，非重绘"
+  },
+  "2026-11-05-ai-beta-earth": {
+    "src": "cover-2026-11-05-ai-beta-earth.jpg",
+    "alt": "Beta Earth｜手绘角色先进入 animatic，再扩成复古科幻世界｜Adobe 官方成片播放器海报，与抽帧角色一致",
+    "sourceUrl": "https://video.tv.adobe.com/v/3481799",
+    "credit": "Adobe 官方成片播放器海报，与抽帧角色一致"
+  },
+  "2026-11-05-ai-nagori": {
+    "src": "cover-2026-11-05-ai-nagori.jpg",
+    "alt": "NAGORI — Shadows Linger｜用黑墨留白统一世界，把运动测试排在分镜旁｜Adobe 官方成片播放器海报，渔村剪影真实画面",
+    "sourceUrl": "https://video.tv.adobe.com/v/3481797",
+    "credit": "Adobe 官方成片播放器海报，渔村剪影真实画面"
+  },
+  "2026-11-05-ai-skillet": {
+    "src": "cover-2026-11-05-ai-skillet.jpg",
+    "alt": "Skillet & The Jetport Diner｜先合成环境再替换演员，减少机器人身上的绿幕反光｜制作方 BTS 缩略图，明确不是单帧成片截图",
+    "sourceUrl": "https://www.vp-land.com/stories/skillet-and-the-jetport-diner-bts-ai-animated-short",
+    "credit": "制作方 BTS 缩略图，明确不是单帧成片截图"
+  },
+  "2026-11-05-ai-family-no6": {
+    "src": "cover-2026-11-05-ai-family-no6.jpg",
+    "alt": "Family Member No. 6／家人六号｜身体不变，只用三种灯色区分人格｜制作方案例页真实关键帧，已与成片风格和角色核对",
+    "sourceUrl": "https://liandankeji.com/work/projects/p013/index.en.html",
+    "credit": "制作方案例页真实关键帧，已与成片风格和角色核对"
   }
 }

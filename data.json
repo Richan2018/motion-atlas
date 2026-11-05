@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,679 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-05",
+      "title": "2026-11-05 UI 与动效设计精选",
+      "fullText": "## 2026-11-05 UI 与动效设计精选\n\n今天收录 30 个不重复案例：UI设计 5 个、UI动效 10 个、趣味交互 5 个、AI产品宣传 5 个、AI制作动画 5 个。\n\n先看 Anatomy 的可探索键轴、Panolocal 的地图聚焦、Moving Mountains 的贴身参数控件、Blueprint AI 的纸张到网站转场，以及 Dear Upstairs Neighbors 的“先锁表演、再生成笔触”。\n\n这是本日归档的精选，不是“今天发布”或“热门排行”。每条区分作品日期、2026-11-05 的热度观察、可借鉴之处与观看边界。原作试玩、时序抽帧、作者制作说明和静态封面核验分别标注；旧作与概念作品不当作新发布或真实上线能力。\n\n### UI设计 · 5 个\n\n### 1. Anatomy｜让机械键轴的爆炸图成为可探索界面\n\n作者：R / @wheresryan22。\n\n平台／日期：X；2026-10-27 原帖发布。\n\n查看原作：[查看来源](https://x.com/wheresryan22/status/2114881666023846116)\n\n演示备份页：[查看来源](https://recent.design/i/2ta73xt-mechanical-key-switch-anatomy)\n\n界面与交互：白色点阵纸面上，键帽、外壳、弹簧、触点和 PCB 沿同一中轴拆开；细引线把名称拉到两侧。演示从总览进入单个零件，零件放大，旁边补上技术说明，再回到完整结构。灰度材质、等宽小字和居中的剖解对象共同构成“可阅读的工程图”，没有把信息切成满屏卡片。\n\n可借鉴：让可点击的对象承担导航：先理解整体，再看局部，返回时仍能找到它在整体里的位置。适合硬件产品页、科普与装配说明；细标线和层级比增加装饰更有用。\n\n热度（2026-11-05 观察）：原帖显示 748 点赞、562 书签、19 转帖、22,304 次帖子浏览。浏览量不是视频播放量。\n\n核验范围与限制：核验了作者原帖，并对约 23.8 秒演示按时序抽帧、查看总览与局部状态；未取得可操作原型，不称亲手试玩。零件参数未作工程准确性验证。\n\n### 2. Diorama To-do｜把任务、日程和 AI 助手摆在同一张桌面上\n\n作者：Jakub Otcenas / Diorama。\n\n平台／日期：Codrops 作者文章；2026-11-01 文章发布。\n\n查看原作与制作过程：[查看来源](https://tympanus.net/codrops/2026/11/01/design-systems-agents/)\n\n界面与交互：作者公开的浅色稿把任务列表、当天时间轴、助手对话做成三栏：左侧突出剩余自由时间与待办，中间用低饱和色块标日程，右侧解释哪些会议被移动或缩短。AI 提议的时间块仍留在日历里，以描边卡片和“Block it / Not today”呈现，不只在聊天窗里口头回答。浅阴影、窄导航和大留白把高密度工作信息压得很安静。\n\n可借鉴：把 AI 建议直接落到用户正在操作的对象旁边，并让建议与已确认状态明显不同。三栏共享任务上下文，比来回切换聊天与日历更容易核对。\n\n热度（2026-11-05 观察）：作者公开了完整设计系统与工作流文章；本轮没有读到可核实的点赞、浏览数字，不称爆款。\n\n核验范围与限制：已查看作者发布的完整浅色与深色界面截图，并读制作说明。属于设计系统与 AI 协作示例，不将截图内日程操作当作已上线产品功能；未测试真实日历连接或助手执行。\n\n### 3. Soul Fighter｜把格斗角色、技能选择与战斗 HUD 收进同一套系统\n\n作者：Alena Eresko；Riot Games 团队项目。\n\n平台／日期：Behance；作者案例页显示 2026-09-03；这是复盘发布日，不是游戏首发日。\n\n查看完整作者案例：[查看来源](https://www.behance.net/gallery/255177955/Game-UI-League-of-Legends-Soul-Fighter-Riot-Games)\n\n界面与交互：案例展示 Tournament of Souls 从早期探索到 Unity 落地的视觉开发。黑白底色上用亮橙强调主动作；技能配置页以角色大图、Q/W/E/R 快捷键、伤害和冷却数值分区，战斗页把生命、倒计时和技能放到固定边缘，胜利页再用大标题和奖励图标收束。作者同时给出字体、角色配色、系统/技能/状态图标，能看到系统如何跨屏复用。\n\n可借鉴：先为战斗中的高频阅读建立固定位置，再用角色插画和品牌色制造情绪。复盘材料比单张漂亮概念图更适合学习组件如何从设置、实战延伸到结果反馈。\n\n热度（2026-11-05 观察）：作者页显示 233 赞、4,020 浏览、34 评论，并带 Game Design 精选标识；是平台案例数据，不是游戏玩家数。\n\n核验范围与限制：已查看作者长图中的视觉规范、技能配置、战斗、对话与结果页，并核对团队署名。未玩游戏、不评价实战可用性；这是 Alena 的贡献复盘，不把整个游戏归为一人独立制作。\n\n### 4. Glass Audio Player｜让进度条绕开手指，玻璃质感服务于操作\n\n作者：Voicu Apostol / Cerpow。\n\n平台／日期：Dribbble；方法型补充；本轮未核实原始发布日期，不写成近期新作。\n\n查看原作：[查看来源](https://dribbble.com/shots/23528020-Glass-Audio-Player)\n\n界面与交互：半透明音乐卡片悬在暖色室内背景前，专辑、标题与播放按钮保持熟悉的排列。拖动进度时，细线在指尖附近隆起、绕开手指，时间数字留在可见位置；放手后回到平直状态。重点不是玻璃本身，而是作者针对“触点太小、指尖挡住反馈”提出的更大触控范围与弹性轨道。\n\n可借鉴：保留小控件的视觉精度，扩大真实交互区域，并让反馈避开遮挡。可用于音视频拖动、时间轴、音量和精调滑杆；应另行验证触控容错、可访问性与减少动态效果。\n\n热度（2026-11-05 观察）：原作页面与作者制作说明可访问；本轮未核实实时互动计数，不用搜索摘要里的数字冒充当前热度。\n\n核验范围与限制：已查看约 5.6 秒原演示的时序帧，核对作者说明。作者明确为 Figma 设计、After Effects 动画，是概念演示，不是可下载的播放器或经测试的真实触控实现。\n\n### 5. Isle Thorne Collective｜用编辑式网格把家具目录做得克制而完整\n\n作者：设计 Elena Smirnova；实现 Manoela Ilic / Codrops。\n\n平台／日期：独立演示站＋Codrops；2026-10-07 模板文章发布。\n\n查看原作：[查看来源](https://isle-thorne-collective.crnacura.workers.dev/)\n\n作者文章：[查看来源](https://tympanus.net/codrops/2026/10/07/isle-thorne-collective-astro-template/)\n\n公开代码：[查看来源](https://github.com/codrops/isle-thorne-collective)\n\n界面与交互：首页以大幅家具摄影开场，导航只保留 Shop、About、Journal 等少量入口。进入目录后切换到白底，系列名称、件数、材料与四列产品图片严格对齐；简介和杂志页转为深红底，字体和横向基线仍一致。作者把首页、目录、产品详情、购物袋和文章都装进同一套 Astro 模板，让品牌表达与商品信息有清楚的层次。\n\n可借鉴：把“材质、数量、系列”变成固定的信息行，让商品照片成为主角；跨页面保持同一列起点，少量整页色彩变化就能区分内容角色。适合小规模、重编辑感的商品目录。\n\n热度（2026-11-05 观察）：Codrops 公开提供文章、演示与代码；未核实独立访问量或点赞，不把官方发布当作高热度证明。\n\n核验范围与限制：已在原站打开首页并点击 Shop，确认目录成功显示；另查看约 8.5 秒作者演示的页面切换。没有下单。作者明确是静态模板：购物袋在本地，结账和订阅只是演示，无真实支付、账户或库存。\n\n### UI动效 · 10 个\n\n### 1. Learnr｜转动同一辆车，把引导与预约串成连续动作\n\n作者：Lynksen。Dribbble 发布于 2026-06-12，本期新收录的已有作品。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/27464440-Mobile-App-UI-Animations-for-a-Driving-Lessons-Platform-Learnr)\n\n画面亮点：引导页中，同一辆灰色汽车从侧面转到正面、再到俯视，对应选教练、预约、驾驶三步。地图上的寻找状态接成底部白色“Driver successfully found”卡片，头像、汽车和绿色勾进入原来的等待区域。另一段排期演示则用白色圆角日期块明确选择结果。\n\n可借鉴：用同一个物体维持多步引导的连续性；等待与结果保持在相同区域，避免成功后让用户重新寻找下一步。手机模型的转动是展示镜头，不必照搬成 App 内交互。\n\n状态：作者的移动应用设计与动效展示；真实上线和预约服务未核实。\n\n热度（2026-11-05 观察）：12,045 次观看、216 赞、12 收藏、25 评论，均为此 Dribbble 帖子的公开计数。\n\n核验范围：浏览器读取作者、发布日期及 Detail actions 计数；取得主片 13.72 秒及排期补充片 9.09 秒，多时点抽帧检查。封面取自主片 11.5 秒。\n\n### 2. Panolocal｜文字筛选与点阵地图一起收拢到同一座城\n\n作者：Abron Studio。Dribbble 发布于 2025-11-04，明确作为旧作补遗。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/26730762-Panolocal-Map-UI-Animation)\n\n画面亮点：浅黄色地图模块把 Germany、Switzerland、Austria 筛选和照片标记放在同一张点阵地图旁。展开城市、选中 Berlin 后，其他点退后，柏林的圆形地标照片与蓝色标签成为焦点；文字选择和地图结果没有断开。\n\n可借鉴：给筛选结果一个明确的空间落点，让列表与地图互相解释。局部弱化比整张地图重新刷新更容易维持方位感。\n\n状态：网站地图 UI 动效展示；生产环境是否采用该交互未核实。\n\n热度（2026-11-05 观察）：18,702 次观看、65 赞、17 收藏、11 评论；不是当天新发作品。\n\n核验范围：读取原帖作者、日期和公开计数，取得正确的 6.02 秒地图主片并抽帧检查。封面取主片 1.5 秒，不使用页面下方无关的工作室合作宣传片。\n\n### 3. Finly｜柱状图长起，表单与成功回执从底部承接\n\n作者：Potential（포텐셜）。Dribbble 发布于 2025-06-12，旧作，本期新收录。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/26140256-Finly-Add-Expense-UI-Animation-Potential)\n\n画面亮点：薄荷色场景里的手机先展示逐根长起的收支柱状图，再进入 Add New Expense 表单。提交按钮出现圆形进度，随后带荧光绿勾的 Successful 白色回执从底部进入，形成“填写—提交—确认”的接力。\n\n可借鉴：把提交、等待和完成放在接近的操作区域，回执就像表单的下一状态。图表依次出现能交代阅读顺序，但毛绒底座和倾斜手机属于展示包装，不是功能所必需。\n\n状态：财务 App UI 概念/设计展示，未验证实际产品。\n\n热度（2026-11-05 观察）：39,158 次观看、191 赞、37 收藏、46 评论。\n\n核验范围：读取作者、日期、计数；取得 20.565 秒原片，分别检查前段和后段的多时点画面，确认提交与成功回执。封面取 14.3 秒。\n\n### 4. Payment Card Dashboard｜支付胶囊展开成账单，再收成状态回执\n\n作者：Ankit Baghel。Dribbble 发布于 2025-11-07，作为旧作补遗。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/26743232-Payment-Card-Dashboard-UI-Animation-Minimal-Finance-Experience)\n\n画面亮点：一条横向 Card Payment 白色胶囊向下展开，原有标题留在顶部，日期、黑色图表和逐渐长起的白色柱条进入。底部出现 Details 按钮后，整个面板再缩回紧凑状态，显示 Accepted 等信息。\n\n可借鉴：让标题成为展开与收起的锚点，内容分批进入；完成后保留简洁的状态回执，比让整张卡瞬间消失更容易理解。\n\n状态：支付面板设计动效，非实测支付流程。\n\n热度（2026-11-05 观察）：13,234 次观看、18 赞、20 收藏、0 评论。属于低互动量的方法参考，不称爆款。\n\n核验范围：浏览器核验原帖作者、日期及计数；下载 9.10 秒原片，检查展开、图表和收起阶段。封面取 3 秒。\n\n### 5. Roobinium AI Agent｜建议卡、语音球和聊天气泡清楚交接\n\n作者：vino_costa，为 Roobinium 发布。Dribbble 发布于 2026-06-25，本期新收录。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/27502216-AI-Agent-Mobile-App-UI-Animation-for-Automation-Platform)\n\n画面亮点：橙黑渐变的移动界面从“What are we building today?”及建议卡进入语音状态：上方出现发光橙色球体，用户句子在中间分行呈现，麦克风控件留在底部；随后转成聊天气泡与 Agent 状态。\n\n可借鉴：建议、倾听、对话三种状态各有明确主角，底部操作区维持方位。大范围模糊和较暗文字值得谨慎使用，不能只追求氛围而牺牲阅读。\n\n状态：AI 自动化平台的移动 UI 动效展示，真实功能未测试。\n\n热度（2026-11-05 观察）：191,845 次观看、601 赞、324 收藏、108 评论，是本组 Dribbble 案例中公开观看量较高的一条；计数不代表产品用户数。\n\n核验范围：核验署名为 vino_costa / Roobinium、日期和帖子计数；取得 10.28 秒原片并多时点检查，封面取 5 秒。\n\n### 6. Cypheir｜卡片展开时，内部玻璃层与凭证也被拆开\n\n作者：Abron Studio。Dribbble 发布于 2026-05-25，本期新收录。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/27407769-Cypheir-Card-UI-Animation)\n\n画面亮点：深色 Core Values 页面里的彩色卡片向前放大，背景仍保留原来的位置。Security 卡内部的凭证层展开；卡片回到原槽位后，轮播切换到 Transparency，半透明玻璃板沿纵深分离，让“透明”不只是一行标题。\n\n可借鉴：把外部容器变化与内部内容变化配对：大卡说明当前焦点，层片运动解释概念。收回原位置能让浏览者继续扫读，而不是迷失在弹层中。\n\n状态：品牌网站卡片动效展示；生产页面及安全服务未实测。\n\n热度（2026-11-05 观察）：22,325 次观看、66 赞、21 收藏、4 评论。\n\n核验范围：读取原帖日期、作者、计数；取得 16.02 秒原片，重点检查前 12 秒的 Security 与 Transparency 展开。封面取 9.5 秒，保留原作背景。\n\n### 7. Cinema Seat Preview｜选座不只换编号，而是把视角飞到椅子上\n\n作者：Manoela Ilic / Codrops。Codrops Hub 索引日期为 2026-10-15；这是对 2016 年实验的新版本，精确首发日未独立核实。\n\n查看原作与动效：[查看来源](https://tympanus.net/Demos/CinemaSeatPreview/)\n\n作者代码与功能说明：[查看来源](https://github.com/codrops/CinemaSeatPreview)\n\n收录日期与官方预览：[查看来源](https://tympanus.net/codrops/hub/all/)\n\n画面亮点：官方短片呈现不同座位方向的影院视角，银幕色彩照亮厅内，火花与雾效进入空间。作者说明支持点选影厅/座位图并飞到对应座位，也可用座位图悬停预览视线；这一选座动作本轮未在现场成功渲染。\n\n可借鉴：把抽象的排号转成能感受的视野，是比单纯高亮座位更直接的信息反馈。影院环境光也能把“屏幕内容”延伸为周围空间的状态。\n\n状态：可公开访问的交互实验，不是真实电影院售票服务。\n\n热度（2026-11-05 观察）：作者 GitHub 13 stars、2 forks。仓库关注数不是预订量或演示访问量。\n\n核验范围：打开作者 demo 与代码说明；当前浏览器提示需要 WebGPU 或 WebGL 2，无法渲染。改为取得官方 5.9 秒预览并抽帧核验视角、光照与特效；封面取 2.6 秒。\n\n### 8. Interlude｜把页面等待与翻页连成完整转场\n\n作者：Manoela Ilic / Codrops。Codrops 作者文章发布于 2026-10-07，近期方法案例。\n\n查看原作与动效：[查看来源](https://interlude.crnacura.workers.dev/)\n\n作者文章与实现说明：[查看来源](https://tympanus.net/codrops/2026/10/07/interlude-astro-page-transitions/)\n\n作者开源代码：[查看来源](https://github.com/codrops/interlude)\n\n画面亮点：索引把 curtain、peel 等转场名称直接当入口。官方预览里有红色剧院帘幕与斜向纸张翻起；peel 页面说明从右下向左上折起，深色背面与投影覆盖下一页，返回时反向翻回。\n\n可借鉴：关键不仅是动画形状，而是等下一页准备好再交换和揭示。前进与返回有方向关系，页面等待、视觉遮挡和内容出现因此属于同一个流程。\n\n状态：MIT 开源 Astro 转场 starter，供复制与改造，不是承诺持续维护的安装型库。\n\n热度（2026-11-05 观察）：GitHub 46 stars、9 forks；这是开发者关注信号，不是各转场的使用量。\n\n核验范围：浏览器进入索引并点击 peel，读取作者文章与代码；取得官方 6.03 秒预览，多时点核对幕布和斜向翻页。封面取 2.25 秒的真实转场索引。\n\n### 9. WIDE｜十张图不重建，只换位置组成五种版式\n\n作者：BL/S® Studio / Blacklead Studio。Codrops 作者文章发布于 2026-09-28，近期案例。\n\n查看原作与动效：[查看来源](https://codepen.io/editor/blacklead-studio/pen/01a0d773-dab5-744d-bc5e-3f11d4f2262e)\n\n作者文章与结构说明：[查看来源](https://tympanus.net/codrops/2026/09/28/wide-template/)\n\n官方短片与收录：[查看来源](https://tympanus.net/codrops/hub/all/)\n\n画面亮点：奶油色编辑版式中，巨大的 WIDE 字样与人像卡片组成不对称网格。切换 composition 后，图像先退出、再在新位置进入；同一组素材被重新组织，而不是整页换成陌生内容。现场点击 Composition 03，确认布局确实变化。\n\n可借鉴：作者保留十张卡片的 DOM 身份，用五种布局切换维持内容连续性。先让离场内容腾空间，再让入场内容接上，可避免网格重排时拥挤；转场锁也能减少连点冲突。\n\n状态：公开 CodePen 实验/模板，不是已验证的客户生产网站。\n\n热度（2026-11-05 观察）：CodePen Details & Comments 显示 0 hearts；公开观看量未核实，按设计方法收录，不称热门。\n\n核验范围：取得官方 6 秒短片并检查多个版式；浏览器在 CodePen 编辑器预览中点击 Composition 03，并对比前后画面。封面取官方片 2.7 秒。\n\n### 10. iPhone Duo Unfold｜屏幕沿铰链展开，山景仍是同一张界面\n\n作者：Leonid Kostetskiy / Emotion Agency。Codrops Hub 索引日期为 2026-09-11，精确首次上线日未独立确认。\n\n查看原作与动效：[查看来源](https://emotion-iphone-duo.vercel.app/)\n\n作者代码与说明：[查看来源](https://github.com/Emotion-Agency/iphone-duo-sim)\n\n收录日期与官方预览：[查看来源](https://tympanus.net/codrops/hub/all/)\n\n画面亮点：官方短片里的概念折叠手机从竖向合拢状态展开成宽屏。山景壁纸和 9:41 时钟保持连贯，中间的暗色折痕随着展开减弱；右侧开发控制项及底部进度条明确这是可调动画实验。\n\n可借鉴：容器大幅变形时，内容不必跟着切断。连续纹理、铰链阴影与硬件朝向一起说明空间关系，比只对两个静态尺寸做缩放更有说服力。\n\n状态：独立 Three.js 概念动画实验，不是 Apple 官方案例。\n\n热度（2026-11-05 观察）：作者 GitHub 0 stars、0 forks。是低关注度的技术方法补充，不据此宣称流行趋势。\n\n核验范围：打开 demo，界面报“WebGL could not start / Error creating WebGL context”。读取作者 Three.js / WebGL2 代码说明，取得官方 6 秒短片，以约 0.5 秒间隔抽帧检查展开过程；封面取 2 秒。\n\n### 趣味交互 · 5 个\n\n### 1. Moving Mountains｜把参数控件直接长在山峰上\n\n作者：nico / @nicforey。\n\n平台／日期：X；2026-11-03 原帖发布。\n\n查看原作：[查看来源](https://x.com/nicforey/status/2117330727909883967)\n\n演示备份页：[查看来源](https://recent.design/i/0b15gj9-interactive-terrain-sculpting)\n\n界面与交互：黑色地面上只有一组等高线。选中山峰时，区域变成亮黄，一根竖杆从山顶长出：上下拖动改变高度，底部横向数值控制山体半径。演示再加入第二座山，切换选区时其余地形降为灰色，两个峰的线条相接、变形。参数不是停在远处侧栏，而是以高度和宽度对应的方向贴着对象出现。\n\n可借鉴：把调节轴与结果的空间方向一致，减少“这个数值控制什么”的猜测。可借鉴到音量包络、地形工具、曲线编辑器和 3D 缩放，但非空间任务不必强行立体化。\n\n热度（2026-11-05 观察）：原帖显示 2,413 点赞、1,480 书签、134 转帖、115,786 次帖子浏览。浏览不等于试玩人数。\n\n核验范围与限制：已核验原帖；对约 23.9 秒演示按时间顺序抽帧，确认双山峰、选区、高度与半径变化。未找到可操作版本，不能称亲手拉动，也不推断底层算法或真实地理精度。\n\n### 2. Sheep Grazing｜像选图层一样，给一只羊换个动作\n\n作者：areadne / @AreadneMaria。\n\n平台／日期：X；2026-10-27 原帖发布。\n\n查看原作：[查看来源](https://x.com/AreadneMaria/status/2114898325451444419)\n\n演示备份页：[查看来源](https://recent.design/i/w2vz8gw-sheep-grazing-scene-editor)\n\n界面与交互：草地、溪流、小路和绵羊组成俯视微缩场景。选中一只羊后，蓝色选框和尺寸/距离标签出现，旁边弹出 Idle、Graze、Walk、Jump 四种行为及撤销、复制等图标；切换动作后，选中的羊开始行走或跳跃，其余羊继续在草地上活动。熟悉的设计工具选区语言，突然被用来操控一个有生命感的小世界。\n\n可借鉴：把复杂行为压成贴着对象的少量动词，用户不必离开场景去找设置面板。适合轻量动画编辑、角色状态预览、儿童创作工具，也提醒编辑器可以兼顾精确与亲切。\n\n热度（2026-11-05 观察）：原帖显示 3,851 点赞、1,808 书签、196 转帖、228,090 次帖子浏览。本组中有较强公开传播信号，但不是产品使用数据。\n\n核验范围与限制：已核验作者原帖，按时序查看约 21.3 秒演示和局部菜单；未获得可操作编辑器。只能确认视频展示的选择和状态变化，不确认复制、撤销等每个按钮都已实现。\n\n### 3. Crumpled Receipt｜把关闭收据变成一次揉纸投篮\n\n作者：Lorenzo Cabra / Bencho。\n\n平台／日期：X＋作者组件站；2026-10-26 原帖发布。\n\n查看作者原帖：[查看来源](https://x.com/cabralorenzo/status/2114427621434081629)\n\n作者组件站：[查看来源](https://bencho.dev/)\n\n演示备份页：[查看来源](https://recent.design/i/7h73fxn-crumpled-receipt-component)\n\n界面与交互：黑底卡片里，一张写着 BENCHO 的白色小票先完整展开，再沿褶皱收成纸团；纸团被甩向底部的半透明纸篓，也可以重新展开。齿形边缘、密集小字和纸张阴影建立真实物感，收拢与抛掷把“处理完”变成一个有明确终点的动作。\n\n可借鉴：为已经完成的轻量流程增加一点仪式感：读完、收起、投走。适合可恢复的便签、示例卡片、奖励领取；若对应真实删除，必须保留撤销和清楚的结果，不能让投篮趣味掩盖数据后果。\n\n热度（2026-11-05 观察）：原帖显示 221 点赞、115 书签、6 转帖、8,481 次帖子浏览；是小众组件演示，不称全民爆款。\n\n核验范围与限制：已核验原帖与作者组件站链接，并查看约 17 秒原演示的时序帧。未亲自操作组件，未验证声音与物理实现。视频中的订单与金额属于演示画面，不代表发生真实交易或真实收据删除。\n\n### 4. R3F Sketch Material｜把 3D 场景冲淡，再像笔迹一样重新长出来\n\n作者：Abhishek Verma。\n\n平台／日期：独立实验站＋GitHub；Codrops 收录；Codrops 列示 2026-10-11，未独立确认首发日。\n\n查看原作：[查看来源](https://r3f-sketch-material.vercel.app/)\n\n公开代码：[查看来源](https://github.com/abhishekmill/R3FSketchMaterial)\n\n收录来源：[查看来源](https://tympanus.net/codrops/hub/)\n\n界面与交互：汽车、墓碑与立体 THREE JS 字样被蓝色排线画在有纸纹的浅底上。演示中画面被“洗掉”，短暂留白后线稿和阴影重新显现；底部可见 Ballpoint、Marker、Pencil、Thin Pen 与 Wash Out 控件。原页同时提供笔压、排线密度、轮廓抖动、纸张与灯光参数，把 3D 材质变成一套能理解的绘画语言。\n\n可借鉴：用“画笔种类”先给出感性的选择，再暴露密度、线宽等技术参数。擦除和重新显现可以作为材质切换的过渡，让用户看清变化来源，而不是瞬间替换。\n\n热度（2026-11-05 观察）：已确认 Codrops 收录与作者独立演示；本轮未核实星标或访问数，不用技术复杂度代替热度。\n\n核验范围与限制：已读取原站控件，并查看约 5.6 秒公开演示的时序帧；原站在本轮浏览器中最终停在白屏，未成功亲手测试材质切换。描述的洗去/显现来自演示视频，其他参数来自页面。\n\n### 5. Free for All!｜点击重播一颗由字母与纸屑组成的庆祝彩蛋\n\n作者：GSAP。\n\n平台／日期：CodePen；Codrops 列示 2025-04-26；老作方法补充，不是今天新发布。\n\n查看可运行原作：[查看来源](https://codepen.io/GreenSock/full/OPPjMQV)\n\n查看公开代码：[查看来源](https://codepen.io/GreenSock/pen/OPPjMQV)\n\n收录来源：[查看来源](https://tympanus.net/codrops/hub/)\n\n界面与交互：深色背景上的“free for all”逐字跳入，中央挤出彩色星形、几何体、卷曲线条和手势图案，纸屑随后向外散开。字母、中心爆发和周围碎屑不是同时运动：先读到句子，再出现视觉高潮，最后收住；点击页面可以从头重播这段小表演。\n\n可借鉴：成功反馈不必只撒一层通用纸屑。让庆祝图案与品牌语言、文案排版共享中心锚点，控制爆发前后节奏，能让一次性完成状态更有记忆点；应避免高频重复或挡住下一步操作。\n\n热度（2026-11-05 观察）：GSAP 官方账号公开发布，Codrops 收录；未核实 CodePen 实时点赞和浏览，不能写成热门排名。\n\n核验范围与限制：原 CodePen 成功运行并进行了画布点击，公开 JS 末尾明确注册 click 后从 0 播放时间线；另查看约 2.8 秒公开演示的时序帧。它是点击重播的庆祝反馈，不是可自由拖拽的物理沙盒。\n\n### AI产品宣传 · 5 个\n\n### 1. Squarespace Blueprint AI × ManvsMachine｜把手账里的字、色块和布局变成网站\n\n作者/制作方：ManvsMachine，为 Squarespace 制作；设计、导演及动画均由工作室署名。30 秒正式商业广告。作者 Vimeo 上传日为 2025-03-24，但品牌采访在 2025-03-12 已报道此片，因此 3/24 不是广告首发日；旧作，本期新收录。\n\n工作室原作与完整影片：[查看来源](https://mvsm.com/project/blueprint-ai)\n\n作者 Vimeo 原片：[查看来源](https://vimeo.com/1068776467)\n\n同期发布报道：[查看来源](https://lbbonline.com/news/squarespace-introduces-its-ai-website-builder-with-a-human-touch)\n\n画面亮点：设计师在本子里画框、排字、涂色。线描字形立起来，纸上配色变成空中的分层色块，墙上的便签与版式组成网站语言；结尾合拢的手账接成笔记本电脑，落到真实网站画面。原片的暖光、纸张和马克笔纹理，使 AI 建站不必从黑底输入框开始。\n\n可借鉴：用同一套形状与颜色，在手工材料、空间动画和屏幕 UI 三种表现间接力。先让人看见“我做了哪些设计选择”，再让 AI 承担整理和实现的角色。适合品牌宣传与发布片，不适合拿来当即时生成速度的证明。\n\n热度（2026-11-05 观察）：作者 Vimeo 6,608 次观看、224 赞、0 评论。是此 Vimeo 版本的计数，不是整个广告投放曝光。\n\n核验范围：读取工作室原作、作者影片元数据，取得 30 秒原片并每 2 秒抽帧检查。未听音核验完整节奏，未试玩 Blueprint AI。工作室说明为实拍特效、设计与动画混合；这条归为“AI 产品宣传”，不据题材把它标为 AI 生成动画。\n\n### 2. KDI × Microsoft × Øyedrops｜让数据颗粒、工业部件与操作界面共用一个空间\n\n作者/制作方：Øyedrops，为 Kongsberg Digital 的 AI powered Industrial Work Surface 制作视觉、动效与设计语言，项目涉及 Microsoft AI Copilot。官网可播放主片约 65.7 秒，并附多段功能演示。Stash 在 2024-11-26 介绍该项目；精确首发日未公开确认，明确作为旧作收录。\n\n制作方原作与完整影片：[查看来源](https://www.oyedrops.studio/work/kdi-x-microsoft)\n\n同期介绍与日期：[查看来源](https://www.stashmedia.tv/oyedrops-illuminates-the-future-of-industrial-work/)\n\n画面亮点：开头的请求条接到蓝绿数据颗粒构成的工业场景，视角进入浅色办公桌和产品界面；透明晶体、浮动查询卡、表格与辅助面板交替出现，再切入机械零件、管线和立体模块。浅蓝、青绿、磨砂白贯穿实体与屏幕，复杂 B2B 系统也有清晰的空间层次。\n\n可借鉴：抽象数据不是独立“炫技镜头”，而是与查询条、列表、工业对象互相接续。用大面积留白让细密信息有呼吸感，再用颜色把被分析的对象和界面结果关联起来。\n\n热度（2026-11-05 观察）：可核实 Stash 专题收录，原制作方页面未提供公开观看/点赞计数。媒体收录不是用户人气，不称爆款。\n\n核验范围：取得制作方页面嵌入的 65.685 秒 MP4，按每 5 秒抽帧检查开头至片尾。制作方说明 UI/UX 为细致控制而采用 2D 动画；未实测工业产品或判断 AI 效果。未将媒体页另一个不可直达的 Vimeo 地址当作唯一原片入口。\n\n### 3. Granola Briefs × Megan Renard｜三张来源卡片汇成一份会前摘要\n\n作者：Megan Renard。Vimeo 上传于 2026-08-11，播放器时长 22 秒；作者称“20-second film”，两者为近似文案与实际文件长度差异。明确是作者主动制作的非委托概念项目，不是 Granola 官方广告，也不代表真实产品现有界面。\n\n作者原片与详细创作说明：[查看来源](https://vimeo.com/1217320430)\n\n画面亮点：木色办公室中，人物在开会前显得犹疑，几张半透明的转录、聊天和邮件来源卡悬在画面上方，随后合成一张较大的 Northwind Onboarding 窗口；内容从空白/虚化区变成 Decisions、Open questions、Next Steps 三层摘要，最后落回电脑桌面。\n\n可借鉴：不要让“AI 帮你准备好了”只是一句旁白。先摆出来源，再收束为有结构的结果，把内容来源和摘要组织做成可见变化；同一张大卡逐段填充，也比反复切换整屏更连续。\n\n制作说明：作者披露人物、房间与照明用 AI 生成，以一张 Higgsfield 核准参考维持一致性；界面、来源卡、扫描、摘要逐行出现和合成由 After Effects 手工制作。工具还列有 Photoshop、Premiere Pro、ElevenLabs，未披露具体模型版本。因本条主要研究 AI 产品叙事，不在“AI制作动画”栏重复计数。\n\n热度（2026-11-05 观察）：Vimeo 82 次观看、0 赞、0 评论，是冷门方法补充。\n\n核验范围：读取作者说明与元数据，取得 22 秒作者原片，每 2 秒抽帧检查全片。前 8 秒无音乐、合拢时入乐属于作者的声音设计说明，本轮未听音独立核验。未实测 Granola。\n\n### 4. Interfere Launch｜从弯曲的报错屏幕，转入清晰的 AI 排查时间线\n\n发布方：Interfere 官方账号；具体动画制作人员未查明。发布记录为 2026-06-30，约 38 秒正式产品发布片，结尾招募 early access；这说明影片发布时的状态，不代表现在仍只开放候补。当前官网可访问并提供 Get started，本轮未注册或实测。\n\n品牌原发布帖：[查看来源](https://x.com/interfere_/status/2072003433926676508)\n\n可播放影片收录：[查看来源](https://lowkey.so/interfere/launch)\n\n产品官网：[查看来源](https://interfere.com/)\n\n画面亮点：前段把代码改动、网站宕机消息、回滚及构建失败放进弯曲透视的深色画面；随后切入柔和蓝紫背景上的白色界面，沿收件箱、问题详情、根因文字、具体代码行、建议修复到 Resolved 状态逐步推进。前后两种空间组织承担了“失控→可追踪”的叙事。\n\n可借鉴：功能展示不必把整套 UI 等比例录完。先用近距离、弯曲画面制造压力，再给宽松布局；放大代码行和状态标签，让观众看懂产品具体找到了什么证据，而不只是闪过一个 AI 标志。\n\n热度（2026-11-05 观察）：Lowkey 收录页/列表显示约 79.06 万 views、586 likes。它是第三方展示的原帖相关计数，可能有缓存；本轮 X 原帖读取受限，未独立核对实时数字，也不把 views 确认为完整视频播放数。\n\n核验范围：原发布链接由 Lowkey 指向，日期与帖 ID 时间对应；取得其收录的约 38 秒视频，每 2 秒抽帧检查全片。不是从 X 直接下载的首发文件，未逐帧比对转载与首发差异，未听音。功能效果与自动修复能力不作独立背书。\n\n### 5. Spielwerk Cheats｜把提示词里的数字、颜色和风格变成可操作小控件\n\n发布方：Spielwerk 创始人 Eike Drescher；具体影片制作人员未查明。发布记录为 2026-03-16，约 39 秒 Cheats 功能宣传片。重要状态变化：2026-11-05 打开 spielwerk.app 已重定向至 Jamboree，当前官网称 mobile game studio；本条只研究当时影片，不把历史界面写成今天仍可原样使用。\n\n创始人原发布帖：[查看来源](https://x.com/eikedrescher/status/2033566191961137591)\n\n可播放影片收录：[查看来源](https://lowkey.so/spielwerk/cheats)\n\n当时产品网址（现转至Jamboree）：[查看来源](https://spielwerk.app/)\n\n现品牌官网：[查看来源](https://www.jamboree.app/)\n\n画面亮点：手持手机在街道、户外和咖啡场景中切换，提示词里的普通词句逐渐嵌入彩色小控件：数量可增减，透明度是蓝色百分比胶囊，角度是带刻度的红色旋钮条；颜色词打开调色板，字体/材质/3D 风格成为带视觉效果的小标签。手指仍在原句内操作，没有频繁跳到复杂设置页。\n\n可借鉴：把自然语言里的可调整部分显形，让“描述”本身成为控制界面。宣传片也保持同一个输入容器，靠手指、文字特写与不同场景换气，形成比纯录屏更有生活感的展示。\n\n热度（2026-11-05 观察）：Lowkey 列表显示约 29.87 万 views、2,200 likes；为第三方对原帖相关数据的展示，可能缓存，未独立复核 X 实时计数，不能等同完整视频播放。\n\n核验范围：取得 Lowkey 收录的约 39 秒视频，每 2 秒抽帧覆盖全片，能见手指操作前后的小控件差异；本轮未试玩 App，也未看到从这段提示词到最终游戏的完整生成过程。原帖读取受限，首发与转载一致性未逐帧比对；未听音。\n\n### AI制作动画 · 5 个\n\n### 1. Dear Upstairs Neighbors｜先用手工动画锁表演，再让模型把笔触画出来\n\n作者：Connie Qin He / Google DeepMind；制作设计 Yingzong Xin\n\n日期：制作文章、官方预告均为 2026-01-26；当日为 Sundance Story Forum 预览。Tribeca 官方列为 2026 世界首映，不能把预览写成正式首映。\n\n官方预告（非完整成片）：[查看来源](https://www.youtube.com/watch?v=eCk5VFKKz08)\n\n一手制作拆解：[查看来源](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/)\n\nTribeca 官方片目：[查看来源](https://tribecafilm.com/films/dear-upstairs-neighbors-2026)\n\n输入与流程：工具：定制微调 Veo、Imagen，另有 Maya、TVPaint、ComfyUI、Premiere；Veo/Imagen 具体基础版本未公开。输入是团队手绘概念图、角色设计和粗动画。人工先做分镜、表演与时机：Maya 3D 动画送入 Veo，TVPaint 2D 动画通过 ComfyUI 逐帧交给 Imagen。AI 负责风格化、局部生成及 4K 放大，团队逐镜评审、调整遮罩。官方明确说所有最终镜头都不是一键生成。\n\n视觉核验：时序抽帧已看到：Maya 版 Ada 张开双臂躺下，随后切到同构图的厚笔触版本；另一段把 TVPaint 黑白动作与彩色噪声幻觉成片并列。先固定动作，再改变渲染语言，比较关系非常清楚。\n\n可借鉴：把表演控制和视觉风格拆成两层。需要精确喜剧时机时，用粗动画传达动作，不把全部控制寄托在文字提示词。\n\n热度：2026-11-05 检索观察：官方预告索引快照为 47,600 观看、1,500 赞，非实时计数；另有 Tribeca 官方入选记录。\n\n核验边界：本轮核对署名制作文章、预告元数据及两段制作对照视频的时序帧；没有观看完整六分钟成片。定制研究流程不等于普通账号可直接复现。\n\n### 2. Beta Earth｜手绘角色先进入 animatic，再扩成复古科幻世界\n\n作者：Nik Kleverov / Native Foreign；原创故事 Ryan Walls\n\n日期：2025 年 Adobe MAX 首展；官方介绍与制作文章日期 2025-10-29。该作品是原创系列的概念预告，不是已上线完整剧集。\n\n成片／系列预告：[查看来源](https://video.tv.adobe.com/v/3481799)\n\n独立幕后视频：[查看来源](https://video.tv.adobe.com/v/3481787)\n\n制作流程文章：[查看来源](https://blog.adobe.com/en/publish/2025/10/29/how-shorts-for-generative-ai-film-festival-max-2025-were-made)\n\n导演本人发布：[查看来源](https://www.linkedin.com/posts/nikkleverov_took-stage-yesterday-at-adobe-max-to-give-activity-7389351739331596289-EDGB)\n\n输入与流程：已披露：Firefly Boards、Premiere、Generate Sound Effects，以及 Veo 3.1、Ray3 等伙伴模型。角色先由插画师手绘，再发展为生成静帧；静帧进入 Premiere 组成 animatic，修改后才做视频生成。脚本、设计选择、节奏与最终剪辑仍由团队决定；没有公开逐镜模型分配。\n\n视觉核验：成片 15/45/80/125/180/230 秒抽帧：办公室鸡尾酒、机械臂实验室、沾绿液的宇航服、直播式人脸特写、双人船舱和眼球标题。线描人物贯穿不同空间，暖色复古室内与异星危险形成视觉反差。BTS 抽帧确认是团队访谈与制作素材，而非把成片误作幕后。\n\n可借鉴：先用低成本静帧检查角色关系和笑点，再投入视频生成；概念预告可用一组“正常设想→灾难现场”的镜头反差讲清世界观。\n\n热度：2026-11-05 观察：有 Adobe MAX 首展及导演本人发布佐证；未取得可靠的实时播放、点赞数，不称爆款。\n\n核验边界：已读取官方模型清单并抽查成片与独立 BTS 各六个时间点；未连续看完、未验证所有声音工序。Adobe 页面列的是整体工具组合，不能推断每一镜都用了 Veo 3.1 或 Ray3。\n\n### 3. NAGORI — Shadows Linger｜用黑墨留白统一世界，把运动测试排在分镜旁\n\n作者：Guillaume Hurbault / Promise Studios\n\n日期：2025 年 Adobe MAX 首展；官方成片与制作文章 2025-10-29。作者本人把作品定位为 2D 日本寓言。\n\n成片：[查看来源](https://video.tv.adobe.com/v/3481797)\n\n独立幕后视频：[查看来源](https://video.tv.adobe.com/v/3481792)\n\n制作流程文章：[查看来源](https://blog.adobe.com/en/publish/2025/10/29/how-shorts-for-generative-ai-film-festival-max-2025-were-made)\n\n导演本人发布：[查看来源](https://www.linkedin.com/posts/guillaumehurbault_adobemax-activity-7389667834890608640-JV-1)\n\n导演讲解转录：[查看来源](https://www.adobe.com/products/firefly/features/storyboard.html)\n\n输入与流程：已披露：Firefly Boards、Photoshop、Premiere；导演讲解还提到 soundtrack generator。具体图像／视频模型及版本没有公开，不能把 Firefly 平台名当作唯一生成模型。先试不同视觉方向，整理成分镜，再测试静帧运动、挑选镜头，最后完成剪辑与声音。人负责故事、墨画风格和取舍，AI 生成候选画面与运动。\n\n视觉核验：成片 10/35/65/95/130/180 秒抽帧见到：渔村黑色剪影、大面积白底、远处战火、黑场文字、空屋，最后回到小船与弧形彩墨。BTS 40/65/90/120 秒可见生成面板、成组分镜、运动候选和音乐情绪标签。\n\n可借鉴：先限定黑白、剪影与少量色彩的规则，再生成镜头；把运动候选放回同一块分镜板评估，能避免“单镜漂亮、整片散掉”。这是对实看素材的设计归纳。\n\n热度：2026-11-05 观察：Adobe MAX 官方展映、导演公开发布均可核验；没有可靠实时播放或点赞数，不据平台知名度写成热度排名。\n\n核验边界：成片与幕后分别核验，均为六个时间点的抽帧而非连续全片观看；未公开的模型版本、提示词和剪辑参数不补猜。\n\n### 4. Skillet & The Jetport Diner｜先合成环境再替换演员，减少机器人身上的绿幕反光\n\n作者：Joey Daoud / New Territory Media、VP Land\n\n日期：Escape 原片标为 2024-10-16；创作者制作回顾 2024-11-03。属于回看型流程案例，不是近期新片。\n\n原片：[查看来源](https://escape.ai/watch/670f1408a4a44c33d2e75c39)\n\n制作方回顾与转录：[查看来源](https://www.vp-land.com/stories/skillet-and-the-jetport-diner-bts-ai-animated-short)\n\n独立幕后视频：[查看来源](https://www.youtube.com/watch?v=JZIgnizy39M)\n\n输入与流程：核心输入是 iPhone 绿幕真人表演和餐厅 3D 模型。先在 Resolve 合成环境，再用 Wonder Dynamics 替换为 CG 角色，避免反光机器人把绿幕反射也带进结果。Playbook 控制 3D 构图，Unreal 提供指定推镜，Runway Gen 3 做视频风格化；Gen 3 由幕后转录确认。其他工具含 Ideogram、Dream Machine、ElevenLabs、Suno，版本未披露。人工表演、取景和剪辑提供控制，AI 做角色替换、环境与风格生成。\n\n视觉核验：已看真实 BTS 缩略图：真人绿幕小窗、餐厅里的 CG 人物和影片菜单海报同框，能直接解释“表演输入→角色输出”。尚无本轮可用成片动态核验，不能据这张图评价口型、运动质量或一致性。\n\n可借鉴：生成式替换会理解输入环境的反射与光照，所以先给它正确的合成背景；不要让错误环境成为模型要忠实保留的条件。\n\n热度：2026-11-05 观察：Escape 官方页面仍公开；页面元数据含 2,138 views，但这不是实时可见计数，也不是全平台热度。\n\n核验边界：原片本轮无法读取。已核验制作方文字、页面内幕后转录和真实封面；未观看成片。作者承认部分餐厅镜头视觉不一致；ComfyUI、MetaHuman、Move AI 在文章中是后续计划，不能写成本片已用工具。\n\n### 5. Family Member No. 6／家人六号｜身体不变，只用三种灯色区分人格\n\n作者：炼丹 AI Studio / 深圳市炼丹科技有限公司\n\n日期：制作方称 2026 年 7 月下旬开始改编，8 月 20 日发布；本轮下载的官方压缩预览长 338.939 秒，约 5:39。\n\n成片与一手制作回顾：[查看来源](https://liandankeji.com/work/projects/p013/index.en.html)\n\n官方视频预览：[查看来源](https://cdn.liandankeji.com/work/assets/web-video/KvsFbjPRyo7g8IxkqjXcE7ASnSb.mp4)\n\n输入与流程：已证实：CapCut、Mureka；语言、图像、视频及放大模型名称和版本未披露。人工先定故事和灯色规则：蓝／黄／白对应三种人格，机器人外壳与围裙不变。先做色板、角色三视图和身高对照，再按场景重新打光；角色与场景资产送入视频模型，提示词限定轴线和空间关系。生成对白在 CapCut 分离清理，Mureka 辅助配乐；720p 生成后再放大至 4K，人工复核修正。\n\n视觉核验：成片 5/40/85/150/222/330 秒抽帧核验：蓝色面屏、女孩与机器人的工作台、红光湿地、扳手近景、黑面屏中央白点、末尾铁盒。视觉变化落在灯色、道具和镜头距离上，角色主体保持同一造型。\n\n可借鉴：复杂身份可以用一种固定角色加少量状态色承载；先替每个场景给角色重打光，避免白底角色像贴纸一样贴进昏暗空间。\n\n热度：2026-11-05 观察：制作方有完整公开案例页，自述作为抖音比赛作品发布；未取得抖音原帖及互动计数，不据自述称为获奖或热门。\n\n核验边界：已核对一手案例页并抽查压缩预览六个时间点，未连续观看全片。4K 是制作方的放大交付规格，不代表模型原生 4K；本轮视频仅为官网压缩预览。",
+      "cases": [
+        {
+          "id": "2026-11-05-ui-anatomy",
+          "date": "2026-11-05",
+          "title": "Anatomy｜让机械键轴的爆炸图成为可探索界面",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "originalHeading": "Anatomy｜让机械键轴的爆炸图成为可探索界面",
+          "fullText": "作者：R / @wheresryan22。\n\n平台／日期：X；2026-10-27 原帖发布。\n\n查看原作：[查看来源](https://x.com/wheresryan22/status/2114881666023846116)\n\n演示备份页：[查看来源](https://recent.design/i/2ta73xt-mechanical-key-switch-anatomy)\n\n界面与交互：白色点阵纸面上，键帽、外壳、弹簧、触点和 PCB 沿同一中轴拆开；细引线把名称拉到两侧。演示从总览进入单个零件，零件放大，旁边补上技术说明，再回到完整结构。灰度材质、等宽小字和居中的剖解对象共同构成“可阅读的工程图”，没有把信息切成满屏卡片。\n\n可借鉴：让可点击的对象承担导航：先理解整体，再看局部，返回时仍能找到它在整体里的位置。适合硬件产品页、科普与装配说明；细标线和层级比增加装饰更有用。\n\n热度（2026-11-05 观察）：原帖显示 748 点赞、562 书签、19 转帖、22,304 次帖子浏览。浏览量不是视频播放量。\n\n核验范围与限制：核验了作者原帖，并对约 23.8 秒演示按时序抽帧、查看总览与局部状态；未取得可操作原型，不称亲手试玩。零件参数未作工程准确性验证。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/wheresryan22/status/2114881666023846116"
+            },
+            {
+              "label": "演示备份页",
+              "url": "https://recent.design/i/2ta73xt-mechanical-key-switch-anatomy"
+            }
+          ],
+          "heat": "原帖显示 748 点赞、562 书签、19 转帖、22,304 次帖子浏览。浏览量不是视频播放量。",
+          "limitations": "核验了作者原帖，并对约 23.8 秒演示按时序抽帧、查看总览与局部状态；未取得可操作原型，不称亲手试玩。零件参数未作工程准确性验证。"
+        },
+        {
+          "id": "2026-11-05-ui-diorama",
+          "date": "2026-11-05",
+          "title": "Diorama To-do｜把任务、日程和 AI 助手摆在同一张桌面上",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "originalHeading": "Diorama To-do｜把任务、日程和 AI 助手摆在同一张桌面上",
+          "fullText": "作者：Jakub Otcenas / Diorama。\n\n平台／日期：Codrops 作者文章；2026-11-01 文章发布。\n\n查看原作与制作过程：[查看来源](https://tympanus.net/codrops/2026/11/01/design-systems-agents/)\n\n界面与交互：作者公开的浅色稿把任务列表、当天时间轴、助手对话做成三栏：左侧突出剩余自由时间与待办，中间用低饱和色块标日程，右侧解释哪些会议被移动或缩短。AI 提议的时间块仍留在日历里，以描边卡片和“Block it / Not today”呈现，不只在聊天窗里口头回答。浅阴影、窄导航和大留白把高密度工作信息压得很安静。\n\n可借鉴：把 AI 建议直接落到用户正在操作的对象旁边，并让建议与已确认状态明显不同。三栏共享任务上下文，比来回切换聊天与日历更容易核对。\n\n热度（2026-11-05 观察）：作者公开了完整设计系统与工作流文章；本轮没有读到可核实的点赞、浏览数字，不称爆款。\n\n核验范围与限制：已查看作者发布的完整浅色与深色界面截图，并读制作说明。属于设计系统与 AI 协作示例，不将截图内日程操作当作已上线产品功能；未测试真实日历连接或助手执行。",
+          "links": [
+            {
+              "label": "查看原作与制作过程",
+              "url": "https://tympanus.net/codrops/2026/11/01/design-systems-agents/"
+            }
+          ],
+          "heat": "作者公开了完整设计系统与工作流文章；本轮没有读到可核实的点赞、浏览数字，不称爆款。",
+          "limitations": "已查看作者发布的完整浅色与深色界面截图，并读制作说明。属于设计系统与 AI 协作示例，不将截图内日程操作当作已上线产品功能；未测试真实日历连接或助手执行。"
+        },
+        {
+          "id": "2026-11-05-ui-soul-fighter",
+          "date": "2026-11-05",
+          "title": "Soul Fighter｜把格斗角色、技能选择与战斗 HUD 收进同一套系统",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "originalHeading": "Soul Fighter｜把格斗角色、技能选择与战斗 HUD 收进同一套系统",
+          "fullText": "作者：Alena Eresko；Riot Games 团队项目。\n\n平台／日期：Behance；作者案例页显示 2026-09-03；这是复盘发布日，不是游戏首发日。\n\n查看完整作者案例：[查看来源](https://www.behance.net/gallery/255177955/Game-UI-League-of-Legends-Soul-Fighter-Riot-Games)\n\n界面与交互：案例展示 Tournament of Souls 从早期探索到 Unity 落地的视觉开发。黑白底色上用亮橙强调主动作；技能配置页以角色大图、Q/W/E/R 快捷键、伤害和冷却数值分区，战斗页把生命、倒计时和技能放到固定边缘，胜利页再用大标题和奖励图标收束。作者同时给出字体、角色配色、系统/技能/状态图标，能看到系统如何跨屏复用。\n\n可借鉴：先为战斗中的高频阅读建立固定位置，再用角色插画和品牌色制造情绪。复盘材料比单张漂亮概念图更适合学习组件如何从设置、实战延伸到结果反馈。\n\n热度（2026-11-05 观察）：作者页显示 233 赞、4,020 浏览、34 评论，并带 Game Design 精选标识；是平台案例数据，不是游戏玩家数。\n\n核验范围与限制：已查看作者长图中的视觉规范、技能配置、战斗、对话与结果页，并核对团队署名。未玩游戏、不评价实战可用性；这是 Alena 的贡献复盘，不把整个游戏归为一人独立制作。",
+          "links": [
+            {
+              "label": "查看完整作者案例",
+              "url": "https://www.behance.net/gallery/255177955/Game-UI-League-of-Legends-Soul-Fighter-Riot-Games"
+            }
+          ],
+          "heat": "作者页显示 233 赞、4,020 浏览、34 评论，并带 Game Design 精选标识；是平台案例数据，不是游戏玩家数。",
+          "limitations": "已查看作者长图中的视觉规范、技能配置、战斗、对话与结果页，并核对团队署名。未玩游戏、不评价实战可用性；这是 Alena 的贡献复盘，不把整个游戏归为一人独立制作。"
+        },
+        {
+          "id": "2026-11-05-ui-glass-audio",
+          "date": "2026-11-05",
+          "title": "Glass Audio Player｜让进度条绕开手指，玻璃质感服务于操作",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "originalHeading": "Glass Audio Player｜让进度条绕开手指，玻璃质感服务于操作",
+          "fullText": "作者：Voicu Apostol / Cerpow。\n\n平台／日期：Dribbble；方法型补充；本轮未核实原始发布日期，不写成近期新作。\n\n查看原作：[查看来源](https://dribbble.com/shots/23528020-Glass-Audio-Player)\n\n界面与交互：半透明音乐卡片悬在暖色室内背景前，专辑、标题与播放按钮保持熟悉的排列。拖动进度时，细线在指尖附近隆起、绕开手指，时间数字留在可见位置；放手后回到平直状态。重点不是玻璃本身，而是作者针对“触点太小、指尖挡住反馈”提出的更大触控范围与弹性轨道。\n\n可借鉴：保留小控件的视觉精度，扩大真实交互区域，并让反馈避开遮挡。可用于音视频拖动、时间轴、音量和精调滑杆；应另行验证触控容错、可访问性与减少动态效果。\n\n热度（2026-11-05 观察）：原作页面与作者制作说明可访问；本轮未核实实时互动计数，不用搜索摘要里的数字冒充当前热度。\n\n核验范围与限制：已查看约 5.6 秒原演示的时序帧，核对作者说明。作者明确为 Figma 设计、After Effects 动画，是概念演示，不是可下载的播放器或经测试的真实触控实现。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://dribbble.com/shots/23528020-Glass-Audio-Player"
+            }
+          ],
+          "heat": "原作页面与作者制作说明可访问；本轮未核实实时互动计数，不用搜索摘要里的数字冒充当前热度。",
+          "limitations": "已查看约 5.6 秒原演示的时序帧，核对作者说明。作者明确为 Figma 设计、After Effects 动画，是概念演示，不是可下载的播放器或经测试的真实触控实现。"
+        },
+        {
+          "id": "2026-11-05-ui-isle-thorne",
+          "date": "2026-11-05",
+          "title": "Isle Thorne Collective｜用编辑式网格把家具目录做得克制而完整",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "originalHeading": "Isle Thorne Collective｜用编辑式网格把家具目录做得克制而完整",
+          "fullText": "作者：设计 Elena Smirnova；实现 Manoela Ilic / Codrops。\n\n平台／日期：独立演示站＋Codrops；2026-10-07 模板文章发布。\n\n查看原作：[查看来源](https://isle-thorne-collective.crnacura.workers.dev/)\n\n作者文章：[查看来源](https://tympanus.net/codrops/2026/10/07/isle-thorne-collective-astro-template/)\n\n公开代码：[查看来源](https://github.com/codrops/isle-thorne-collective)\n\n界面与交互：首页以大幅家具摄影开场，导航只保留 Shop、About、Journal 等少量入口。进入目录后切换到白底，系列名称、件数、材料与四列产品图片严格对齐；简介和杂志页转为深红底，字体和横向基线仍一致。作者把首页、目录、产品详情、购物袋和文章都装进同一套 Astro 模板，让品牌表达与商品信息有清楚的层次。\n\n可借鉴：把“材质、数量、系列”变成固定的信息行，让商品照片成为主角；跨页面保持同一列起点，少量整页色彩变化就能区分内容角色。适合小规模、重编辑感的商品目录。\n\n热度（2026-11-05 观察）：Codrops 公开提供文章、演示与代码；未核实独立访问量或点赞，不把官方发布当作高热度证明。\n\n核验范围与限制：已在原站打开首页并点击 Shop，确认目录成功显示；另查看约 8.5 秒作者演示的页面切换。没有下单。作者明确是静态模板：购物袋在本地，结账和订阅只是演示，无真实支付、账户或库存。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://isle-thorne-collective.crnacura.workers.dev/"
+            },
+            {
+              "label": "作者文章",
+              "url": "https://tympanus.net/codrops/2026/10/07/isle-thorne-collective-astro-template/"
+            },
+            {
+              "label": "公开代码",
+              "url": "https://github.com/codrops/isle-thorne-collective"
+            }
+          ],
+          "heat": "Codrops 公开提供文章、演示与代码；未核实独立访问量或点赞，不把官方发布当作高热度证明。",
+          "limitations": "已在原站打开首页并点击 Shop，确认目录成功显示；另查看约 8.5 秒作者演示的页面切换。没有下单。作者明确是静态模板：购物袋在本地，结账和订阅只是演示，无真实支付、账户或库存。"
+        },
+        {
+          "id": "2026-11-05-motion-learnr",
+          "date": "2026-11-05",
+          "title": "Learnr｜转动同一辆车，把引导与预约串成连续动作",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Learnr｜转动同一辆车，把引导与预约串成连续动作",
+          "fullText": "作者：Lynksen。Dribbble 发布于 2026-06-12，本期新收录的已有作品。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/27464440-Mobile-App-UI-Animations-for-a-Driving-Lessons-Platform-Learnr)\n\n画面亮点：引导页中，同一辆灰色汽车从侧面转到正面、再到俯视，对应选教练、预约、驾驶三步。地图上的寻找状态接成底部白色“Driver successfully found”卡片，头像、汽车和绿色勾进入原来的等待区域。另一段排期演示则用白色圆角日期块明确选择结果。\n\n可借鉴：用同一个物体维持多步引导的连续性；等待与结果保持在相同区域，避免成功后让用户重新寻找下一步。手机模型的转动是展示镜头，不必照搬成 App 内交互。\n\n状态：作者的移动应用设计与动效展示；真实上线和预约服务未核实。\n\n热度（2026-11-05 观察）：12,045 次观看、216 赞、12 收藏、25 评论，均为此 Dribbble 帖子的公开计数。\n\n核验范围：浏览器读取作者、发布日期及 Detail actions 计数；取得主片 13.72 秒及排期补充片 9.09 秒，多时点抽帧检查。封面取自主片 11.5 秒。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://dribbble.com/shots/27464440-Mobile-App-UI-Animations-for-a-Driving-Lessons-Platform-Learnr"
+            }
+          ],
+          "limitations": "设计/开发展示，不是对已上线 App 或真实预约的测试；未听音，也未逐帧审看全部片段。",
+          "heat": "热度（2026-11-05 观察）：12,045 次观看、216 赞、12 收藏、25 评论，均为此 Dribbble 帖子的公开计数。"
+        },
+        {
+          "id": "2026-11-05-motion-panolocal",
+          "date": "2026-11-05",
+          "title": "Panolocal｜文字筛选与点阵地图一起收拢到同一座城",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Panolocal｜文字筛选与点阵地图一起收拢到同一座城",
+          "fullText": "作者：Abron Studio。Dribbble 发布于 2025-11-04，明确作为旧作补遗。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/26730762-Panolocal-Map-UI-Animation)\n\n画面亮点：浅黄色地图模块把 Germany、Switzerland、Austria 筛选和照片标记放在同一张点阵地图旁。展开城市、选中 Berlin 后，其他点退后，柏林的圆形地标照片与蓝色标签成为焦点；文字选择和地图结果没有断开。\n\n可借鉴：给筛选结果一个明确的空间落点，让列表与地图互相解释。局部弱化比整张地图重新刷新更容易维持方位感。\n\n状态：网站地图 UI 动效展示；生产环境是否采用该交互未核实。\n\n热度（2026-11-05 观察）：18,702 次观看、65 赞、17 收藏、11 评论；不是当天新发作品。\n\n核验范围：读取原帖作者、日期和公开计数，取得正确的 6.02 秒地图主片并抽帧检查。封面取主片 1.5 秒，不使用页面下方无关的工作室合作宣传片。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://dribbble.com/shots/26730762-Panolocal-Map-UI-Animation"
+            }
+          ],
+          "limitations": "仅核验地图动效展示，没有实测 Panolocal 服务、筛选数据或地理精度。",
+          "heat": "热度（2026-11-05 观察）：18,702 次观看、65 赞、17 收藏、11 评论；不是当天新发作品。"
+        },
+        {
+          "id": "2026-11-05-motion-finly",
+          "date": "2026-11-05",
+          "title": "Finly｜柱状图长起，表单与成功回执从底部承接",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Finly｜柱状图长起，表单与成功回执从底部承接",
+          "fullText": "作者：Potential（포텐셜）。Dribbble 发布于 2025-06-12，旧作，本期新收录。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/26140256-Finly-Add-Expense-UI-Animation-Potential)\n\n画面亮点：薄荷色场景里的手机先展示逐根长起的收支柱状图，再进入 Add New Expense 表单。提交按钮出现圆形进度，随后带荧光绿勾的 Successful 白色回执从底部进入，形成“填写—提交—确认”的接力。\n\n可借鉴：把提交、等待和完成放在接近的操作区域，回执就像表单的下一状态。图表依次出现能交代阅读顺序，但毛绒底座和倾斜手机属于展示包装，不是功能所必需。\n\n状态：财务 App UI 概念/设计展示，未验证实际产品。\n\n热度（2026-11-05 观察）：39,158 次观看、191 赞、37 收藏、46 评论。\n\n核验范围：读取作者、日期、计数；取得 20.565 秒原片，分别检查前段和后段的多时点画面，确认提交与成功回执。封面取 14.3 秒。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://dribbble.com/shots/26140256-Finly-Add-Expense-UI-Animation-Potential"
+            }
+          ],
+          "limitations": "财务应用设计展示，不代表真实记账、支付或 AI 功能已实现；未实测后端和真实账户。",
+          "heat": "热度（2026-11-05 观察）：39,158 次观看、191 赞、37 收藏、46 评论。"
+        },
+        {
+          "id": "2026-11-05-motion-payment",
+          "date": "2026-11-05",
+          "title": "Payment Card Dashboard｜支付胶囊展开成账单，再收成状态回执",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Payment Card Dashboard｜支付胶囊展开成账单，再收成状态回执",
+          "fullText": "作者：Ankit Baghel。Dribbble 发布于 2025-11-07，作为旧作补遗。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/26743232-Payment-Card-Dashboard-UI-Animation-Minimal-Finance-Experience)\n\n画面亮点：一条横向 Card Payment 白色胶囊向下展开，原有标题留在顶部，日期、黑色图表和逐渐长起的白色柱条进入。底部出现 Details 按钮后，整个面板再缩回紧凑状态，显示 Accepted 等信息。\n\n可借鉴：让标题成为展开与收起的锚点，内容分批进入；完成后保留简洁的状态回执，比让整张卡瞬间消失更容易理解。\n\n状态：支付面板设计动效，非实测支付流程。\n\n热度（2026-11-05 观察）：13,234 次观看、18 赞、20 收藏、0 评论。属于低互动量的方法参考，不称爆款。\n\n核验范围：浏览器核验原帖作者、日期及计数；下载 9.10 秒原片，检查展开、图表和收起阶段。封面取 3 秒。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://dribbble.com/shots/26743232-Payment-Card-Dashboard-UI-Animation-Minimal-Finance-Experience"
+            }
+          ],
+          "limitations": "这是动效展示，不证明真实支付被接受、金额准确或任何金融服务可用；没有进行支付操作。",
+          "heat": "热度（2026-11-05 观察）：13,234 次观看、18 赞、20 收藏、0 评论。属于低互动量的方法参考，不称爆款。"
+        },
+        {
+          "id": "2026-11-05-motion-agent",
+          "date": "2026-11-05",
+          "title": "Roobinium AI Agent｜建议卡、语音球和聊天气泡清楚交接",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Roobinium AI Agent｜建议卡、语音球和聊天气泡清楚交接",
+          "fullText": "作者：vino_costa，为 Roobinium 发布。Dribbble 发布于 2026-06-25，本期新收录。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/27502216-AI-Agent-Mobile-App-UI-Animation-for-Automation-Platform)\n\n画面亮点：橙黑渐变的移动界面从“What are we building today?”及建议卡进入语音状态：上方出现发光橙色球体，用户句子在中间分行呈现，麦克风控件留在底部；随后转成聊天气泡与 Agent 状态。\n\n可借鉴：建议、倾听、对话三种状态各有明确主角，底部操作区维持方位。大范围模糊和较暗文字值得谨慎使用，不能只追求氛围而牺牲阅读。\n\n状态：AI 自动化平台的移动 UI 动效展示，真实功能未测试。\n\n热度（2026-11-05 观察）：191,845 次观看、601 赞、324 收藏、108 评论，是本组 Dribbble 案例中公开观看量较高的一条；计数不代表产品用户数。\n\n核验范围：核验署名为 vino_costa / Roobinium、日期和帖子计数；取得 10.28 秒原片并多时点检查，封面取 5 秒。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://dribbble.com/shots/27502216-AI-Agent-Mobile-App-UI-Animation-for-Automation-Platform"
+            }
+          ],
+          "limitations": "作者描述涉及 Web3 自动化，但本轮只研究界面动效，未验证交易机器人、语音识别、隐私或任何后端能力。",
+          "heat": "热度（2026-11-05 观察）：191,845 次观看、601 赞、324 收藏、108 评论，是本组 Dribbble 案例中公开观看量较高的一条；计数不代表产品用户数。"
+        },
+        {
+          "id": "2026-11-05-motion-cypheir",
+          "date": "2026-11-05",
+          "title": "Cypheir｜卡片展开时，内部玻璃层与凭证也被拆开",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Cypheir｜卡片展开时，内部玻璃层与凭证也被拆开",
+          "fullText": "作者：Abron Studio。Dribbble 发布于 2026-05-25，本期新收录。\n\n查看原作与动效：[查看来源](https://dribbble.com/shots/27407769-Cypheir-Card-UI-Animation)\n\n画面亮点：深色 Core Values 页面里的彩色卡片向前放大，背景仍保留原来的位置。Security 卡内部的凭证层展开；卡片回到原槽位后，轮播切换到 Transparency，半透明玻璃板沿纵深分离，让“透明”不只是一行标题。\n\n可借鉴：把外部容器变化与内部内容变化配对：大卡说明当前焦点，层片运动解释概念。收回原位置能让浏览者继续扫读，而不是迷失在弹层中。\n\n状态：品牌网站卡片动效展示；生产页面及安全服务未实测。\n\n热度（2026-11-05 观察）：22,325 次观看、66 赞、21 收藏、4 评论。\n\n核验范围：读取原帖日期、作者、计数；取得 16.02 秒原片，重点检查前 12 秒的 Security 与 Transparency 展开。封面取 9.5 秒，保留原作背景。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://dribbble.com/shots/27407769-Cypheir-Card-UI-Animation"
+            }
+          ],
+          "limitations": "没有逐帧覆盖最后几秒；只是网页卡片动效展示，不证明任何密码、安全或隐私能力。",
+          "heat": "热度（2026-11-05 观察）：22,325 次观看、66 赞、21 收藏、4 评论。"
+        },
+        {
+          "id": "2026-11-05-motion-cinema",
+          "date": "2026-11-05",
+          "title": "Cinema Seat Preview｜选座不只换编号，而是把视角飞到椅子上",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Cinema Seat Preview｜选座不只换编号，而是把视角飞到椅子上",
+          "fullText": "作者：Manoela Ilic / Codrops。Codrops Hub 索引日期为 2026-10-15；这是对 2016 年实验的新版本，精确首发日未独立核实。\n\n查看原作与动效：[查看来源](https://tympanus.net/Demos/CinemaSeatPreview/)\n\n作者代码与功能说明：[查看来源](https://github.com/codrops/CinemaSeatPreview)\n\n收录日期与官方预览：[查看来源](https://tympanus.net/codrops/hub/all/)\n\n画面亮点：官方短片呈现不同座位方向的影院视角，银幕色彩照亮厅内，火花与雾效进入空间。作者说明支持点选影厅/座位图并飞到对应座位，也可用座位图悬停预览视线；这一选座动作本轮未在现场成功渲染。\n\n可借鉴：把抽象的排号转成能感受的视野，是比单纯高亮座位更直接的信息反馈。影院环境光也能把“屏幕内容”延伸为周围空间的状态。\n\n状态：可公开访问的交互实验，不是真实电影院售票服务。\n\n热度（2026-11-05 观察）：作者 GitHub 13 stars、2 forks。仓库关注数不是预订量或演示访问量。\n\n核验范围：打开作者 demo 与代码说明；当前浏览器提示需要 WebGPU 或 WebGL 2，无法渲染。改为取得官方 5.9 秒预览并抽帧核验视角、光照与特效；封面取 2.6 秒。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://tympanus.net/Demos/CinemaSeatPreview/"
+            },
+            {
+              "label": "作者代码与功能说明",
+              "url": "https://github.com/codrops/CinemaSeatPreview"
+            },
+            {
+              "label": "收录日期与官方预览",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "limitations": "真实交互未通过现场测试；座位图、飞到座位与票价功能仅依据作者说明，未执行购票。需要支持的图形环境。",
+          "heat": "热度（2026-11-05 观察）：作者 GitHub 13 stars、2 forks。仓库关注数不是预订量或演示访问量。"
+        },
+        {
+          "id": "2026-11-05-motion-interlude",
+          "date": "2026-11-05",
+          "title": "Interlude｜把页面等待与翻页连成完整转场",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "Interlude｜把页面等待与翻页连成完整转场",
+          "fullText": "作者：Manoela Ilic / Codrops。Codrops 作者文章发布于 2026-10-07，近期方法案例。\n\n查看原作与动效：[查看来源](https://interlude.crnacura.workers.dev/)\n\n作者文章与实现说明：[查看来源](https://tympanus.net/codrops/2026/10/07/interlude-astro-page-transitions/)\n\n作者开源代码：[查看来源](https://github.com/codrops/interlude)\n\n画面亮点：索引把 curtain、peel 等转场名称直接当入口。官方预览里有红色剧院帘幕与斜向纸张翻起；peel 页面说明从右下向左上折起，深色背面与投影覆盖下一页，返回时反向翻回。\n\n可借鉴：关键不仅是动画形状，而是等下一页准备好再交换和揭示。前进与返回有方向关系，页面等待、视觉遮挡和内容出现因此属于同一个流程。\n\n状态：MIT 开源 Astro 转场 starter，供复制与改造，不是承诺持续维护的安装型库。\n\n热度（2026-11-05 观察）：GitHub 46 stars、9 forks；这是开发者关注信号，不是各转场的使用量。\n\n核验范围：浏览器进入索引并点击 peel，读取作者文章与代码；取得官方 6.03 秒预览，多时点核对幕布和斜向翻页。封面取 2.25 秒的真实转场索引。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://interlude.crnacura.workers.dev/"
+            },
+            {
+              "label": "作者文章与实现说明",
+              "url": "https://tympanus.net/codrops/2026/10/07/interlude-astro-page-transitions/"
+            },
+            {
+              "label": "作者开源代码",
+              "url": "https://github.com/codrops/interlude"
+            }
+          ],
+          "limitations": "21 种效果没有逐一实测，WebGL 组不作兼容性承诺；浏览器返回、焦点转移和慢网表现主要依据作者说明。",
+          "heat": "热度（2026-11-05 观察）：GitHub 46 stars、9 forks；这是开发者关注信号，不是各转场的使用量。"
+        },
+        {
+          "id": "2026-11-05-motion-wide",
+          "date": "2026-11-05",
+          "title": "WIDE｜十张图不重建，只换位置组成五种版式",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "WIDE｜十张图不重建，只换位置组成五种版式",
+          "fullText": "作者：BL/S® Studio / Blacklead Studio。Codrops 作者文章发布于 2026-09-28，近期案例。\n\n查看原作与动效：[查看来源](https://codepen.io/editor/blacklead-studio/pen/01a0d773-dab5-744d-bc5e-3f11d4f2262e)\n\n作者文章与结构说明：[查看来源](https://tympanus.net/codrops/2026/09/28/wide-template/)\n\n官方短片与收录：[查看来源](https://tympanus.net/codrops/hub/all/)\n\n画面亮点：奶油色编辑版式中，巨大的 WIDE 字样与人像卡片组成不对称网格。切换 composition 后，图像先退出、再在新位置进入；同一组素材被重新组织，而不是整页换成陌生内容。现场点击 Composition 03，确认布局确实变化。\n\n可借鉴：作者保留十张卡片的 DOM 身份，用五种布局切换维持内容连续性。先让离场内容腾空间，再让入场内容接上，可避免网格重排时拥挤；转场锁也能减少连点冲突。\n\n状态：公开 CodePen 实验/模板，不是已验证的客户生产网站。\n\n热度（2026-11-05 观察）：CodePen Details & Comments 显示 0 hearts；公开观看量未核实，按设计方法收录，不称热门。\n\n核验范围：取得官方 6 秒短片并检查多个版式；浏览器在 CodePen 编辑器预览中点击 Composition 03，并对比前后画面。封面取官方片 2.7 秒。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://codepen.io/editor/blacklead-studio/pen/01a0d773-dab5-744d-bc5e-3f11d4f2262e"
+            },
+            {
+              "label": "作者文章与结构说明",
+              "url": "https://tympanus.net/codrops/2026/09/28/wide-template/"
+            },
+            {
+              "label": "官方短片与收录",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "limitations": "原 full-page 链接会转至编辑器，编辑器预览可用；全页展示有 CodePen PRO 提示。未逐一验证全部五种布局或可选 shader。",
+          "heat": "热度（2026-11-05 观察）：CodePen Details & Comments 显示 0 hearts；公开观看量未核实，按设计方法收录，不称热门。"
+        },
+        {
+          "id": "2026-11-05-motion-iphone",
+          "date": "2026-11-05",
+          "title": "iPhone Duo Unfold｜屏幕沿铰链展开，山景仍是同一张界面",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "originalHeading": "iPhone Duo Unfold｜屏幕沿铰链展开，山景仍是同一张界面",
+          "fullText": "作者：Leonid Kostetskiy / Emotion Agency。Codrops Hub 索引日期为 2026-09-11，精确首次上线日未独立确认。\n\n查看原作与动效：[查看来源](https://emotion-iphone-duo.vercel.app/)\n\n作者代码与说明：[查看来源](https://github.com/Emotion-Agency/iphone-duo-sim)\n\n收录日期与官方预览：[查看来源](https://tympanus.net/codrops/hub/all/)\n\n画面亮点：官方短片里的概念折叠手机从竖向合拢状态展开成宽屏。山景壁纸和 9:41 时钟保持连贯，中间的暗色折痕随着展开减弱；右侧开发控制项及底部进度条明确这是可调动画实验。\n\n可借鉴：容器大幅变形时，内容不必跟着切断。连续纹理、铰链阴影与硬件朝向一起说明空间关系，比只对两个静态尺寸做缩放更有说服力。\n\n状态：独立 Three.js 概念动画实验，不是 Apple 官方案例。\n\n热度（2026-11-05 观察）：作者 GitHub 0 stars、0 forks。是低关注度的技术方法补充，不据此宣称流行趋势。\n\n核验范围：打开 demo，界面报“WebGL could not start / Error creating WebGL context”。读取作者 Three.js / WebGL2 代码说明，取得官方 6 秒短片，以约 0.5 秒间隔抽帧检查展开过程；封面取 2 秒。",
+          "links": [
+            {
+              "label": "查看原作与动效",
+              "url": "https://emotion-iphone-duo.vercel.app/"
+            },
+            {
+              "label": "作者代码与说明",
+              "url": "https://github.com/Emotion-Agency/iphone-duo-sim"
+            },
+            {
+              "label": "收录日期与官方预览",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "limitations": "现场三维渲染失败，未实测滑杆或上传功能；独立概念实验，并非 Apple 官方产品、已发布硬件或真实系统交互。",
+          "heat": "热度（2026-11-05 观察）：作者 GitHub 0 stars、0 forks。是低关注度的技术方法补充，不据此宣称流行趋势。"
+        },
+        {
+          "id": "2026-11-05-play-terrain",
+          "date": "2026-11-05",
+          "title": "Moving Mountains｜把参数控件直接长在山峰上",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "originalHeading": "Moving Mountains｜把参数控件直接长在山峰上",
+          "fullText": "作者：nico / @nicforey。\n\n平台／日期：X；2026-11-03 原帖发布。\n\n查看原作：[查看来源](https://x.com/nicforey/status/2117330727909883967)\n\n演示备份页：[查看来源](https://recent.design/i/0b15gj9-interactive-terrain-sculpting)\n\n界面与交互：黑色地面上只有一组等高线。选中山峰时，区域变成亮黄，一根竖杆从山顶长出：上下拖动改变高度，底部横向数值控制山体半径。演示再加入第二座山，切换选区时其余地形降为灰色，两个峰的线条相接、变形。参数不是停在远处侧栏，而是以高度和宽度对应的方向贴着对象出现。\n\n可借鉴：把调节轴与结果的空间方向一致，减少“这个数值控制什么”的猜测。可借鉴到音量包络、地形工具、曲线编辑器和 3D 缩放，但非空间任务不必强行立体化。\n\n热度（2026-11-05 观察）：原帖显示 2,413 点赞、1,480 书签、134 转帖、115,786 次帖子浏览。浏览不等于试玩人数。\n\n核验范围与限制：已核验原帖；对约 23.9 秒演示按时间顺序抽帧，确认双山峰、选区、高度与半径变化。未找到可操作版本，不能称亲手拉动，也不推断底层算法或真实地理精度。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/nicforey/status/2117330727909883967"
+            },
+            {
+              "label": "演示备份页",
+              "url": "https://recent.design/i/0b15gj9-interactive-terrain-sculpting"
+            }
+          ],
+          "heat": "原帖显示 2,413 点赞、1,480 书签、134 转帖、115,786 次帖子浏览。浏览不等于试玩人数。",
+          "limitations": "已核验原帖；对约 23.9 秒演示按时间顺序抽帧，确认双山峰、选区、高度与半径变化。未找到可操作版本，不能称亲手拉动，也不推断底层算法或真实地理精度。"
+        },
+        {
+          "id": "2026-11-05-play-sheep",
+          "date": "2026-11-05",
+          "title": "Sheep Grazing｜像选图层一样，给一只羊换个动作",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "originalHeading": "Sheep Grazing｜像选图层一样，给一只羊换个动作",
+          "fullText": "作者：areadne / @AreadneMaria。\n\n平台／日期：X；2026-10-27 原帖发布。\n\n查看原作：[查看来源](https://x.com/AreadneMaria/status/2114898325451444419)\n\n演示备份页：[查看来源](https://recent.design/i/w2vz8gw-sheep-grazing-scene-editor)\n\n界面与交互：草地、溪流、小路和绵羊组成俯视微缩场景。选中一只羊后，蓝色选框和尺寸/距离标签出现，旁边弹出 Idle、Graze、Walk、Jump 四种行为及撤销、复制等图标；切换动作后，选中的羊开始行走或跳跃，其余羊继续在草地上活动。熟悉的设计工具选区语言，突然被用来操控一个有生命感的小世界。\n\n可借鉴：把复杂行为压成贴着对象的少量动词，用户不必离开场景去找设置面板。适合轻量动画编辑、角色状态预览、儿童创作工具，也提醒编辑器可以兼顾精确与亲切。\n\n热度（2026-11-05 观察）：原帖显示 3,851 点赞、1,808 书签、196 转帖、228,090 次帖子浏览。本组中有较强公开传播信号，但不是产品使用数据。\n\n核验范围与限制：已核验作者原帖，按时序查看约 21.3 秒演示和局部菜单；未获得可操作编辑器。只能确认视频展示的选择和状态变化，不确认复制、撤销等每个按钮都已实现。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/AreadneMaria/status/2114898325451444419"
+            },
+            {
+              "label": "演示备份页",
+              "url": "https://recent.design/i/w2vz8gw-sheep-grazing-scene-editor"
+            }
+          ],
+          "heat": "原帖显示 3,851 点赞、1,808 书签、196 转帖、228,090 次帖子浏览。本组中有较强公开传播信号，但不是产品使用数据。",
+          "limitations": "已核验作者原帖，按时序查看约 21.3 秒演示和局部菜单；未获得可操作编辑器。只能确认视频展示的选择和状态变化，不确认复制、撤销等每个按钮都已实现。"
+        },
+        {
+          "id": "2026-11-05-play-crumpled-receipt",
+          "date": "2026-11-05",
+          "title": "Crumpled Receipt｜把关闭收据变成一次揉纸投篮",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "originalHeading": "Crumpled Receipt｜把关闭收据变成一次揉纸投篮",
+          "fullText": "作者：Lorenzo Cabra / Bencho。\n\n平台／日期：X＋作者组件站；2026-10-26 原帖发布。\n\n查看作者原帖：[查看来源](https://x.com/cabralorenzo/status/2114427621434081629)\n\n作者组件站：[查看来源](https://bencho.dev/)\n\n演示备份页：[查看来源](https://recent.design/i/7h73fxn-crumpled-receipt-component)\n\n界面与交互：黑底卡片里，一张写着 BENCHO 的白色小票先完整展开，再沿褶皱收成纸团；纸团被甩向底部的半透明纸篓，也可以重新展开。齿形边缘、密集小字和纸张阴影建立真实物感，收拢与抛掷把“处理完”变成一个有明确终点的动作。\n\n可借鉴：为已经完成的轻量流程增加一点仪式感：读完、收起、投走。适合可恢复的便签、示例卡片、奖励领取；若对应真实删除，必须保留撤销和清楚的结果，不能让投篮趣味掩盖数据后果。\n\n热度（2026-11-05 观察）：原帖显示 221 点赞、115 书签、6 转帖、8,481 次帖子浏览；是小众组件演示，不称全民爆款。\n\n核验范围与限制：已核验原帖与作者组件站链接，并查看约 17 秒原演示的时序帧。未亲自操作组件，未验证声音与物理实现。视频中的订单与金额属于演示画面，不代表发生真实交易或真实收据删除。",
+          "links": [
+            {
+              "label": "查看作者原帖",
+              "url": "https://x.com/cabralorenzo/status/2114427621434081629"
+            },
+            {
+              "label": "作者组件站",
+              "url": "https://bencho.dev/"
+            },
+            {
+              "label": "演示备份页",
+              "url": "https://recent.design/i/7h73fxn-crumpled-receipt-component"
+            }
+          ],
+          "heat": "原帖显示 221 点赞、115 书签、6 转帖、8,481 次帖子浏览；是小众组件演示，不称全民爆款。",
+          "limitations": "已核验原帖与作者组件站链接，并查看约 17 秒原演示的时序帧。未亲自操作组件，未验证声音与物理实现。视频中的订单与金额属于演示画面，不代表发生真实交易或真实收据删除。"
+        },
+        {
+          "id": "2026-11-05-play-r3f-sketch",
+          "date": "2026-11-05",
+          "title": "R3F Sketch Material｜把 3D 场景冲淡，再像笔迹一样重新长出来",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "originalHeading": "R3F Sketch Material｜把 3D 场景冲淡，再像笔迹一样重新长出来",
+          "fullText": "作者：Abhishek Verma。\n\n平台／日期：独立实验站＋GitHub；Codrops 收录；Codrops 列示 2026-10-11，未独立确认首发日。\n\n查看原作：[查看来源](https://r3f-sketch-material.vercel.app/)\n\n公开代码：[查看来源](https://github.com/abhishekmill/R3FSketchMaterial)\n\n收录来源：[查看来源](https://tympanus.net/codrops/hub/)\n\n界面与交互：汽车、墓碑与立体 THREE JS 字样被蓝色排线画在有纸纹的浅底上。演示中画面被“洗掉”，短暂留白后线稿和阴影重新显现；底部可见 Ballpoint、Marker、Pencil、Thin Pen 与 Wash Out 控件。原页同时提供笔压、排线密度、轮廓抖动、纸张与灯光参数，把 3D 材质变成一套能理解的绘画语言。\n\n可借鉴：用“画笔种类”先给出感性的选择，再暴露密度、线宽等技术参数。擦除和重新显现可以作为材质切换的过渡，让用户看清变化来源，而不是瞬间替换。\n\n热度（2026-11-05 观察）：已确认 Codrops 收录与作者独立演示；本轮未核实星标或访问数，不用技术复杂度代替热度。\n\n核验范围与限制：已读取原站控件，并查看约 5.6 秒公开演示的时序帧；原站在本轮浏览器中最终停在白屏，未成功亲手测试材质切换。描述的洗去/显现来自演示视频，其他参数来自页面。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://r3f-sketch-material.vercel.app/"
+            },
+            {
+              "label": "公开代码",
+              "url": "https://github.com/abhishekmill/R3FSketchMaterial"
+            },
+            {
+              "label": "收录来源",
+              "url": "https://tympanus.net/codrops/hub/"
+            }
+          ],
+          "heat": "已确认 Codrops 收录与作者独立演示；本轮未核实星标或访问数，不用技术复杂度代替热度。",
+          "limitations": "已读取原站控件，并查看约 5.6 秒公开演示的时序帧；原站在本轮浏览器中最终停在白屏，未成功亲手测试材质切换。描述的洗去/显现来自演示视频，其他参数来自页面。"
+        },
+        {
+          "id": "2026-11-05-play-free-for-all",
+          "date": "2026-11-05",
+          "title": "Free for All!｜点击重播一颗由字母与纸屑组成的庆祝彩蛋",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "originalHeading": "Free for All!｜点击重播一颗由字母与纸屑组成的庆祝彩蛋",
+          "fullText": "作者：GSAP。\n\n平台／日期：CodePen；Codrops 列示 2025-04-26；老作方法补充，不是今天新发布。\n\n查看可运行原作：[查看来源](https://codepen.io/GreenSock/full/OPPjMQV)\n\n查看公开代码：[查看来源](https://codepen.io/GreenSock/pen/OPPjMQV)\n\n收录来源：[查看来源](https://tympanus.net/codrops/hub/)\n\n界面与交互：深色背景上的“free for all”逐字跳入，中央挤出彩色星形、几何体、卷曲线条和手势图案，纸屑随后向外散开。字母、中心爆发和周围碎屑不是同时运动：先读到句子，再出现视觉高潮，最后收住；点击页面可以从头重播这段小表演。\n\n可借鉴：成功反馈不必只撒一层通用纸屑。让庆祝图案与品牌语言、文案排版共享中心锚点，控制爆发前后节奏，能让一次性完成状态更有记忆点；应避免高频重复或挡住下一步操作。\n\n热度（2026-11-05 观察）：GSAP 官方账号公开发布，Codrops 收录；未核实 CodePen 实时点赞和浏览，不能写成热门排名。\n\n核验范围与限制：原 CodePen 成功运行并进行了画布点击，公开 JS 末尾明确注册 click 后从 0 播放时间线；另查看约 2.8 秒公开演示的时序帧。它是点击重播的庆祝反馈，不是可自由拖拽的物理沙盒。",
+          "links": [
+            {
+              "label": "查看可运行原作",
+              "url": "https://codepen.io/GreenSock/full/OPPjMQV"
+            },
+            {
+              "label": "查看公开代码",
+              "url": "https://codepen.io/GreenSock/pen/OPPjMQV"
+            },
+            {
+              "label": "收录来源",
+              "url": "https://tympanus.net/codrops/hub/"
+            }
+          ],
+          "heat": "GSAP 官方账号公开发布，Codrops 收录；未核实 CodePen 实时点赞和浏览，不能写成热门排名。",
+          "limitations": "原 CodePen 成功运行并进行了画布点击，公开 JS 末尾明确注册 click 后从 0 播放时间线；另查看约 2.8 秒公开演示的时序帧。它是点击重播的庆祝反馈，不是可自由拖拽的物理沙盒。"
+        },
+        {
+          "id": "2026-11-05-ai-product-blueprint",
+          "date": "2026-11-05",
+          "title": "Squarespace Blueprint AI × ManvsMachine｜把手账里的字、色块和布局变成网站",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "originalHeading": "Squarespace Blueprint AI × ManvsMachine｜把手账里的字、色块和布局变成网站",
+          "fullText": "作者/制作方：ManvsMachine，为 Squarespace 制作；设计、导演及动画均由工作室署名。30 秒正式商业广告。作者 Vimeo 上传日为 2025-03-24，但品牌采访在 2025-03-12 已报道此片，因此 3/24 不是广告首发日；旧作，本期新收录。\n\n工作室原作与完整影片：[查看来源](https://mvsm.com/project/blueprint-ai)\n\n作者 Vimeo 原片：[查看来源](https://vimeo.com/1068776467)\n\n同期发布报道：[查看来源](https://lbbonline.com/news/squarespace-introduces-its-ai-website-builder-with-a-human-touch)\n\n画面亮点：设计师在本子里画框、排字、涂色。线描字形立起来，纸上配色变成空中的分层色块，墙上的便签与版式组成网站语言；结尾合拢的手账接成笔记本电脑，落到真实网站画面。原片的暖光、纸张和马克笔纹理，使 AI 建站不必从黑底输入框开始。\n\n可借鉴：用同一套形状与颜色，在手工材料、空间动画和屏幕 UI 三种表现间接力。先让人看见“我做了哪些设计选择”，再让 AI 承担整理和实现的角色。适合品牌宣传与发布片，不适合拿来当即时生成速度的证明。\n\n热度（2026-11-05 观察）：作者 Vimeo 6,608 次观看、224 赞、0 评论。是此 Vimeo 版本的计数，不是整个广告投放曝光。\n\n核验范围：读取工作室原作、作者影片元数据，取得 30 秒原片并每 2 秒抽帧检查。未听音核验完整节奏，未试玩 Blueprint AI。工作室说明为实拍特效、设计与动画混合；这条归为“AI 产品宣传”，不据题材把它标为 AI 生成动画。",
+          "links": [
+            {
+              "label": "工作室原作与完整影片",
+              "url": "https://mvsm.com/project/blueprint-ai"
+            },
+            {
+              "label": "作者 Vimeo 原片",
+              "url": "https://vimeo.com/1068776467"
+            },
+            {
+              "label": "同期发布报道",
+              "url": "https://lbbonline.com/news/squarespace-introduces-its-ai-website-builder-with-a-human-touch"
+            }
+          ],
+          "limitations": "原作多时点抽帧，不是实时产品体验；准确首次投放日未核实，Vimeo 上传日不等于首发；未听音。",
+          "heat": "热度（2026-11-05 观察）：作者 Vimeo 6,608 次观看、224 赞、0 评论。是此 Vimeo 版本的计数，不是整个广告投放曝光。"
+        },
+        {
+          "id": "2026-11-05-ai-product-kongsberg",
+          "date": "2026-11-05",
+          "title": "KDI × Microsoft × Øyedrops｜让数据颗粒、工业部件与操作界面共用一个空间",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "originalHeading": "KDI × Microsoft × Øyedrops｜让数据颗粒、工业部件与操作界面共用一个空间",
+          "fullText": "作者/制作方：Øyedrops，为 Kongsberg Digital 的 AI powered Industrial Work Surface 制作视觉、动效与设计语言，项目涉及 Microsoft AI Copilot。官网可播放主片约 65.7 秒，并附多段功能演示。Stash 在 2024-11-26 介绍该项目；精确首发日未公开确认，明确作为旧作收录。\n\n制作方原作与完整影片：[查看来源](https://www.oyedrops.studio/work/kdi-x-microsoft)\n\n同期介绍与日期：[查看来源](https://www.stashmedia.tv/oyedrops-illuminates-the-future-of-industrial-work/)\n\n画面亮点：开头的请求条接到蓝绿数据颗粒构成的工业场景，视角进入浅色办公桌和产品界面；透明晶体、浮动查询卡、表格与辅助面板交替出现，再切入机械零件、管线和立体模块。浅蓝、青绿、磨砂白贯穿实体与屏幕，复杂 B2B 系统也有清晰的空间层次。\n\n可借鉴：抽象数据不是独立“炫技镜头”，而是与查询条、列表、工业对象互相接续。用大面积留白让细密信息有呼吸感，再用颜色把被分析的对象和界面结果关联起来。\n\n热度（2026-11-05 观察）：可核实 Stash 专题收录，原制作方页面未提供公开观看/点赞计数。媒体收录不是用户人气，不称爆款。\n\n核验范围：取得制作方页面嵌入的 65.685 秒 MP4，按每 5 秒抽帧检查开头至片尾。制作方说明 UI/UX 为细致控制而采用 2D 动画；未实测工业产品或判断 AI 效果。未将媒体页另一个不可直达的 Vimeo 地址当作唯一原片入口。",
+          "links": [
+            {
+              "label": "制作方原作与完整影片",
+              "url": "https://www.oyedrops.studio/work/kdi-x-microsoft"
+            },
+            {
+              "label": "同期介绍与日期",
+              "url": "https://www.stashmedia.tv/oyedrops-illuminates-the-future-of-industrial-work/"
+            }
+          ],
+          "limitations": "每5秒抽帧，未完整逐帧或听音；精确首发日、公开播放数未知；不是产品实测。",
+          "heat": "热度（2026-11-05 观察）：可核实 Stash 专题收录，原制作方页面未提供公开观看/点赞计数。媒体收录不是用户人气，不称爆款。"
+        },
+        {
+          "id": "2026-11-05-ai-product-granola",
+          "date": "2026-11-05",
+          "title": "Granola Briefs × Megan Renard｜三张来源卡片汇成一份会前摘要",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "originalHeading": "Granola Briefs × Megan Renard｜三张来源卡片汇成一份会前摘要",
+          "fullText": "作者：Megan Renard。Vimeo 上传于 2026-08-11，播放器时长 22 秒；作者称“20-second film”，两者为近似文案与实际文件长度差异。明确是作者主动制作的非委托概念项目，不是 Granola 官方广告，也不代表真实产品现有界面。\n\n作者原片与详细创作说明：[查看来源](https://vimeo.com/1217320430)\n\n画面亮点：木色办公室中，人物在开会前显得犹疑，几张半透明的转录、聊天和邮件来源卡悬在画面上方，随后合成一张较大的 Northwind Onboarding 窗口；内容从空白/虚化区变成 Decisions、Open questions、Next Steps 三层摘要，最后落回电脑桌面。\n\n可借鉴：不要让“AI 帮你准备好了”只是一句旁白。先摆出来源，再收束为有结构的结果，把内容来源和摘要组织做成可见变化；同一张大卡逐段填充，也比反复切换整屏更连续。\n\n制作说明：作者披露人物、房间与照明用 AI 生成，以一张 Higgsfield 核准参考维持一致性；界面、来源卡、扫描、摘要逐行出现和合成由 After Effects 手工制作。工具还列有 Photoshop、Premiere Pro、ElevenLabs，未披露具体模型版本。因本条主要研究 AI 产品叙事，不在“AI制作动画”栏重复计数。\n\n热度（2026-11-05 观察）：Vimeo 82 次观看、0 赞、0 评论，是冷门方法补充。\n\n核验范围：读取作者说明与元数据，取得 22 秒作者原片，每 2 秒抽帧检查全片。前 8 秒无音乐、合拢时入乐属于作者的声音设计说明，本轮未听音独立核验。未实测 Granola。",
+          "links": [
+            {
+              "label": "作者原片与详细创作说明",
+              "url": "https://vimeo.com/1217320430"
+            }
+          ],
+          "limitations": "非官方概念片；每2秒抽帧，声音叙述引用作者，未听音验证；不证明真实产品能力。",
+          "heat": "热度（2026-11-05 观察）：Vimeo 82 次观看、0 赞、0 评论，是冷门方法补充。"
+        },
+        {
+          "id": "2026-11-05-ai-product-interfere",
+          "date": "2026-11-05",
+          "title": "Interfere Launch｜从弯曲的报错屏幕，转入清晰的 AI 排查时间线",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "originalHeading": "Interfere Launch｜从弯曲的报错屏幕，转入清晰的 AI 排查时间线",
+          "fullText": "发布方：Interfere 官方账号；具体动画制作人员未查明。发布记录为 2026-06-30，约 38 秒正式产品发布片，结尾招募 early access；这说明影片发布时的状态，不代表现在仍只开放候补。当前官网可访问并提供 Get started，本轮未注册或实测。\n\n品牌原发布帖：[查看来源](https://x.com/interfere_/status/2072003433926676508)\n\n可播放影片收录：[查看来源](https://lowkey.so/interfere/launch)\n\n产品官网：[查看来源](https://interfere.com/)\n\n画面亮点：前段把代码改动、网站宕机消息、回滚及构建失败放进弯曲透视的深色画面；随后切入柔和蓝紫背景上的白色界面，沿收件箱、问题详情、根因文字、具体代码行、建议修复到 Resolved 状态逐步推进。前后两种空间组织承担了“失控→可追踪”的叙事。\n\n可借鉴：功能展示不必把整套 UI 等比例录完。先用近距离、弯曲画面制造压力，再给宽松布局；放大代码行和状态标签，让观众看懂产品具体找到了什么证据，而不只是闪过一个 AI 标志。\n\n热度（2026-11-05 观察）：Lowkey 收录页/列表显示约 79.06 万 views、586 likes。它是第三方展示的原帖相关计数，可能有缓存；本轮 X 原帖读取受限，未独立核对实时数字，也不把 views 确认为完整视频播放数。\n\n核验范围：原发布链接由 Lowkey 指向，日期与帖 ID 时间对应；取得其收录的约 38 秒视频，每 2 秒抽帧检查全片。不是从 X 直接下载的首发文件，未逐帧比对转载与首发差异，未听音。功能效果与自动修复能力不作独立背书。",
+          "links": [
+            {
+              "label": "品牌原发布帖",
+              "url": "https://x.com/interfere_/status/2072003433926676508"
+            },
+            {
+              "label": "可播放影片收录",
+              "url": "https://lowkey.so/interfere/launch"
+            },
+            {
+              "label": "产品官网",
+              "url": "https://interfere.com/"
+            }
+          ],
+          "limitations": "原X帖本轮读取受限；画面核验使用Lowkey转载视频，热度亦为第三方缓存读数；未试玩、未听音。",
+          "heat": "热度（2026-11-05 观察）：Lowkey 收录页/列表显示约 79.06 万 views、586 likes。它是第三方展示的原帖相关计数，可能有缓存；本轮 X 原帖读取受限，未独立核对实时数字，也不把 views 确认为完整视频播放数。"
+        },
+        {
+          "id": "2026-11-05-ai-product-cheats",
+          "date": "2026-11-05",
+          "title": "Spielwerk Cheats｜把提示词里的数字、颜色和风格变成可操作小控件",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "originalHeading": "Spielwerk Cheats｜把提示词里的数字、颜色和风格变成可操作小控件",
+          "fullText": "发布方：Spielwerk 创始人 Eike Drescher；具体影片制作人员未查明。发布记录为 2026-03-16，约 39 秒 Cheats 功能宣传片。重要状态变化：2026-11-05 打开 spielwerk.app 已重定向至 Jamboree，当前官网称 mobile game studio；本条只研究当时影片，不把历史界面写成今天仍可原样使用。\n\n创始人原发布帖：[查看来源](https://x.com/eikedrescher/status/2033566191961137591)\n\n可播放影片收录：[查看来源](https://lowkey.so/spielwerk/cheats)\n\n当时产品网址（现转至Jamboree）：[查看来源](https://spielwerk.app/)\n\n现品牌官网：[查看来源](https://www.jamboree.app/)\n\n画面亮点：手持手机在街道、户外和咖啡场景中切换，提示词里的普通词句逐渐嵌入彩色小控件：数量可增减，透明度是蓝色百分比胶囊，角度是带刻度的红色旋钮条；颜色词打开调色板，字体/材质/3D 风格成为带视觉效果的小标签。手指仍在原句内操作，没有频繁跳到复杂设置页。\n\n可借鉴：把自然语言里的可调整部分显形，让“描述”本身成为控制界面。宣传片也保持同一个输入容器，靠手指、文字特写与不同场景换气，形成比纯录屏更有生活感的展示。\n\n热度（2026-11-05 观察）：Lowkey 列表显示约 29.87 万 views、2,200 likes；为第三方对原帖相关数据的展示，可能缓存，未独立复核 X 实时计数，不能等同完整视频播放。\n\n核验范围：取得 Lowkey 收录的约 39 秒视频，每 2 秒抽帧覆盖全片，能见手指操作前后的小控件差异；本轮未试玩 App，也未看到从这段提示词到最终游戏的完整生成过程。原帖读取受限，首发与转载一致性未逐帧比对；未听音。",
+          "links": [
+            {
+              "label": "创始人原发布帖",
+              "url": "https://x.com/eikedrescher/status/2033566191961137591"
+            },
+            {
+              "label": "可播放影片收录",
+              "url": "https://lowkey.so/spielwerk/cheats"
+            },
+            {
+              "label": "当时产品网址（现转至Jamboree）",
+              "url": "https://spielwerk.app/"
+            },
+            {
+              "label": "现品牌官网",
+              "url": "https://www.jamboree.app/"
+            }
+          ],
+          "limitations": "历史品牌已重定向；不是当前App实测，无完整生成游戏闭环；X读取受限，使用第三方收录视频与缓存热度。",
+          "heat": "热度（2026-11-05 观察）：Lowkey 列表显示约 29.87 万 views、2,200 likes；为第三方对原帖相关数据的展示，可能缓存，未独立复核 X 实时计数，不能等同完整视频播放。"
+        },
+        {
+          "id": "2026-11-05-ai-dear-upstairs",
+          "date": "2026-11-05",
+          "title": "Dear Upstairs Neighbors｜先用手工动画锁表演，再让模型把笔触画出来",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "originalHeading": "Dear Upstairs Neighbors｜先用手工动画锁表演，再让模型把笔触画出来",
+          "fullText": "作者：Connie Qin He / Google DeepMind；制作设计 Yingzong Xin\n\n日期：制作文章、官方预告均为 2026-01-26；当日为 Sundance Story Forum 预览。Tribeca 官方列为 2026 世界首映，不能把预览写成正式首映。\n\n官方预告（非完整成片）：[查看来源](https://www.youtube.com/watch?v=eCk5VFKKz08)\n\n一手制作拆解：[查看来源](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/)\n\nTribeca 官方片目：[查看来源](https://tribecafilm.com/films/dear-upstairs-neighbors-2026)\n\n输入与流程：工具：定制微调 Veo、Imagen，另有 Maya、TVPaint、ComfyUI、Premiere；Veo/Imagen 具体基础版本未公开。输入是团队手绘概念图、角色设计和粗动画。人工先做分镜、表演与时机：Maya 3D 动画送入 Veo，TVPaint 2D 动画通过 ComfyUI 逐帧交给 Imagen。AI 负责风格化、局部生成及 4K 放大，团队逐镜评审、调整遮罩。官方明确说所有最终镜头都不是一键生成。\n\n视觉核验：时序抽帧已看到：Maya 版 Ada 张开双臂躺下，随后切到同构图的厚笔触版本；另一段把 TVPaint 黑白动作与彩色噪声幻觉成片并列。先固定动作，再改变渲染语言，比较关系非常清楚。\n\n可借鉴：把表演控制和视觉风格拆成两层。需要精确喜剧时机时，用粗动画传达动作，不把全部控制寄托在文字提示词。\n\n热度：2026-11-05 检索观察：官方预告索引快照为 47,600 观看、1,500 赞，非实时计数；另有 Tribeca 官方入选记录。\n\n核验边界：本轮核对署名制作文章、预告元数据及两段制作对照视频的时序帧；没有观看完整六分钟成片。定制研究流程不等于普通账号可直接复现。",
+          "links": [
+            {
+              "label": "官方预告（非完整成片）",
+              "url": "https://www.youtube.com/watch?v=eCk5VFKKz08"
+            },
+            {
+              "label": "一手制作拆解",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/"
+            },
+            {
+              "label": "Tribeca 官方片目",
+              "url": "https://tribecafilm.com/films/dear-upstairs-neighbors-2026"
+            }
+          ],
+          "heat": "2026-11-05 检索观察：官方预告索引快照为 47,600 观看、1,500 赞，非实时计数；另有 Tribeca 官方入选记录。",
+          "limitations": "本轮核对署名制作文章、预告元数据及两段制作对照视频的时序帧；没有观看完整六分钟成片。定制研究流程不等于普通账号可直接复现。"
+        },
+        {
+          "id": "2026-11-05-ai-beta-earth",
+          "date": "2026-11-05",
+          "title": "Beta Earth｜手绘角色先进入 animatic，再扩成复古科幻世界",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "originalHeading": "Beta Earth｜手绘角色先进入 animatic，再扩成复古科幻世界",
+          "fullText": "作者：Nik Kleverov / Native Foreign；原创故事 Ryan Walls\n\n日期：2025 年 Adobe MAX 首展；官方介绍与制作文章日期 2025-10-29。该作品是原创系列的概念预告，不是已上线完整剧集。\n\n成片／系列预告：[查看来源](https://video.tv.adobe.com/v/3481799)\n\n独立幕后视频：[查看来源](https://video.tv.adobe.com/v/3481787)\n\n制作流程文章：[查看来源](https://blog.adobe.com/en/publish/2025/10/29/how-shorts-for-generative-ai-film-festival-max-2025-were-made)\n\n导演本人发布：[查看来源](https://www.linkedin.com/posts/nikkleverov_took-stage-yesterday-at-adobe-max-to-give-activity-7389351739331596289-EDGB)\n\n输入与流程：已披露：Firefly Boards、Premiere、Generate Sound Effects，以及 Veo 3.1、Ray3 等伙伴模型。角色先由插画师手绘，再发展为生成静帧；静帧进入 Premiere 组成 animatic，修改后才做视频生成。脚本、设计选择、节奏与最终剪辑仍由团队决定；没有公开逐镜模型分配。\n\n视觉核验：成片 15/45/80/125/180/230 秒抽帧：办公室鸡尾酒、机械臂实验室、沾绿液的宇航服、直播式人脸特写、双人船舱和眼球标题。线描人物贯穿不同空间，暖色复古室内与异星危险形成视觉反差。BTS 抽帧确认是团队访谈与制作素材，而非把成片误作幕后。\n\n可借鉴：先用低成本静帧检查角色关系和笑点，再投入视频生成；概念预告可用一组“正常设想→灾难现场”的镜头反差讲清世界观。\n\n热度：2026-11-05 观察：有 Adobe MAX 首展及导演本人发布佐证；未取得可靠的实时播放、点赞数，不称爆款。\n\n核验边界：已读取官方模型清单并抽查成片与独立 BTS 各六个时间点；未连续看完、未验证所有声音工序。Adobe 页面列的是整体工具组合，不能推断每一镜都用了 Veo 3.1 或 Ray3。",
+          "links": [
+            {
+              "label": "成片／系列预告",
+              "url": "https://video.tv.adobe.com/v/3481799"
+            },
+            {
+              "label": "独立幕后视频",
+              "url": "https://video.tv.adobe.com/v/3481787"
+            },
+            {
+              "label": "制作流程文章",
+              "url": "https://blog.adobe.com/en/publish/2025/10/29/how-shorts-for-generative-ai-film-festival-max-2025-were-made"
+            },
+            {
+              "label": "导演本人发布",
+              "url": "https://www.linkedin.com/posts/nikkleverov_took-stage-yesterday-at-adobe-max-to-give-activity-7389351739331596289-EDGB"
+            }
+          ],
+          "heat": "2026-11-05 观察：有 Adobe MAX 首展及导演本人发布佐证；未取得可靠的实时播放、点赞数，不称爆款。",
+          "limitations": "已读取官方模型清单并抽查成片与独立 BTS 各六个时间点；未连续看完、未验证所有声音工序。Adobe 页面列的是整体工具组合，不能推断每一镜都用了 Veo 3.1 或 Ray3。"
+        },
+        {
+          "id": "2026-11-05-ai-nagori",
+          "date": "2026-11-05",
+          "title": "NAGORI — Shadows Linger｜用黑墨留白统一世界，把运动测试排在分镜旁",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "originalHeading": "NAGORI — Shadows Linger｜用黑墨留白统一世界，把运动测试排在分镜旁",
+          "fullText": "作者：Guillaume Hurbault / Promise Studios\n\n日期：2025 年 Adobe MAX 首展；官方成片与制作文章 2025-10-29。作者本人把作品定位为 2D 日本寓言。\n\n成片：[查看来源](https://video.tv.adobe.com/v/3481797)\n\n独立幕后视频：[查看来源](https://video.tv.adobe.com/v/3481792)\n\n制作流程文章：[查看来源](https://blog.adobe.com/en/publish/2025/10/29/how-shorts-for-generative-ai-film-festival-max-2025-were-made)\n\n导演本人发布：[查看来源](https://www.linkedin.com/posts/guillaumehurbault_adobemax-activity-7389667834890608640-JV-1)\n\n导演讲解转录：[查看来源](https://www.adobe.com/products/firefly/features/storyboard.html)\n\n输入与流程：已披露：Firefly Boards、Photoshop、Premiere；导演讲解还提到 soundtrack generator。具体图像／视频模型及版本没有公开，不能把 Firefly 平台名当作唯一生成模型。先试不同视觉方向，整理成分镜，再测试静帧运动、挑选镜头，最后完成剪辑与声音。人负责故事、墨画风格和取舍，AI 生成候选画面与运动。\n\n视觉核验：成片 10/35/65/95/130/180 秒抽帧见到：渔村黑色剪影、大面积白底、远处战火、黑场文字、空屋，最后回到小船与弧形彩墨。BTS 40/65/90/120 秒可见生成面板、成组分镜、运动候选和音乐情绪标签。\n\n可借鉴：先限定黑白、剪影与少量色彩的规则，再生成镜头；把运动候选放回同一块分镜板评估，能避免“单镜漂亮、整片散掉”。这是对实看素材的设计归纳。\n\n热度：2026-11-05 观察：Adobe MAX 官方展映、导演公开发布均可核验；没有可靠实时播放或点赞数，不据平台知名度写成热度排名。\n\n核验边界：成片与幕后分别核验，均为六个时间点的抽帧而非连续全片观看；未公开的模型版本、提示词和剪辑参数不补猜。",
+          "links": [
+            {
+              "label": "成片",
+              "url": "https://video.tv.adobe.com/v/3481797"
+            },
+            {
+              "label": "独立幕后视频",
+              "url": "https://video.tv.adobe.com/v/3481792"
+            },
+            {
+              "label": "制作流程文章",
+              "url": "https://blog.adobe.com/en/publish/2025/10/29/how-shorts-for-generative-ai-film-festival-max-2025-were-made"
+            },
+            {
+              "label": "导演本人发布",
+              "url": "https://www.linkedin.com/posts/guillaumehurbault_adobemax-activity-7389667834890608640-JV-1"
+            },
+            {
+              "label": "导演讲解转录",
+              "url": "https://www.adobe.com/products/firefly/features/storyboard.html"
+            }
+          ],
+          "heat": "2026-11-05 观察：Adobe MAX 官方展映、导演公开发布均可核验；没有可靠实时播放或点赞数，不据平台知名度写成热度排名。",
+          "limitations": "成片与幕后分别核验，均为六个时间点的抽帧而非连续全片观看；未公开的模型版本、提示词和剪辑参数不补猜。"
+        },
+        {
+          "id": "2026-11-05-ai-skillet",
+          "date": "2026-11-05",
+          "title": "Skillet & The Jetport Diner｜先合成环境再替换演员，减少机器人身上的绿幕反光",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "originalHeading": "Skillet & The Jetport Diner｜先合成环境再替换演员，减少机器人身上的绿幕反光",
+          "fullText": "作者：Joey Daoud / New Territory Media、VP Land\n\n日期：Escape 原片标为 2024-10-16；创作者制作回顾 2024-11-03。属于回看型流程案例，不是近期新片。\n\n原片：[查看来源](https://escape.ai/watch/670f1408a4a44c33d2e75c39)\n\n制作方回顾与转录：[查看来源](https://www.vp-land.com/stories/skillet-and-the-jetport-diner-bts-ai-animated-short)\n\n独立幕后视频：[查看来源](https://www.youtube.com/watch?v=JZIgnizy39M)\n\n输入与流程：核心输入是 iPhone 绿幕真人表演和餐厅 3D 模型。先在 Resolve 合成环境，再用 Wonder Dynamics 替换为 CG 角色，避免反光机器人把绿幕反射也带进结果。Playbook 控制 3D 构图，Unreal 提供指定推镜，Runway Gen 3 做视频风格化；Gen 3 由幕后转录确认。其他工具含 Ideogram、Dream Machine、ElevenLabs、Suno，版本未披露。人工表演、取景和剪辑提供控制，AI 做角色替换、环境与风格生成。\n\n视觉核验：已看真实 BTS 缩略图：真人绿幕小窗、餐厅里的 CG 人物和影片菜单海报同框，能直接解释“表演输入→角色输出”。尚无本轮可用成片动态核验，不能据这张图评价口型、运动质量或一致性。\n\n可借鉴：生成式替换会理解输入环境的反射与光照，所以先给它正确的合成背景；不要让错误环境成为模型要忠实保留的条件。\n\n热度：2026-11-05 观察：Escape 官方页面仍公开；页面元数据含 2,138 views，但这不是实时可见计数，也不是全平台热度。\n\n核验边界：原片本轮无法读取。已核验制作方文字、页面内幕后转录和真实封面；未观看成片。作者承认部分餐厅镜头视觉不一致；ComfyUI、MetaHuman、Move AI 在文章中是后续计划，不能写成本片已用工具。",
+          "links": [
+            {
+              "label": "原片",
+              "url": "https://escape.ai/watch/670f1408a4a44c33d2e75c39"
+            },
+            {
+              "label": "制作方回顾与转录",
+              "url": "https://www.vp-land.com/stories/skillet-and-the-jetport-diner-bts-ai-animated-short"
+            },
+            {
+              "label": "独立幕后视频",
+              "url": "https://www.youtube.com/watch?v=JZIgnizy39M"
+            }
+          ],
+          "heat": "2026-11-05 观察：Escape 官方页面仍公开；页面元数据含 2,138 views，但这不是实时可见计数，也不是全平台热度。",
+          "limitations": "原片本轮无法读取。已核验制作方文字、页面内幕后转录和真实封面；未观看成片。作者承认部分餐厅镜头视觉不一致；ComfyUI、MetaHuman、Move AI 在文章中是后续计划，不能写成本片已用工具。"
+        },
+        {
+          "id": "2026-11-05-ai-family-no6",
+          "date": "2026-11-05",
+          "title": "Family Member No. 6／家人六号｜身体不变，只用三种灯色区分人格",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "originalHeading": "Family Member No. 6／家人六号｜身体不变，只用三种灯色区分人格",
+          "fullText": "作者：炼丹 AI Studio / 深圳市炼丹科技有限公司\n\n日期：制作方称 2026 年 7 月下旬开始改编，8 月 20 日发布；本轮下载的官方压缩预览长 338.939 秒，约 5:39。\n\n成片与一手制作回顾：[查看来源](https://liandankeji.com/work/projects/p013/index.en.html)\n\n官方视频预览：[查看来源](https://cdn.liandankeji.com/work/assets/web-video/KvsFbjPRyo7g8IxkqjXcE7ASnSb.mp4)\n\n输入与流程：已证实：CapCut、Mureka；语言、图像、视频及放大模型名称和版本未披露。人工先定故事和灯色规则：蓝／黄／白对应三种人格，机器人外壳与围裙不变。先做色板、角色三视图和身高对照，再按场景重新打光；角色与场景资产送入视频模型，提示词限定轴线和空间关系。生成对白在 CapCut 分离清理，Mureka 辅助配乐；720p 生成后再放大至 4K，人工复核修正。\n\n视觉核验：成片 5/40/85/150/222/330 秒抽帧核验：蓝色面屏、女孩与机器人的工作台、红光湿地、扳手近景、黑面屏中央白点、末尾铁盒。视觉变化落在灯色、道具和镜头距离上，角色主体保持同一造型。\n\n可借鉴：复杂身份可以用一种固定角色加少量状态色承载；先替每个场景给角色重打光，避免白底角色像贴纸一样贴进昏暗空间。\n\n热度：2026-11-05 观察：制作方有完整公开案例页，自述作为抖音比赛作品发布；未取得抖音原帖及互动计数，不据自述称为获奖或热门。\n\n核验边界：已核对一手案例页并抽查压缩预览六个时间点，未连续观看全片。4K 是制作方的放大交付规格，不代表模型原生 4K；本轮视频仅为官网压缩预览。",
+          "links": [
+            {
+              "label": "成片与一手制作回顾",
+              "url": "https://liandankeji.com/work/projects/p013/index.en.html"
+            },
+            {
+              "label": "官方视频预览",
+              "url": "https://cdn.liandankeji.com/work/assets/web-video/KvsFbjPRyo7g8IxkqjXcE7ASnSb.mp4"
+            }
+          ],
+          "heat": "2026-11-05 观察：制作方有完整公开案例页，自述作为抖音比赛作品发布；未取得抖音原帖及互动计数，不据自述称为获奖或热门。",
+          "limitations": "已核对一手案例页并抽查压缩预览六个时间点，未连续观看全片。4K 是制作方的放大交付规格，不代表模型原生 4K；本轮视频仅为官网压缩预览。"
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "title": "2026-11-04 UI 与动效设计精选",
