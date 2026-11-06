@@ -1063,5 +1063,185 @@
     "alt": "Family Member No. 6／家人六号｜身体不变，只用三种灯色区分人格｜制作方案例页真实关键帧，已与成片风格和角色核对",
     "sourceUrl": "https://liandankeji.com/work/projects/p013/index.en.html",
     "credit": "制作方案例页真实关键帧，已与成片风格和角色核对"
+  },
+  "2026-11-06-ui-webhooks": {
+    "src": "cover-2026-11-06-ui-webhooks.jpg",
+    "alt": "暗色 Webhooks 投递仪表与端点逐小时状态条",
+    "sourceUrl": "https://pbs.twimg.com/media/HWWWlwsXcAABqQY.jpg?format=webp&name=large",
+    "credit": "Yuri Gokoryan / @yurygok；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-ui-texture": {
+    "src": "cover-2026-11-06-ui-texture.jpg",
+    "alt": "玻璃透镜放大纸面黑色文字，保留粗糙墨迹与纸纹",
+    "sourceUrl": "https://cdn.recent.design/items/o5w1k5q/0/958x720.mp4",
+    "credit": "Emile / @eledure / 24h.studio；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-ui-rico-apps": {
+    "src": "cover-2026-11-06-ui-rico-apps.jpg",
+    "alt": "Ace Studio 深色 Apps 页面，用勾选、加号与红字区分连接状态",
+    "sourceUrl": "https://pbs.twimg.com/media/HVfVRpCaEAA0jSl.jpg?format=webp&name=large",
+    "credit": "rico / @_heyrico；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-ui-system-notifications": {
+    "src": "cover-2026-11-06-ui-system-notifications.jpg",
+    "alt": "深色拟物通知面板，彩色线性图标嵌在圆形底座中",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/16137794/file/original-8e4e9fe0a0ed0ee78ae0b3f53bdbe409.png?resize=1024x768&vertical=center",
+    "credit": "Sarib Khan；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-ui-anathema": {
+    "src": "cover-2026-11-06-ui-anathema.jpg",
+    "alt": "ANATHEMA 玩家状态条细节及左下角 HUD 在暗色游戏场景中的位置",
+    "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/610f27255831657.6aab52773a76d.png",
+    "credit": "Sara Guglielmetti；协作 Alex Novello；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-play-dumbcaptcha": {
+    "src": "cover-2026-11-06-play-dumbcaptcha.jpg",
+    "alt": "立体拼图碎片散落在验证码卡片四周，蓝色提示条说明旋转和翻面",
+    "sourceUrl": "https://cdn.recent.design/items/4ldtkhb/0/540x540.mp4",
+    "credit": "jhey / @jh3yy；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-play-aquarium": {
+    "src": "cover-2026-11-06-play-aquarium.jpg",
+    "alt": "玻璃水箱中的微缩山岛，碎裂玻璃与逐渐下降的水位",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/10/aquarium_800x600.mp4",
+    "credit": "Wawa Sensei / wass08；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-play-tidewater": {
+    "src": "cover-2026-11-06-play-tidewater.jpg",
+    "alt": "Tidewater 海边木栈道、鱼形招牌和右下圆形地图",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/10/tidewater_800x600.mp4",
+    "credit": "Dan Greenheck；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-play-footballs": {
+    "src": "cover-2026-11-06-play-footballs.jpg",
+    "alt": "一群白蓝足球挤在透明球体容器中，背景为饱和蓝色",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/08/balls.mp4",
+    "credit": "Nestor Rios Garcia / @nestorrig；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-play-balloon-button": {
+    "src": "cover-2026-11-06-play-balloon-button.jpg",
+    "alt": "红色充气质感 Get started 按钮下落时产生褶皱，地面带倒影",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/demovideos/99450_Ballon%20Button.mp4",
+    "credit": "Joshua Guo；原作图片或演示抽帧，仅作案例引用。"
+  },
+  "2026-11-06-motion-nf0rkxb": {
+    "src": "cover-2026-11-06-motion-nf0rkxb.jpg",
+    "alt": "Genie 演示原片：窗口变成朝 Dock 收拢的漏斗",
+    "sourceUrl": "https://www.raphaelsalaja.com/work/genie",
+    "credit": "Raphael Salaja；原作演示抽帧"
+  },
+  "2026-11-06-motion-1pd6afn": {
+    "src": "cover-2026-11-06-motion-1pd6afn.jpg",
+    "alt": "AI 表格演示原片：彩色光带扫过客户和金额数据",
+    "sourceUrl": "https://x.com/Nomandsign/status/2117712985804484770",
+    "credit": "Noman / @Nomandsign；原作演示抽帧"
+  },
+  "2026-11-06-motion-1sr9bt9": {
+    "src": "cover-2026-11-06-motion-1sr9bt9.jpg",
+    "alt": "股票行情原片：展开的 TSLA 曲线卡和游标取样位置",
+    "sourceUrl": "https://x.com/alexabraham/status/2117327926580625417",
+    "credit": "alex / @alexabraham；原作演示抽帧"
+  },
+  "2026-11-06-motion-tzsn9ci": {
+    "src": "cover-2026-11-06-motion-tzsn9ci.jpg",
+    "alt": "Liquid Bubble 原片：透明相机球和绿色加号球连成液态桥",
+    "sourceUrl": "https://x.com/_crisjav/status/2117479742719017227",
+    "credit": "Cristian Javier / @_crisjav；原作演示抽帧"
+  },
+  "2026-11-06-motion-jc9jje6": {
+    "src": "cover-2026-11-06-motion-jc9jje6.jpg",
+    "alt": "销户效果原片：燃烧边界把白色删除页揭成黑色登录页",
+    "sourceUrl": "https://x.com/kshvbgde/status/2117502283894362219",
+    "credit": "keshav / @kshvbgde；原作演示抽帧"
+  },
+  "2026-11-06-motion-i2g8hzc": {
+    "src": "cover-2026-11-06-motion-i2g8hzc.jpg",
+    "alt": "Shop 原片：紫色场景中的球面商品图库",
+    "sourceUrl": "https://x.com/regyperlera/status/2118132238390903124",
+    "credit": "Regy Perlera 与 Shop 团队；原帖鸣谢 Dominic Lind、Liam、Max Kaplun 等；原作演示抽帧"
+  },
+  "2026-11-06-motion-thermostat": {
+    "src": "cover-2026-11-06-motion-thermostat.jpg",
+    "alt": "温控原片：80°F、黄色弧形温度轮与制热状态",
+    "sourceUrl": "https://dribbble.com/shots/25140139-Mobile-App-UI-Animation-for-Smart-Thermostat-Control",
+    "credit": "Shakuro UI/UX / Shakuro；原作演示抽帧"
+  },
+  "2026-11-06-motion-gaming": {
+    "src": "cover-2026-11-06-motion-gaming.jpg",
+    "alt": "Nixtio 主片：绿色游戏机角色与右侧战绩匹配面板",
+    "sourceUrl": "https://dribbble.com/shots/27301580-Gaming-Dashboard-UI-Animation",
+    "credit": "Nixtio；原作演示抽帧"
+  },
+  "2026-11-06-motion-limitless": {
+    "src": "cover-2026-11-06-motion-limitless.jpg",
+    "alt": "Limitless 原片：荧光绿色卡路里半圆与训练数据卡",
+    "sourceUrl": "https://dribbble.com/shots/27436263-Limitless-Fitness-Mobile-App-UI-Animation",
+    "credit": "SlabPixel Designer / SlabPixel；原作演示抽帧"
+  },
+  "2026-11-06-motion-nexbot": {
+    "src": "cover-2026-11-06-motion-nexbot.jpg",
+    "alt": "NEXBOT 原片：浅色机器人后台和逐步显现的监控卡片",
+    "sourceUrl": "https://dribbble.com/shots/27619281-NEXBOT-AI-Robotics-Dashboard-UI-Animation",
+    "credit": "BayFi UI/UX® / BayFi®；原作演示抽帧"
+  },
+  "2026-11-06-ai-product-harvey": {
+    "src": "cover-2026-11-06-ai-product-harvey.jpg",
+    "alt": "Harvey II × Oddfellows｜让铅笔、文档和几何模块讲清 AI 的记忆｜作者原影片画面",
+    "sourceUrl": "https://framerate.tv/watch/Kp63wliw",
+    "credit": "原作影片画面"
+  },
+  "2026-11-06-ai-product-meta": {
+    "src": "cover-2026-11-06-ai-product-meta.jpg",
+    "alt": "Meta Little Wonders｜把 AI 眼镜拍成十个有笑点的时尚小场景｜作者原影片画面",
+    "sourceUrl": "https://tendril.studio/work/meta-glasses/",
+    "credit": "原作影片画面"
+  },
+  "2026-11-06-ai-product-everygen": {
+    "src": "cover-2026-11-06-ai-product-everygen.jpg",
+    "alt": "Everygen Shorts Studio｜一条蓝色扫描光把输入、分析与成片接起来｜作者原影片画面",
+    "sourceUrl": "https://x.com/Vfx_Draco/status/2104075057811091799",
+    "credit": "原作影片画面"
+  },
+  "2026-11-06-ai-product-google": {
+    "src": "cover-2026-11-06-ai-product-google.jpg",
+    "alt": "Google AI Mode × Ordinary Folk｜让一根彩色细线长成搜索入口｜作者原影片画面",
+    "sourceUrl": "https://www.ordinaryfolk.co/project/google-montage",
+    "credit": "原作影片画面"
+  },
+  "2026-11-06-ai-product-howdo": {
+    "src": "cover-2026-11-06-ai-product-howdo.jpg",
+    "alt": "HowDo × Sleeko｜把做饭、扫码与教程拆成能看懂的手机动作｜作者原影片画面",
+    "sourceUrl": "https://www.behance.net/gallery/253434761/Best-AI-App-Motion-Explainer-Video-HowDo-by-Sleeko",
+    "credit": "原作影片画面"
+  },
+  "2026-11-06-ai-making-neon-nights": {
+    "src": "cover-2026-11-06-ai-making-neon-nights.webp",
+    "alt": "Neon Nights 官方封面：三位黏土感角色站在霓虹游戏厅中",
+    "sourceUrl": "https://vimeo.com/1021360563",
+    "credit": "DOGSTUDIO/DEPT® / Henry Daubrez"
+  },
+  "2026-11-06-ai-making-after-light": {
+    "src": "cover-2026-11-06-ai-making-after-light.webp",
+    "alt": "After Light 官方封面：橙色裤装舞者位于巨大蓝手之间",
+    "sourceUrl": "https://vimeo.com/844426637",
+    "credit": "Vallée Duhamel"
+  },
+  "2026-11-06-ai-making-critterz": {
+    "src": "cover-2026-11-06-ai-making-critterz.jpg",
+    "alt": "Critterz 原短片封面：雾林前两个毛茸茸的生物与片名",
+    "sourceUrl": "https://www.youtube.com/watch?v=-qdx6VBJHBU",
+    "credit": "Critterz / Chad Nelson / Native Foreign"
+  },
+  "2026-11-06-ai-making-air-head": {
+    "src": "cover-2026-11-06-ai-making-air-head.jpg",
+    "alt": "Air Head 官方封面：坐着的角色以黄色气球替代头部",
+    "sourceUrl": "https://www.youtube.com/watch?v=9oryIMNVtto",
+    "credit": "shy kids / OpenAI"
+  },
+  "2026-11-06-ai-making-wizard-ai": {
+    "src": "cover-2026-11-06-ai-making-wizard-ai.webp",
+    "alt": "The Wizard of AI 官方封面：无面孔连帽人坐在霓虹工作室中",
+    "sourceUrl": "https://vimeo.com/884929644",
+    "credit": "Alan Warburton / Open Data Institute"
   }
 }
