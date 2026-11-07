@@ -2,7 +2,7 @@
 const $ = s => document.querySelector(s);
 let data, items = [], covers = {}, state = {date:'', module:'', q:'', sort:'new', favorites:false};
 const FAVORITES_KEY = 'motion-archive:favorites:v1';
-let favorites = new Set(), storageAvailable = true;
+let favorites = new Set(), storageAvailable = true, detailOpener;
 const names = {'UI设计':'UI 设计','UI动效':'UI 动效','趣味交互':'趣味交互','AI产品宣传':'AI 产品宣传','AI制作动画':'AI 制作动画'};
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function safeUrl(s) { try { const u = new URL(s); return ['https:','http:'].includes(u.protocol) ? u.href : '#'; } catch { return '#'; } }
@@ -28,8 +28,8 @@ function inline(s) { return esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)
 function markdown(s) { return String(s).split(/\n\n+/).map(p => { if (/^#{1,4} /.test(p)) return `<h3>${inline(p.match(/^#{1,4} (.*)/)[1])}</h3>`; return '<p>' + p.split('\n').map(inline).join('<br>') + '</p>'; }).join(''); }
 function clean(s) { return String(s).replace(/\[([^\]]+)\]\([^)]*\)/g,'$1').replace(/\*|#/g,'').replace(/https?:\/\/\S+/g,'').trim(); }
 function preview(c) { return clean(c.fullText.split('\n').filter(x => x.trim() && !/^\[|^原片|^原作|^观看|^链接|^https?:/.test(x)).join(' ')); }
-function openCase(c) { $('#detailMeta').textContent = `${c.date} 归档 · ${names[c.module] || c.module}`; $('#detailBody').innerHTML = `<h2>${esc(c.title)}</h2><div class="detail-links">${c.links.map(l => `<a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer">${esc(l.label || '查看原作')} ↗</a>`).join('')}</div>${markdown(c.fullText)}`; $('#detail').showModal(); $('#detail').scrollTop = 0; }
-function openDay(d) { $('#detailMeta').textContent = `${d.date} · 当日完整精选`; $('#detailBody').innerHTML = markdown(d.fullText); $('#detail').showModal(); $('#detail').scrollTop = 0; }
+function openCase(c) { detailOpener = document.activeElement; $('#detailMeta').textContent = `${c.date} 归档 · ${names[c.module] || c.module}`; $('#detailBody').innerHTML = `<h2>${esc(c.title)}</h2><div class="detail-links">${c.links.map(l => `<a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer">${esc(l.label || '查看原作')} ↗</a>`).join('')}</div>${markdown(c.fullText)}`; $('#detail').showModal(); $('#detail').scrollTop = 0; }
+function openDay(d) { detailOpener = document.activeElement; $('#detailMeta').textContent = `${d.date} · 当日完整精选`; $('#detailBody').innerHTML = markdown(d.fullText); $('#detail').showModal(); $('#detail').scrollTop = 0; }
 function coverMarkup(c) {
   const cover = c.cover || covers[c.id];
   let src = '';
@@ -81,6 +81,7 @@ $('#cards').addEventListener('click', e => {
   $('#favoriteStatus').textContent = `${removing ? '已取消收藏' : '已收藏'}：${c.title}${storageAvailable ? '' : '。暂时仅在本次页面中保存'}`;
 });
 $('#closeDetail').onclick = () => $('#detail').close();
+$('#detail').addEventListener('close', () => restoreArchiveFocus(detailOpener));
 $('#detail').addEventListener('click', e => { if (e.target === $('#detail')) { const r = $('#detail').getBoundingClientRect(); if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) $('#detail').close(); } });
 $('#search').addEventListener('input', e => { state.q = e.target.value; render(); });
 $('#sort').onchange = e => { state.sort = e.target.value; render(); };
@@ -91,11 +92,37 @@ $('#favoritesView').onclick = () => { state.favorites = true; state.date = ''; s
 $('#clear').onclick = () => { state.date = ''; state.module = ''; state.q = ''; $('#search').value = ''; render(); };
 document.addEventListener('keydown', e => { if (e.key === '/' && !['INPUT','TEXTAREA'].includes(document.activeElement.tagName) && !$('#detail').open) { e.preventDefault(); $('#search').focus(); } });
 window.addEventListener('storage', e => { if (e.key === FAVORITES_KEY || e.key === null) { favorites = new Set(); storageAvailable = true; readFavorites(); if (data) render(); } });
-Promise.all([
-  fetch('data.json').then(r => { if (!r.ok) throw Error('load'); return r.json(); }),
-  fetch('covers.json').then(r => r.ok ? r.json() : {}).catch(() => ({}))
-]).then(([d, coverData]) => {
-  data = d; covers = coverData && typeof coverData === 'object' ? coverData : {}; items = d.days.flatMap(d => d.cases);
+// Revalidate mutable files even while GitHub Pages' ten-minute cache is fresh.
+const REFRESH_INTERVAL = 5 * 60 * 1000;
+const REFRESH_THROTTLE = 60 * 1000;
+const REFRESH_TIMEOUT = 15 * 1000;
+let refreshInFlight = false, lastRefreshAttempt = -Infinity;
+function validArchive(d) {
+  return d && Array.isArray(d.modules) && d.modules.every(m => typeof m === 'string') &&
+    Array.isArray(d.days) && d.days.length > 0 && d.days.every(day =>
+      day && typeof day.date === 'string' && typeof day.fullText === 'string' &&
+      Array.isArray(day.cases) && day.cases.every(c => c &&
+        ['id', 'date', 'title', 'module', 'fullText'].every(k => typeof c[k] === 'string') &&
+        Array.isArray(c.links) && c.links.every(l => l && typeof l.url === 'string')));
+}
+async function fetchJson(path, signal) {
+  const response = await fetch(path, {cache:'no-cache', signal});
+  if (!response.ok) throw Error('load');
+  return response.json();
+}
+function restoreArchiveFocus(focused) {
+  if (!focused || focused.isConnected) return;
+  const key = ['id', 'date', 'module', 'day'].find(k => focused.dataset?.[k] !== undefined);
+  const replacement = [...document.querySelectorAll('button, a')].find(el =>
+    el.tagName === focused.tagName && el.className === focused.className &&
+    (key ? el.dataset[key] === focused.dataset[key] : focused.tagName === 'A' && el.href === focused.href));
+  replacement?.focus({preventScroll:true});
+}
+function applyArchive(d, coverData) {
+  // Leave the DOM (including keyboard focus and an open article) alone if unchanged.
+  if (JSON.stringify(data) === JSON.stringify(d) && JSON.stringify(covers) === JSON.stringify(coverData)) return;
+  const focused = document.activeElement;
+  data = d; covers = coverData; items = d.days.flatMap(day => day.cases);
   $('#caseCount').textContent = items.length; $('#sideCount').textContent = items.length;
   $('#dayCount').textContent = String(d.days.length).padStart(2,'0'); $('#updated').textContent = d.days.map(x => x.date).sort().at(-1);
   $('#dates').innerHTML = d.days.slice().sort((a,b) => b.date.localeCompare(a.date)).map(d => `<button class="date-btn" data-date="${esc(d.date)}">${esc(d.date)}<span>${d.cases.length}</span></button>`).join('');
@@ -105,4 +132,34 @@ Promise.all([
   $('#editions').innerHTML = d.days.slice().sort((a,b) => b.date.localeCompare(a.date)).map(d => `<button class="edition" data-day="${esc(d.date)}"><strong>${esc(d.date)}</strong><span>${d.cases.length} 个主案例 · 阅读当日全文 ↗</span></button>`).join('');
   document.querySelectorAll('.edition').forEach(b => b.onclick = () => openDay(d.days.find(d => d.date === b.dataset.day)));
   render();
-}).catch(() => { $('#cards').innerHTML = '<p role="alert">资料暂时加载失败，请刷新页面重试。</p>'; });
+  restoreArchiveFocus(focused);
+}
+async function refreshArchive() {
+  if (document.visibilityState === 'hidden' || refreshInFlight || Date.now() - lastRefreshAttempt < REFRESH_THROTTLE) return;
+  refreshInFlight = true;
+  lastRefreshAttempt = Date.now();
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), REFRESH_TIMEOUT);
+  try {
+    const [d, coverData] = await Promise.all([
+      fetchJson('data.json', controller.signal),
+      fetchJson('covers.json', controller.signal).catch(() => covers)
+    ]);
+    if (!validArchive(d)) throw Error('Invalid archive');
+    const nextCovers = coverData && typeof coverData === 'object' && !Array.isArray(coverData) ? coverData : covers;
+    applyArchive(d, nextCovers);
+  } catch {
+    // A background refresh must never replace a readable archive with an error.
+    if (!data) $('#cards').innerHTML = '<p role="alert">资料暂时加载失败，请刷新页面重试。</p>';
+  } finally {
+    clearTimeout(timeout);
+    controller.abort();
+    refreshInFlight = false;
+  }
+}
+document.addEventListener('visibilitychange', refreshArchive);
+window.addEventListener('pageshow', refreshArchive);
+window.addEventListener('online', refreshArchive);
+setInterval(refreshArchive, REFRESH_INTERVAL);
+refreshArchive();
+

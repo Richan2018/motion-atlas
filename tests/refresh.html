@@ -1,0 +1,94 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Archive refresh regression tests</title>
+<style>body{font:16px system-ui;padding:24px}li{margin:12px 0}.pass{color:#176020}.fail{color:#a10}iframe{width:1200px;height:800px;position:absolute;left:-1500px}</style>
+<h1>Archive refresh regression tests</h1><p id="summary">Running…</p><ol id="results"></ol>
+<script type="module">
+const [html, app, data, covers] = await Promise.all(['../index.html','../app.js','../data.json','../covers.json'].map(async url => {const r = await fetch(url, {cache:'no-cache'}); return url.endsWith('.json') ? r.json() : r.text();}));
+const key = 'motion-archive:favorites:v1';
+const seed = JSON.stringify(['id:'+data.days[0].cases[0].id, 'url:https://example.com/keep-unknown']);
+const total = data.days.reduce((n,d)=>n+d.cases.length,0);
+const copy = x => JSON.parse(JSON.stringify(x));
+function eq(a,b,note='') {if(JSON.stringify(a)!==JSON.stringify(b)) throw Error(note+' expected '+JSON.stringify(b).slice(0,250)+'; got '+JSON.stringify(a).slice(0,250));}
+function ok(value,note='Assertion failed') {if(!value) throw Error(note);}
+const wait = () => new Promise(r=>setTimeout(r,0));
+function bootstrap(data,covers,seed,failed) {
+  const key='motion-archive:favorites:v1';
+  // This test frame has an isolated in-memory storage facade. Never touch real favorites.
+  const values=new Map([[key,seed]]), writes=[];
+  Object.defineProperty(window,'localStorage',{value:{getItem:k=>values.get(k)||null,setItem:(k,v)=>{writes.push(k);values.set(k,String(v));}}});
+  const test = window.test = {data,covers,writes,requests:[],delay:false,pending:[],dataStatus:failed?503:200,coverStatus:200,now:Date.now(),visibility:'visible',timeouts:new Map(),intervals:[],values};
+  Date.now=()=>test.now;
+  Object.defineProperty(document,'visibilityState',{get:()=>test.visibility});
+  window.setTimeout=(fn,ms)=>{const id=Symbol();test.timeouts.set(id,fn);return id;};
+  window.clearTimeout=id=>test.timeouts.delete(id);
+  window.setInterval=fn=>test.intervals.push(fn);
+  window.fetch=(path,opts={})=>new Promise((resolve,reject)=>{
+    test.requests.push({path,cache:opts.cache});
+    const body=JSON.parse(JSON.stringify(path==='data.json'?test.data:test.covers));
+    const status=path==='data.json'?test.dataStatus:test.coverStatus;
+    const finish=()=>resolve({ok:status===200,json:async()=>body});
+    opts.signal?.addEventListener('abort',()=>reject(new DOMException('Aborted','AbortError')));
+    if(test.delay) test.pending.push(finish); else finish();
+  });
+}
+async function fixture(failed=false) {
+  const frame=document.createElement('iframe');
+  const prefix='<base href="'+new URL('../',location.href)+'"><script>'+`(${bootstrap.toString()})(${JSON.stringify(data)},${JSON.stringify(covers)},${JSON.stringify(seed)},${failed});`+'<\/script>';
+  const source=html.replace('<head>','<head>'+prefix).replace(/<link rel="stylesheet"[^>]+>/,'').replace(/<script src="app\.js[^>]*><\/script>/,'<script>'+app.replace(/<\/script/gi,'<\\/script')+'\nwindow.api={refresh:refreshArchive,idle:()=>!refreshInFlight,state:()=>({...state}),covers:()=>covers};<\/script>');
+  frame.srcdoc=source;
+  document.body.append(frame);
+  for(let i=0;i<1000 && !frame.contentWindow?.api;i++) await wait();
+  if(!frame.contentWindow?.api) throw Error('Test frame did not initialize');
+  await wait();
+  const w=frame.contentWindow, doc=w.document;
+  return {w,doc,test:w.test,$:s=>doc.querySelector(s),all:s=>[...doc.querySelectorAll(s)],async refresh(){w.test.now+=61000;await w.api.refresh();},close:()=>frame.remove()};
+}
+function newData(){const d=copy(data), latest=d.days.map(d=>d.date).sort().at(-1), date=new Date(Date.parse(latest)+86400000).toISOString().slice(0,10); d.days.push({date,title:'New day',fullText:'New day full article',cases:[{...copy(d.days[0].cases[0]),id:'refresh-test',date,title:'Refresh test new case',links:[{url:'https://example.com/new',label:'Original'}]}]});return d;}
+let passed=0,failed=0;
+async function test(name,fn){const li=document.createElement('li');document.querySelector('#results').append(li);try{await fn();li.className='pass';li.textContent='PASS: '+name;passed++;}catch(e){li.className='fail';li.textContent='FAIL: '+name+' — '+e.stack;failed++;}}
+await test('Initial load uses no-cache; date/module/search/sort/full text/original links/favorites work',async()=>{
+ const f=await fixture();try{
+ eq(f.$('#caseCount').textContent,String(total));eq(f.all('.date-btn').length,data.days.length);
+ eq(f.test.requests,[{path:'data.json',cache:'no-cache'},{path:'covers.json',cache:'no-cache'}]);
+ eq(f.$('#favoriteCount').textContent,'1');
+ const day=data.days.at(-1);f.$(`.date-btn[data-date="${day.date}"]`).click();eq(f.all('.card').length,day.cases.length);
+ const mod=day.cases[0].module;f.$(`.filter[data-module="${mod}"]`).click();eq(f.all('.card').length,day.cases.filter(c=>c.module===mod).length);
+ f.$('#clear').click();const c=data.days[0].cases[0];f.$('#search').value=c.title;f.$('#search').dispatchEvent(new Event('input'));ok(f.all('.card').length>0);
+ f.$('#clear').click();f.$('#sort').value='old';f.$('#sort').dispatchEvent(new Event('change'));eq(f.$('.card time').textContent,data.days.map(d=>d.date).sort()[0]);
+ const first=data.days.flatMap(d=>d.cases).find(c=>c.id===f.$('.detail-btn').dataset.id);
+ eq(f.$('.source-link').href,first.links[0].url);f.$('.detail-btn').click();ok(f.$('#detail').open);ok(f.$('#detailBody').textContent.includes(first.title));eq(f.$('#detailBody').innerHTML.includes(f.w.markdown(first.fullText)),true);f.$('#closeDetail').click();
+ f.$(`.edition[data-day="${day.date}"]`).click();eq(f.$('#detailBody').innerHTML,f.w.markdown(day.fullText));f.$('#closeDetail').click();
+ f.$('#favoritesView').click();eq(f.all('.card').length,1);eq(f.test.values.get(key),seed);eq(f.test.writes,[]);
+ f.$('.favorite-btn').click();eq(f.all('.card').length,0);f.$('#browseAll').click();f.$(`.favorite-btn[data-id="${c.id}"]`).click();eq(f.$('#favoriteCount').textContent,'1');
+ }finally{f.close();}
+});
+await test('New data updates automatically without changing filters, open article, or saved favorites',async()=>{
+ const f=await fixture();try{const day=data.days[0];f.$(`.date-btn[data-date="${day.date}"]`).click();f.$('#sort').value='old';f.$('#sort').dispatchEvent(new Event('change'));f.$('#search').value=day.cases[0].title;f.$('#search').dispatchEvent(new Event('input'));
+ const cards=f.$('#cards').innerHTML;f.$('.detail-btn').focus();const openerId=f.$('.detail-btn').dataset.id;f.$('.detail-btn').click();const article=f.$('#detailBody').innerHTML;f.test.data=newData();await f.refresh();
+ eq(f.$('#caseCount').textContent,String(total+1));eq(f.all('.date-btn').length,data.days.length+1);eq(f.$('#viewTitle').textContent,day.date+' 精选');eq(f.$('#search').value,day.cases[0].title);eq(f.$('#sort').value,'old');eq(f.$('#cards').innerHTML,cards);eq(f.$('#detailBody').innerHTML,article);ok(f.$('#detail').open);eq(f.test.values.get(key),seed);eq(f.test.writes,[]);
+ f.$('#closeDetail').click();await wait();eq(f.doc.activeElement.dataset.id,openerId);f.$('#clear').click();f.$(`.date-btn[data-date="${f.test.data.days.at(-1).date}"]`).click();eq(f.all('.card').length,1);eq(f.$('.card h3').textContent,'Refresh test new case');
+ }finally{f.close();}
+});
+await test('Unchanged data does not rerender; repeated events, hidden tabs and five-minute checks are safe',async()=>{
+ const f=await fixture();try{const card=f.$('.card');await f.refresh();ok(card===f.$('.card'));
+ for(let i=0;i<5;i++){f.w.dispatchEvent(new Event('pageshow'));f.doc.dispatchEvent(new Event('visibilitychange'));f.w.dispatchEvent(new Event('online'));}await wait();eq(f.test.requests.length,4);
+ f.test.visibility='hidden';f.test.now+=300000;f.test.intervals[0]();await wait();eq(f.test.requests.length,4);
+ f.test.visibility='visible';f.doc.dispatchEvent(new Event('visibilitychange'));await wait();eq(f.test.requests.length,6);
+ f.test.now+=300000;f.test.intervals[0]();await wait();eq(f.test.requests.length,8);
+ }finally{f.close();}
+});
+await test('Single-flight loading prevents races and retains latest favorites view',async()=>{
+ const f=await fixture();try{f.test.data=newData();f.test.delay=true;f.test.now+=61000;const pending=f.w.api.refresh();for(let i=0;i<5;i++){f.w.dispatchEvent(new Event('pageshow'));f.doc.dispatchEvent(new Event('visibilitychange'));}f.$('#favoritesView').click();eq(f.test.requests.length,4);f.test.delay=false;f.test.pending.splice(0).forEach(fn=>fn());await pending;eq(f.$('#caseCount').textContent,String(total+1));eq(f.$('#viewTitle').textContent,'我的收藏');eq(f.all('.card').length,1);eq(f.test.writes,[]);
+ }finally{f.close();}
+});
+await test('HTTP errors, invalid data, and timeouts preserve old content; later retry recovers',async()=>{
+ const f=await fixture();try{const before=f.$('#cards').innerHTML;f.test.dataStatus=503;await f.refresh();eq(f.$('#cards').innerHTML,before);f.test.dataStatus=200;f.test.data={days:[{cases:null}]};await f.refresh();eq(f.$('#cards').innerHTML,before);
+ f.test.data=newData();f.test.delay=true;f.test.now+=61000;const pending=f.w.api.refresh();[...f.test.timeouts.values()].forEach(fn=>fn());await pending;eq(f.$('#cards').innerHTML,before);ok(f.w.api.idle());f.test.delay=false;f.test.pending.splice(0).forEach(fn=>fn());f.test.coverStatus=503;await f.refresh();eq(f.$('#caseCount').textContent,String(total+1));eq(f.w.api.covers(),covers);eq(f.test.writes,[]);
+ }finally{f.close();}
+});
+await test('Initial failure recovers without clearing favorites; focus survives refreshed controls',async()=>{
+ const f=await fixture(true);try{ok(f.$('#cards').textContent.includes('加载失败'));f.test.dataStatus=200;await f.refresh();eq(f.$('#caseCount').textContent,String(total));eq(f.$('#favoriteCount').textContent,'1');const button=f.$('.date-btn');button.focus();const date=button.dataset.date;f.test.data=newData();await f.refresh();eq(f.doc.activeElement.dataset.date,date);const source=f.$('.source-link');source.focus();const href=source.href;f.test.data=copy(f.test.data);f.test.data.title='Revised title';await f.refresh();eq(f.doc.activeElement.href,href);eq(f.doc.activeElement.className,'source-link');eq(f.test.writes,[]);
+ }finally{f.close();}
+});
+document.querySelector('#summary').textContent=`${passed} passed, ${failed} failed`;
+document.title=`${failed?'FAIL':'PASS'}: Archive refresh tests`;
+</script></html>
