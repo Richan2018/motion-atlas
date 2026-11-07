@@ -1243,5 +1243,198 @@
     "alt": "The Wizard of AI 官方封面：无面孔连帽人坐在霓虹工作室中",
     "sourceUrl": "https://vimeo.com/884929644",
     "credit": "Alan Warburton / Open Data Institute"
+  },
+  "2026-11-07-design-deimos-designer-encyclopedia": {
+    "src": "cover-2026-11-07-design-deimos-designer-encyclopedia.webp",
+    "alt": "Deimos：把设计师百科做成会展开的书架 · 原作品封面",
+    "sourceUrl": "https://cdn.recent.design/items/i50sj5g/0/poster/1200.webp",
+    "credit": "Recent 保留的原作品视频海报"
+  },
+  "2026-11-07-design-crestora-footer": {
+    "src": "cover-2026-11-07-design-crestora-footer.webp",
+    "alt": "Crestora：让页脚拥有一张完整的品牌海报 · 原作品封面",
+    "sourceUrl": "https://pbs.twimg.com/media/HV5E973a4AAuM5P?format=webp&name=large",
+    "credit": "X 原帖附图"
+  },
+  "2026-11-07-design-blue-hour-newspaper": {
+    "src": "cover-2026-11-07-design-blue-hour-newspaper.webp",
+    "alt": "The Blue Hour：让正文沿着插画的轮廓重新排版 · 原作品封面",
+    "sourceUrl": "https://cdn.recent.design/items/792e5r8/0/poster/1200.webp",
+    "credit": "Recent 保留的原作品视频海报"
+  },
+  "2026-11-07-design-rishi-thermostat-dial": {
+    "src": "cover-2026-11-07-design-rishi-thermostat-dial.png",
+    "alt": "Skeuomorphic Thermostat：用材料与光表达温度状态 · 原作品封面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/49393945/file/still-98ef6d3b6bc9430bc0212de16a9e9feb.png",
+    "credit": "Dribbble 原视频 poster"
+  },
+  "2026-11-07-design-reflex-real-estate-ui": {
+    "src": "cover-2026-11-07-design-reflex-real-estate-ui.webp",
+    "alt": "Reflex：让房产首页、列表与详情共用一套视觉语言 · 原作品封面",
+    "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ac1695255350867.6a9e524b8ca08.png",
+    "credit": "Shalvi Shah · Behance 原项目长图"
+  },
+  "2026-11-07-fun-codevember-shatter": {
+    "src": "cover-2026-11-07-fun-codevember-shatter.webp",
+    "alt": "Shatter：冲击点、裂纹与飞散碎片构成一条因果链 · 原作品封面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/Shatter_cover-400x300.jpg",
+    "credit": "Codrops 作品预览封面"
+  },
+  "2026-11-07-fun-codevember-fold": {
+    "src": "cover-2026-11-07-fun-codevember-fold.webp",
+    "alt": "Fold：拖动一条不断落下的彩色薄膜 · 原作品封面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/Fold_cover-400x300.jpg",
+    "credit": "Codrops 作品预览封面"
+  },
+  "2026-11-07-fun-one-year-doodle-maker": {
+    "src": "cover-2026-11-07-fun-one-year-doodle-maker.webp",
+    "alt": "One Year 2.0：把当天的心情画成自己的小图标 · 原作品封面",
+    "sourceUrl": "https://cdn.recent.design/items/6xh77zq/0/poster/960.webp",
+    "credit": "Recent 保留的原作品视频海报"
+  },
+  "2026-11-07-fun-haunted-pumpkin-emotion": {
+    "src": "cover-2026-11-07-fun-haunted-pumpkin-emotion.webp",
+    "alt": "Haunted Pumpkin：打碎南瓜之后，还有幽灵可追 · 原作品封面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/10/hauntedpumpkin_cover-400x300.jpg",
+    "credit": "Codrops 作品预览封面"
+  },
+  "2026-11-07-fun-instancedmesh2-asteroid-field": {
+    "src": "cover-2026-11-07-fun-instancedmesh2-asteroid-field.webp",
+    "alt": "InstancedMesh2 Asteroid Field：穿过一片可读出深度的小行星场 · 原作品封面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/10/asteroids_cover-400x300.jpg",
+    "credit": "Codrops 作品预览封面"
+  },
+  "2026-11-07-motion-spending-pulse": {
+    "src": "cover-2026-11-07-motion-spending-pulse.jpg",
+    "alt": "Spending Pulse 原片：黑色月度图表下展开一笔支出，粉色按钮突出分类操作",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/49540628/file/large-73536177c150d7f9fb094f930da37862.mp4",
+    "credit": "Purrweb UI/UX Agency；原作演示抽帧"
+  },
+  "2026-11-07-motion-reader": {
+    "src": "cover-2026-11-07-motion-reader.jpg",
+    "alt": "Reader 原片：浅绿色扬声器卡片展开为整页，底部保留页码与导航",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/49527062/file/e88d5202726225767f064a68bb354ccb.mp4",
+    "credit": "Slava Kornilov / Geex Arts；原作演示抽帧"
+  },
+  "2026-11-07-motion-morphing-controls": {
+    "src": "cover-2026-11-07-motion-morphing-controls.jpg",
+    "alt": "Morphing UI Controls 原片：浅灰数字步进器与白色加减按钮，保留尺寸标注",
+    "sourceUrl": "https://cdn.recent.design/items/i6vcqw4/0/480x360.mp4",
+    "credit": "Kevin / @keviduk；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-fold-toolbar": {
+    "src": "cover-2026-11-07-motion-fold-toolbar.jpg",
+    "alt": "Fold Toolbar 原片：展开后的深色工具栏，蓝色形状按钮与相邻子工具",
+    "sourceUrl": "https://cdn.recent.design/items/6jgiv46/0/540x540.mp4",
+    "credit": "Malay / @pmalay694；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-tash-pack": {
+    "src": "cover-2026-11-07-motion-tash-pack.jpg",
+    "alt": "Tash 原片：深绿回礼卡显示 15%，彩纸屑围绕卡片落下",
+    "sourceUrl": "https://cdn.recent.design/items/762nav7/0/820x720.mp4",
+    "credit": "Nick / @nickbakeddesign；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-liquid-button": {
+    "src": "cover-2026-11-07-motion-liquid-button.jpg",
+    "alt": "Liquid Button 原片：Book a call 按钮向光标方向拉出软边，内部出现粉蓝渐变",
+    "sourceUrl": "https://cdn.recent.design/items/pd1kyjp/0/630x360.mp4",
+    "credit": "Val Guerra / @val_soonafter；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-lookaway-orb": {
+    "src": "cover-2026-11-07-motion-lookaway-orb.jpg",
+    "alt": "Lookaway Orb 原片：Dock 上方的深色玻璃胶囊向上拉长，中心有发光箭头",
+    "sourceUrl": "https://cdn.recent.design/items/sf6nnvx/0/742x720.mp4",
+    "credit": "kush / @kushsolitary；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-animated-icons": {
+    "src": "cover-2026-11-07-motion-animated-icons.jpg",
+    "alt": "Animated Icon Set 原片：四行黑色线性图标，刷新、地球、连接与对话符号组成统一系统",
+    "sourceUrl": "https://cdn.recent.design/items/3ak7kef/0/480x270.mp4",
+    "credit": "James McDonald / @jamesm；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-krea-reveal": {
+    "src": "cover-2026-11-07-motion-krea-reveal.jpg",
+    "alt": "Krea 原片：蓝白瓷甲人物从模糊中显现，图像底部仍保留进度线",
+    "sourceUrl": "https://cdn.recent.design/items/f3cwpo5/0/540x540.mp4",
+    "credit": "Aleksei Larionov / @dsgn_aleksei；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-step-tracker": {
+    "src": "cover-2026-11-07-motion-step-tracker.jpg",
+    "alt": "Amble 原片：蓝色半环围绕 19,538 步，顶部为一周火焰连续活动记录",
+    "sourceUrl": "https://cdn.recent.design/items/6frflao/0/480x564.mp4",
+    "credit": "Satya / @heysatya_；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-motion-card-page": {
+    "src": "cover-2026-11-07-motion-card-page.jpg",
+    "alt": "Card to Page 原片：蓝色圆形遮罩从摩卡壶卡片扩张，覆盖原有卡片布局",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/49061319/file/large-20b40c193851e47cb34b30a21e1c79bc.mp4",
+    "credit": "tubik；原作演示抽帧"
+  },
+  "2026-11-07-motion-voice-glow": {
+    "src": "cover-2026-11-07-motion-voice-glow.jpg",
+    "alt": "Voice Glow 原片：手机底部的彩色光晕、录音胶囊和聊天框共享同一视觉语言",
+    "sourceUrl": "https://cdn.recent.design/items/y7m2ncp/0/956x720.mp4",
+    "credit": "Jakub Antalik / @Jakubantalik；原作演示抽帧（Recent 备份）"
+  },
+  "2026-11-07-products-weavy": {
+    "src": "cover-2026-11-07-products-weavy.jpg",
+    "alt": "香蕉、文字节点与黄色开关组成的 Weavy.ai 原片封面",
+    "sourceUrl": "https://vimeo.com/1169656477",
+    "credit": "MO Creative Studio；创意指导、设计与动画：Or Drori、Maayan Erlich；声音：Tal Avital；原片封面，仅作案例引用。"
+  },
+  "2026-11-07-products-ponder": {
+    "src": "cover-2026-11-07-products-ponder.png",
+    "alt": "Ponder 拍摄现场与 New Editing Flow 字排的原作封面",
+    "sourceUrl": "https://dribbble.com/shots/27398598-Ponder-AI-Launch-Day",
+    "credit": "发布与视觉设计：Artemii Lebedev；项目团队含 Timothy Wang、Tim Tan、Bini Park；原片封面，仅作案例引用。"
+  },
+  "2026-11-07-products-monogram": {
+    "src": "",
+    "alt": "Monogram｜把长篇回答换成可滑动的内容卡 · 原作画面",
+    "sourceUrl": "https://www.monogram.ai/blog/introducing-monogram",
+    "credit": "品牌 Monogram；原发布者 Eren Bali；影片制作人员未核实；原片封面，仅作案例引用。",
+    "unavailableReason": "原片海报访问返回 HTTP 403；后续播放器补图未成功。本条保留缺图，先前实际观看范围见正文。"
+  },
+  "2026-11-07-products-aura": {
+    "src": "cover-2026-11-07-products-aura.jpg",
+    "alt": "灰色网格空间中的购物网站画面，Aura 作者原片封面",
+    "sourceUrl": "https://vimeo.com/1156883962",
+    "credit": "Nasir Kareem；客户 Subscribfy；原片封面，仅作案例引用。"
+  },
+  "2026-11-07-products-lexroom": {
+    "src": "cover-2026-11-07-products-lexroom.jpg",
+    "alt": "Lexroom 原片的蓝红灰色抽象渐变封面",
+    "sourceUrl": "https://vimeo.com/1171821410",
+    "credit": "ILLO；创意指导 Cristina Pasquale，插画 Michele Giamello，动效 Miguel D'Errico、Giuseppe Laezza，制片 Daniel Ceballos；原片封面，仅作案例引用。"
+  },
+  "2026-11-07-ai-making-slice": {
+    "src": "cover-2026-11-07-ai-making-slice.jpg",
+    "alt": "SLICE 的三位大头角色合影",
+    "sourceUrl": "https://mediablog.cdnpk.net/sites/1/2026/09/Frame-2147227467.png",
+    "credit": "Magnific · 官方静帧"
+  },
+  "2026-11-07-ai-making-hollow-house": {
+    "src": "cover-2026-11-07-ai-making-hollow-house.jpg",
+    "alt": "穿 STAFF 连帽衫的鬼怪站在鬼屋入口",
+    "sourceUrl": "https://thorstenmeyerai.com/wp-content/uploads/2026/10/hollow-house-making-of-12-tall-man-staff-hoodie.jpg",
+    "credit": "Thorsten Meyer · 官方静帧"
+  },
+  "2026-11-07-ai-making-lost-garden": {
+    "src": "cover-2026-11-07-ai-making-lost-garden.jpg",
+    "alt": "冷蓝森林前的白色灯笼头盔角色",
+    "sourceUrl": "https://www.lostgarden.world/images/hero-banner.png?dpl=dpl_2AybDdJiwUutHb5q2wtndYZWXAfe",
+    "credit": "Frank Houbre · 系列官网主视觉，非第2集抽帧"
+  },
+  "2026-11-07-ai-making-the-heir": {
+    "src": "cover-2026-11-07-ai-making-the-heir.jpg",
+    "alt": "穿蓝金服饰、戴头巾的 The Heir 角色",
+    "sourceUrl": "https://www.filmique.ai/cdn-cgi/image/format=auto,onerror=redirect/_fuc/images/zkrLTLUdRdZwV647O3fWBuYSvbA.jpg",
+    "credit": "Filmique.ai · 官方静帧"
+  },
+  "2026-11-07-ai-making-quiet-between": {
+    "src": "cover-2026-11-07-ai-making-quiet-between.avif",
+    "alt": "荒漠孤树上悬挂镜框的官方静帧",
+    "sourceUrl": "https://static.wixstatic.com/media/5c9769_83ef18f105444a129587d90d14901a90~mv2.png/v1/fill/w_740,h_415,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5c9769_83ef18f105444a129587d90d14901a90~mv2.png",
+    "credit": "ARTHART STUDIO · 官方静帧"
   }
 }
