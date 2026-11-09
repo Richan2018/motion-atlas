@@ -8,6 +8,8 @@
 
 ## 更新资料
 
+日更发布按 [PUBLISHING.md](PUBLISHING.md) 执行，使用 `scripts/archive.mjs` 做幂等追加、历史保护、封面校验、发布清单和线上内容哈希核验。保留现有日更任务和 Pages 部署，不增加密钥或额外定时器。
+
 `source-data.json` 是维护数据，`data.json` 是网页读取的数据。两者只含公开精选，无账号资料或私人对话。
 
 1. 获取本仓库最新版本。
