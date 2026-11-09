@@ -1436,5 +1436,400 @@
     "alt": "荒漠孤树上悬挂镜框的官方静帧",
     "sourceUrl": "https://static.wixstatic.com/media/5c9769_83ef18f105444a129587d90d14901a90~mv2.png/v1/fill/w_740,h_415,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5c9769_83ef18f105444a129587d90d14901a90~mv2.png",
     "credit": "ARTHART STUDIO · 官方静帧"
+  },
+  "2026-11-08-touch-time-watch": {
+    "src": "cover-2026-11-08-touch-time-watch.webp",
+    "alt": "Touch Time：把时间、太阳与月相放进手腕上的四种视图 · 原作封面",
+    "sourceUrl": "https://x.com/luyuhang/status/2118821054223130957",
+    "credit": "yuhang（@luyuhang）"
+  },
+  "2026-11-08-viv": {
+    "src": "cover-2026-11-08-viv.jpg",
+    "alt": "ViV：用两种浏览密度，把艺术家与作品同时放在中心 · 原作封面",
+    "sourceUrl": "https://www.awwwards.com/sites/viv",
+    "credit": "Sam Dallyn"
+  },
+  "2026-11-08-agrumea-farm": {
+    "src": "cover-2026-11-08-agrumea-farm.jpg",
+    "alt": "Agrumea Farm：让食品包装成为整个界面的视觉骨架 · 原作封面",
+    "sourceUrl": "https://www.awwwards.com/sites/agrumea-farm",
+    "credit": "Studio K95"
+  },
+  "2026-11-08-deepbook": {
+    "src": "cover-2026-11-08-deepbook.png",
+    "alt": "DeepBook：用模块化蓝色积木，组织复杂金融产品的信息 · 原作封面",
+    "sourceUrl": "https://www.awwwards.com/sites/deepbook",
+    "credit": "HOLOGRAPHIK、Sui_Foundation_Design、AKKA Studio"
+  },
+  "2026-11-08-justin-jefferson": {
+    "src": "cover-2026-11-08-justin-jefferson.jpg",
+    "alt": "Justin Jefferson：把运动员履历变成可浏览的收藏卡 · 原作封面",
+    "sourceUrl": "https://www.awwwards.com/sites/justin-jefferson",
+    "credit": "LayerTwo"
+  },
+  "2026-11-08-grail": {
+    "src": "cover-2026-11-08-grail.png",
+    "alt": "Grail：用可切换的动物图腾，把自我提升变成角色选择 · 原作封面",
+    "sourceUrl": "https://www.awwwards.com/sites/grail",
+    "credit": "denormalized"
+  },
+  "2026-11-08-unbelievably-crap": {
+    "src": "cover-2026-11-08-unbelievably-crap.png",
+    "alt": "Unbelievably Crap：把作品浏览做成一台有脾气的监视器 · 原作封面",
+    "sourceUrl": "https://www.awwwards.com/sites/unbelievably-crap",
+    "credit": "Liubomyr Ulytskyi"
+  },
+  "2026-11-08-mathias-adolfsson": {
+    "src": "cover-2026-11-08-mathias-adolfsson.png",
+    "alt": "Mathias Adolfsson：让项目从弧形展架展开，再回到原处 · 原作封面",
+    "sourceUrl": "https://tympanus.net/codrops/2026/11/05/mathias-adolfsson-portfolio/",
+    "credit": "Mathias Adolfsson"
+  },
+  "2026-11-08-awards-racing": {
+    "src": "cover-2026-11-08-awards-racing.png",
+    "alt": "Awards Racing：把设计奖竞逐变成会冒烟的街机赛车 · 原作封面",
+    "sourceUrl": "https://www.awwwards.com/sites/awards-racing",
+    "credit": "Angelica P.、Ecofuture Technology Services"
+  },
+  "2026-11-08-motion-vael": {
+    "src": "cover-2026-11-08-motion-vael.jpg",
+    "alt": "Vael｜滑动确认后，让光、状态与账户卡连续接上 · 原作视频封面",
+    "sourceUrl": "https://x.com/BThreeAgency/status/2118686469267341525",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2118686444135006208/img/FYRxjmSLPep2HEjG.jpg"
+  },
+  "2026-11-08-motion-doze": {
+    "src": "cover-2026-11-08-motion-doze.jpg",
+    "alt": "Doze Feature Section｜用小界面片段轮换功能，而不是整屏截图 · 原作视频封面",
+    "sourceUrl": "https://x.com/shlok776/status/2118702944694509637",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2117267852898238465/img/NxqM03M861JaDlyD.jpg"
+  },
+  "2026-11-08-motion-hold-delete": {
+    "src": "cover-2026-11-08-motion-hold-delete.png",
+    "alt": "Hold to Delete｜按住时把等待画成一圈，完成后仍留撤销 · 原作视频封面",
+    "sourceUrl": "https://dribbble.com/shots/27233815-Delete-Button-Exploration",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://cdn.dribbble.com/userupload/47231446/file/still-e956e9c8e4c75ef9652b4a8ec47f0edd.png"
+  },
+  "2026-11-08-motion-music-explorer": {
+    "src": "cover-2026-11-08-motion-music-explorer.png",
+    "alt": "Music Explorer｜歌单在同一条轨道里横向浏览、向下展开 · 原作视频封面",
+    "sourceUrl": "https://dribbble.com/shots/27102100-Music-Explorer",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://cdn.dribbble.com/userupload/46789366/file/still-68cfca42ffe64b5ff29c72b75beaf80e.png"
+  },
+  "2026-11-08-motion-customviews": {
+    "src": "cover-2026-11-08-motion-customviews.jpg",
+    "alt": "Workspace Views｜选择一种视图，就让工具栏在原处长出它 · 原作视频封面",
+    "sourceUrl": "https://x.com/kylethacker/status/2106909046880244165",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106908848850411520/img/KGreLwwArCAkSJrz.jpg"
+  },
+  "2026-11-08-motion-segmented": {
+    "src": "cover-2026-11-08-motion-segmented.jpg",
+    "alt": "Segmented Navigation｜十个短刻度只展开当前靠近的一项 · 原作视频封面",
+    "sourceUrl": "https://x.com/tilljanek/status/2105929799613243856",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105929782173245440/img/SyHUM4ChDgcGFUrB.jpg"
+  },
+  "2026-11-08-motion-search": {
+    "src": "cover-2026-11-08-motion-search.jpg",
+    "alt": "Raycast Mobile Search｜把全局与分类搜索放进同一张可收起面板 · 原作视频封面",
+    "sourceUrl": "https://x.com/JordanAmblin/status/2106015516682813570",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106015113761148928/img/GXBdtcUpwyuEaXxD.jpg"
+  },
+  "2026-11-08-motion-plane": {
+    "src": "cover-2026-11-08-motion-plane.jpg",
+    "alt": "Paper Plane TOC｜让目录进度沿着层级路径飞行 · 原作视频封面",
+    "sourceUrl": "https://x.com/SwamiMalode/status/2107442898413478309",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2107441918926082050/img/TRWGRDZNq6SxrD1M.jpg"
+  },
+  "2026-11-08-motion-notes": {
+    "src": "cover-2026-11-08-motion-notes.jpg",
+    "alt": "Notes Color Concept｜选中文字后，调色工具贴着选区出现 · 原作视频封面",
+    "sourceUrl": "https://x.com/heydamir/status/2106779932659470606",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106779834600849410/img/_E0bAKHiZTZsQ6Dv.jpg"
+  },
+  "2026-11-08-motion-pin": {
+    "src": "cover-2026-11-08-motion-pin.jpg",
+    "alt": "Pinned Canvases｜把当前画布沿列表轨道提到置顶区 · 原作视频封面",
+    "sourceUrl": "https://x.com/BuildWithCausal/status/2107504071628444074",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2107504001352671232/img/6ox-mOJlYb4IRChA.jpg"
+  },
+  "2026-11-08-motion-spider": {
+    "src": "cover-2026-11-08-motion-spider.jpg",
+    "alt": "Spider-Verse Text Reveal｜新词短暂错色，读完再碎成漫画色块 · 原作视频封面",
+    "sourceUrl": "https://x.com/sethihq/status/2118550187840774366",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/media/HWZu-Sfa4AAr2Ge.jpg"
+  },
+  "2026-11-08-motion-hours": {
+    "src": "cover-2026-11-08-motion-hours.jpg",
+    "alt": "Plans Hero｜让青色光依次点亮标志，把注意力留给主按钮 · 原作视频封面",
+    "sourceUrl": "https://x.com/hours/status/2119170020412629369",
+    "credit": "封面来自原作视频",
+    "imageSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2119169109812445184/img/f89fWosQ-oOlydgl.jpg"
+  },
+  "2026-11-08-ai-product-krea-agent": {
+    "src": "cover-2026-11-08-ai-product-krea-agent.jpg",
+    "alt": "Krea Agent｜让一把银色吉他串起素材、生成、运镜与局部修改 · 原作画面",
+    "sourceUrl": "https://s.krea.ai/press/krea-agent/krea-agent-launch-film.mp4",
+    "credit": "官方 MP4 约 36.8 秒实际画面。"
+  },
+  "2026-11-08-ai-product-krea3": {
+    "src": "cover-2026-11-08-ai-product-krea3.jpg",
+    "alt": "Krea 3｜把参考图变成场景里的指针、衣物与人物 · 原作画面",
+    "sourceUrl": "https://s.krea.ai/k3-launch-final.m4v",
+    "credit": "官方 M4V 约 23.7 秒实际画面。"
+  },
+  "2026-11-08-ai-product-lovart": {
+    "src": "cover-2026-11-08-ai-product-lovart.jpg",
+    "alt": "Lovart × Fifth Atrium｜让会表情的标记，把创意空间接到画布批注 · 原作画面",
+    "sourceUrl": "https://www.fifthatrium.com/project/lovart",
+    "credit": "制作方页嵌入 Vimeo 的官方海报，非重绘。"
+  },
+  "2026-11-08-ai-product-atlas": {
+    "src": "cover-2026-11-08-ai-product-atlas.jpg",
+    "alt": "World Labs Atlas｜用相机路径，把单张输入图接到可探索的空间 · 原作画面",
+    "sourceUrl": "https://x.com/theworldlabs/status/2094839756329041984",
+    "credit": "Lowkey 收录影片约 26.9 秒实际画面。"
+  },
+  "2026-11-08-ai-product-interact": {
+    "src": "cover-2026-11-08-ai-product-interact.jpg",
+    "alt": "Interact AI｜从静态网页，转入会带路的头像与产品窗口 · 原作画面",
+    "sourceUrl": "https://x.com/interact_ai/status/2051662847130869780",
+    "credit": "Lowkey 收录影片约 68.5 秒实际画面。"
+  },
+  "2026-11-08-ai-making-passport-rush": {
+    "src": "cover-2026-11-08-ai-making-passport-rush.webp",
+    "alt": "Passport Rush｜复杂追逐先用 Blender 排好，细小表演反而要先测试 · 官方作品封面",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZncA70OAgPw",
+    "credit": "官方项目封面，1920×1080，已实际查看。",
+    "imageSourceUrl": "https://du4zrvwy3vtek.cloudfront.net/series/b7ab12d0-769e-4420-91d8-f59f9c13c9a1/landscape/16a24128-6388-4970-b729-ea693c2cf002_optimized.webp"
+  },
+  "2026-11-08-ai-making-monkey-business": {
+    "src": "cover-2026-11-08-ai-making-monkey-business.webp",
+    "alt": "Monkey Business｜69 个镜头靠参考资产与镜头编号保持同一只猴子 · 官方作品封面",
+    "sourceUrl": "https://misideal.com/work/monkeybusiness/",
+    "credit": "制作公司官网原图，1920×1080，已查看；另保留原站播放截图 monkey-viewed-frame.png。",
+    "imageSourceUrl": "https://misideal.com/media/MONKEY_BUSINESS_HERO.webp"
+  },
+  "2026-11-08-ai-making-drop-of-water": {
+    "src": "cover-2026-11-08-ai-making-drop-of-water.webp",
+    "alt": "Drop of Water｜一镜一句对白，修道具时保住原来的表演 · 官方作品封面",
+    "sourceUrl": "https://flick.art/film/flick-residency-summer-26-drop-of-water",
+    "credit": "以官方流程页“Make the start frame”中的 Ken 饮水首帧作封面，800×447，已查看。完整可用 URL 在 source-assets.json。",
+    "imageSourceUrl": "https://cdn.flick.art/418fd6f0-2c87-4fc4-a611-d65da74926f7/generated/0a9f84ea-0a4c-45ce-91af-a18423f7c95d/images/1fe04ba8-d5cc-4d23-b4ab-38a2ee4a4351/d5fdf06c1e905064_thumb.webp"
+  },
+  "2026-11-08-ai-making-letters-film": {
+    "src": "cover-2026-11-08-ai-making-letters-film.webp",
+    "alt": "字母动画短片｜把美术规则写清，让 AI 写代码而不是猜画风 · 官方作品封面",
+    "sourceUrl": "https://start-video.com/ai-short-film-full-guide-real-prompts/",
+    "credit": "作者公开静帧，1600×900，已查看。",
+    "imageSourceUrl": "https://start-video.com/media/2026/10/07-zoom-on-lit-des-lettres-ea6a49.webp"
+  },
+  "2026-11-08-ai-making-desk-buddies": {
+    "src": "cover-2026-11-08-ai-making-desk-buddies.jpg",
+    "alt": "Desk Buddies｜固定主体与环境描述，用上一镜末帧接下一镜 · 官方作品封面",
+    "sourceUrl": "https://www.youtube.com/watch?v=gVnXBPnr5No",
+    "credit": "论文图 7 右上成片截图裁取，432×244，带少量播放器边缘；画质有限。原始完整图保存在 desk-figure.jpg。",
+    "imageSourceUrl": "https://nhsjs.com/wp-content/uploads/2026/03/Fig-7-1024x655.jpg"
+  },
+  "2026-11-09-design-kopetzki": {
+    "src": "cover-2026-11-09-design-kopetzki.jpg",
+    "alt": "Kopetzki：用玻璃纹理与清晰分流重塑法律服务入口 · 原作画面",
+    "sourceUrl": "https://kopetzki.law/",
+    "credit": "Obys（CSS Design Awards 署名；实站页脚亦链接 Obys）"
+  },
+  "2026-11-09-design-casamomo": {
+    "src": "cover-2026-11-09-design-casamomo.jpg",
+    "alt": "Casa Momo：让居住氛围先行，让房型比较保持简单 · 原作画面",
+    "sourceUrl": "https://www.casamomo.at/apartments",
+    "credit": "Nexene（实站页脚 Made with love by Nexene）"
+  },
+  "2026-11-09-design-effepinna": {
+    "src": "cover-2026-11-09-design-effepinna.jpg",
+    "alt": "Effepinna Studio：把个人签名、角色与项目网格连成统一品牌 · 原作画面",
+    "sourceUrl": "https://effepinnastudio.com/en/work/index.html",
+    "credit": "Fabio Pinna / Effepinna Studio（作品站自述）"
+  },
+  "2026-11-09-design-polpharma": {
+    "src": "cover-2026-11-09-design-polpharma.jpg",
+    "alt": "Polpharma Biologics：用克制的绿色系统组织严肃科技品牌 · 原作画面",
+    "sourceUrl": "https://www.polpharmabiologics.com/",
+    "credit": "Widelab（CSS Design Awards 署名；相关作品由其 widehue 团队介绍）"
+  },
+  "2026-11-09-design-orchestrated": {
+    "src": "cover-2026-11-09-design-orchestrated.jpg",
+    "alt": "Orchestrated：沉浸式首屏之外，把低性能回退做成可见的选择 · 原作画面",
+    "sourceUrl": "https://orchestrated.nl/",
+    "credit": "Joris van Raaij / Orchestrated（作品主体与动效导演；未另行核实全部网站技术制作署名）"
+  },
+  "2026-11-09-interaction-splat-walk": {
+    "src": "cover-2026-11-09-interaction-splat-walk.jpg",
+    "alt": "Splat Walk：沿着真实街巷行走，再把现实烧回高斯粒子 · 原作画面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/SplatWalk_800x600.mp4",
+    "credit": "Will Eastcott；场景扫描 Artillery Passage 作者 David Fletcher（CC BY 4.0）"
+  },
+  "2026-11-09-interaction-moss": {
+    "src": "cover-2026-11-09-interaction-moss.jpg",
+    "alt": "Moss：用柔软苔藓与微小漂浮，给物体一种可触碰的生命感 · 原作画面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/Moss_800x600.mp4",
+    "credit": "Ricardo Cabello（mrdoob）"
+  },
+  "2026-11-09-interaction-plinkopinball": {
+    "src": "cover-2026-11-09-interaction-plinkopinball.jpg",
+    "alt": "Plinkopinball：把弹珠机嵌进一张有生活感的工作台 · 原作画面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/08/Plinkopinball.mp4",
+    "credit": "Andrew Woan"
+  },
+  "2026-11-09-interaction-garden-anomaly": {
+    "src": "cover-2026-11-09-interaction-garden-anomaly.jpg",
+    "alt": "Garden Anomaly：让透明容器的边界也参与碰撞反馈 · 原作画面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/08/garden_anomaly_demo-1.mp4",
+    "credit": "Frank Reitberger（dasprinzip / prinzipiell）"
+  },
+  "2026-11-09-interaction-geometry-painter": {
+    "src": "cover-2026-11-09-interaction-geometry-painter.jpg",
+    "alt": "Geometry Painter：把一次笔画变成有生长过程的立体材质 · 原作画面",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/08/geometrypainter_demo.mp4",
+    "credit": "Chiro Visuals（GitHub：achrefelouafi）"
+  },
+  "2026-11-09-motion-27274138": {
+    "src": "cover-2026-11-09-motion-27274138.png",
+    "alt": "Agentic OS｜一句话意图，拆成可追踪的时间、餐厅和邀请卡 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27274138-Agentic-experience-interaction-for-mobile-OS",
+    "credit": "Gleb Kuznetsov"
+  },
+  "2026-11-09-motion-27028668": {
+    "src": "cover-2026-11-09-motion-27028668.png",
+    "alt": "Global Time Dashboard｜把秒数滚动和整点换位放进同一张大字时钟 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27028668-Global-Time-Dashboard-Motion-UI",
+    "credit": "Bogdan Nikitin，为 Nixtio 制作"
+  },
+  "2026-11-09-motion-27286826": {
+    "src": "cover-2026-11-09-motion-27286826.png",
+    "alt": "Endorphins 通知引导｜让铃铛和通知实例一起说明授权价值 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27286826-Notification-Micro-Interaction",
+    "credit": "Abron Studio"
+  },
+  "2026-11-09-motion-27264498": {
+    "src": "cover-2026-11-09-motion-27264498.png",
+    "alt": "Device Connected｜把连接过程收进手表轮廓，最后落成勾号 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27264498-Device-Connection-Micro-Interaction",
+    "credit": "Abron Studio"
+  },
+  "2026-11-09-motion-25797132": {
+    "src": "cover-2026-11-09-motion-25797132.png",
+    "alt": "Task Completion｜勾选先落地，卡片再交棒给下一件事 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/25797132-Task-completion-micro-interaction",
+    "credit": "Robin Holesinsky；Rebound 来源为 Filip Legierski 的 Card stacking microinteraction"
+  },
+  "2026-11-09-motion-24063109": {
+    "src": "cover-2026-11-09-motion-24063109.png",
+    "alt": "Apple Music Dock Concept｜从应用图标旁边长出一条迷你播放器 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/24063109-macOS-Dock-Apple-Music-Micro-Interaction",
+    "credit": "Filip Legierski"
+  },
+  "2026-11-09-motion-27336818": {
+    "src": "cover-2026-11-09-motion-27336818.png",
+    "alt": "Skincare Product Page｜瓶盖悬起，产品细节比整屏更先动 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27336818-Skincare-App-UI-Product-Page-Animation",
+    "credit": "Nixtio"
+  },
+  "2026-11-09-motion-27414130": {
+    "src": "cover-2026-11-09-motion-27414130.png",
+    "alt": "Cypheir 安全说明｜卡片逐层入场，让每条限制单独占据注意力 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27414130-UI-Micro-Interaction",
+    "credit": "Abron Studio"
+  },
+  "2026-11-09-motion-27573360": {
+    "src": "cover-2026-11-09-motion-27573360.png",
+    "alt": "Quorum 功能段落｜玻璃卡片随滚动接到下一段工作流程 · 原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27573360-Quorum-AI-Meeting-Assistant-Website-Micro-Interactions",
+    "credit": "Elux Space"
+  },
+  "2026-11-09-motion-donut": {
+    "src": "cover-2026-11-09-motion-donut.jpg",
+    "alt": "Donut UI｜甜甜圈沿纵向接力，口味、底色和标题同步交接 · 原作画面",
+    "sourceUrl": "https://www.behance.net/gallery/241521815/Donut-App-UI-Motion-Figma",
+    "credit": "Guga Abuladze"
+  },
+  "2026-11-09-motion-adobe-loop": {
+    "src": "cover-2026-11-09-motion-adobe-loop.webp",
+    "alt": "Creative Cloud Loop 01｜把文件卡片从桌面界面中抬出来 · 原作画面",
+    "sourceUrl": "https://www.behance.net/gallery/244035527/Adobe-Creative-Cloud-UI-Looping-Animation",
+    "credit": "Jonghyun Park；所属合集还署名Seoyoung Park、Soomin Sung、Silra Song、Selin Choi，VDAS支持"
+  },
+  "2026-11-09-products-hera": {
+    "src": "cover-2026-11-09-products-hera.jpg",
+    "alt": "Hera Canvas｜把品牌、广告、修改与分镜留在同一块画布上，原片画面",
+    "sourceUrl": "https://hera.video/site/home/hero-av1.mp4",
+    "credit": "Hera / Hera Video 官方；具体导演、设计与动画人员未披露。"
+  },
+  "2026-11-09-products-capcut": {
+    "src": "cover-2026-11-09-products-capcut.jpg",
+    "alt": "CapCut Design Studio 2.0｜一件绿色外套串起参考、生成、海报与图层，原片画面",
+    "sourceUrl": "https://video.twimg.com/amplify_video/2059671853032206336/vid/avc1/1920x1080/SYdJp_8XlZ1iGZ_A.mp4",
+    "credit": "CapCut 官方（@capcutapp）；具体影片制作人员未披露。"
+  },
+  "2026-11-09-products-manus": {
+    "src": "cover-2026-11-09-products-manus.webp",
+    "alt": "Manus Design View｜用编号标记把自然语言修改落到具体位置，官方原封面",
+    "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2003118695699169281/img/1HSGkAwUYxiHN5LF?format=webp&name=medium",
+    "credit": "Manus 官方（@ManusAI）；具体影片制作人员未披露。"
+  },
+  "2026-11-09-products-calliope": {
+    "src": "cover-2026-11-09-products-calliope.jpg",
+    "alt": "CalliopeLabs × ImpactFrames｜脚本卡、模板阵列与状态胶囊串起生成预告，原片画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/48715615/file/b1cf4304041db8a955623468d8a21d98.mp4",
+    "credit": "ImpactFrames；作者项目说明将客户与产品标为 CalliopeLabs。"
+  },
+  "2026-11-09-products-fuser": {
+    "src": "cover-2026-11-09-products-fuser.jpg",
+    "alt": "Fuser｜左侧固定两张参考，右侧连续切换服装结果，原片画面",
+    "sourceUrl": "https://video.twimg.com/amplify_video/2112209855016824832/vid/avc1/1920x1080/FqGCZWz7rQkJfSrf.mp4",
+    "credit": "Fuser 官方（@fuserstudio）；具体影片制作人员未披露。"
+  },
+  "ai-making-20261109-mentiroso": {
+    "src": "cover-ai-making-20261109-mentiroso.jpg",
+    "alt": "Mentiroso｜把自己的实拍短片逐镜重建，再用剪辑统一生成素材 · 原作画面",
+    "sourceUrl": "https://www.youtube.com/watch?v=8uq2V9m9VVQ",
+    "credit": "Daisy Studios（作者频道 @daisy.studios）"
+  },
+  "ai-making-20261109-tomris": {
+    "src": "cover-ai-making-20261109-tomris.jpg",
+    "alt": "Tomris and Ferret｜追逐戏先解决角色轮廓，再把分镜排进三维空间 · 原作画面",
+    "sourceUrl": "https://flick.art/film/tomris-and-ferret-b88de4",
+    "credit": "Simay Ezer Pekcan；制作讲解由 Flick 发布"
+  },
+  "ai-making-20261109-happy-souls": {
+    "src": "cover-ai-making-20261109-happy-souls.webp",
+    "alt": "Happy Souls Alive｜参考图负责画风，三维视频只负责摄影机运动 · 原作画面",
+    "sourceUrl": "https://flick.art/film/flick-residency-summer-26-happy-souls-alive",
+    "credit": "Simay Ezer Pekcan"
+  },
+  "ai-making-20261109-proper-introduction": {
+    "src": "cover-ai-making-20261109-proper-introduction.webp",
+    "alt": "A Proper Introduction｜灰模先变草图，既保住尺度也去掉 CG 痕迹 · 原作画面",
+    "sourceUrl": "https://flick.art/film/a-proper-introduction-4efa0c",
+    "credit": "Jaime Yao"
+  },
+  "ai-making-20261109-herder": {
+    "src": "cover-ai-making-20261109-herder.jpg",
+    "alt": "The Herder｜先定动作的两端，再让模型补中间的变化 · 原作画面",
+    "sourceUrl": "https://flick.art/film/the-herder-add5c5",
+    "credit": "Jaime Yao"
+  },
+  "ai-making-20261109-timing-not-time": {
+    "src": "cover-ai-making-20261109-timing-not-time.webp",
+    "alt": "Timing, Not Time｜让人物站住时，也要给它一个允许发生的小动作 · 原作画面",
+    "sourceUrl": "https://www.youtube.com/shorts/_jp8wbZ0knQ",
+    "credit": "Sophie Kazandjian／Sophie’s Bureau；原片频道 Presence in Practice"
   }
 }
