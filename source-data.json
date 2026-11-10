@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,685 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-10",
+      "title": "2026-11-10 UI 与动效设计精选",
+      "fullText": "2026-11-10 UI 与动效设计精选\n\n本期共 30 个主案例：UI 设计 5、UI 动效 10、趣味交互 4、AI 产品宣传 5、AI 制作动画 6，另附 3 篇延伸阅读。趣味交互距离最低目标 5 个缺 1 个：未将简单曲线对照、未成功加载或未经操作的页面计入。\n\n先看：Clips 的音乐片段挑选、旋转玻璃开关、Mano Loca 的黏性拖拽、Parallel Index 的点阵语言，以及 TPU Training Day 的木偶＋AI 混合流程。\n\n本日是发现与归档日期，不是所有作品的首发日期。包含历史方法参考；热度未知或小众内容均明确标注，不以媒体收录代替影片播放量。UI 动效来自 CodePen、Dribbble、Behance 等；本期趣味交互为 Carmen Ansio 专题，作者集中是范围限制，不称全网榜单。AI 两栏以原作说明和静帧为主，未完整播放的项目逐条说明，不能据此评价完整节奏。\n\n## UI设计 · 5 个\n\n### 1. Brizo：把搜索、AI 提问与常用网站放进同一个起点\n\n作者：dpopstudio。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：原图将界面分成两个浅灰色圆角区域：左侧是大号衬线标题和宽输入框，右侧是两列常用网站快捷入口。输入框把附件、With AI、Deep Research、麦克风和发送收在同一层，绿色发送按钮成为最明确的行动点。背景的淡绿点阵给 AI 区域一点气氛，但没有覆盖文字。\n\n借鉴：可借鉴“一个入口，多种意图”的组织方式。搜索与 AI 模式共享输入区，快捷网站另占独立区域，用户不必先理解复杂的产品分类。需要继续验证的是模式切换后的反馈和键盘操作，本次静帧无法证明这些体验。\n\n核验范围：已读取作者原作页，并下载、实际查看其附图中的搜索首页静态设计。没有播放该项目动效、操作可点击原型或验证 AI 功能。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/27061294-Brizo-Ask-Search-Discover\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。\n\n### 2. Meeting Assistant：用层叠界面说明会议产品的结构\n\n作者：Stanislav Hristov / Dtail Studio。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：紫色主视觉把设备、网页导航、会议卡片和右侧活动列表分层摆放。大号日期承担扫描入口，卡片保留时间与会议名称，亮紫色同时用在创建会议按钮和被强调的日期卡上。整体是产品展示图，借由空间层次帮助观众看出网站、工作台和活动列表之间的关系。\n\n借鉴：适合参考 SaaS 官网如何展示多层产品结构：以一个主色标识关键动作，用大日期降低排程信息的扫描成本。但倾斜样机和透明材质更适合宣传画面，不能直接视为真实工作台的最佳可读性方案。\n\n核验范围：已核作者原作页与一张完整原始展示图。仅评价静态构图和可见界面层级，未播放动画、实测会议工具或确认产品性能。图内 2023/2024 日期为界面示例，不是作品发布日期。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/26865954-AI-Meeting-Assistant-Website-Design-UI-UX-for-SaaS-Dashboard\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。\n\n### 3. Luminous：让地点成为社交内容的共同线索\n\n作者：Dicky Afisena / Dujima Studio。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：原始附图并排呈现搜索结果、地点动态和个人资料三屏。地点信息使用金色文字，筛选层级用 City、State、Country 三个标签表达，内容仍以大照片和简短描述为主。底部悬浮操作条分别承担筛选、发帖和排序，避免让每个页面都塞满相同控件。\n\n借鉴：可借鉴的是把地点作为跨页面连续的信息线索，而不是只在某一屏加入地图。颜色、地点文字和筛选层级共同建立上下文；列表、信息流和个人页可以采用不同密度，同时维持同一套间距、圆角与字体。\n\n核验范围：已读取原作署名，并下载、查看作者提供的三屏移动端静态图。未体验定位、筛选、排序或发帖。图中的点赞、粉丝和评论数字均为样机内容，不能用作该作品的人气。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/26642878-Luminous-Social-Media-Location-App\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。\n\n### 4. Autism Care SaaS：用双层导航稳定复杂工作上下文\n\n作者：Ungrammary。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：实际查看的原始 poster 中，左边窄蓝栏承载全局图标，旁边是当前个案和临床分组，主区再显示面包屑、Assessments 标题、搜索框及评估表。浅紫色背景与右侧竖线同时指出当前导航位置，帮助高密度业务界面保留方向感。外层暖黄色展示框与内部白色工作区保持了区分。\n\n借鉴：值得借鉴的是“全局导航→当前对象→具体任务”的层级分离，尤其适合后台、档案和管理工具。可参考选中态与表格结构，不把医疗场景的流程说明当成经过临床验证的效果。\n\n核验范围：已核作者页，并下载、查看原项目的一张静态 poster；没有观看其完整视频、操作系统或评估医疗效果。poster 右侧图表只显示初始状态，因此不评价图表动画或完整数据表现。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/25780505-SaaS-Platform-Design-for-Autism-Care-Centre\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。\n\n### 5. Stockly：把总览指标和逐条管理放在同一张工作台\n\n作者：Sagor Shopon / Design Veli。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：界面以浅蓝底和白色圆角卡片划分区域，上方是库存、销售与流失率，下方把供需曲线和近期库存表并排。黄色贯穿当前 Products 导航、环形图、曲线与复选框，绿色和红色则单独承担变化提示。表格右侧展开的菜单把查看、编辑和删除放到记录旁，降低操作与对象脱离的距离。\n\n借鉴：可借鉴从“看整体”到“处理单条”的连续层级，以及将装饰主色与状态色分开。也要注意概念图的语义：标题称 grocery，但图中示例包括电子产品、服装与家具，不能据此认定它是已落地的食品库存系统。\n\n核验范围：已读取作者原作页并实际查看整张原始 UI 图。未测试搜索、导出、图表提示、批量管理或响应式表现；原图显示的菜单是设计状态，不是本次点击结果。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/26572682-Stockly-Grocery-Admin-Panel-Products-Page\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。\n\n## UI动效 · 10 个\n\n### 1. Clips｜让音频分析过程沿着波形逐段显现\n\n作者：Kai Williams。\n\n原作日期：发布于2026-11-04，近一周新作；今日收录，不是11月10日首发。\n\n画面与动效：深色音乐工作区把大波形留在顶部，段落逐行排列在下方。约4秒时可见Finding snippets与Finding the lines that come back的状态文字和扫描波形；约9秒时，各段小波形中的候选片段亮起不同颜色，部分Export圆框出现勾选。结尾恢复Find snippets入口。\n\n可借鉴：分析任务可同时给出一句具体阶段说明和与数据对应的局部反馈，让等待更可解释。候选片段的颜色、勾选与段落行放在一起，避免用户猜测结果属于哪段音频。\n\n热度：2026-11-10原页详情面板核验：4,598观看、3赞、0收藏、0评论。热度较低，不表述为热门。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页及原视频可播放，查看13.6秒片段约4秒、9秒与结尾截图，并读取作者说明、原页发布日期和计数。属于多时点抽样观看，不是连续逐帧完整观看。\n\n观看与使用限制：这是产品动效视频，未操作实际音频分析或导出功能。作者称系统会分四轮分析并选出三个5–9秒片段，这些能力和准确率未经实测。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/27837753-Clips-Finding-the-catchiest-snippets)\n\n### 2. Custom Select Tag List｜下拉选项展开成一片可重选的标签\n\n作者：Chris Bolson。\n\n原作日期：创建2026-06-13，更新2026-07-01。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：收起时是一个带分类名与数量的普通选择框；展开后，选项以多行蓝色胶囊在上方铺开，当前项变橙色，背景选择框轻微模糊。实际从Street Photography切到Nature后，标签收回，原框更新成Nature 7,842。\n\n可借鉴：让选项展开与最终选择仍围绕同一个控件，不必为了视觉表现另造一整页筛选面板。作者用可自定义select和flex排列选项。\n\n热度（2026-11-10核验）：137 Hearts、4,714 Views。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已真实展开菜单、选择Nature，并核对收回后的值；读取原页Details & Comments中的日期和计数。\n\n观看与使用限制：这是原生控件的新样式实验，生产使用需另测浏览器兼容性。未测全部选项、键盘和移动端。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://codepen.io/editor/cbolson/pen/019ebc82-1f2a-7b2a-889e-f4dbce890f3b)\n\n### 3. Custom Input Range｜数值、填色和把手沿同一条轨道同步\n\n作者：Full on CSS（账号 Taluska）。\n\n原作日期：创建2026-06-16，更新2026-06-18。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：浅灰色凹槽里是一条青到紫的发光填色，白色圆形把手带着上方数字一起走。实际从30拖到84时，把手位置、填色长度和数值同时变化，拟物阴影只负责提示可抓取的位置，没有遮住读数。\n\n可借鉴：让多种反馈对齐同一个状态源：拖动的结果不应等松手才告诉用户。\n\n热度（2026-11-10核验）：187 Loves、5,614 Views。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已在云端真实拖动30→84，并核对前后截图与控件数值。\n\n观看与使用限制：未做移动端、键盘或完整可访问性测试。\n\n封面为云端实际作品截图，不是生成图。原分享图下载返回403，因此改用实际页面截图。\n\n[作者原作](https://codepen.io/Taluska/pen/XJpNeLV)\n[日期与热度核验](https://codepen.io/Taluska/details/XJpNeLV)\n\n### 4. Airplane Ticket Button｜把一小段飞行旅程收进主按钮\n\n作者：Jon Kantner。\n\n原作日期：创建与更新均为2026-06-30。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：蓝色 Get Tickets 按钮在触发后把文字向上送出，俯视飞机从下方进入；云与绿色陆地沿纵向循环，让一个很小的控件拥有出发感。\n\n可借鉴：把动作语义放进按钮内部，而不是额外弹出装饰。实际产品仍应保证按钮文字、键盘焦点和减少动态效果的可用性，不宜让趣味反馈代替提交状态。\n\n热度（2026-11-10核验）：80 Loves、3,976 Views。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已在作者原页真实点击并观察文字退出、飞机进入与后续云陆循环截图。\n\n观看与使用限制：未验证任何订票功能；它是独立前端演示。未做移动端与可访问性完整测试。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://codepen.io/jkantner/pen/bNgowVy)\n[日期与热度核验](https://codepen.io/jkantner/details/bNgowVy)\n\n### 5. Glitchy Navigation｜只让当前菜单项短暂失真\n\n作者：Josh Dillon。\n\n原作日期：创建与更新均为2026-07-08。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：粉红色像素字与细框构成三项竖向导航。触发 About Me 后，文字短暂出现水平错位、青色分层和扫描线般的拖影，外框与其他菜单项保持稳定。\n\n可借鉴：把风格化失真限制在当前目标里，让变化说明光标落在哪里；用于真正导航时应缩短持续时间，并为减少动态效果提供平稳版本。作者说明使用GSAP rough easing驱动displacement filter，并明确致意Michael Mullany的文字位移技术。\n\n热度（2026-11-10核验）：279 Loves、4,873 Views、2评论。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已在原页触发About Me，核对静态与失真状态截图，并阅读作者技术说明。\n\n观看与使用限制：未测试三个菜单的业务跳转，演示链接仅为占位；未做移动端或可访问性完整测试。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://codepen.io/jdillon/pen/BypYNVa)\n[日期与热度核验](https://codepen.io/jdillon/details/BypYNVa)\n\n### 6. RecruitSmart Calendar｜日、周、月视图变换，保留同一条事件上下文\n\n作者：Bagus Fikri / Fikri Studio。\n\n原作日期：发布于2026-05-27。旧作，今日新收录，不是11月10日首发。画面中的August 2025是演示日历内容，不是作品发布日期。\n\n画面与动效：学校人事管理日历用紫色标记当前日期，月视图把事件压成短条；切换到周、日视图后，主区重新安排时间粒度，右侧Upcoming Event列表依然可见。实际抽样确认月、周、日三个布局，以及视图下拉菜单。\n\n可借鉴：在高密度业务界面里，动效首先帮助用户理解同一批数据如何重新排布。把侧栏、导航和当前日期保留为参照，可降低切换视图时重新寻找信息的成本。\n\n热度：2026-11-10原页详情面板核验：14,824观看、63赞、23收藏、8评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端播放约17秒原片，抽样查看月视图、下拉菜单、周视图和结尾日视图，并读取原页详情日期和计数。不是连续逐帧完整观看。\n\n观看与使用限制：仅观看设计演示视频，没有实际操作HR系统。作者说明还包括面试详情浮层与日历同步，但本次不将其视为已实测功能。未测试可访问性或性能。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/27407976-RecruitSmart-Calendar-Animation-SaaS-School-HRM)\n\n### 7. Toggle Interaction Experiment｜让玻璃遮罩旋转，而不是让滑块横移\n\n作者：Dmitry Lepisov / Lepisov Branding。\n\n原作日期：发布于2026-06-04。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：深绿色底板上，半透明玻璃层旋转、遮住或露出内圈。多帧中可见橙黄色与绿色内圈、玻璃层的不同朝向；用覆盖关系替代常见的水平滑动。\n\n可借鉴：状态切换不只靠位移，还可以用遮挡和材质变化表达。不过实际设置开关仍需明确文字或状态标识，不应只靠颜色传达开关。\n\n热度：2026-11-10原页详情面板核验：17,948观看、153赞、13收藏、23评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页4.8秒视频已自动播放，核对多个不同旋转/颜色状态截图；属于部分播放、多帧抽样核验，不是连续逐帧完整观看。\n\n观看与使用限制：这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/27438965-Toggle-Interaction-Experiment)\n\n### 8. FarmSense｜把地图图层、设备卡片和汇总面板连成一套交互\n\n作者：tubik UX / tubik。\n\n原作日期：发布于2025-04-29。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：卫星地图保持为稳定背景，地块边界和设备点位在其上呈现；抽样画面展示了地块概览、展开的数据侧栏、右上汇总卡和设备信息浮层。地图信息密度随任务变化，而不需要切换到完全不同的页面。\n\n可借鉴：处理地图或监控台时，让详情靠近对象，并允许汇总与侧栏收起，可保留空间上下文。\n\n热度：2026-11-10原页详情面板核验：41,406观看、241赞、99收藏、16评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页21.05秒视频已自动播放，读取到10.39秒播放位置，并查看地块、数据侧栏、设备浮层等多个时点截图；部分播放、多帧核验。\n\n观看与使用限制：这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/25937326-Micro-Interactions-for-Smart-Farming-App-FarmSense)\n\n### 9. Motion Concepts for AI Interfaces｜同一束紫光贯穿输入、思考与图像工作区\n\n作者：UZOR motion。\n\n原作日期：原页中文界面显示2026-05-05；搜索索引显示5月4日，可能存在时区差异，因此保留原页显示日期。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：细长输入胶囊先承接文字，再切换到Thinking、Analyzing等状态；同一套紫色光晕继续出现在较大的AI Assistant面板里。图像工作区把上传入口和题材参考缩成一排卡片，提交后的提示词贴在上方，中间只留下等待点。\n\n可借鉴：让输入、任务状态与较大工作区沿用相同边框和光线语言，避免每一步像换了一个产品。紫光本身不能说明系统进度，真正使用时仍应保留具体状态文字，并控制对正文的干扰。\n\n热度（2026-11-10核验）：5个赞、299个视图、0评论。热度不高，不表述为热门。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已启动并让40秒原片播放至结尾，查看开头、约9秒、15秒、图像参考段、30秒、35秒与结尾等多时点截图。已核对作者、原页日期和计数。\n\n观看与使用限制：这是抽样观看，不是连续逐帧精读或可操作AI功能实测。画面虽出现OpenAI标志，但作者为UZOR motion，不作为官方OpenAI设计或真实功能发布。与库中同作者AI Image Generator App Promo是不同原作。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://www.behance.net/gallery/248741031/AI-UI-Interactions-Toolkit)\n\n### 10. Download Button｜让一个按钮承接开始、加载和完成反馈\n\n作者：Dmitry Lauretsky / Ronas IT | UI/UX Team。\n\n原作日期：发布于2021-01-25。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：浅紫灰背景里的白色Download按钮在操作演示中转入绿色Loading状态，标签和颜色在同一位置给出反馈。原作者说明还包含完成状态；本次截图直接确认开始与加载两态，未把说明中的完成态冒充实看。\n\n可借鉴：把状态反馈留在触发动作的位置，减少用户寻找进度提示的成本。产品化时仍需要失败、取消和重试状态。\n\n热度：2026-11-10原页详情面板核验：711,036观看、1,380赞、1,130收藏、31评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页7.808秒视频已自动播放，截图确认Download与绿色Loading状态；部分播放、多帧核验，完成态依据原作者说明而非本次截图。\n\n观看与使用限制：这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/14911343-Download-Button-Micro-Interaction-Shot)\n\n## 趣味交互 · 4 个\n\n### 1. Matchstick Flame：一次 Strike，把火柴点燃、烧短和余烬串成过程\n\n作者：Carmen Ansio。\n\n日期：2026-10-04，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：黑色画布里，一根长火柴和一枚 Strike 按钮就构成完整的叙事入口。点击后，橙白火焰、周围暖光和四散火星同时出现；继续查看时，火柴杆明显缩短，火焰也随燃烧状态变化。作者把火焰拆成叠加的轮廓与正弦扰动，文章进一步解释了点火、燃烧与熄灭各阶段。它的吸引力不是按钮本身，而是一次输入带出持续变化的材料状态。\n\n借鉴：适合借鉴到小型趣味组件或状态故事：让用户的一次动作留下可见后果，用长度、亮度和粒子共同表达时间。不要只给按钮一个孤立的缩放反馈；过程的前后差异更能让人愿意再次点击。\n\n核验范围：已在云端桌面浏览器点击 Strike，实际查看刚点燃的长火柴、火星，以及稍后缩短的火柴状态，并再次点击点火。已展开演示并读取作者实现说明。未完整录制全周期、未验证 reduced-motion 开关和移动端触控。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/articles/matchstick-flame-canvas/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。\n\n### 2. Spirograph Explorer：轻推一个齿数，把花瓣变成密织圆环\n\n作者：Carmen Ansio。\n\n日期：2026-08-14，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：米色方形画布与暗红细线，保留了纸上万花尺的熟悉感；右侧只放外环齿数 R、内轮齿数 r 与笔偏移 p 三个滑块。实测保持 R=96、p=0.60，把 r 从 40 改为 37 后，原先较疏的重复花瓣变成层层交织、中央留白的密集圆环。几乎没有额外解释，参数与图形之间的关系已经可见。\n\n借鉴：这是把数学参数做成可探索视觉工具的好例子：变量少、反馈直接、默认图形好看。值得借鉴的是让相邻参数也能带来明显变化，而不是一开始堆满高级选项。文章将曲线解释为 hypotrochoid，可作为生成式图案工具的入门参考。\n\n核验范围：已在云端展开真实 Canvas 演示，实际把 Wheel teeth 从 40 改为 37，核对控件值并查看变化后的曲线；封面即 R=96、r=37、p=0.60 状态。未穷举参数、未验证移动端和导出功能。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/lab/spirograph-explorer/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。\n\n### 3. Kaleidoscope：把随手一划镜像成发光花朵\n\n作者：Carmen Ansio。\n\n日期：2026-09-11，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：深色方形画布里的线条会随时间换色，重叠处接近白色，较旧轨迹逐渐变暗。实测在画布中拖动，单次手势被复制成围绕中心展开的对称图案；把 Segments 从 8 改为 12 后再划动，画面出现更多放射状细长尖角。它让没有绘画技巧的输入也能获得秩序感很强的结果。\n\n借鉴：可以借鉴“放大用户的一点输入”的反馈策略：用户只负责一笔，系统负责镜像、旋转、叠光与淡出。对称结构带来可预期性，颜色和轨迹保留随机性，两者一起降低创作门槛。适合轻量涂鸦、活动页或入门创意编程。\n\n核验范围：已在云端展开演示，在画布内拖动画线，并实际把 Segments 从 8 调至 12 后再次拖动，查看两种对称密度的画面。已读镜像、加色叠光与衰减说明。未测试 Clear、独立 Folded 演示、移动端、麦克风输入或系统减少动态效果偏好。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/articles/kaleidoscope-symmetry-canvas/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。\n\n### 4. Mano Loca：把黏黏手玩具变成能甩、拉和吸附的网页物件\n\n作者：Carmen Ansio。\n\n日期：2026-05-29，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：绿色手柄、长绳和一只夸张手掌构成可拖拽的主角。实测拖动手柄后，手掌被甩向右侧，绳子拉长，画面出现多条黏丝。作者的说明把这个玩具拆成 Verlet 运动、边缘吸附与拉伸脱离等部分，让网页上的物体不仅跟随指针，也显得有重量和黏性。\n\n借鉴：值得借鉴的是用不同部件承担不同反馈：手柄对应直接控制，绳子表达弹性，手掌与黏丝表达碰撞和吸附。这样用户不需要数值说明，就能读懂力度与牵连关系。适合物理玩具或品牌彩蛋，但不能把这种延迟牵引直接套到要求精确操作的表单控件。\n\n核验范围：已由本次云端核验实际拖动绿色手柄，观察到手掌甩向右侧、绳子拉长与多条黏丝，并读取作者物理实现解释。仅桌面鼠标实测；手机振动未测，也未做物理参数和跨浏览器验证。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/lab/mano-loca/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。\n\n## AI产品宣传 · 5 个\n\n### 1. Introducing Index by Parallel｜用点、网格和纸张质感解释开放网络\n\n作者：Please Call Me Champ Studio；导演 Adam Koppel；创意总监 Sabrina Techawongthawon、Champ Panupong Techawongthawon。\n\n[作者原片](https://vimeo.com/1205917714) · [STASH 专题](https://www.stashmedia.tv/on-the-dot-please-call-me-champ-intros-index-by-parallel/)\n\n日期：STASH 于 2026-07-01 报道；原片页面未显示可核实的精确上传日期。\n\n内容与借鉴：作者把开放网络化成点、线、网格与抽象界面。数字系统的精准运动配合纸面颗粒、打字机细节，让 AI 产品具有编辑设计的温度。适合学习如何用一套小而稳定的图形语法，表达连接、信息价值和网络变化，而不是堆砌科技元素。\n\n关注度：获 STASH 专题介绍；本轮未取得可靠的当前播放或点赞数字。\n\n核验范围：作者 Vimeo 正文与完整署名、媒体说明及原作静帧入口。未完整播放，未实测 Index；不能因产品属于 AI 就认定影片由 AI 生成。\n\n封面：采用专题中明确标注为影片帧的橙底网络图。\nhttps://www.stashmedia.tv/wp-content/uploads/Index-by-Parallel-launch-film-by-Please-Call-Me-Champ-Studio-STASH-MAGAZINE7-1920x1080.jpg\n\n### 2. CUSP AI · Foundries｜让材料发现成为可组合的立方体系统\n\n作者：Wes Cockx / CREAM3D；音乐与音效 NOI；作者 Behance 项目署名另列 Production: Forever People。\n\n[作者项目](https://www.behance.net/gallery/249863455/CUSP-AI-Foundries) · [STASH 专题](https://www.stashmedia.tv/his-intelligent-materials-cuspai-brand-film-by-wes-cockx/)\n\n日期：作者 Behance 发布日与 STASH 报道日均为 2026-07-21。\n\n内容与借鉴：精密网格中的立方体从基本单元组合为复杂结构，绿色发光路径连接不同功能。材料发现、模块组合和规模扩展被放进同一套三维系统，适合参考抽象科研产品怎样建立可重复使用的视觉语言。\n\n分类证据：作者明确说明，这个项目没有使用 AI 生成图像或 AI 辅助工具。它是“宣传 AI 的动画”，不是“AI 制作动画”。\n\n关注度：STASH 收录。Behance 检索快照出现约 1.8K 浏览、189 欣赏，但快照并非今日实时计数，不建议作为 11 月 10 日热度发布。\n\n核验范围：STASH 正文与静帧、作者项目检索内容；Behance 直接打开返回 403，未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/CuspAI-Brand-Film-by-Wes-Cockx-STASH-MAGAZINE-1920x1080.jpg\n\n去重说明：历史 CuspAI 是 Gramafilm 作品，本条原作者、片名与视觉体系均不同。\n\n### 3. JetStream｜把 AI 治理做成能看懂的结构与通路\n\n作者：CREAM3D，创意总监 Wes Cockx；二维动效 Aleš Balantič；音乐与声音 NOI。\n\n[原片播放器](https://player.vimeo.com/video/1217303581) · [专题与制作说明](https://www.stashmedia.tv/wes-cockx-makes-the-conceptual-visible-for-jetstream/)\n\n日期：STASH 于 2026-08-11 报道；精确首次发布日未确认。\n\n内容与借鉴：这一项目包括品牌与平台两支发布片。以网格、模块化方块、蓝白数据路径表现可见性、治理和信任，橙色节点承担重点信息。可借鉴的是建立层级：通路负责解释关系，核心模块负责解释控制，强调色标记正在处理的动作。\n\n关注度：获 STASH 专题介绍；未取得当前平台播放量。\n\n核验范围：专题、署名与公开静帧；嵌入播放器标题可读取，普通 Vimeo 页面未能打开，未完整播放。AI 题材不作为 AI 制作证据。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/JetStream-Security-brand-films-by-Wes-Cockx-_-STASH-MAGAZINE7.jpg\n\n### 4. Claude Opus 4.6 × BUCK｜用简洁图形和音乐建立发布记忆点\n\n作者：BUCK，为 Anthropic 制作；作者说明覆盖策略、创意方向与制作。\n\n[BUCK 原片](https://vimeo.com/1164510643) · [收录与日期记录](https://kisto.app/i/anthropic-claude-opus-4-6-by-buck)\n\n日期：Vimeo 官方 oEmbed 确认作者上传日期为 2026-02-12 17:20:03（响应未标明时区），片长 39 秒；Kisto 日期记录与此一致。\n\n内容与借鉴：收录标签是极简、几何、有机与风格化；BUCK 特别强调鼓独奏在这支发布片中的作用。它适合与复杂 UI 讲解片对照：当产品没有可拍摄的实体时，可先建立图形个性和声音记忆点，再承载发布信息。\n\n关注度：有作者原片、BUCK 公开发布及 Kisto 收录；Kisto 显示的 14 次浏览仅是收录页计数，不代表原片播放量，不建议用于排名。\n\n核验范围：作者页面、作品描述、收录日期及封面入口；未完整播放或试听，不评价具体切镜与音乐同步效果。\n\n原作封面已通过作者页面与官方 oEmbed 交叉确认，并下载视觉核验；画面为 Claude 新闻文字拼贴：\nhttps://i.vimeocdn.com/video/2121177583-ae5f3fcbfc1e22f98c55697096261918b76fa7a723827052dcb7c99963f2dadc-d_2400?region=us\n\n### 5. Wix Symphony｜让多 Agent 系统退到生意背后\n\n作者：Wix Motion Studio；设计负责人 Elior Karmani；动画负责人 Moriel Hoffman；额外动画 Yellowfellow.tv。\n\n[专题与原片入口](https://www.stashmedia.tv/balancing-act-wix-motion-studio-launches-symphony/) · [设计负责人发布](https://www.linkedin.com/posts/elior-karmani-413b28203_happy-to-share-our-new-motion-graphic-launch-activity-7492928540414386177-v8M-)\n\n日期：STASH 于 2026-08-18 报道；精确原片上传日未确认。\n\n内容与借鉴：围绕三种小生意讲述进展，把 Maestro 与多个 Agent 放在业务协作关系中，而非让 AI 形象占据全部画面。公开静帧包含团队图标、任务环形关系图以及商家场景。适合学习多 Agent 产品如何让“谁在做什么、事情推进到哪里”清楚可见。\n\n关注度：有 STASH 专题及设计负责人公开发布；LinkedIn 搜索快照显示评论活动，但无法保证当前计数，因此不引用为今日热度。\n\n核验范围：制作团队、创作说明、原作静帧；FrameRate 嵌入被网页工具限制，未完整播放，未验证真实产品能力。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/Wix-Symphony-launch-video-by-Wix-Motion-Studio-STASH-MAGAZINE2-1920x1080.jpg\n\n## AI制作动画 · 6 个\n\n### 1. TPU Training Day｜先保住表演，再让 AI 完成视觉渲染\n\n作者：导演 Laurie Rowan、Nexus Studios，为 Google I/O 2026 制作。\n\n[制作公司原作及幕后](https://nexusstudios.com/work/google-io-2026-tpu/) · [Google 官方流程](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/)\n\n日期：2026 年 Google I/O 展映作品；Google 流程文章发表于 2026-06-01。不是 11 月新作。\n\n公开工具：Nano Banana、Google AI Studio、Gemini Omni，以及未逐一命名的 DeepMind 实验模型。不能把实验模型写成人人可用的现成工具。\n\n输入：实拍木偶表演、基础三维动画、从原始素材制作的风格化首帧。\n\n关键步骤：\n1. 先用木偶和简单三维动画确定表演、构图与运镜。\n2. Nano Banana 从原始画面生成风格化首帧。\n3. Google AI Studio 中的定制工具批量测试首帧一致性。\n4. Gemini Omni 与实验模型结合基础动画和风格帧，形成最终影像。\n\n人机分工：人物设计、木偶表演、三维动画、构图和摄影意图由人控制；AI 主要承担统一风格的最终渲染层。最值得借鉴的是把动作与美术分开控制，而非从文本直接赌出整支影片。\n\n关注度：Google 官方制作文章及 Nexus 完整案例，曾在 I/O 主旨演讲面向开发者展映；无可靠当前播放量。\n\n核验范围：官方步骤、制作名单、正片和 BTS 入口；未完整播放。\n\n官方作品静帧：\nhttps://cdn.nexusstudios.com/uploads/2026/05/NexusStudios_GoogleIO_LaurieRowan_Still_8.jpg\n\n### 2. Harvey Artifacts Launch Film｜让 Agent 在可编辑时间线上制作产品片\n\n作者：Harvey 内部团队；公开流程作者 Shawn Farsai、Gabe Pereyra。\n\n[官方影片与完整流程](https://www.harvey.ai/blog/how-harvey-is-building-a-frontier-marketing-org)\n\n日期：官方文章发表于 2026-10-21；该日期是案例披露日，不自动等于影片首发日。\n\n公开工具：Figma Motion 与 Agent 工作流。文章也公开了团队的 Claude、Figma MCP、ElevenLabs 与 Figma Weave 体系，但未证明每项工具都用于这支具体发布片，应避免把团队工具清单当作单片制作清单。\n\n输入：创意 brief、逐镜分镜、品牌与产品设计资料、音乐节拍位置及人工批注。\n\n关键步骤：\n1. 先通过分镜确定每个镜头、台词与转场。\n2. Agent 把镜头建成 Figma Motion frame，设置相机、UI 状态及文字关键帧。\n3. 人在画布上批注，Agent 按轮次修改。\n4. 指定音乐落点后重排时长，迭代片尾与音效，直接从文件导出。\n\n人机分工：人负责叙事选择、品牌判断、审稿及节拍目标；Agent 负责构建、动画、批量修改与导出。适合参考“先有分镜和可复用组件，再自动生产”的路径。\n\n关注度：近期官方完整制作复盘；不引用团队其他批量销售影片的产量，冒充这支片的热度。\n\n核验范围：官方正文、分镜示例与影片封面；未完整播放，未取得工程文件或操作复现。\n\n原作影片 poster：\nhttps://www.harvey.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F07s0r5r6%2Fproduction%2Fadd8c93e302ff0559b1616e2b06e9fe83fcf9c8b-2710x1518.png&w=3840\n\n### 3. Unfurl｜先给花朵与织物搭好结构，再放开生成\n\n作者：Vitor Teixeira；音乐与声音设计 Tom Parry。\n\n[原片播放器](https://player.vimeo.com/video/1191865269) · [作者制作说明](https://www.stashmedia.tv/vitor-teixeira-releases-new-personal-short-film-unfurl/)\n\n日期：STASH 于 2026-07-07 报道；原片精确上传日未确认。\n\n公开工具：Cinema 4D；AI 工具包包括 Kohya、ComfyUI、Vizcom、Krea、Figma Weave。来源没有逐镜解释各工具分工，也未给模型版本、训练集或节点参数。\n\n输入：Cinema 4D 结构、照片及其他 AI 图像。\n\n关键步骤：先建立可控的花朵和织物结构，再叠加生成层，通过选择与调整，让形变具有明确美术方向。不能将工具列表擅自扩展成一条已经证实的固定流水线。\n\n人机分工：人控制构图、结构和材质关系；生成工具提供变化；Tom Parry 使用植物纹理、自然录音与电子处理设计声音，不能写成全 AI 音乐。\n\n借鉴：把“可控的空间结构”作为输入，缩小随机生成范围，尤其适合材质与产品氛围实验。\n\n关注度：STASH 专题；当前播放量未核实。\n\n核验范围：作者说明、工具署名、静帧及嵌入入口；普通 Vimeo 页未能打开，未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/New-Personal-Short-Film-Unfurl-STASH-MAGAZINE7-1080x1080.jpg\n\n### 4. Query｜逐场生成，把叙事当作可迭代的写作\n\n作者：Brent Bonacorso。\n\n[作者原片](https://vimeo.com/1223750139) · [导演流程访谈](https://www.stashmedia.tv/brent-bonacorso-answers-five-questions-about-his-new-short-film-query/)\n\n日期：访谈发表于 2026-10-21；原片页面未显示可核实的精确上传日。\n\n公开工具：确认使用生成式 AI 制作画面及音乐，但访谈未披露具体产品、模型、版本或提示词全文。\n\n输入：描述镜头行为、镜头类型、光线、颜色与质感的提示。导演表示没有先完成剧本或分镜，而是从开场逐镜推进。\n\n关键步骤：生成当前段落，观看与选择结果，决定后续故事，再继续生成；最终由导演自行剪辑，并进行少量镜头间色彩匹配。\n\n人机分工：AI 生成视听素材；人物弧线、场景顺序、信息揭示和节奏判断由导演承担。“没有完整剧本先行”不等于“无人导演”。\n\n借鉴：适合探索型短片的边做边写，但不能据此推断它适合已有严密脚本、演员或产品一致性要求的商业项目。\n\n关注度：近期 STASH 专访；无可核实当前播放数字。\n\n核验范围：作者原片署名、完整访谈与静帧资料；未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/22Query22-Short-Film-by-Brent-Bonacorso-STASH-MAGAZINE6-1920x1080.jpg\n\n### 5. VERPAN Wire Portable｜在真实产品约束下组织 AI 制作\n\n作者：FRAME，为 VERPAN 制作；导演、设计、动画、音乐与声音均署名 FRAME。\n\n[作者原片](https://vimeo.com/1151882660) · [制作访谈](https://www.stashmedia.tv/heres-why-frame-swapped-out-cg-for-ai-in-new-verpan-film-2/)\n\n日期：STASH 于 2026-01-07 报道；原片首次发布日期未独立确认。\n\n公开工具：团队确认使用多个模型组合成定制流程，但拒绝把流程简化为固定模型名单，具体名称未披露。\n\n输入：公开说明明确对象是 Wire Portable 灯具及其产品一致性要求；未说明实际使用了 CAD、实拍照片还是其他具体资产，不应补写。\n\n公开步骤范围：概念探索、产品视觉制作、场景、摄影效果、动画和音乐均使用 AI；每个项目及任务按目标重新组合模型，人工持续筛选和修正。\n\n人机分工：AI 生成候选素材；FRAME 负责创意方向、产品准确性、影像品质和最终交付。作者称“全 AI 流程”，不代表没有人工设计或后期判断。\n\n借鉴：学习的是围绕产品保真组织工具，而不是照抄未经公开的“万能工作流”。\n\n关注度：STASH 专访与 FRAME 作者发布；播放量未核实。\n\n核验范围：作者原片说明、署名、访谈与静帧；未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/Heres-Why-FRAME-Swapped-CG-for-AI-in-New-VERPAN-Film-STASH-MAGAZINE2-1920x1080.jpg\n\n### 6. UNFOLD · A Choreography of Becoming｜把生成的不稳定性变成形态研究\n\n作者：Fabian Aerts；音乐署名 Robot Koch、Savannah Jo Lack、Recue，不应写成 AI 生成配乐。\n\n[作者原片](https://vimeo.com/1167319971) · [STASH 专题](https://www.stashmedia.tv/choreography-of-becoming-fabian-aerts-releases-unfold/)\n\n日期：STASH 于 2026-02-24 报道；精确原片上传日未确认。\n\n公开工具：只公开“将 AI 融入三维制作与视觉探索”的混合方法，未公布软件、模型或版本。\n\n输入：未披露具体提示词、源图、三维场景或训练资产。\n\n公开步骤：大量视觉测试，持续调整与偏移，再通过人工选择和精修建立整体连贯性。AI 被用来引入变化和不确定行为，而非简单替代固定制作步骤。\n\n人机分工：AI 提供变体，人决定探索方向、选择、删减与最终形式。其价值是研究形态如何出现、收缩、扩展，不能作为完整可复现的技术教程。\n\n关注度：STASH 专题与作者原片；未核实播放量。\n\n核验范围：作者方法说明、音乐署名、媒体介绍和静帧入口；未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/Fabian-Aerts-UNFOLD-short-film-STASH-MAGAZINE6-1920x1080.jpg\n\n## 延伸阅读 · 3 篇（不计主案例）\n\n以下为已读原文的研究与官方说明，不保证引用视频均已观看；热度未核实。\n\n## 1. JuicyVIS｜反馈放在什么时候，比一味加大强度更值得研究\n\n- 原文：[Juicy Interactive Visualization: Evaluating How Excessive Feedback Design Shapes Visualization Engagement](https://arxiv.org/html/2610.08681v1)\n- 作者：Shano Liang、Max Chen、Lane Harrison，Worcester Polytechnic Institute。\n- 日期：2026-10-06，arXiv v1。\n- 性质：作者实证研究，预印本；不是 Apple 官方，也不是本轮独立复现实测。\n- 已读内容：研究设计、26 个原型、三项实验、结果、讨论、局限；有效样本分别为 47、46、26，共 119 人。\n- 发现：本研究中，丰富反馈总体与更高参与感和审美评分相关。第二项实验中，操作完成后的反馈贡献最清晰，但没有证明它提升任务正确率。第三项实验没有发现提高反馈强度带来可靠收益，不能写成“中等强度已被证明最佳”。\n- 可借鉴：给筛选、排序等已完成动作一个清楚的收尾，再测试反馈时机与强度。不要将音效、抖动、粒子同时加重，误当作更好体验。\n- 边界：探索性、小样本、单次会话，主要为西方英语使用者；没有验证长期新鲜感消退。严肃内容是否需要更克制仍属作者讨论，不是实验结论。\n- 访问：HTML 全文公开，无登录。论文附原型与数据链接，但本轮未操作原型或复算数据。\n\n## 2. Apple《Meet Liquid Glass》｜材质变化本身就是转场的一部分\n\n- 原文：[Meet Liquid Glass](https://developer.apple.com/videos/play/wwdc2025/219/)\n- 发布方／讲者：Apple；Chan、Shubham、Bruno，官方逐字稿中的署名。\n- 日期：WWDC25，2025 年 6 月；本轮未核验精确发布日期，标作历史基础阅读。\n- 性质：Apple 官方设计说明。已读完整逐字稿；没有做设备实测，也没有逐帧核验视频。\n- 发现：Apple 明确将视觉与运动一起设计。玻璃出现与消失通过改变光线弯曲而非仅改透明度；按钮展开成菜单时，形状、折射、阴影与散射共同变化，保持触点与内容的关系。\n- 可借鉴：检查状态切换时，轮廓、材质和层级是否一起变化；不要只在静态模糊矩形上叠一个弹簧。\n- 重要边界：官方建议把玻璃保留在导航和控制层，避免玻璃叠玻璃；Reduced Motion 会减弱部分效果并关闭材质的弹性。这是官方描述，不应推导成所有系统版本的像素级实现均已验证。\n- 访问：官方逐字稿公开，无登录；重点章节 1:29 Dynamics、6:00 Adaptivity、10:31 Principles。\n\n## 3. 动作流畅性研究｜更兴奋，不等于更喜欢\n\n- 原文：[Aesthetic judgment of apparent motion: effects of movement smoothness, synchrony, and shape](https://link.springer.com/article/10.1007/s00426-025-02232-y)\n- 作者：Ernesto Monroy、Guido Orgs。\n- 日期：2026-02-24，Psychological Research 90，Article 40。\n- 性质：同行评审实验论文；非 Apple 官方。已读出版方全文的方法、结果及讨论，未独立复现实验。\n- 发现：两项实验分别有 30 与 19 名参与者。平顺、同步的动作更受喜欢，而突然动作更易被评价为兴奋；人体与抽象形状在喜欢程度上没有显著差异，但人体运动在平静／兴奋感上更鲜明。\n- 可借鉴（迁移假设）：动效评审中分开问“吸引注意”“更兴奋”“更喜欢”，不要用冲击力代替体验质量；组内动作连续性与跨元素节奏都值得检查。\n- 边界：研究对象是由离散姿态组成的人体／抽象动画，不是 UI 点击任务；年轻学生样本小且性别分布不均。平顺性操纵同时改变了隐含速度，不能推出 UI 应取消错峰动画，或某个时长／帧率最佳。\n- 访问：Springer 开放全文，无登录。PMC 镜像出现验证码，本轮未尝试解决；使用公开出版方原文阅读。",
+      "cases": [
+        {
+          "id": "2026-11-10-design-brizo",
+          "date": "2026-11-10",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Brizo：把搜索、AI 提问与常用网站放进同一个起点",
+          "originalHeading": "Brizo：把搜索、AI 提问与常用网站放进同一个起点",
+          "author": "dpopstudio",
+          "heat": "2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/27061294-Brizo-Ask-Search-Discover"
+            },
+            {
+              "label": "官方精选来源",
+              "url": "https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year"
+            }
+          ],
+          "fullText": "作者：dpopstudio。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：原图将界面分成两个浅灰色圆角区域：左侧是大号衬线标题和宽输入框，右侧是两列常用网站快捷入口。输入框把附件、With AI、Deep Research、麦克风和发送收在同一层，绿色发送按钮成为最明确的行动点。背景的淡绿点阵给 AI 区域一点气氛，但没有覆盖文字。\n\n借鉴：可借鉴“一个入口，多种意图”的组织方式。搜索与 AI 模式共享输入区，快捷网站另占独立区域，用户不必先理解复杂的产品分类。需要继续验证的是模式切换后的反馈和键盘操作，本次静帧无法证明这些体验。\n\n核验范围：已读取作者原作页，并下载、实际查看其附图中的搜索首页静态设计。没有播放该项目动效、操作可点击原型或验证 AI 功能。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/27061294-Brizo-Ask-Search-Discover\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。",
+          "limitations": "已读取作者原作页，并下载、实际查看其附图中的搜索首页静态设计。没有播放该项目动效、操作可点击原型或验证 AI 功能。",
+          "verification": "原作页署名与静态原图实看",
+          "originalDateNote": "原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。"
+        },
+        {
+          "id": "2026-11-10-design-meeting",
+          "date": "2026-11-10",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Meeting Assistant：用层叠界面说明会议产品的结构",
+          "originalHeading": "Meeting Assistant：用层叠界面说明会议产品的结构",
+          "author": "Stanislav Hristov / Dtail Studio",
+          "heat": "2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/26865954-AI-Meeting-Assistant-Website-Design-UI-UX-for-SaaS-Dashboard"
+            },
+            {
+              "label": "官方精选来源",
+              "url": "https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year"
+            }
+          ],
+          "fullText": "作者：Stanislav Hristov / Dtail Studio。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：紫色主视觉把设备、网页导航、会议卡片和右侧活动列表分层摆放。大号日期承担扫描入口，卡片保留时间与会议名称，亮紫色同时用在创建会议按钮和被强调的日期卡上。整体是产品展示图，借由空间层次帮助观众看出网站、工作台和活动列表之间的关系。\n\n借鉴：适合参考 SaaS 官网如何展示多层产品结构：以一个主色标识关键动作，用大日期降低排程信息的扫描成本。但倾斜样机和透明材质更适合宣传画面，不能直接视为真实工作台的最佳可读性方案。\n\n核验范围：已核作者原作页与一张完整原始展示图。仅评价静态构图和可见界面层级，未播放动画、实测会议工具或确认产品性能。图内 2023/2024 日期为界面示例，不是作品发布日期。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/26865954-AI-Meeting-Assistant-Website-Design-UI-UX-for-SaaS-Dashboard\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。",
+          "limitations": "已核作者原作页与一张完整原始展示图。仅评价静态构图和可见界面层级，未播放动画、实测会议工具或确认产品性能。图内 2023/2024 日期为界面示例，不是作品发布日期。",
+          "verification": "原作页署名与静态原图实看",
+          "originalDateNote": "原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。"
+        },
+        {
+          "id": "2026-11-10-design-luminous",
+          "date": "2026-11-10",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Luminous：让地点成为社交内容的共同线索",
+          "originalHeading": "Luminous：让地点成为社交内容的共同线索",
+          "author": "Dicky Afisena / Dujima Studio",
+          "heat": "2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/26642878-Luminous-Social-Media-Location-App"
+            },
+            {
+              "label": "官方精选来源",
+              "url": "https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year"
+            }
+          ],
+          "fullText": "作者：Dicky Afisena / Dujima Studio。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：原始附图并排呈现搜索结果、地点动态和个人资料三屏。地点信息使用金色文字，筛选层级用 City、State、Country 三个标签表达，内容仍以大照片和简短描述为主。底部悬浮操作条分别承担筛选、发帖和排序，避免让每个页面都塞满相同控件。\n\n借鉴：可借鉴的是把地点作为跨页面连续的信息线索，而不是只在某一屏加入地图。颜色、地点文字和筛选层级共同建立上下文；列表、信息流和个人页可以采用不同密度，同时维持同一套间距、圆角与字体。\n\n核验范围：已读取原作署名，并下载、查看作者提供的三屏移动端静态图。未体验定位、筛选、排序或发帖。图中的点赞、粉丝和评论数字均为样机内容，不能用作该作品的人气。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/26642878-Luminous-Social-Media-Location-App\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。",
+          "limitations": "已读取原作署名，并下载、查看作者提供的三屏移动端静态图。未体验定位、筛选、排序或发帖。图中的点赞、粉丝和评论数字均为样机内容，不能用作该作品的人气。",
+          "verification": "原作页署名与静态原图实看",
+          "originalDateNote": "原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。"
+        },
+        {
+          "id": "2026-11-10-design-autism",
+          "date": "2026-11-10",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Autism Care SaaS：用双层导航稳定复杂工作上下文",
+          "originalHeading": "Autism Care SaaS：用双层导航稳定复杂工作上下文",
+          "author": "Ungrammary",
+          "heat": "2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/25780505-SaaS-Platform-Design-for-Autism-Care-Centre"
+            },
+            {
+              "label": "官方精选来源",
+              "url": "https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year"
+            }
+          ],
+          "fullText": "作者：Ungrammary。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：实际查看的原始 poster 中，左边窄蓝栏承载全局图标，旁边是当前个案和临床分组，主区再显示面包屑、Assessments 标题、搜索框及评估表。浅紫色背景与右侧竖线同时指出当前导航位置，帮助高密度业务界面保留方向感。外层暖黄色展示框与内部白色工作区保持了区分。\n\n借鉴：值得借鉴的是“全局导航→当前对象→具体任务”的层级分离，尤其适合后台、档案和管理工具。可参考选中态与表格结构，不把医疗场景的流程说明当成经过临床验证的效果。\n\n核验范围：已核作者页，并下载、查看原项目的一张静态 poster；没有观看其完整视频、操作系统或评估医疗效果。poster 右侧图表只显示初始状态，因此不评价图表动画或完整数据表现。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/25780505-SaaS-Platform-Design-for-Autism-Care-Centre\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。",
+          "limitations": "已核作者页，并下载、查看原项目的一张静态 poster；没有观看其完整视频、操作系统或评估医疗效果。poster 右侧图表只显示初始状态，因此不评价图表动画或完整数据表现。",
+          "verification": "原作页署名与静态原图实看",
+          "originalDateNote": "原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。"
+        },
+        {
+          "id": "2026-11-10-design-stockly",
+          "date": "2026-11-10",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Stockly：把总览指标和逐条管理放在同一张工作台",
+          "originalHeading": "Stockly：把总览指标和逐条管理放在同一张工作台",
+          "author": "Sagor Shopon / Design Veli",
+          "heat": "2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/26572682-Stockly-Grocery-Admin-Panel-Products-Page"
+            },
+            {
+              "label": "官方精选来源",
+              "url": "https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year"
+            }
+          ],
+          "fullText": "作者：Sagor Shopon / Design Veli。\n\n日期：原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。\n\n亮点：界面以浅蓝底和白色圆角卡片划分区域，上方是库存、销售与流失率，下方把供需曲线和近期库存表并排。黄色贯穿当前 Products 导航、环形图、曲线与复选框，绿色和红色则单独承担变化提示。表格右侧展开的菜单把查看、编辑和删除放到记录旁，降低操作与对象脱离的距离。\n\n借鉴：可借鉴从“看整体”到“处理单条”的连续层级，以及将装饰主色与状态色分开。也要注意概念图的语义：标题称 grocery，但图中示例包括电子产品、服装与家具，不能据此认定它是已落地的食品库存系统。\n\n核验范围：已读取作者原作页并实际查看整张原始 UI 图。未测试搜索、导出、图表提示、批量管理或响应式表现；原图显示的菜单是设计状态，不是本次点击结果。\n\n热度：2026-11-10 核验：被 Dribbble 官方《UI/UX Agencies’ Best Shots of the Year》收录，该文标注更新于 2026-04-23。本次原作页未返回可核实的作品级浏览、点赞、收藏计数；这是策展收录，不等于热度排名。\n\n作者原作：https://dribbble.com/shots/26572682-Stockly-Grocery-Admin-Panel-Products-Page\n\n官方精选：https://dribbble.com/resources/agencies/ui-ux-agencies-best-shots-of-the-year\n\n封面来源：作者原作静态图片或原视频 poster；已下载查看，未使用生成图。",
+          "limitations": "已读取作者原作页并实际查看整张原始 UI 图。未测试搜索、导出、图表提示、批量管理或响应式表现；原图显示的菜单是设计状态，不是本次点击结果。",
+          "verification": "原作页署名与静态原图实看",
+          "originalDateNote": "原作首次发布日期未核实。Dribbble 官方精选文章更新于 2026-04-23；本条是 2026-11-10 新发现的历史方法参考，不称当日首发。"
+        },
+        {
+          "id": "2026-11-10-motion-clips-snippet-search",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Clips｜让音频分析过程沿着波形逐段显现",
+          "author": "Kai Williams",
+          "heat": "2026-11-10原页详情面板核验：4,598观看、3赞、0收藏、0评论。热度较低，不表述为热门。累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/27837753-Clips-Finding-the-catchiest-snippets"
+            }
+          ],
+          "originalDateNote": "发布于2026-11-04，近一周新作；今日收录，不是11月10日首发。",
+          "verification": "云端原页及原视频可播放，查看13.6秒片段约4秒、9秒与结尾截图，并读取作者说明、原页发布日期和计数。属于多时点抽样观看，不是连续逐帧完整观看。",
+          "limitations": "这是产品动效视频，未操作实际音频分析或导出功能。作者称系统会分四轮分析并选出三个5–9秒片段，这些能力和准确率未经实测。",
+          "fullText": "作者：Kai Williams。\n\n原作日期：发布于2026-11-04，近一周新作；今日收录，不是11月10日首发。\n\n画面与动效：深色音乐工作区把大波形留在顶部，段落逐行排列在下方。约4秒时可见Finding snippets与Finding the lines that come back的状态文字和扫描波形；约9秒时，各段小波形中的候选片段亮起不同颜色，部分Export圆框出现勾选。结尾恢复Find snippets入口。\n\n可借鉴：分析任务可同时给出一句具体阶段说明和与数据对应的局部反馈，让等待更可解释。候选片段的颜色、勾选与段落行放在一起，避免用户猜测结果属于哪段音频。\n\n热度：2026-11-10原页详情面板核验：4,598观看、3赞、0收藏、0评论。热度较低，不表述为热门。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页及原视频可播放，查看13.6秒片段约4秒、9秒与结尾截图，并读取作者说明、原页发布日期和计数。属于多时点抽样观看，不是连续逐帧完整观看。\n\n观看与使用限制：这是产品动效视频，未操作实际音频分析或导出功能。作者称系统会分四轮分析并选出三个5–9秒片段，这些能力和准确率未经实测。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/27837753-Clips-Finding-the-catchiest-snippets)",
+          "originalHeading": "Clips｜让音频分析过程沿着波形逐段显现",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-select-tag-list",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Custom Select Tag List｜下拉选项展开成一片可重选的标签",
+          "author": "Chris Bolson",
+          "heat": "2026-11-10核验：137 Hearts、4,714 Views。作品累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://codepen.io/editor/cbolson/pen/019ebc82-1f2a-7b2a-889e-f4dbce890f3b"
+            }
+          ],
+          "originalDateNote": "创建2026-06-13，更新2026-07-01。旧作，今日新收录，不是11月10日首发。",
+          "verification": "已真实展开菜单、选择Nature，并核对收回后的值；读取原页Details & Comments中的日期和计数。",
+          "limitations": "这是原生控件的新样式实验，生产使用需另测浏览器兼容性。未测全部选项、键盘和移动端。",
+          "fullText": "作者：Chris Bolson。\n\n原作日期：创建2026-06-13，更新2026-07-01。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：收起时是一个带分类名与数量的普通选择框；展开后，选项以多行蓝色胶囊在上方铺开，当前项变橙色，背景选择框轻微模糊。实际从Street Photography切到Nature后，标签收回，原框更新成Nature 7,842。\n\n可借鉴：让选项展开与最终选择仍围绕同一个控件，不必为了视觉表现另造一整页筛选面板。作者用可自定义select和flex排列选项。\n\n热度（2026-11-10核验）：137 Hearts、4,714 Views。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已真实展开菜单、选择Nature，并核对收回后的值；读取原页Details & Comments中的日期和计数。\n\n观看与使用限制：这是原生控件的新样式实验，生产使用需另测浏览器兼容性。未测全部选项、键盘和移动端。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://codepen.io/editor/cbolson/pen/019ebc82-1f2a-7b2a-889e-f4dbce890f3b)",
+          "originalHeading": "Custom Select Tag List｜下拉选项展开成一片可重选的标签",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-custom-input-range",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Custom Input Range｜数值、填色和把手沿同一条轨道同步",
+          "author": "Full on CSS（账号 Taluska）",
+          "heat": "2026-11-10核验：187 Loves、5,614 Views。作品累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://codepen.io/Taluska/pen/XJpNeLV"
+            },
+            {
+              "label": "日期与热度核验",
+              "url": "https://codepen.io/Taluska/details/XJpNeLV"
+            }
+          ],
+          "originalDateNote": "创建2026-06-16，更新2026-06-18。旧作，今日新收录，不是11月10日首发。",
+          "verification": "已在云端真实拖动30→84，并核对前后截图与控件数值。",
+          "limitations": "未做移动端、键盘或完整可访问性测试。",
+          "fullText": "作者：Full on CSS（账号 Taluska）。\n\n原作日期：创建2026-06-16，更新2026-06-18。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：浅灰色凹槽里是一条青到紫的发光填色，白色圆形把手带着上方数字一起走。实际从30拖到84时，把手位置、填色长度和数值同时变化，拟物阴影只负责提示可抓取的位置，没有遮住读数。\n\n可借鉴：让多种反馈对齐同一个状态源：拖动的结果不应等松手才告诉用户。\n\n热度（2026-11-10核验）：187 Loves、5,614 Views。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已在云端真实拖动30→84，并核对前后截图与控件数值。\n\n观看与使用限制：未做移动端、键盘或完整可访问性测试。\n\n封面为云端实际作品截图，不是生成图。原分享图下载返回403，因此改用实际页面截图。\n\n[作者原作](https://codepen.io/Taluska/pen/XJpNeLV)\n[日期与热度核验](https://codepen.io/Taluska/details/XJpNeLV)",
+          "originalHeading": "Custom Input Range｜数值、填色和把手沿同一条轨道同步",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-airplane-ticket",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Airplane Ticket Button｜把一小段飞行旅程收进主按钮",
+          "author": "Jon Kantner",
+          "heat": "2026-11-10核验：80 Loves、3,976 Views。作品累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://codepen.io/jkantner/pen/bNgowVy"
+            },
+            {
+              "label": "日期与热度核验",
+              "url": "https://codepen.io/jkantner/details/bNgowVy"
+            }
+          ],
+          "originalDateNote": "创建与更新均为2026-06-30。旧作，今日新收录，不是11月10日首发。",
+          "verification": "已在作者原页真实点击并观察文字退出、飞机进入与后续云陆循环截图。",
+          "limitations": "未验证任何订票功能；它是独立前端演示。未做移动端与可访问性完整测试。",
+          "fullText": "作者：Jon Kantner。\n\n原作日期：创建与更新均为2026-06-30。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：蓝色 Get Tickets 按钮在触发后把文字向上送出，俯视飞机从下方进入；云与绿色陆地沿纵向循环，让一个很小的控件拥有出发感。\n\n可借鉴：把动作语义放进按钮内部，而不是额外弹出装饰。实际产品仍应保证按钮文字、键盘焦点和减少动态效果的可用性，不宜让趣味反馈代替提交状态。\n\n热度（2026-11-10核验）：80 Loves、3,976 Views。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已在作者原页真实点击并观察文字退出、飞机进入与后续云陆循环截图。\n\n观看与使用限制：未验证任何订票功能；它是独立前端演示。未做移动端与可访问性完整测试。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://codepen.io/jkantner/pen/bNgowVy)\n[日期与热度核验](https://codepen.io/jkantner/details/bNgowVy)",
+          "originalHeading": "Airplane Ticket Button｜把一小段飞行旅程收进主按钮",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-glitchy-navigation",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Glitchy Navigation｜只让当前菜单项短暂失真",
+          "author": "Josh Dillon",
+          "heat": "2026-11-10核验：279 Loves、4,873 Views、2评论。作品累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://codepen.io/jdillon/pen/BypYNVa"
+            },
+            {
+              "label": "日期与热度核验",
+              "url": "https://codepen.io/jdillon/details/BypYNVa"
+            }
+          ],
+          "originalDateNote": "创建与更新均为2026-07-08。旧作，今日新收录，不是11月10日首发。",
+          "verification": "已在原页触发About Me，核对静态与失真状态截图，并阅读作者技术说明。",
+          "limitations": "未测试三个菜单的业务跳转，演示链接仅为占位；未做移动端或可访问性完整测试。",
+          "fullText": "作者：Josh Dillon。\n\n原作日期：创建与更新均为2026-07-08。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：粉红色像素字与细框构成三项竖向导航。触发 About Me 后，文字短暂出现水平错位、青色分层和扫描线般的拖影，外框与其他菜单项保持稳定。\n\n可借鉴：把风格化失真限制在当前目标里，让变化说明光标落在哪里；用于真正导航时应缩短持续时间，并为减少动态效果提供平稳版本。作者说明使用GSAP rough easing驱动displacement filter，并明确致意Michael Mullany的文字位移技术。\n\n热度（2026-11-10核验）：279 Loves、4,873 Views、2评论。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已在原页触发About Me，核对静态与失真状态截图，并阅读作者技术说明。\n\n观看与使用限制：未测试三个菜单的业务跳转，演示链接仅为占位；未做移动端或可访问性完整测试。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://codepen.io/jdillon/pen/BypYNVa)\n[日期与热度核验](https://codepen.io/jdillon/details/BypYNVa)",
+          "originalHeading": "Glitchy Navigation｜只让当前菜单项短暂失真",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-recruitsmart-calendar",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "RecruitSmart Calendar｜日、周、月视图变换，保留同一条事件上下文",
+          "author": "Bagus Fikri / Fikri Studio",
+          "heat": "2026-11-10原页详情面板核验：14,824观看、63赞、23收藏、8评论。累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/27407976-RecruitSmart-Calendar-Animation-SaaS-School-HRM"
+            }
+          ],
+          "originalDateNote": "发布于2026-05-27。旧作，今日新收录，不是11月10日首发。画面中的August 2025是演示日历内容，不是作品发布日期。",
+          "verification": "云端播放约17秒原片，抽样查看月视图、下拉菜单、周视图和结尾日视图，并读取原页详情日期和计数。不是连续逐帧完整观看。",
+          "limitations": "仅观看设计演示视频，没有实际操作HR系统。作者说明还包括面试详情浮层与日历同步，但本次不将其视为已实测功能。未测试可访问性或性能。",
+          "fullText": "作者：Bagus Fikri / Fikri Studio。\n\n原作日期：发布于2026-05-27。旧作，今日新收录，不是11月10日首发。画面中的August 2025是演示日历内容，不是作品发布日期。\n\n画面与动效：学校人事管理日历用紫色标记当前日期，月视图把事件压成短条；切换到周、日视图后，主区重新安排时间粒度，右侧Upcoming Event列表依然可见。实际抽样确认月、周、日三个布局，以及视图下拉菜单。\n\n可借鉴：在高密度业务界面里，动效首先帮助用户理解同一批数据如何重新排布。把侧栏、导航和当前日期保留为参照，可降低切换视图时重新寻找信息的成本。\n\n热度：2026-11-10原页详情面板核验：14,824观看、63赞、23收藏、8评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端播放约17秒原片，抽样查看月视图、下拉菜单、周视图和结尾日视图，并读取原页详情日期和计数。不是连续逐帧完整观看。\n\n观看与使用限制：仅观看设计演示视频，没有实际操作HR系统。作者说明还包括面试详情浮层与日历同步，但本次不将其视为已实测功能。未测试可访问性或性能。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/27407976-RecruitSmart-Calendar-Animation-SaaS-School-HRM)",
+          "originalHeading": "RecruitSmart Calendar｜日、周、月视图变换，保留同一条事件上下文",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-rotating-toggle",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Toggle Interaction Experiment｜让玻璃遮罩旋转，而不是让滑块横移",
+          "author": "Dmitry Lepisov / Lepisov Branding",
+          "heat": "2026-11-10原页详情面板核验：17,948观看、153赞、13收藏、23评论。累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/27438965-Toggle-Interaction-Experiment"
+            }
+          ],
+          "originalDateNote": "发布于2026-06-04。旧作，今日新收录，不是11月10日首发。",
+          "verification": "云端原页4.8秒视频已自动播放，核对多个不同旋转/颜色状态截图；属于部分播放、多帧抽样核验，不是连续逐帧完整观看。",
+          "limitations": "这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。",
+          "fullText": "作者：Dmitry Lepisov / Lepisov Branding。\n\n原作日期：发布于2026-06-04。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：深绿色底板上，半透明玻璃层旋转、遮住或露出内圈。多帧中可见橙黄色与绿色内圈、玻璃层的不同朝向；用覆盖关系替代常见的水平滑动。\n\n可借鉴：状态切换不只靠位移，还可以用遮挡和材质变化表达。不过实际设置开关仍需明确文字或状态标识，不应只靠颜色传达开关。\n\n热度：2026-11-10原页详情面板核验：17,948观看、153赞、13收藏、23评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页4.8秒视频已自动播放，核对多个不同旋转/颜色状态截图；属于部分播放、多帧抽样核验，不是连续逐帧完整观看。\n\n观看与使用限制：这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/27438965-Toggle-Interaction-Experiment)",
+          "originalHeading": "Toggle Interaction Experiment｜让玻璃遮罩旋转，而不是让滑块横移",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-farmsense-microinteractions",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "FarmSense｜把地图图层、设备卡片和汇总面板连成一套交互",
+          "author": "tubik UX / tubik",
+          "heat": "2026-11-10原页详情面板核验：41,406观看、241赞、99收藏、16评论。累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/25937326-Micro-Interactions-for-Smart-Farming-App-FarmSense"
+            }
+          ],
+          "originalDateNote": "发布于2025-04-29。旧作，今日新收录，不是11月10日首发。",
+          "verification": "云端原页21.05秒视频已自动播放，读取到10.39秒播放位置，并查看地块、数据侧栏、设备浮层等多个时点截图；部分播放、多帧核验。",
+          "limitations": "这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。",
+          "fullText": "作者：tubik UX / tubik。\n\n原作日期：发布于2025-04-29。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：卫星地图保持为稳定背景，地块边界和设备点位在其上呈现；抽样画面展示了地块概览、展开的数据侧栏、右上汇总卡和设备信息浮层。地图信息密度随任务变化，而不需要切换到完全不同的页面。\n\n可借鉴：处理地图或监控台时，让详情靠近对象，并允许汇总与侧栏收起，可保留空间上下文。\n\n热度：2026-11-10原页详情面板核验：41,406观看、241赞、99收藏、16评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页21.05秒视频已自动播放，读取到10.39秒播放位置，并查看地块、数据侧栏、设备浮层等多个时点截图；部分播放、多帧核验。\n\n观看与使用限制：这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/25937326-Micro-Interactions-for-Smart-Farming-App-FarmSense)",
+          "originalHeading": "FarmSense｜把地图图层、设备卡片和汇总面板连成一套交互",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-ai-interface-concepts",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Motion Concepts for AI Interfaces｜同一束紫光贯穿输入、思考与图像工作区",
+          "author": "UZOR motion",
+          "heat": "2026-11-10核验：5个赞、299个视图、0评论。热度不高，不表述为热门。作品累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://www.behance.net/gallery/248741031/AI-UI-Interactions-Toolkit"
+            }
+          ],
+          "originalDateNote": "原页中文界面显示2026-05-05；搜索索引显示5月4日，可能存在时区差异，因此保留原页显示日期。旧作，今日新收录，不是11月10日首发。",
+          "verification": "已启动并让40秒原片播放至结尾，查看开头、约9秒、15秒、图像参考段、30秒、35秒与结尾等多时点截图。已核对作者、原页日期和计数。",
+          "limitations": "这是抽样观看，不是连续逐帧精读或可操作AI功能实测。画面虽出现OpenAI标志，但作者为UZOR motion，不作为官方OpenAI设计或真实功能发布。与库中同作者AI Image Generator App Promo是不同原作。",
+          "fullText": "作者：UZOR motion。\n\n原作日期：原页中文界面显示2026-05-05；搜索索引显示5月4日，可能存在时区差异，因此保留原页显示日期。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：细长输入胶囊先承接文字，再切换到Thinking、Analyzing等状态；同一套紫色光晕继续出现在较大的AI Assistant面板里。图像工作区把上传入口和题材参考缩成一排卡片，提交后的提示词贴在上方，中间只留下等待点。\n\n可借鉴：让输入、任务状态与较大工作区沿用相同边框和光线语言，避免每一步像换了一个产品。紫光本身不能说明系统进度，真正使用时仍应保留具体状态文字，并控制对正文的干扰。\n\n热度（2026-11-10核验）：5个赞、299个视图、0评论。热度不高，不表述为热门。作品累计页面快照，不是当天流量或热门排名。\n\n核验范围：已启动并让40秒原片播放至结尾，查看开头、约9秒、15秒、图像参考段、30秒、35秒与结尾等多时点截图。已核对作者、原页日期和计数。\n\n观看与使用限制：这是抽样观看，不是连续逐帧精读或可操作AI功能实测。画面虽出现OpenAI标志，但作者为UZOR motion，不作为官方OpenAI设计或真实功能发布。与库中同作者AI Image Generator App Promo是不同原作。\n\n封面为原作页面提供的官方分享图，不是生成图。\n\n[作者原作](https://www.behance.net/gallery/248741031/AI-UI-Interactions-Toolkit)",
+          "originalHeading": "Motion Concepts for AI Interfaces｜同一束紫光贯穿输入、思考与图像工作区",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-motion-download-button-original",
+          "date": "2026-11-10",
+          "module": "UI动效",
+          "title": "Download Button｜让一个按钮承接开始、加载和完成反馈",
+          "author": "Dmitry Lauretsky / Ronas IT | UI/UX Team",
+          "heat": "2026-11-10原页详情面板核验：711,036观看、1,380赞、1,130收藏、31评论。累计页面快照，不是当天流量或热门排名。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://dribbble.com/shots/14911343-Download-Button-Micro-Interaction-Shot"
+            }
+          ],
+          "originalDateNote": "发布于2021-01-25。旧作，今日新收录，不是11月10日首发。",
+          "verification": "云端原页7.808秒视频已自动播放，截图确认Download与绿色Loading状态；部分播放、多帧核验，完成态依据原作者说明而非本次截图。",
+          "limitations": "这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。",
+          "fullText": "作者：Dmitry Lauretsky / Ronas IT | UI/UX Team。\n\n原作日期：发布于2021-01-25。旧作，今日新收录，不是11月10日首发。\n\n画面与动效：浅紫灰背景里的白色Download按钮在操作演示中转入绿色Loading状态，标签和颜色在同一位置给出反馈。原作者说明还包含完成状态；本次截图直接确认开始与加载两态，未把说明中的完成态冒充实看。\n\n可借鉴：把状态反馈留在触发动作的位置，减少用户寻找进度提示的成本。产品化时仍需要失败、取消和重试状态。\n\n热度：2026-11-10原页详情面板核验：711,036观看、1,380赞、1,130收藏、31评论。累计页面快照，不是当天流量或热门排名。\n\n核验范围：云端原页7.808秒视频已自动播放，截图确认Download与绿色Loading状态；部分播放、多帧核验，完成态依据原作者说明而非本次截图。\n\n观看与使用限制：这是设计演示视频，未实测生产产品、功能可用性或移动端可访问性。\n\n封面为原作视频poster，不是生成图。\n\n[作者原作](https://dribbble.com/shots/14911343-Download-Button-Micro-Interaction-Shot)",
+          "originalHeading": "Download Button｜让一个按钮承接开始、加载和完成反馈",
+          "originalModule": "UI动效"
+        },
+        {
+          "id": "2026-11-10-interaction-matchstick-flame",
+          "date": "2026-11-10",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Matchstick Flame：一次 Strike，把火柴点燃、烧短和余烬串成过程",
+          "originalHeading": "Matchstick Flame：一次 Strike，把火柴点燃、烧短和余烬串成过程",
+          "author": "Carmen Ansio",
+          "heat": "2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。",
+          "links": [
+            {
+              "label": "作者原作与演示",
+              "url": "https://www.carmenansio.com/articles/matchstick-flame-canvas/"
+            }
+          ],
+          "fullText": "作者：Carmen Ansio。\n\n日期：2026-10-04，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：黑色画布里，一根长火柴和一枚 Strike 按钮就构成完整的叙事入口。点击后，橙白火焰、周围暖光和四散火星同时出现；继续查看时，火柴杆明显缩短，火焰也随燃烧状态变化。作者把火焰拆成叠加的轮廓与正弦扰动，文章进一步解释了点火、燃烧与熄灭各阶段。它的吸引力不是按钮本身，而是一次输入带出持续变化的材料状态。\n\n借鉴：适合借鉴到小型趣味组件或状态故事：让用户的一次动作留下可见后果，用长度、亮度和粒子共同表达时间。不要只给按钮一个孤立的缩放反馈；过程的前后差异更能让人愿意再次点击。\n\n核验范围：已在云端桌面浏览器点击 Strike，实际查看刚点燃的长火柴、火星，以及稍后缩短的火柴状态，并再次点击点火。已展开演示并读取作者实现说明。未完整录制全周期、未验证 reduced-motion 开关和移动端触控。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/articles/matchstick-flame-canvas/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。",
+          "limitations": "已在云端桌面浏览器点击 Strike，实际查看刚点燃的长火柴、火星，以及稍后缩短的火柴状态，并再次点击点火。已展开演示并读取作者实现说明。未完整录制全周期、未验证 reduced-motion 开关和移动端触控。",
+          "verification": "云端桌面演示实际操作与原文核验",
+          "originalDateNote": "2026-10-04，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。"
+        },
+        {
+          "id": "2026-11-10-interaction-spirograph-explorer",
+          "date": "2026-11-10",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Spirograph Explorer：轻推一个齿数，把花瓣变成密织圆环",
+          "originalHeading": "Spirograph Explorer：轻推一个齿数，把花瓣变成密织圆环",
+          "author": "Carmen Ansio",
+          "heat": "2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。",
+          "links": [
+            {
+              "label": "作者原作与演示",
+              "url": "https://www.carmenansio.com/lab/spirograph-explorer/"
+            }
+          ],
+          "fullText": "作者：Carmen Ansio。\n\n日期：2026-08-14，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：米色方形画布与暗红细线，保留了纸上万花尺的熟悉感；右侧只放外环齿数 R、内轮齿数 r 与笔偏移 p 三个滑块。实测保持 R=96、p=0.60，把 r 从 40 改为 37 后，原先较疏的重复花瓣变成层层交织、中央留白的密集圆环。几乎没有额外解释，参数与图形之间的关系已经可见。\n\n借鉴：这是把数学参数做成可探索视觉工具的好例子：变量少、反馈直接、默认图形好看。值得借鉴的是让相邻参数也能带来明显变化，而不是一开始堆满高级选项。文章将曲线解释为 hypotrochoid，可作为生成式图案工具的入门参考。\n\n核验范围：已在云端展开真实 Canvas 演示，实际把 Wheel teeth 从 40 改为 37，核对控件值并查看变化后的曲线；封面即 R=96、r=37、p=0.60 状态。未穷举参数、未验证移动端和导出功能。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/lab/spirograph-explorer/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。",
+          "limitations": "已在云端展开真实 Canvas 演示，实际把 Wheel teeth 从 40 改为 37，核对控件值并查看变化后的曲线；封面即 R=96、r=37、p=0.60 状态。未穷举参数、未验证移动端和导出功能。",
+          "verification": "云端桌面演示实际操作与原文核验",
+          "originalDateNote": "2026-08-14，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。"
+        },
+        {
+          "id": "2026-11-10-interaction-kaleidoscope",
+          "date": "2026-11-10",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Kaleidoscope：把随手一划镜像成发光花朵",
+          "originalHeading": "Kaleidoscope：把随手一划镜像成发光花朵",
+          "author": "Carmen Ansio",
+          "heat": "2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。",
+          "links": [
+            {
+              "label": "作者原作与演示",
+              "url": "https://www.carmenansio.com/articles/kaleidoscope-symmetry-canvas/"
+            }
+          ],
+          "fullText": "作者：Carmen Ansio。\n\n日期：2026-09-11，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：深色方形画布里的线条会随时间换色，重叠处接近白色，较旧轨迹逐渐变暗。实测在画布中拖动，单次手势被复制成围绕中心展开的对称图案；把 Segments 从 8 改为 12 后再划动，画面出现更多放射状细长尖角。它让没有绘画技巧的输入也能获得秩序感很强的结果。\n\n借鉴：可以借鉴“放大用户的一点输入”的反馈策略：用户只负责一笔，系统负责镜像、旋转、叠光与淡出。对称结构带来可预期性，颜色和轨迹保留随机性，两者一起降低创作门槛。适合轻量涂鸦、活动页或入门创意编程。\n\n核验范围：已在云端展开演示，在画布内拖动画线，并实际把 Segments 从 8 调至 12 后再次拖动，查看两种对称密度的画面。已读镜像、加色叠光与衰减说明。未测试 Clear、独立 Folded 演示、移动端、麦克风输入或系统减少动态效果偏好。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/articles/kaleidoscope-symmetry-canvas/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。",
+          "limitations": "已在云端展开演示，在画布内拖动画线，并实际把 Segments 从 8 调至 12 后再次拖动，查看两种对称密度的画面。已读镜像、加色叠光与衰减说明。未测试 Clear、独立 Folded 演示、移动端、麦克风输入或系统减少动态效果偏好。",
+          "verification": "云端桌面演示实际操作与原文核验",
+          "originalDateNote": "2026-09-11，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。"
+        },
+        {
+          "id": "2026-11-10-interaction-mano-loca",
+          "date": "2026-11-10",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Mano Loca：把黏黏手玩具变成能甩、拉和吸附的网页物件",
+          "originalHeading": "Mano Loca：把黏黏手玩具变成能甩、拉和吸附的网页物件",
+          "author": "Carmen Ansio",
+          "heat": "2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。",
+          "links": [
+            {
+              "label": "作者原作与演示",
+              "url": "https://www.carmenansio.com/lab/mano-loca/"
+            }
+          ],
+          "fullText": "作者：Carmen Ansio。\n\n日期：2026-05-29，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。\n\n亮点：绿色手柄、长绳和一只夸张手掌构成可拖拽的主角。实测拖动手柄后，手掌被甩向右侧，绳子拉长，画面出现多条黏丝。作者的说明把这个玩具拆成 Verlet 运动、边缘吸附与拉伸脱离等部分，让网页上的物体不仅跟随指针，也显得有重量和黏性。\n\n借鉴：值得借鉴的是用不同部件承担不同反馈：手柄对应直接控制，绳子表达弹性，手掌与黏丝表达碰撞和吸附。这样用户不需要数值说明，就能读懂力度与牵连关系。适合物理玩具或品牌彩蛋，但不能把这种延迟牵引直接套到要求精确操作的表单控件。\n\n核验范围：已由本次云端核验实际拖动绿色手柄，观察到手掌甩向右侧、绳子拉长与多条黏丝，并读取作者物理实现解释。仅桌面鼠标实测；手机振动未测，也未做物理参数和跨浏览器验证。\n\n热度：2026-11-10 核验：作者原站未显示可核实的作品级浏览、点赞或收藏总数。此项按可体验性与方法价值选入，不称热门排名。\n\n作品原页：https://www.carmenansio.com/lab/mano-loca/\n\n封面来源：2026-11-10 云端浏览器实际演示截图，保留作品原貌，未使用生成图。",
+          "limitations": "已由本次云端核验实际拖动绿色手柄，观察到手掌甩向右侧、绳子拉长与多条黏丝，并读取作者物理实现解释。仅桌面鼠标实测；手机振动未测，也未做物理参数和跨浏览器验证。",
+          "verification": "云端桌面演示实际操作与原文核验",
+          "originalDateNote": "2026-05-29，作者原页面标注日期；2026-11-10 是本次收录日期，不是作品首发日。"
+        },
+        {
+          "id": "2026-11-10-ai-product-parallel-index",
+          "date": "2026-11-10",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Introducing Index by Parallel｜用点、网格和纸张质感解释开放网络",
+          "originalHeading": "Introducing Index by Parallel｜用点、网格和纸张质感解释开放网络",
+          "author": "Please Call Me Champ Studio；导演 Adam Koppel；创意总监 Sabrina Techawongthawon、Champ Panupong Techawongthawon。",
+          "heat": "2026-11-10：获 STASH 专题介绍；本轮未取得可靠的当前播放或点赞数字。",
+          "links": [
+            {
+              "label": "作者原片",
+              "url": "https://vimeo.com/1205917714"
+            },
+            {
+              "label": "STASH 专题",
+              "url": "https://www.stashmedia.tv/on-the-dot-please-call-me-champ-intros-index-by-parallel/"
+            }
+          ],
+          "fullText": "作者：Please Call Me Champ Studio；导演 Adam Koppel；创意总监 Sabrina Techawongthawon、Champ Panupong Techawongthawon。\n\n[作者原片](https://vimeo.com/1205917714) · [STASH 专题](https://www.stashmedia.tv/on-the-dot-please-call-me-champ-intros-index-by-parallel/)\n\n日期：STASH 于 2026-07-01 报道；原片页面未显示可核实的精确上传日期。\n\n内容与借鉴：作者把开放网络化成点、线、网格与抽象界面。数字系统的精准运动配合纸面颗粒、打字机细节，让 AI 产品具有编辑设计的温度。适合学习如何用一套小而稳定的图形语法，表达连接、信息价值和网络变化，而不是堆砌科技元素。\n\n关注度：获 STASH 专题介绍；本轮未取得可靠的当前播放或点赞数字。\n\n核验范围：作者 Vimeo 正文与完整署名、媒体说明及原作静帧入口。未完整播放，未实测 Index；不能因产品属于 AI 就认定影片由 AI 生成。\n\n封面：采用专题中明确标注为影片帧的橙底网络图。\nhttps://www.stashmedia.tv/wp-content/uploads/Index-by-Parallel-launch-film-by-Please-Call-Me-Champ-Studio-STASH-MAGAZINE7-1920x1080.jpg",
+          "limitations": "作者 Vimeo 正文与完整署名、媒体说明及原作静帧入口。未完整播放，未实测 Index；不能因产品属于 AI 就认定影片由 AI 生成。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "STASH 于 2026-07-01 报道；原片页面未显示可核实的精确上传日期。"
+        },
+        {
+          "id": "2026-11-10-ai-product-cusp-foundries",
+          "date": "2026-11-10",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "CUSP AI · Foundries｜让材料发现成为可组合的立方体系统",
+          "originalHeading": "CUSP AI · Foundries｜让材料发现成为可组合的立方体系统",
+          "author": "Wes Cockx / CREAM3D；音乐与音效 NOI；作者 Behance 项目署名另列 Production: Forever People。",
+          "heat": "2026-11-10：STASH 收录。Behance 检索快照出现约 1.8K 浏览、189 欣赏，但快照并非今日实时计数，不建议作为 11 月 10 日热度发布。",
+          "links": [
+            {
+              "label": "作者项目",
+              "url": "https://www.behance.net/gallery/249863455/CUSP-AI-Foundries"
+            },
+            {
+              "label": "STASH 专题",
+              "url": "https://www.stashmedia.tv/his-intelligent-materials-cuspai-brand-film-by-wes-cockx/"
+            }
+          ],
+          "fullText": "作者：Wes Cockx / CREAM3D；音乐与音效 NOI；作者 Behance 项目署名另列 Production: Forever People。\n\n[作者项目](https://www.behance.net/gallery/249863455/CUSP-AI-Foundries) · [STASH 专题](https://www.stashmedia.tv/his-intelligent-materials-cuspai-brand-film-by-wes-cockx/)\n\n日期：作者 Behance 发布日与 STASH 报道日均为 2026-07-21。\n\n内容与借鉴：精密网格中的立方体从基本单元组合为复杂结构，绿色发光路径连接不同功能。材料发现、模块组合和规模扩展被放进同一套三维系统，适合参考抽象科研产品怎样建立可重复使用的视觉语言。\n\n分类证据：作者明确说明，这个项目没有使用 AI 生成图像或 AI 辅助工具。它是“宣传 AI 的动画”，不是“AI 制作动画”。\n\n关注度：STASH 收录。Behance 检索快照出现约 1.8K 浏览、189 欣赏，但快照并非今日实时计数，不建议作为 11 月 10 日热度发布。\n\n核验范围：STASH 正文与静帧、作者项目检索内容；Behance 直接打开返回 403，未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/CuspAI-Brand-Film-by-Wes-Cockx-STASH-MAGAZINE-1920x1080.jpg\n\n去重说明：历史 CuspAI 是 Gramafilm 作品，本条原作者、片名与视觉体系均不同。",
+          "limitations": "STASH 正文与静帧、作者项目检索内容；Behance 直接打开返回 403，未完整播放。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "作者 Behance 发布日与 STASH 报道日均为 2026-07-21。"
+        },
+        {
+          "id": "2026-11-10-ai-product-jetstream",
+          "date": "2026-11-10",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "JetStream｜把 AI 治理做成能看懂的结构与通路",
+          "originalHeading": "JetStream｜把 AI 治理做成能看懂的结构与通路",
+          "author": "CREAM3D，创意总监 Wes Cockx；二维动效 Aleš Balantič；音乐与声音 NOI。",
+          "heat": "2026-11-10：获 STASH 专题介绍；未取得当前平台播放量。",
+          "links": [
+            {
+              "label": "原片播放器",
+              "url": "https://player.vimeo.com/video/1217303581"
+            },
+            {
+              "label": "专题与制作说明",
+              "url": "https://www.stashmedia.tv/wes-cockx-makes-the-conceptual-visible-for-jetstream/"
+            }
+          ],
+          "fullText": "作者：CREAM3D，创意总监 Wes Cockx；二维动效 Aleš Balantič；音乐与声音 NOI。\n\n[原片播放器](https://player.vimeo.com/video/1217303581) · [专题与制作说明](https://www.stashmedia.tv/wes-cockx-makes-the-conceptual-visible-for-jetstream/)\n\n日期：STASH 于 2026-08-11 报道；精确首次发布日未确认。\n\n内容与借鉴：这一项目包括品牌与平台两支发布片。以网格、模块化方块、蓝白数据路径表现可见性、治理和信任，橙色节点承担重点信息。可借鉴的是建立层级：通路负责解释关系，核心模块负责解释控制，强调色标记正在处理的动作。\n\n关注度：获 STASH 专题介绍；未取得当前平台播放量。\n\n核验范围：专题、署名与公开静帧；嵌入播放器标题可读取，普通 Vimeo 页面未能打开，未完整播放。AI 题材不作为 AI 制作证据。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/JetStream-Security-brand-films-by-Wes-Cockx-_-STASH-MAGAZINE7.jpg",
+          "limitations": "专题、署名与公开静帧；嵌入播放器标题可读取，普通 Vimeo 页面未能打开，未完整播放。AI 题材不作为 AI 制作证据。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "STASH 于 2026-08-11 报道；精确首次发布日未确认。"
+        },
+        {
+          "id": "2026-11-10-ai-product-claude-opus-buck",
+          "date": "2026-11-10",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Claude Opus 4.6 × BUCK｜用简洁图形和音乐建立发布记忆点",
+          "originalHeading": "Claude Opus 4.6 × BUCK｜用简洁图形和音乐建立发布记忆点",
+          "author": "BUCK，为 Anthropic 制作；作者说明覆盖策略、创意方向与制作。",
+          "heat": "2026-11-10：有作者原片、BUCK 公开发布及 Kisto 收录；Kisto 显示的 14 次浏览仅是收录页计数，不代表原片播放量，不建议用于排名。",
+          "links": [
+            {
+              "label": "BUCK 原片",
+              "url": "https://vimeo.com/1164510643"
+            },
+            {
+              "label": "收录与日期记录",
+              "url": "https://kisto.app/i/anthropic-claude-opus-4-6-by-buck"
+            }
+          ],
+          "fullText": "作者：BUCK，为 Anthropic 制作；作者说明覆盖策略、创意方向与制作。\n\n[BUCK 原片](https://vimeo.com/1164510643) · [收录与日期记录](https://kisto.app/i/anthropic-claude-opus-4-6-by-buck)\n\n日期：Vimeo 官方 oEmbed 确认作者上传日期为 2026-02-12 17:20:03（响应未标明时区），片长 39 秒；Kisto 日期记录与此一致。\n\n内容与借鉴：收录标签是极简、几何、有机与风格化；BUCK 特别强调鼓独奏在这支发布片中的作用。它适合与复杂 UI 讲解片对照：当产品没有可拍摄的实体时，可先建立图形个性和声音记忆点，再承载发布信息。\n\n关注度：有作者原片、BUCK 公开发布及 Kisto 收录；Kisto 显示的 14 次浏览仅是收录页计数，不代表原片播放量，不建议用于排名。\n\n核验范围：作者页面、作品描述、收录日期及封面入口；未完整播放或试听，不评价具体切镜与音乐同步效果。\n\n原作封面已通过作者页面与官方 oEmbed 交叉确认，并下载视觉核验；画面为 Claude 新闻文字拼贴：\nhttps://i.vimeocdn.com/video/2121177583-ae5f3fcbfc1e22f98c55697096261918b76fa7a723827052dcb7c99963f2dadc-d_2400?region=us",
+          "limitations": "作者页面、作品描述、收录日期及封面入口；未完整播放或试听，不评价具体切镜与音乐同步效果。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "Vimeo 官方 oEmbed 确认作者上传日期为 2026-02-12 17:20:03（响应未标明时区），片长 39 秒；Kisto 日期记录与此一致。"
+        },
+        {
+          "id": "2026-11-10-ai-product-wix-symphony",
+          "date": "2026-11-10",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Wix Symphony｜让多 Agent 系统退到生意背后",
+          "originalHeading": "Wix Symphony｜让多 Agent 系统退到生意背后",
+          "author": "Wix Motion Studio；设计负责人 Elior Karmani；动画负责人 Moriel Hoffman；额外动画 Yellowfellow.tv。",
+          "heat": "2026-11-10：有 STASH 专题及设计负责人公开发布；LinkedIn 搜索快照显示评论活动，但无法保证当前计数，因此不引用为今日热度。",
+          "links": [
+            {
+              "label": "专题与原片入口",
+              "url": "https://www.stashmedia.tv/balancing-act-wix-motion-studio-launches-symphony/"
+            },
+            {
+              "label": "设计负责人发布",
+              "url": "https://www.linkedin.com/posts/elior-karmani-413b28203_happy-to-share-our-new-motion-graphic-launch-activity-7492928540414386177-v8M-"
+            }
+          ],
+          "fullText": "作者：Wix Motion Studio；设计负责人 Elior Karmani；动画负责人 Moriel Hoffman；额外动画 Yellowfellow.tv。\n\n[专题与原片入口](https://www.stashmedia.tv/balancing-act-wix-motion-studio-launches-symphony/) · [设计负责人发布](https://www.linkedin.com/posts/elior-karmani-413b28203_happy-to-share-our-new-motion-graphic-launch-activity-7492928540414386177-v8M-)\n\n日期：STASH 于 2026-08-18 报道；精确原片上传日未确认。\n\n内容与借鉴：围绕三种小生意讲述进展，把 Maestro 与多个 Agent 放在业务协作关系中，而非让 AI 形象占据全部画面。公开静帧包含团队图标、任务环形关系图以及商家场景。适合学习多 Agent 产品如何让“谁在做什么、事情推进到哪里”清楚可见。\n\n关注度：有 STASH 专题及设计负责人公开发布；LinkedIn 搜索快照显示评论活动，但无法保证当前计数，因此不引用为今日热度。\n\n核验范围：制作团队、创作说明、原作静帧；FrameRate 嵌入被网页工具限制，未完整播放，未验证真实产品能力。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/Wix-Symphony-launch-video-by-Wix-Motion-Studio-STASH-MAGAZINE2-1920x1080.jpg",
+          "limitations": "制作团队、创作说明、原作静帧；FrameRate 嵌入被网页工具限制，未完整播放，未验证真实产品能力。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "STASH 于 2026-08-18 报道；精确原片上传日未确认。"
+        },
+        {
+          "id": "2026-11-10-ai-film-tpu-training-day",
+          "date": "2026-11-10",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "TPU Training Day｜先保住表演，再让 AI 完成视觉渲染",
+          "originalHeading": "TPU Training Day｜先保住表演，再让 AI 完成视觉渲染",
+          "author": "导演 Laurie Rowan、Nexus Studios，为 Google I/O 2026 制作。",
+          "heat": "2026-11-10：Google 官方制作文章及 Nexus 完整案例，曾在 I/O 主旨演讲面向开发者展映；无可靠当前播放量。",
+          "links": [
+            {
+              "label": "制作公司原作及幕后",
+              "url": "https://nexusstudios.com/work/google-io-2026-tpu/"
+            },
+            {
+              "label": "Google 官方流程",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/"
+            }
+          ],
+          "fullText": "作者：导演 Laurie Rowan、Nexus Studios，为 Google I/O 2026 制作。\n\n[制作公司原作及幕后](https://nexusstudios.com/work/google-io-2026-tpu/) · [Google 官方流程](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/)\n\n日期：2026 年 Google I/O 展映作品；Google 流程文章发表于 2026-06-01。不是 11 月新作。\n\n公开工具：Nano Banana、Google AI Studio、Gemini Omni，以及未逐一命名的 DeepMind 实验模型。不能把实验模型写成人人可用的现成工具。\n\n输入：实拍木偶表演、基础三维动画、从原始素材制作的风格化首帧。\n\n关键步骤：\n1. 先用木偶和简单三维动画确定表演、构图与运镜。\n2. Nano Banana 从原始画面生成风格化首帧。\n3. Google AI Studio 中的定制工具批量测试首帧一致性。\n4. Gemini Omni 与实验模型结合基础动画和风格帧，形成最终影像。\n\n人机分工：人物设计、木偶表演、三维动画、构图和摄影意图由人控制；AI 主要承担统一风格的最终渲染层。最值得借鉴的是把动作与美术分开控制，而非从文本直接赌出整支影片。\n\n关注度：Google 官方制作文章及 Nexus 完整案例，曾在 I/O 主旨演讲面向开发者展映；无可靠当前播放量。\n\n核验范围：官方步骤、制作名单、正片和 BTS 入口；未完整播放。\n\n官方作品静帧：\nhttps://cdn.nexusstudios.com/uploads/2026/05/NexusStudios_GoogleIO_LaurieRowan_Still_8.jpg",
+          "limitations": "官方步骤、制作名单、正片和 BTS 入口；未完整播放。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "2026 年 Google I/O 展映作品；Google 流程文章发表于 2026-06-01。不是 11 月新作。"
+        },
+        {
+          "id": "2026-11-10-ai-film-harvey-artifacts",
+          "date": "2026-11-10",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Harvey Artifacts Launch Film｜让 Agent 在可编辑时间线上制作产品片",
+          "originalHeading": "Harvey Artifacts Launch Film｜让 Agent 在可编辑时间线上制作产品片",
+          "author": "Harvey 内部团队；公开流程作者 Shawn Farsai、Gabe Pereyra。",
+          "heat": "2026-11-10：近期官方完整制作复盘；不引用团队其他批量销售影片的产量，冒充这支片的热度。",
+          "links": [
+            {
+              "label": "官方影片与完整流程",
+              "url": "https://www.harvey.ai/blog/how-harvey-is-building-a-frontier-marketing-org"
+            }
+          ],
+          "fullText": "作者：Harvey 内部团队；公开流程作者 Shawn Farsai、Gabe Pereyra。\n\n[官方影片与完整流程](https://www.harvey.ai/blog/how-harvey-is-building-a-frontier-marketing-org)\n\n日期：官方文章发表于 2026-10-21；该日期是案例披露日，不自动等于影片首发日。\n\n公开工具：Figma Motion 与 Agent 工作流。文章也公开了团队的 Claude、Figma MCP、ElevenLabs 与 Figma Weave 体系，但未证明每项工具都用于这支具体发布片，应避免把团队工具清单当作单片制作清单。\n\n输入：创意 brief、逐镜分镜、品牌与产品设计资料、音乐节拍位置及人工批注。\n\n关键步骤：\n1. 先通过分镜确定每个镜头、台词与转场。\n2. Agent 把镜头建成 Figma Motion frame，设置相机、UI 状态及文字关键帧。\n3. 人在画布上批注，Agent 按轮次修改。\n4. 指定音乐落点后重排时长，迭代片尾与音效，直接从文件导出。\n\n人机分工：人负责叙事选择、品牌判断、审稿及节拍目标；Agent 负责构建、动画、批量修改与导出。适合参考“先有分镜和可复用组件，再自动生产”的路径。\n\n关注度：近期官方完整制作复盘；不引用团队其他批量销售影片的产量，冒充这支片的热度。\n\n核验范围：官方正文、分镜示例与影片封面；未完整播放，未取得工程文件或操作复现。\n\n原作影片 poster：\nhttps://www.harvey.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F07s0r5r6%2Fproduction%2Fadd8c93e302ff0559b1616e2b06e9fe83fcf9c8b-2710x1518.png&w=3840",
+          "limitations": "官方正文、分镜示例与影片封面；未完整播放，未取得工程文件或操作复现。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "官方文章发表于 2026-10-21；该日期是案例披露日，不自动等于影片首发日。"
+        },
+        {
+          "id": "2026-11-10-ai-film-unfurl",
+          "date": "2026-11-10",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Unfurl｜先给花朵与织物搭好结构，再放开生成",
+          "originalHeading": "Unfurl｜先给花朵与织物搭好结构，再放开生成",
+          "author": "Vitor Teixeira；音乐与声音设计 Tom Parry。",
+          "heat": "2026-11-10：STASH 专题；当前播放量未核实。",
+          "links": [
+            {
+              "label": "原片播放器",
+              "url": "https://player.vimeo.com/video/1191865269"
+            },
+            {
+              "label": "作者制作说明",
+              "url": "https://www.stashmedia.tv/vitor-teixeira-releases-new-personal-short-film-unfurl/"
+            }
+          ],
+          "fullText": "作者：Vitor Teixeira；音乐与声音设计 Tom Parry。\n\n[原片播放器](https://player.vimeo.com/video/1191865269) · [作者制作说明](https://www.stashmedia.tv/vitor-teixeira-releases-new-personal-short-film-unfurl/)\n\n日期：STASH 于 2026-07-07 报道；原片精确上传日未确认。\n\n公开工具：Cinema 4D；AI 工具包包括 Kohya、ComfyUI、Vizcom、Krea、Figma Weave。来源没有逐镜解释各工具分工，也未给模型版本、训练集或节点参数。\n\n输入：Cinema 4D 结构、照片及其他 AI 图像。\n\n关键步骤：先建立可控的花朵和织物结构，再叠加生成层，通过选择与调整，让形变具有明确美术方向。不能将工具列表擅自扩展成一条已经证实的固定流水线。\n\n人机分工：人控制构图、结构和材质关系；生成工具提供变化；Tom Parry 使用植物纹理、自然录音与电子处理设计声音，不能写成全 AI 音乐。\n\n借鉴：把“可控的空间结构”作为输入，缩小随机生成范围，尤其适合材质与产品氛围实验。\n\n关注度：STASH 专题；当前播放量未核实。\n\n核验范围：作者说明、工具署名、静帧及嵌入入口；普通 Vimeo 页未能打开，未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/New-Personal-Short-Film-Unfurl-STASH-MAGAZINE7-1080x1080.jpg",
+          "limitations": "作者说明、工具署名、静帧及嵌入入口；普通 Vimeo 页未能打开，未完整播放。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "STASH 于 2026-07-07 报道；原片精确上传日未确认。"
+        },
+        {
+          "id": "2026-11-10-ai-film-query",
+          "date": "2026-11-10",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Query｜逐场生成，把叙事当作可迭代的写作",
+          "originalHeading": "Query｜逐场生成，把叙事当作可迭代的写作",
+          "author": "Brent Bonacorso。",
+          "heat": "2026-11-10：近期 STASH 专访；无可核实当前播放数字。",
+          "links": [
+            {
+              "label": "作者原片",
+              "url": "https://vimeo.com/1223750139"
+            },
+            {
+              "label": "导演流程访谈",
+              "url": "https://www.stashmedia.tv/brent-bonacorso-answers-five-questions-about-his-new-short-film-query/"
+            }
+          ],
+          "fullText": "作者：Brent Bonacorso。\n\n[作者原片](https://vimeo.com/1223750139) · [导演流程访谈](https://www.stashmedia.tv/brent-bonacorso-answers-five-questions-about-his-new-short-film-query/)\n\n日期：访谈发表于 2026-10-21；原片页面未显示可核实的精确上传日。\n\n公开工具：确认使用生成式 AI 制作画面及音乐，但访谈未披露具体产品、模型、版本或提示词全文。\n\n输入：描述镜头行为、镜头类型、光线、颜色与质感的提示。导演表示没有先完成剧本或分镜，而是从开场逐镜推进。\n\n关键步骤：生成当前段落，观看与选择结果，决定后续故事，再继续生成；最终由导演自行剪辑，并进行少量镜头间色彩匹配。\n\n人机分工：AI 生成视听素材；人物弧线、场景顺序、信息揭示和节奏判断由导演承担。“没有完整剧本先行”不等于“无人导演”。\n\n借鉴：适合探索型短片的边做边写，但不能据此推断它适合已有严密脚本、演员或产品一致性要求的商业项目。\n\n关注度：近期 STASH 专访；无可核实当前播放数字。\n\n核验范围：作者原片署名、完整访谈与静帧资料；未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/22Query22-Short-Film-by-Brent-Bonacorso-STASH-MAGAZINE6-1920x1080.jpg",
+          "limitations": "作者原片署名、完整访谈与静帧资料；未完整播放。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "访谈发表于 2026-10-21；原片页面未显示可核实的精确上传日。"
+        },
+        {
+          "id": "2026-11-10-ai-film-verpan-wire",
+          "date": "2026-11-10",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "VERPAN Wire Portable｜在真实产品约束下组织 AI 制作",
+          "originalHeading": "VERPAN Wire Portable｜在真实产品约束下组织 AI 制作",
+          "author": "FRAME，为 VERPAN 制作；导演、设计、动画、音乐与声音均署名 FRAME。",
+          "heat": "2026-11-10：STASH 专访与 FRAME 作者发布；播放量未核实。",
+          "links": [
+            {
+              "label": "作者原片",
+              "url": "https://vimeo.com/1151882660"
+            },
+            {
+              "label": "制作访谈",
+              "url": "https://www.stashmedia.tv/heres-why-frame-swapped-out-cg-for-ai-in-new-verpan-film-2/"
+            }
+          ],
+          "fullText": "作者：FRAME，为 VERPAN 制作；导演、设计、动画、音乐与声音均署名 FRAME。\n\n[作者原片](https://vimeo.com/1151882660) · [制作访谈](https://www.stashmedia.tv/heres-why-frame-swapped-out-cg-for-ai-in-new-verpan-film-2/)\n\n日期：STASH 于 2026-01-07 报道；原片首次发布日期未独立确认。\n\n公开工具：团队确认使用多个模型组合成定制流程，但拒绝把流程简化为固定模型名单，具体名称未披露。\n\n输入：公开说明明确对象是 Wire Portable 灯具及其产品一致性要求；未说明实际使用了 CAD、实拍照片还是其他具体资产，不应补写。\n\n公开步骤范围：概念探索、产品视觉制作、场景、摄影效果、动画和音乐均使用 AI；每个项目及任务按目标重新组合模型，人工持续筛选和修正。\n\n人机分工：AI 生成候选素材；FRAME 负责创意方向、产品准确性、影像品质和最终交付。作者称“全 AI 流程”，不代表没有人工设计或后期判断。\n\n借鉴：学习的是围绕产品保真组织工具，而不是照抄未经公开的“万能工作流”。\n\n关注度：STASH 专访与 FRAME 作者发布；播放量未核实。\n\n核验范围：作者原片说明、署名、访谈与静帧；未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/Heres-Why-FRAME-Swapped-CG-for-AI-in-New-VERPAN-Film-STASH-MAGAZINE2-1920x1080.jpg",
+          "limitations": "作者原片说明、署名、访谈与静帧；未完整播放。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "STASH 于 2026-01-07 报道；原片首次发布日期未独立确认。"
+        },
+        {
+          "id": "2026-11-10-ai-film-unfold",
+          "date": "2026-11-10",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "UNFOLD · A Choreography of Becoming｜把生成的不稳定性变成形态研究",
+          "originalHeading": "UNFOLD · A Choreography of Becoming｜把生成的不稳定性变成形态研究",
+          "author": "Fabian Aerts；音乐署名 Robot Koch、Savannah Jo Lack、Recue，不应写成 AI 生成配乐。",
+          "heat": "2026-11-10：STASH 专题与作者原片；未核实播放量。",
+          "links": [
+            {
+              "label": "作者原片",
+              "url": "https://vimeo.com/1167319971"
+            },
+            {
+              "label": "STASH 专题",
+              "url": "https://www.stashmedia.tv/choreography-of-becoming-fabian-aerts-releases-unfold/"
+            }
+          ],
+          "fullText": "作者：Fabian Aerts；音乐署名 Robot Koch、Savannah Jo Lack、Recue，不应写成 AI 生成配乐。\n\n[作者原片](https://vimeo.com/1167319971) · [STASH 专题](https://www.stashmedia.tv/choreography-of-becoming-fabian-aerts-releases-unfold/)\n\n日期：STASH 于 2026-02-24 报道；精确原片上传日未确认。\n\n公开工具：只公开“将 AI 融入三维制作与视觉探索”的混合方法，未公布软件、模型或版本。\n\n输入：未披露具体提示词、源图、三维场景或训练资产。\n\n公开步骤：大量视觉测试，持续调整与偏移，再通过人工选择和精修建立整体连贯性。AI 被用来引入变化和不确定行为，而非简单替代固定制作步骤。\n\n人机分工：AI 提供变体，人决定探索方向、选择、删减与最终形式。其价值是研究形态如何出现、收缩、扩展，不能作为完整可复现的技术教程。\n\n关注度：STASH 专题与作者原片；未核实播放量。\n\n核验范围：作者方法说明、音乐署名、媒体介绍和静帧入口；未完整播放。\n\n封面：\nhttps://www.stashmedia.tv/wp-content/uploads/Fabian-Aerts-UNFOLD-short-film-STASH-MAGAZINE6-1920x1080.jpg",
+          "limitations": "作者方法说明、音乐署名、媒体介绍和静帧入口；未完整播放。",
+          "verification": "原作资料与公开静帧核验；未完整播放",
+          "originalDateNote": "STASH 于 2026-02-24 报道；精确原片上传日未确认。"
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "2026-11-09 UI 与动效设计精选",
