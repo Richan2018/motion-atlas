@@ -2011,5 +2011,191 @@
     "alt": "Mano Loca：把黏黏手玩具变成能甩、拉和吸附的网页物件 · 实际演示画面",
     "sourceUrl": "https://www.carmenansio.com/lab/mano-loca/",
     "credit": "Carmen Ansio / 公开作品截图"
+  },
+  "2026-11-11-design-ramp": {
+    "src": "cover-2026-11-11-design-ramp.jpg",
+    "alt": "Ramp Login Screen：把视觉能量放在登录区之外｜原作画面",
+    "sourceUrl": "https://x.com/pontusab/status/2119865335990141433",
+    "credit": "Pontus Abrahamsson（@pontusab）"
+  },
+  "2026-11-11-design-cluster": {
+    "src": "cover-2026-11-11-design-cluster.jpg",
+    "alt": "Rare Disease Cluster Explorer：把关系藏在点上，把细节留给悬停｜原作画面",
+    "sourceUrl": "https://x.com/nicforey/status/2119850582907535604",
+    "credit": "nico（@nicforey）"
+  },
+  "2026-11-11-design-osply": {
+    "src": "cover-2026-11-11-design-osply.jpg",
+    "alt": "OSPLY：用超大字标与目录式项目清单建立工作室身份｜原作画面",
+    "sourceUrl": "https://www.osply.co/",
+    "credit": "OSPLY；公开资料署名 Yevhen Ostashchenko"
+  },
+  "2026-11-11-design-ankestern": {
+    "src": "cover-2026-11-11-design-ankestern.jpg",
+    "alt": "ankestern interior：把建筑测绘感放进浏览界面｜原作画面",
+    "sourceUrl": "https://ankestern.com/",
+    "credit": "Alexander Stern / RNDM design studio（维也纳）"
+  },
+  "2026-11-11-interaction-silk": {
+    "src": "cover-2026-11-11-interaction-silk.jpg",
+    "alt": "Silk：一笔拖拽生长成对称的光线图案｜原作画面",
+    "sourceUrl": "https://weavesilk.com/",
+    "credit": "Yuri Vishnevsky；音乐与声音 Mat Jarvis"
+  },
+  "2026-11-11-interaction-patatap": {
+    "src": "cover-2026-11-11-interaction-patatap.jpg",
+    "alt": "Patatap：把键盘变成几何图形的演奏器｜原作画面",
+    "sourceUrl": "https://patatap.com/",
+    "credit": "Jono Brandel（设计与开发）与 Lullatone（声音及创意）"
+  },
+  "2026-11-11-interaction-password-game": {
+    "src": "cover-2026-11-11-interaction-password-game.jpg",
+    "alt": "The Password Game：让表单校验变成不断反转的游戏｜原作画面",
+    "sourceUrl": "https://neal.fun/password-game/",
+    "credit": "Neal Agarwal"
+  },
+  "2026-11-11-interaction-trust": {
+    "src": "cover-2026-11-11-interaction-trust.jpg",
+    "alt": "The Evolution of Trust：让用户先做选择，再解释博弈｜原作画面",
+    "sourceUrl": "https://ncase.me/trust/",
+    "credit": "Nicky Case"
+  },
+  "2026-11-11-interaction-little-alchemy": {
+    "src": "cover-2026-11-11-interaction-little-alchemy.jpg",
+    "alt": "Little Alchemy：把发现新东西变成下一次操作的材料｜原作画面",
+    "sourceUrl": "https://littlealchemy.com/",
+    "credit": "Jakub Koziol / Recloak"
+  },
+  "2026-11-11-design-drone-forge": {
+    "src": "cover-2026-11-11-design-drone-forge.jpg",
+    "alt": "Drone Forge：用空间总览与近身面板分开信息尺度｜原作画面",
+    "sourceUrl": "https://fuselabcreative.com/our-projects/drone-forge-uav-mission-control/",
+    "credit": "Fuselab Creative"
+  },
+  "2026-11-11-motion-compile": {
+    "src": "cover-2026-11-11-motion-compile.jpg",
+    "alt": "UI Animation compilation｜把搜索、看板和日期选择串成一套反馈语言｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/49528956/file/5f2e0d7290a5c670e3b5b06ef50aaf6d.mp4",
+    "credit": "Divan Raj"
+  },
+  "2026-11-11-motion-shop": {
+    "src": "cover-2026-11-11-motion-shop.jpg",
+    "alt": "Shopping App｜商品卡片扩成详情，再把加购反馈收回按钮｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/49226328/file/f7e96126c1fbace2c483cacfc19da574.mp4",
+    "credit": "Kites Design"
+  },
+  "2026-11-11-motion-risklens": {
+    "src": "cover-2026-11-11-motion-risklens.jpg",
+    "alt": "RiskLens｜三张手机卡片用抬升和倾斜交接焦点｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/49260945/file/357d80f53d38ceb0bc6fee2a40d7e9fa.mp4",
+    "credit": "Abron Studio"
+  },
+  "2026-11-11-motion-stats": {
+    "src": "cover-2026-11-11-motion-stats.jpg",
+    "alt": "Ad earnings summary｜让金额与两条指标按阅读顺序长出来｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/45924724/file/56a336169352e391b996f49a5393d53f.mp4",
+    "credit": "Maria M"
+  },
+  "2026-11-11-motion-swap": {
+    "src": "cover-2026-11-11-motion-swap.jpg",
+    "alt": "Hyperbridge Swap｜从选币到完成，把流程收进同一张卡片｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/15994325/file/original-39749d16711cde95ff9296cee1f0aba5.mp4",
+    "credit": "Serhii Antoniuk / Kreyda - Product Design Partner"
+  },
+  "2026-11-11-motion-cycle": {
+    "src": "cover-2026-11-11-motion-cycle.jpg",
+    "alt": "Limitless Cyclocomp｜用同一条荧光轨迹连接骑行指标｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/47991800/file/4560fea092873860293cfa7476fb16c2.mp4",
+    "credit": "SlabPixel Designer / SlabPixel"
+  },
+  "2026-11-11-motion-ai": {
+    "src": "cover-2026-11-11-motion-ai.jpg",
+    "alt": "AI Assistant App｜让机器人从欢迎页退场，成为登录页的陪伴｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/47292454/file/65aacbe86c62aa017868b77b1e12c7a6.mp4",
+    "credit": "Nixtio"
+  },
+  "2026-11-11-motion-hero": {
+    "src": "cover-2026-11-11-motion-hero.jpg",
+    "alt": "Hero UI｜让视频卡片沿弧面巡游，标题与行动按钮保持静止｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/15411782/file/original-8116180a4d3f03df08c1b880659327a1.mp4",
+    "credit": "Adrian Rusnac / Vivid Motion®"
+  },
+  "2026-11-11-motion-toggle": {
+    "src": "cover-2026-11-11-motion-toggle.jpg",
+    "alt": "Toggle Button｜用一团蓝色高光连接明暗两种状态｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/46551672/file/a599ea4fc5e677262f5e1ff4fb1d85b2.mp4",
+    "credit": "Shafiqul Islam 🌱"
+  },
+  "2026-11-11-motion-stripped": {
+    "src": "cover-2026-11-11-motion-stripped.jpg",
+    "alt": "Stripped｜让字标中间的小窗长成完整商品叙事｜原作画面",
+    "sourceUrl": "https://cdn.dribbble.com/userupload/41494513/file/original-ec729f3085b13d257f733366f09ac6e6.mp4",
+    "credit": "Sophy Inasaridze"
+  },
+  "2026-11-11-ai-product-n8n": {
+    "src": "cover-2026-11-11-ai-product-n8n.jpg",
+    "alt": "n8n AI Workflow Builder｜从发光想法，落到可修改的节点网络｜原作画面",
+    "sourceUrl": "https://video.twimg.com/amplify_video/1977772586592333824/vid/avc1/1280x720/FSxtmIIwCQe9Y7iF.mp4?tag=14",
+    "credit": "Really Good Videos；创意总监 Benjamin Aguilera；设计 Dato Makharadze；动画指导 Stefano Malerba；动画 Giovane Alencar、Vincenzo Cerciello"
+  },
+  "2026-11-11-ai-product-ondra": {
+    "src": "cover-2026-11-11-ai-product-ondra.jpg",
+    "alt": "Ondra｜用一台将故障的风机，把 AI 预警讲成完整流程｜原作画面",
+    "sourceUrl": "https://media.contra.com/video/upload/fl_progressive/q_auto%3Abest%2Cw_2000/bcclbt9eazlhhma8wkum.mp4",
+    "credit": "Leo Reed"
+  },
+  "2026-11-11-ai-product-ohmai": {
+    "src": "cover-2026-11-11-ai-product-ohmai.jpg",
+    "alt": "OHMAI｜让同一块表情屏幕，把硬件、任务和生活连起来｜原作画面",
+    "sourceUrl": "https://cdn.liandankeji.com/work/assets/web-video/NlIHbDWjDo1NZIxa3bCcp5mknih.mp4",
+    "credit": "炼丹科技 Liandan AI Studio／深圳炼丹科技有限公司；客户 OHMAI"
+  },
+  "2026-11-11-ai-product-azure": {
+    "src": "cover-2026-11-11-ai-product-azure.jpg",
+    "alt": "Microsoft Azure × BUCK｜让玻璃卡片的连接，解释 AI 输入与组合｜原作画面",
+    "sourceUrl": "https://stream.mux.com/FLrDuoDXi00RoZ50118At02poujE5nFs01X7EvDc7wJLYlk.m3u8",
+    "credit": "BUCK；创意总监 Joyce N. Ho、Emily Simms；3D 负责人 Bill Dorais；音乐与声音 Ambrose Yu"
+  },
+  "2026-11-11-ai-product-nextatlas": {
+    "src": "cover-2026-11-11-ai-product-nextatlas.jpg",
+    "alt": "Nextatlas × ILLO｜让圆形、波带与影像窗口，把趋势数据变得可感知｜原作画面",
+    "sourceUrl": "https://admin.illo.tv/storage/uploads/2020/05/15/5ebe743acbc5cillo_nextatlas_vimeo_D.jpg",
+    "credit": "ILLO Studio；创意方向 Ilenia Notarangelo；美术与插画 Cristina Pasquale；动画 David Cubitt；声音 Fabrizio Martini"
+  },
+  "2026-11-11-ai-film-le-drip": {
+    "src": "cover-2026-11-11-ai-film-le-drip.jpg",
+    "alt": "Le Drip｜把逐镜流程复用，比反复改一句提示词更重要｜原作画面",
+    "sourceUrl": "https://img.youtube.com/vi/yKhlDjq-q3M/maxresdefault.jpg",
+    "credit": "Alex Naghavi、Ezra Li；故事 Jessie Hughes"
+  },
+  "2026-11-11-ai-film-unfinished-circle": {
+    "src": "cover-2026-11-11-ai-film-unfinished-circle.jpg",
+    "alt": "The Unfinished Circle｜用一套粉笔材质，把责任感压进48秒｜原作画面",
+    "sourceUrl": "https://img.youtube.com/vi/RuRiiEXtHbc/maxresdefault.jpg",
+    "credit": "Sawa Films"
+  },
+  "2026-11-11-ai-film-senal": {
+    "src": "cover-2026-11-11-ai-film-senal.jpg",
+    "alt": "SEÑAL｜同一张旧照片，把两种孤独接成一个故事｜原作画面",
+    "sourceUrl": "https://i.vimeocdn.com/video/2152973028-1ce6b2b977d3debc7e1eee90166f80f595c1d10080e00c555fdc9496880312cf-d_295x166?region=us",
+    "credit": "Miguel Angel Echavarria Velez / yipao.studio"
+  },
+  "2026-11-11-ai-film-maa-kali": {
+    "src": "cover-2026-11-11-ai-film-maa-kali.jpg",
+    "alt": "Maa Kali vs Raktabeej｜先锁角色身份图，再让剪辑重写分镜｜原作画面",
+    "sourceUrl": "https://tdfilmstudio.com/wp-content/uploads/2026/10/ai-animation-behind-the-scenes-five-drafts-one-shot.jpg",
+    "credit": "Tarunabh Dutta / TD Film Studio"
+  },
+  "2026-11-11-ai-film-margherita": {
+    "src": "cover-2026-11-11-ai-film-margherita.jpg",
+    "alt": "MARGHERITA｜角色参考能稳住脸，却不能替你检查左右方向｜原作画面",
+    "sourceUrl": "https://img.youtube.com/vi/OCZC6XmEmK0/maxresdefault.jpg",
+    "credit": "Reddit 原作者 u/CotufaExplosiva；实名未核实"
+  },
+  "2026-11-11-ai-film-the-cable": {
+    "src": "cover-2026-11-11-ai-film-the-cable.jpg",
+    "alt": "THE CABLE: Part 1, Follow｜先说明力怎样传递，再要求头发继续漂浮｜原作画面",
+    "sourceUrl": "https://kling.ai/blog/kling4-SwordSpeed-bringing-classic-anime-to-life?tab=all",
+    "credit": "SwordSpeed；Kling 官方创作者案例"
   }
 }
