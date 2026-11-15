@@ -2731,5 +2731,161 @@
     "alt": "Hugo Blendl / Zero to Hero｜手绘角色＋生成镜头＋人工剪辑的系列动画：对应原作画面",
     "sourceUrl": "https://higgsfield.ai/blog/hugo-blendl-zero-to-hero",
     "credit": "Hugo Blendl。"
+  },
+  "2026-11-15-b015427bc91f": {
+    "src": "cover-2026-11-15-b015427bc91f.png",
+    "alt": "Baseline Studio｜用编辑网格把工作室信息排清楚：对应原作画面",
+    "sourceUrl": "https://baseline.agency/",
+    "credit": "Baseline Studio；官网介绍 Victor Deaconu 为创始人。"
+  },
+  "2026-11-15-7c410b4cba7e": {
+    "src": "cover-2026-11-15-7c410b4cba7e.png",
+    "alt": "zuji studio｜用一枚巨型字符面孔建立技术感：对应原作画面",
+    "sourceUrl": "https://www.zujistudio.com/",
+    "credit": "zuji studio。"
+  },
+  "2026-11-15-4935d827663c": {
+    "src": "cover-2026-11-15-4935d827663c.png",
+    "alt": "Will Phan｜让作品预览成为一套统一的画廊：对应原作画面",
+    "sourceUrl": "https://willphan.com/",
+    "credit": "William Phan / WP Studio。"
+  },
+  "2026-11-15-21f53f35b23f": {
+    "src": "cover-2026-11-15-21f53f35b23f.png",
+    "alt": "The Rechabite｜把夸张字体与涂鸦做成演出入口：对应原作画面",
+    "sourceUrl": "https://therechabite.com.au/",
+    "credit": "The Start；原站页脚署名 Site by The Start。"
+  },
+  "2026-11-15-65b675e29bc1": {
+    "src": "cover-2026-11-15-65b675e29bc1.png",
+    "alt": "Viki Studio｜用固定工具栏与长幅项目构成作品档案：对应原作画面",
+    "sourceUrl": "https://viki-studio.com/en/projects/",
+    "credit": "Codrops 署名 Victoria Cherniakova、Pavel Mazhuga；原站品牌 Viki Studio。"
+  },
+  "2026-11-15-a8b486492d86": {
+    "src": "cover-2026-11-15-a8b486492d86.png",
+    "alt": "Ropes｜让悬挂线条随拖拽产生连带弯曲：对应原作画面",
+    "sourceUrl": "https://www.ccrch.com/playground/ropes/",
+    "credit": "ccrch Playground；原页页脚署名 by Vettvangur。"
+  },
+  "2026-11-15-11cfb041eabd": {
+    "src": "cover-2026-11-15-11cfb041eabd.png",
+    "alt": "Magnetic goo｜让分离的色块向指针黏合：对应原作画面",
+    "sourceUrl": "https://www.ccrch.com/playground/magnetic-goo/",
+    "credit": "ccrch Playground；原页页脚署名 by Vettvangur。"
+  },
+  "2026-11-15-552cd6e394ac": {
+    "src": "cover-2026-11-15-552cd6e394ac.jpg",
+    "alt": "Film Develop Upload｜让上传像冲洗照片一样显影：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/film-develop-upload",
+    "credit": "Yanis Lebzar"
+  },
+  "2026-11-15-1d78693e8e3f": {
+    "src": "cover-2026-11-15-1d78693e8e3f.jpg",
+    "alt": "AI Approval Flow｜审批、处理中、成功都留在同一张卡片：对应原作画面",
+    "sourceUrl": "https://dribbble.com/shots/27780283-Human-in-the-Loop-AI-Agent-UI-Approval-Flow-Animation",
+    "credit": "Diana Larussa"
+  },
+  "2026-11-15-fcac434d3db3": {
+    "src": "cover-2026-11-15-fcac434d3db3.jpg",
+    "alt": "Distortion Waves｜确认动作向整个面板传开：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/distortion-waves",
+    "credit": "Jakub Antalik"
+  },
+  "2026-11-15-e180311d42c7": {
+    "src": "cover-2026-11-15-e180311d42c7.jpg",
+    "alt": "Liquid Glass Tab Bar｜选中胶囊在导航槽里折射滑动：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/liquid-glass-tab-bar",
+    "credit": "Edoardo Lunardi"
+  },
+  "2026-11-15-4e87c664448c": {
+    "src": "cover-2026-11-15-4e87c664448c.jpg",
+    "alt": "Nav Experiment 2.0｜把菜单沿手机圆角向上展开：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/nav-experiment-2-0",
+    "credit": "Abhishek Bariya"
+  },
+  "2026-11-15-9efdccd8eb48": {
+    "src": "cover-2026-11-15-9efdccd8eb48.jpg",
+    "alt": "Glass Edges Carousel｜让卡片在视口边缘像玻璃一样弯折：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/glass-edges-carousel",
+    "credit": "Marcelo Cedeno"
+  },
+  "2026-11-15-e3bea3ba5828": {
+    "src": "cover-2026-11-15-e3bea3ba5828.jpg",
+    "alt": "Iconly Animated Icons｜用线条的小动作区分状态：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/iconly-animated-icons",
+    "credit": "Ali Pesaraklou"
+  },
+  "2026-11-15-a35a43bd24f7": {
+    "src": "cover-2026-11-15-a35a43bd24f7.jpg",
+    "alt": "Auction App｜卖家的设定过程与买家的浏览并列展开：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/auction-app",
+    "credit": "Andrey Rybin"
+  },
+  "2026-11-15-936afc5c2cf0": {
+    "src": "cover-2026-11-15-936afc5c2cf0.jpg",
+    "alt": "CupClub｜大字、表情角色与商品卡共同换场：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/cupclub-app-design",
+    "credit": "Nicolas Mariotti"
+  },
+  "2026-11-15-3a277fc055d2": {
+    "src": "cover-2026-11-15-3a277fc055d2.jpg",
+    "alt": "Nova Wallet Onboarding｜材质图标和窄字标题共同换页：对应原作画面",
+    "sourceUrl": "https://memorabl.es/work/crypto-onboarding-wallet-app",
+    "credit": "Andrey Rybin"
+  },
+  "2026-11-15-f0b475602a0a": {
+    "src": "cover-2026-11-15-f0b475602a0a.jpg",
+    "alt": "Krea Bots｜把生成助手变成一队会接话的小球：对应原作画面",
+    "sourceUrl": "https://www.krea.ai/",
+    "credit": "Krea团队；具体动画设计师未核实。"
+  },
+  "2026-11-15-3028b2f70f7e": {
+    "src": "cover-2026-11-15-3028b2f70f7e.jpg",
+    "alt": "Intangible 2.0｜从参考卡片、空间到追车镜头：对应原作画面",
+    "sourceUrl": "https://vimeo.com/1224709957",
+    "credit": "Intangible团队；具体动画制作人员未公开核实。"
+  },
+  "2026-11-15-50ccb3144a0b": {
+    "src": "cover-2026-11-15-50ccb3144a0b.jpg",
+    "alt": "Whisk｜让参考图片像素材积木一样拼进生成流程：对应原作画面",
+    "sourceUrl": "https://motionographer.com/quickie/f216_backbone_16x9_directorscut/",
+    "credit": "Hook，为Google Labs制作。"
+  },
+  "2026-11-15-d7821752dbe2": {
+    "src": "cover-2026-11-15-d7821752dbe2.jpg",
+    "alt": "Perplexity Teammates｜用不同色彩的工作空间表现任务接力：对应原作画面",
+    "sourceUrl": "https://launchscene.app/v/perplexity-andy-chung-teammates-are-out-today-fun-one-to-jam",
+    "credit": "Perplexity；公开收录标题署名Andy Chung并提及Daisy Dal Hae Lee、gunn，具体分工未核实。"
+  },
+  "2026-11-15-6b0da6425bad": {
+    "src": "cover-2026-11-15-6b0da6425bad.jpg",
+    "alt": "Adobe Firefly｜从输入框一路走到可继续编辑的画板：对应原作画面",
+    "sourceUrl": "https://launchscene.app/v/adobe-firefly-the-next-evolution-of",
+    "credit": "Adobe；具体动效团队未核实。"
+  },
+  "2026-11-15-7248faa0fb38": {
+    "src": "cover-2026-11-15-7248faa0fb38.jpg",
+    "alt": "ANCESTRA｜把AI镜头生成和传统合成分工讲清楚：对应原作画面",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ancestra-behind-the-scenes/",
+    "credit": "导演Eliza McNitt、Primordial Soup与Google DeepMind；官方拆解作者Kory Mathewson。"
+  },
+  "2026-11-15-edd492827aee": {
+    "src": "cover-2026-11-15-edd492827aee.jpg",
+    "alt": "Stratiphy Great Timing｜先测试角色连续性，再追求漂亮单帧：对应原作画面",
+    "sourceUrl": "https://player.vimeo.com/video/1094000135",
+    "credit": "Sidekick Studios；拆解作者/创意负责人Rupert Mason。"
+  },
+  "2026-11-15-ec3942f97638": {
+    "src": "cover-2026-11-15-ec3942f97638.png",
+    "alt": "Be My Mirror｜将逐镜生成交给Flow，把声音与最终判断留给人：对应原作画面",
+    "sourceUrl": "https://player.vimeo.com/video/1220662543?h=e608583873",
+    "credit": "编剧/导演Jayanta Jenkins，与Johannes Leonardo为Google及ARCHANGELS项目合作。"
+  },
+  "2026-11-15-ee76e50436c4": {
+    "src": "cover-2026-11-15-ee76e50436c4.jpg",
+    "alt": "MAXIMALIST｜以仪式感、火光与近景组织实验影像（成片参考）：对应原作画面",
+    "sourceUrl": "https://sunra.ai/london-design-festival/winners#best-music-video",
+    "credit": "reon labs。"
   }
 }
