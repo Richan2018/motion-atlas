@@ -25,7 +25,7 @@ function saveFavorites() {
   catch { storageAvailable = false; }
 }
 function inline(s) { return esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (_,l,u) => `<a href="${esc(safeUrl(u.replace(/&amp;/g,'&')))}" target="_blank" rel="noopener noreferrer">${l} ↗</a>`).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>'); }
-function markdown(s) { return String(s).split(/\n\n+/).map(p => { if (/^#{1,4} /.test(p)) return `<h3>${inline(p.match(/^#{1,4} (.*)/)[1])}</h3>`; return '<p>' + p.split('\n').map(inline).join('<br>') + '</p>'; }).join(''); }
+function markdown(s) { return String(s).replace(/\r\n/g, '\n').replace(/^(#{1,4} .+)$/gm, '\n\n$1\n\n').split(/\n\n+/).filter(p => p.trim()).map(p => { if (/^#{1,4} /.test(p)) return `<h3>${inline(p.match(/^#{1,4} (.*)/)[1])}</h3>`; return '<p>' + p.split('\n').map(inline).join('<br>') + '</p>'; }).join(''); }
 function clean(s) { return String(s).replace(/\[([^\]]+)\]\([^)]*\)/g,'$1').replace(/\*|#/g,'').replace(/https?:\/\/\S+/g,'').trim(); }
 function preview(c) { return clean(c.fullText.split('\n').filter(x => x.trim() && !/^\[|^原片|^原作|^观看|^链接|^https?:/.test(x)).join(' ')); }
 function openCase(c) { detailOpener = document.activeElement; $('#detailMeta').textContent = `${c.date} 归档 · ${names[c.module] || c.module}`; $('#detailBody').innerHTML = `<h2>${esc(c.title)}</h2><div class="detail-links">${c.links.map(l => `<a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer">${esc(l.label || '查看原作')} ↗</a>`).join('')}</div>${markdown(c.fullText)}`; $('#detail').showModal(); $('#detail').scrollTop = 0; }
