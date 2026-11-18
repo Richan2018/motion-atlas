@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,697 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-18",
+      "title": "2026-11-18 UI 与动效设计精选",
+      "fullText": "## 2026-11-18 UI 与动效设计精选\n\n本期共 31 个案例：UI设计 5 例、UI动效 11 例、趣味交互 5 例、AI产品宣传 5 例、AI制作动画 5 例，另附 1 篇延伸阅读。\n\n优先看 DomGL Cloth 的布片轮播、Plasma 的卡片连续展开，以及 Something in the Air 的角色一致性流程。新作与旧作按每项说明区分；热度未知的作品按视觉与方法价值挑选，不冒称热门。视觉核验分别注明静帧、视频时间点取样或实际操作，未连续看完整片的不会写成已看完。\n\n## UI设计\n\n### Elysia｜用一栋房子解释家庭能源\n\n作者：Arnas Jonikas / Flair。\n\n日期与状态：未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。Elysia 上线状态未验证；其余作为概念设计展示。\n\n大面积黑底上，左侧以超大两行字建立阅读入口，右侧放置等轴住宅模型；太阳能、储能、家庭用电与电网的胶囊标记直接附着在空间位置上。底部四个时段按钮与黄色主操作形成少量亮色锚点。\n\n借鉴：能源数据可以跟真实空间绑定，而不是全部变成同等权重的数字卡片；大标题和模型各占半边，也让首屏在复杂信息下保持简明。\n\n热度：2026-11-18 检索到的 Dribbble 分类页快照：17 赞、371 浏览。页面可能为缓存，不是视频播放量。\n\n核验范围：已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。\n\n[原作](https://dribbble.com/shots/27839043-Elysia-Website)\n\n封面：Dribbble 原作静帧封面，2026-11-18 核验。\n\n### Health App｜绿色玻璃十字与预约优先的首页\n\n作者：Ronas IT | UI/UX Team。\n\n日期与状态：未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。上线状态未验证；作为设计展示。\n\n欢迎页用发光半透明十字成为品牌记忆点，进入首页后改为浅色底，优先展示预约卡片，再放睡眠、步数与健康问卷。预约页的医生卡、日期条、时间胶囊和固定确认区，把三个决策层级分得很清楚。\n\n借鉴：在品牌页使用强材质，在任务页减少装饰、保持选项清楚；“预约优先”是这张概念稿的产品取舍，不必照搬到日常健康追踪工具。\n\n热度：2026-11-18 检索到的 Dribbble 分类页快照：177 赞、13.8k 浏览。页面可能为缓存，不是视频播放量。\n\n核验范围：已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。\n\n[原作](https://dribbble.com/shots/27842782-Health-App-Doctor-Appointment-Booking)\n\n封面：Dribbble 原作静帧封面，2026-11-18 核验。\n\n### Car Maintenance｜把里程表变成保养首页的主角\n\n作者：Purrweb UI/UX Agency。\n\n日期与状态：未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。上线状态未验证；作为设计展示。\n\n深绿黑底上，白色分格里程表占据最强视觉位置；下方用琥珀色提示下一次保养剩余里程，细刻度与记录卡接续同一车辆仪表语言。底部大号 Log mileage 按钮让新增记录不被资料展示淹没。\n\n借鉴：用一个具象的里程仪表统一信息层级，紧接着展示“距离下一次保养还剩多少”；这种功能化拟物比随处铺玻璃卡片更有主题。\n\n热度：2026-11-18 检索到的 Dribbble 分类页快照：119 赞、2.2k 浏览。页面可能为缓存，不是视频播放量。\n\n核验范围：已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。\n\n[原作](https://dribbble.com/shots/27859025-Car-Maintenance-Mobile-iOS-App-Design)\n\n封面：Dribbble 原作静帧封面，2026-11-18 核验。\n\n### Artemii Lebedev：把影像舞台与精密目录放在同一个首屏\n\n作者：Artemii Lebedev。\n\n日期与状态：CSS Design Awards 于 2026-11-14 评为 Website of the Day；准确上线日期未核实，并非今日首发。\n\n亮点：全屏暗色影像上，左上角是一块白色固定信息面板，容纳姓名、职责、导航、项目数与联系入口；右侧项目列表按名称、行业与年份对齐。等宽小字、细线和小标签形成工程目录般的秩序，与背景视频的电影感产生反差。\n\n借鉴：可借鉴的是双层阅读：先被影像吸引，再用不移动的目录定位作品。品牌宣言可以变化，导航和项目元信息保持稳定，避免作品集为了炫技丢失入口。\n\n热度：2026-11-18 核验 CSSDA 最终评审 8.27/10，这是专业评审分，不是访问量或播放量，公众传播热度未知。\n\n核验与限制：读取原站文本并在云端浏览器实际查看首页画面；仅核验首屏视觉和可见导航，没有连续验证全部动效、移动端、购买或联系流程。封面为本次原站首页实拍截图。\n\n[查看原作](https://artemiilebedev.com/) · [获奖与作者信息](https://www.cssdesignawards.com/sites/artemii-lebedev/50360/)\n\n### Henrietta Said：让食品角色、口味与界面使用同一套颜色\n\n作者：Tattoo Digital；协作 Starodub Igor。\n\n日期与状态：CSS Design Awards 于 2026-11-13 评为 Website of the Day；准确上线日期未核实，并非今日首发。\n\n亮点：暖粉色页面外框包围米白内容区，黑色大字、窄字说明与戴墨镜的花生角色构成首屏；不同远近的花生图像通过清晰度与尺寸建立景深。顶栏的产品与搜索按钮保持强对比，使夸张品牌画面仍有可找的功能入口。\n\n借鉴：可借鉴的是让包装角色成为页面主体，而非把商品简单装进卡片。口味颜色、角色与说明统一为品牌语言；主操作采用稳定黑白块，避免被背景素材淹没。\n\n热度：2026-11-18 核验 CSSDA 最终评审 8.52/10，这是专业评审分，不是访问量或播放量，公众传播热度未知。\n\n核验与限制：读取原站文本并在云端浏览器实际查看首页画面；仅核验首屏视觉和可见导航，没有连续验证全部动效、移动端、购买或联系流程。封面为本次原站首页实拍截图。\n\n[查看原作](https://henriettasaid.com/) · [获奖与作者信息](https://www.cssdesignawards.com/sites/henrietta-said/50359/)\n\n## UI动效\n\n### Runmo Lab｜暗红仪表中的心电扫描\n\n作者：Runmo；60fps 录屏收录。\n\n日期与状态：2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n深红色 Lab 页面顶部留给心电曲线；亮点沿横向波形前进，旧轨迹较暗，下方指标保持静止。高亮运动与静态数值形成清晰的主次。\n\n借鉴：监控型界面可把活动感集中在唯一的扫描轨迹，减少整屏同时闪烁。本例仅作视觉参考，不代表医疗测量准确性。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 8.85 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/runmo-lab-pulse-heart-ecg-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba32f578a19ae2569ae/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。\n\n### Plasma｜从优惠卡片长出的详情面板\n\n作者：Plasma；60fps 录屏收录。\n\n日期与状态：2026-10-20；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n黑色首页中的优惠卡被点开后扩展成圆角详情面板；收起时又回到原来的入口。片中还能看到半高与更高面板之间的切换，后面的首页变暗。\n\n借鉴：用同一张卡片承担入口和详情，保持图像、边框与内容的对应关系；不要在放大过程中突然换成无关弹窗。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 12.97 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76b45e59c41063b892f11/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。\n\n### Ripples App Store｜在固定版式中让字标起伏\n\n作者：Ripples 的商店页头图；展示平台 Apple App Store，60fps 录屏收录。\n\n日期与状态：2026-10-20；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\nApp Store 黑色产品详情页顶端是高饱和蓝色区域，白色鼓胀字标 Ripples 在固定区域内轻微变形，表面明暗随之改变；下面的产品信息和打开按钮不动。\n\n借鉴：把品牌动效限制在头图区，保持安装与信息区稳定。不是整个页面都要运动，小幅材质变化也能维持生命感。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 5.83 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/apple-app-store-app-page-header-asset-animation) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a161ab4445ed4e6277c/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。\n\n### Circle｜用余额滚动交代领取结果\n\n作者：Circle；60fps 录屏收录。\n\n日期与状态：2026-10-08；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n白色欢迎页上放着蓝绿光泽卡片；领取按钮进入加载状态，金额显现并停在 ₹1,450，随后说明文字改为钱包已就绪，底部操作变为 Continue。\n\n借鉴：把“等待—到账—下一步”留在同一个版面，金额先成为主角，再更新说明和行动按钮，减少成功页突然跳转。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 12.57 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/circle-new-wallet-claim-balance-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725d51bbc375977910cae/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。\n\n### Revolut｜套餐切换联动卡片与环境色\n\n作者：Revolut；60fps 录屏收录。\n\n日期与状态：2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\nPlus、Premium 与 Metal 套餐在紫色、绿色、暖金色环境中切换，悬浮银行卡和文字随套餐改变；竖向滚动查看权益时，底部选择按钮继续留在视野里。\n\n借鉴：横向切换表达套餐差异，纵向滚动解释权益深度；固定 CTA 让沉浸式展示不牺牲操作可达性。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 18.72 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/revolut-select-plan-tab-scroll-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa489a4399ce47a5/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。\n\n### Duolingo｜让奖励飞回能量计数器\n\n作者：Duolingo；60fps 录屏收录。\n\n日期与状态：2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n棋盘题答对后，底部反馈条出现，画面爆出彩色碎片，粉色能量奖励在中间放大，再向顶部计数器收拢。取样画面可见 +2 和后续 +1 的奖励状态。\n\n借鉴：让奖励有明确去向：中部庆祝负责情绪，向计数器收拢负责解释资产变化。不要只在屏幕中央撒花却不交代奖励加在哪里。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 5.26 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/duolingo-battery-fill-up-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa4fda34666693d3/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。\n\n### Clear：列表收拢回目录的层级退场\n\n作者：Clear 团队；60fps 收录实录。\n\n日期与状态：2024-08-28；60fps 视频 uploadDate，非产品首发日；历史案例\n\n红橙渐变待办列表先压缩退回蓝色 My Lists 目录，随后蓝色目录再收拢为主菜单。每退一层，色彩与内容密度一起改变，不是把整张屏幕简单推走。\n\n借鉴：适合借鉴多层列表返回：把当前层收回其来源，色彩作为层级标记。原页面称捏合触发；片段可确认层级形变，未在真机测试手势。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 2.5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/clear-back-screen-morph) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/66cf5136a8ec7d01f57bf618/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。\n\n### Amie：底部胶囊展开成三路快捷操作\n\n作者：Amie 团队；60fps 收录实录。\n\n日期与状态：2024-08-08；60fps 视频 uploadDate，非产品首发日；历史案例\n\n底部小黑胶囊横向展开为 Event、Email、Todo 三个按钮，红蓝灰图标帮助区分路径；日历同步蒙暗，关闭后又收回同一个小胶囊。\n\n借鉴：借鉴点是一个紧凑入口就地扩展，而非突然弹出独立菜单；背景压暗和按钮扩展共同建立短暂的操作焦点。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/amie-actions) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/66b4bcdc225b7b88f78c7543/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。\n\n### Clocks：时钟卡片在样式库与设置页之间连续变换\n\n作者：Clocks 团队；60fps 收录实录。\n\n日期与状态：2025-05-19；60fps 视频 uploadDate，非产品首发日；历史案例\n\n多张时钟样式卡片构成纵向列表。选中彩色时钟后，它移动到设置页上方，其余卡片消失，下方露出 Background、Layout、Font 等设置；返回时再次回到原样式列表。\n\n借鉴：借鉴“共享对象”作为跨页面锚点：不是先抹掉列表再生成详情，而让被选卡片持续存在。注意页面文案描述了横屏显示，但实际这段 2.48 秒视频没有展示横屏，本条按实帧描述。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 2.483 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/clocks-card-screen-morph-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/682ac1d6283a3162ff379be2/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。\n\n### Haptic：拖动前景白卡露出深色统计面板\n\n作者：Haptic 团队；60fps 收录实录。\n\n日期与状态：2024-08-08；60fps 视频 uploadDate，非产品首发日；历史案例\n\n白色任务卡在屏幕中上下移动，向下时露出后方深色日期与统计区，向上时覆盖它。前景列表、背后统计分成两张可理解的表面，而非两个互相替换的页面。\n\n借鉴：适合研究内容层和工具层的空间关系；白卡顶边就是可追踪边界。片段后半还包含日历与会员页，本条不把它们算成独立案例。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 22.358 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/haptic-top-sheet) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/66b4badf61d73e2622b343d6/download.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。\n\n### Eimi：文字意图变成知识卡片阵列\n\n作者：Eimi 团队；60fps 收录实录。\n\n日期与状态：2026-01-18；60fps 视频 uploadDate，非产品首发日；历史案例\n\n黑底上先出现 I WANT TO 等短句，文字区域随后转成单张内容卡。绿色 HTTP 知识卡放大呈现，再与周围多色卡组成可横向浏览的阵列，底部蓝色 Start Exploring 最后成为稳定行动入口。\n\n借鉴：可借鉴“意图→内容对象→可操作集合”的连续叙事，适合学习或生成式产品引导；不要让逐字文字、卡片形变与按钮入场同时争抢注意力。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 12.817 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/eimi-intro-cards-morph-sequence-animation) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/696c8cf00de908dc60be9fcc/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。\n\n## 趣味交互\n\n### DomGL Cloth：把海报轮播做成会折叠的布片\n\n作者：Jesper Landberg。\n\n日期与状态：2026-11-17（作者文章日期）\n\n这一组彩色海报不是硬卡片：滚动从布片中央牵引，边缘滞后卷曲；点开时，被点击位置先离开队列，其他部分随后抬起，旁边展开的说明页连文字一起折叠。很适合借鉴到作品集、专辑和精选卡片：把输入点、运动方向与形变建立直接因果，而不是给所有卡片套同一段晃动。\n\n热度：Codrops 11/17 收录；播放量、点赞量未核实，收录不等于高播放。\n\n核验范围：已读作者完整技术拆解，并抽看官方约 27 秒演示中的 9 个时间点；未在实时页面操作。作者注明必须支持 WebGPU，且没有回退版本。\n\n[原作](https://tympanus.net/Demos/ClothCarousel/) · [制作说明 / 来源](https://tympanus.net/codrops/2026/11/17/cloth-posters-webgpu/)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### Vinyl：连唱针与唱片沟槽都参与反馈的唱机\n\n作者：Guillermo Rauch。\n\n日期与状态：2026-11-08（Codrops 收录日期，原始发布日期未独立核实）\n\n黑色唱盘在斜侧光下转动，唱针和唱臂与唱片保持明确的空间关系。作者不是给唱机模型简单配一段音乐，而是模拟沟槽、唱针和唱头读取过程；敲桌导致跳针等反馈也纳入模型。可借鉴的是让视觉、操作和声音来自同一状态，形成可信的物体，而不是彼此无关的装饰。\n\n热度：2026-11-18 GitHub 页面显示 139 stars、30 forks；这是代码项目关注度，不是作品播放量。\n\n核验范围：读了作者 README，抽看 Codrops 原作演示 3 个时间点，确认唱盘转动与镜头推进；未试听、未亲测跳针或上传音频，物理机制依据作者说明。\n\n[原作](https://vinyl-gl.vercel.app/) · [制作说明 / 来源](https://github.com/rauchg/vinyl)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### The Tie-break：用一局网球逐步解锁穿搭\n\n作者：Merci-Michel，为 New Balance × Miu Miu 制作。\n\n日期与状态：2026-09-25（Awwwards SOTD 日期，旧作）\n\n细白球场线、胶囊状挡板和磨砂模糊背景组成很克制的 Pong 式球场。得分不是只弹一个数字，而是关联到 Coco Gauff 合作系列的造型解锁，把看商品变成一次有节奏的互动奖励。可借鉴到品牌体验和产品发布：用简单、马上能懂的操作承载内容，避免教程比游戏还长。\n\n热度：Awwwards SOTD，页面评分 7.28/10；奖项不是流量数据，真实游玩量未公开。\n\n核验范围：读取 Awwwards 页面和创作者发布说明，抽看页面 Gameplay 短视频；看到了球场、挡板、球与比分画面，未完成实时双人对战或完整解锁流程。\n\n[原作](https://thetiebreak.merci-michel.com/) · [制作说明 / 来源](https://www.awwwards.com/sites/the-tie-break)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### Cyera AI Guardian：把安全概念变成三个星球的挑战\n\n作者：Active Theory。\n\n日期与状态：2026-11-11（Awwwards SOTD 日期）\n\n紫色太空与荧光绿碎片构成视觉系统，入口把访问者置于宇航任务中。项目说明将三个安全主题组织成星球探索及星座、导航、防御挑战。值得借鉴的是把抽象的产品能力映射成具体操作与关卡目标；不要只是把产品说明贴进三维背景。\n\n热度：Awwwards SOTD，评分 7.52/10；游玩数与播放量未核实。\n\n核验范围：查看了项目原页入口、Awwwards 作品视觉及项目说明；原页文本接口仅给出加载态，未实测飞行或三个挑战，玩法描述依据作品发布信息。\n\n[原作](https://secure-the-unknown.cyera.com/) · [制作说明 / 来源](https://www.awwwards.com/sites/cyera-ai-guardian)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### Chronology：把猜答案变成在时间轴上落点\n\n作者：Peter / RedPoint9。\n\n日期与状态：原始发布日期未公开核实；2026-11-16 获 Website Design Awards 展示\n\n不是普通四选一：一种模式把历史事件卡放进先后顺序，另一种在连续时间轴上放置年份标记。答案揭晓后可以直观看到猜测与真实年份的距离。深棕底、低饱和卡片与绿色正确反馈让信息层级清楚；可借鉴到知识问答、时间选择器和估算型输入，让结果直接解释误差。\n\n热度：作品被 Website Design Awards 11/16 展示；用户数未公开核实，不以该展示证明高人气。\n\n核验范围：已读官方首页、新闻资料与玩法说明，并查看官方分享图；没有实际完成游戏，不能评价动画曲线、实时手感或多人同步。\n\n[原作](https://chronologygame.com/) · [制作说明 / 来源](https://chronologygame.com/press)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n## AI产品宣传\n\n### Allo Call Tags｜让来电胶囊归入可读的跟进标签\n\n作者：Bitmap Studio / Allo。\n\n日期与状态：制作方标注 Q2 2026\n\n这不是此前收录的 Allo × Grok 角色片，而是 Call Tags 功能宣传。奶油色空间里，不同大小的来电胶囊保留头像、通话时长和红色挂断按钮，再接到通话分类及 Follow-up 标签。借鉴：先让观众认出真实通话对象，再展示 AI 如何整理信息，避免抽象光效抢走任务本身。制作方公开了脚本、视觉叙事、UI 动画和声音设计分工；这是 AI 产品片，不等于影片用 AI 制作。\n\n热度：制作方注明 X 发布帖在 2026-10-17 为 1M views；为发布帖历史数据，非本次独立统计。\n\n核验范围：已阅读制作页，下载公开原视频并每5秒抽帧核验到片尾；未连续播放、未核听声音。可见来电、Deals closed、跟进短信和标签整理过程。\n\n[原作](https://www.bitmapstudio.com/work/allo)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### Microsoft Designer｜让生成界面和有触感的创意素材同台\n\n作者：NotReal / Microsoft。\n\n日期与状态：旧作；本次未核实首发日，不当作新发布\n\n原页展示甜品般的色彩、丝带般的紫粉流体和悬浮 UI，强调产品 UX 与创作情绪之间的平衡。文字输入生成图像／布局的能力被放进一套感官化的场景，而不是长录屏。借鉴：让界面里的素材与外部场景共享颜色和质感，生成结果才像从同一个世界里长出来。制作署名列有人工二维、三维动画及合成，不将宣传对象的 AI 能力误写成制作流程。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://notreal.tv/project/microsoft-designer)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### RingCentral AI Expression｜把语音与智能处理做成光和流体\n\n作者：NotReal / RingCentral。\n\n日期与状态：2024，旧作精选\n\n橙金半透明的波形体围绕一张清楚的通话 UI 展开，产品成为光波空间的中心。原页明确把 light 和 fluidity 作为 AI 视觉系统的母题，并给出成套静帧和 reel。借鉴：同一材质语言可以扩展到听取、处理、输出等状态，而不用每个状态发明新装饰；这是设计方向推导，不是已验证的产品交互实现。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://notreal.tv/project/ring-central-ai)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### AI Studio × Flowjam｜让真人讲述和界面标注共处一个窗口\n\n作者：Flowjam。\n\n日期与状态：2025，旧作精选\n\n制作方公开 1分10秒 launch film。已查看的真实封面是珊瑚红底的讲述者，紫色 You 胶囊贴近人物，画面右下显示 HeyGen 标记。值得借鉴的是把人、品牌色和小型 UI 标注组织成同一视觉中心，而不是不断全屏切换。注意：页面只以 AI Studio 命名，制作方也未确认更多公司身份，不把它擅自归为某个产品版本。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://www.flowjam.com/ai-studio-x-flowjam)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### ServiceNow AI Platform｜用连通结构讲清智能工作流\n\n作者：NotReal / ServiceNow。\n\n日期与状态：2026；首发日未核实\n\n青绿半透明的弯曲长卡片与数据面板围绕主标题形成环形空间，材质网格和圆角 UI 共享一套层次。制作方说明这支 reel 汇集了 ServiceNow 最新产品及能力的系列影片，主题是内置 AI 如何连接系统并简化日常工作流。可作为企业 AI 宣传的结构化视觉参考，与旧版 AI Powered, Human Driven 不同；不把抽象网络本身当成已演示的真实功能。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1201372357)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n## AI制作动画\n\n### Something in the Air｜先画角色，再让鼻子真正表演\n\n作者：Creative Control：Marcos Siqueira、Julien Marsouin。\n\n日期与状态：2026-11；Stash 专访 11-16\n\n一群拟人鼻子构成荒诞小音乐剧。导演在专访说明：先手绘角色，再用 Nano Banana＋Photoshop 固定造型；Seedance 2.5 做镜头生成，持续修正比例、材质、灯光和身份一致性；DaVinci Resolve 整理镜头，Suno 创作歌曲。最值得学的是“先锁角色，再测试反应与互动”，而非只让漂亮首帧轻微运动。制作访谈：https://www.stashmedia.tv/the-nose-knows-creative-control-makes-stash-debut-with-something-in-the-air-short-film/\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1243184607) · [导演制作访谈](https://www.stashmedia.tv/the-nose-knows-creative-control-makes-stash-debut-with-something-in-the-air-short-film/)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### Cloudling｜用 Maya 布局约束 AI，修图与合成仍由人负责\n\n作者：Nikita Filipchenko。\n\n日期与状态：2026；首发日未核实\n\n柔软卷云发型、圆眼镜和暖色脸部构成易辨认的卡通角色。作者公开混合流程：ComfyUI 为主，Maya 做摄影机和角色布局，Photoshop 修画，AE 与 Premiere 完成合成剪辑。公开模型包括 NanoBanana、GPT Image、WAN 2.1/2.2、Flux、ZImageTurbo；未逐镜分配，不自行补全。借鉴：让布局、外观修正、最终节奏各有负责工具，而不是把一切塞进生成提示词。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://nikitafilipchenko.artstation.com/projects/q0L6qz)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### The Mexican Fisherman｜按镜头任务选模型，先做完整 animatic\n\n作者：iBelieveInSwordfish。\n\n日期与状态：2026；首发日未独立核实\n\n水彩海港和帆船建立统一的寓言世界。制作方披露：Midjourney 做角色，FilmSpark＋Nano Banana 统一人物、环境和道具；在 Resolve 先剪风格帧成 animatic，接入 ElevenLabs 配音及 Udio 音乐。再以 Seedance 1.0 Pro 做远景、Veo 3 做对话口型、Kling 2.1 Pro 做转场，Wan 2.2 补效果。可复用重点是按镜头职责选工具，而不是盲目让每个模型重做同一场戏。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1151396892)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### Shelter From the Storm｜把跨画风当作叙事设计，而不是生成失控\n\n作者：Alexander Kang。\n\n日期与状态：2025，旧作精选\n\n作者把十年前搁置的剧本重新制作，明确希望保留铅笔、水彩、二维、三维等多种视觉语言。真实封面中，小孩被灰蓝旋涡围绕，面部仍保留手绘粗粝感。制作署名：人负责剧本和导演；GPT-4o 协助提示词与图像，Kling 生成视频。借鉴：先写清每次风格转换在故事中的职责，再允许模型变化；页面没有公开逐镜参数，不当作完整复现教程。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1089295396)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n### The Wind-Up Caterpillar｜用自然纪录片语言观察机械玩具\n\n作者：Dan Augie。\n\n日期与状态：2026；目录标 05-29，原页首发日待确认\n\n封面把绿色发条毛毛虫悬在枝叶间，透明外壳、金属细节与自然逆光形成有趣冲突。作者称以实验动画、生成式 AI 和电影感影像模拟毛毛虫到蝴蝶的生命周期。可借鉴的是先给超现实主体一个可信的摄影语境，再让变化发生。模型、输入素材和逐镜步骤没有公开，因此仅列成片／美术参考，不虚构完整工作流。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1196732835)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。\n\n## 延伸阅读\n\n### Great Animations：好动效必须能被打断\n\n作者：Emil Kowalski；页面未标注发布日期，作为既有经验文章推荐。\n\n这篇经验总结把自然感、速度、目的、性能、可打断性和减弱动态偏好放在一起讨论。对你最近的弹簧实验，最有用的是“状态改变时不必等上一段播放结束”：文中用卡片展开后立即按 Escape 的场景说明连续转向，并对比 CSS transition 与 animation 的中途改目标行为。建议把“反向触发时从当前值接续、连续性如何保证”写进交付文档，而不仅交一个时长和曲线。\n\n核验：正文已完整读取，交互示例没有运行；这是作者实践观点，不是受控用户研究。文中 Framer Motion 性能描述针对其当时示例，不可推成当前所有 Motion 动画都跑在主线程。Family 抽屉也是作者复刻，作者明确不知道官方参数。\n\n[阅读原文](https://emilkowal.ski/ui/great-animations)\n\n",
+      "cases": [
+        {
+          "id": "2026-11-18-20970bed64cc",
+          "date": "2026-11-18",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Elysia｜用一栋房子解释家庭能源",
+          "originalHeading": "Elysia｜用一栋房子解释家庭能源",
+          "author": "Arnas Jonikas / Flair",
+          "heat": "2026-11-18 检索到的 Dribbble 分类页快照：17 赞、371 浏览。页面可能为缓存，不是视频播放量。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://dribbble.com/shots/27839043-Elysia-Website"
+            }
+          ],
+          "fullText": "### Elysia｜用一栋房子解释家庭能源\n\n作者：Arnas Jonikas / Flair。\n\n日期与状态：未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。Elysia 上线状态未验证；其余作为概念设计展示。\n\n大面积黑底上，左侧以超大两行字建立阅读入口，右侧放置等轴住宅模型；太阳能、储能、家庭用电与电网的胶囊标记直接附着在空间位置上。底部四个时段按钮与黄色主操作形成少量亮色锚点。\n\n借鉴：能源数据可以跟真实空间绑定，而不是全部变成同等权重的数字卡片；大标题和模型各占半边，也让首屏在复杂信息下保持简明。\n\n热度：2026-11-18 检索到的 Dribbble 分类页快照：17 赞、371 浏览。页面可能为缓存，不是视频播放量。\n\n核验范围：已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。\n\n[原作](https://dribbble.com/shots/27839043-Elysia-Website)\n\n封面：Dribbble 原作静帧封面，2026-11-18 核验。",
+          "verification": "已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。",
+          "limitations": "已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。",
+          "originalDateNote": "未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。Elysia 上线状态未验证；其余作为概念设计展示。"
+        },
+        {
+          "id": "2026-11-18-e7bccd26770c",
+          "date": "2026-11-18",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Health App｜绿色玻璃十字与预约优先的首页",
+          "originalHeading": "Health App｜绿色玻璃十字与预约优先的首页",
+          "author": "Ronas IT | UI/UX Team",
+          "heat": "2026-11-18 检索到的 Dribbble 分类页快照：177 赞、13.8k 浏览。页面可能为缓存，不是视频播放量。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://dribbble.com/shots/27842782-Health-App-Doctor-Appointment-Booking"
+            }
+          ],
+          "fullText": "### Health App｜绿色玻璃十字与预约优先的首页\n\n作者：Ronas IT | UI/UX Team。\n\n日期与状态：未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。上线状态未验证；作为设计展示。\n\n欢迎页用发光半透明十字成为品牌记忆点，进入首页后改为浅色底，优先展示预约卡片，再放睡眠、步数与健康问卷。预约页的医生卡、日期条、时间胶囊和固定确认区，把三个决策层级分得很清楚。\n\n借鉴：在品牌页使用强材质，在任务页减少装饰、保持选项清楚；“预约优先”是这张概念稿的产品取舍，不必照搬到日常健康追踪工具。\n\n热度：2026-11-18 检索到的 Dribbble 分类页快照：177 赞、13.8k 浏览。页面可能为缓存，不是视频播放量。\n\n核验范围：已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。\n\n[原作](https://dribbble.com/shots/27842782-Health-App-Doctor-Appointment-Booking)\n\n封面：Dribbble 原作静帧封面，2026-11-18 核验。",
+          "verification": "已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。",
+          "limitations": "已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。",
+          "originalDateNote": "未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。上线状态未验证；作为设计展示。"
+        },
+        {
+          "id": "2026-11-18-2e6d70770aed",
+          "date": "2026-11-18",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Car Maintenance｜把里程表变成保养首页的主角",
+          "originalHeading": "Car Maintenance｜把里程表变成保养首页的主角",
+          "author": "Purrweb UI/UX Agency",
+          "heat": "2026-11-18 检索到的 Dribbble 分类页快照：119 赞、2.2k 浏览。页面可能为缓存，不是视频播放量。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://dribbble.com/shots/27859025-Car-Maintenance-Mobile-iOS-App-Design"
+            }
+          ],
+          "fullText": "### Car Maintenance｜把里程表变成保养首页的主角\n\n作者：Purrweb UI/UX Agency。\n\n日期与状态：未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。上线状态未验证；作为设计展示。\n\n深绿黑底上，白色分格里程表占据最强视觉位置；下方用琥珀色提示下一次保养剩余里程，细刻度与记录卡接续同一车辆仪表语言。底部大号 Log mileage 按钮让新增记录不被资料展示淹没。\n\n借鉴：用一个具象的里程仪表统一信息层级，紧接着展示“距离下一次保养还剩多少”；这种功能化拟物比随处铺玻璃卡片更有主题。\n\n热度：2026-11-18 检索到的 Dribbble 分类页快照：119 赞、2.2k 浏览。页面可能为缓存，不是视频播放量。\n\n核验范围：已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。\n\n[原作](https://dribbble.com/shots/27859025-Car-Maintenance-Mobile-iOS-App-Design)\n\n封面：Dribbble 原作静帧封面，2026-11-18 核验。",
+          "verification": "已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。",
+          "limitations": "已读作者作品页正文，并查看原作 CDN 的 1000 像素封面图；未连续观看动画、未操作可交互原型。",
+          "originalDateNote": "未核实首次发布日期；2026-11-18 检索到原作；不称今日新发。上线状态未验证；作为设计展示。"
+        },
+        {
+          "id": "2026-11-18-6d7cee412548",
+          "date": "2026-11-18",
+          "title": "Artemii Lebedev：把影像舞台与精密目录放在同一个首屏",
+          "module": "UI设计",
+          "author": "Artemii Lebedev",
+          "fullText": "### Artemii Lebedev：把影像舞台与精密目录放在同一个首屏\n\n作者：Artemii Lebedev。\n\n日期与状态：CSS Design Awards 于 2026-11-14 评为 Website of the Day；准确上线日期未核实，并非今日首发。\n\n亮点：全屏暗色影像上，左上角是一块白色固定信息面板，容纳姓名、职责、导航、项目数与联系入口；右侧项目列表按名称、行业与年份对齐。等宽小字、细线和小标签形成工程目录般的秩序，与背景视频的电影感产生反差。\n\n借鉴：可借鉴的是双层阅读：先被影像吸引，再用不移动的目录定位作品。品牌宣言可以变化，导航和项目元信息保持稳定，避免作品集为了炫技丢失入口。\n\n热度：2026-11-18 核验 CSSDA 最终评审 8.27/10，这是专业评审分，不是访问量或播放量，公众传播热度未知。\n\n核验与限制：读取原站文本并在云端浏览器实际查看首页画面；仅核验首屏视觉和可见导航，没有连续验证全部动效、移动端、购买或联系流程。封面为本次原站首页实拍截图。\n\n[查看原作](https://artemiilebedev.com/) · [获奖与作者信息](https://www.cssdesignawards.com/sites/artemii-lebedev/50360/)",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://artemiilebedev.com/"
+            },
+            {
+              "label": "获奖与作者信息",
+              "url": "https://www.cssdesignawards.com/sites/artemii-lebedev/50360/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-18-457f55798f79",
+          "date": "2026-11-18",
+          "title": "Henrietta Said：让食品角色、口味与界面使用同一套颜色",
+          "module": "UI设计",
+          "author": "Tattoo Digital；协作 Starodub Igor",
+          "fullText": "### Henrietta Said：让食品角色、口味与界面使用同一套颜色\n\n作者：Tattoo Digital；协作 Starodub Igor。\n\n日期与状态：CSS Design Awards 于 2026-11-13 评为 Website of the Day；准确上线日期未核实，并非今日首发。\n\n亮点：暖粉色页面外框包围米白内容区，黑色大字、窄字说明与戴墨镜的花生角色构成首屏；不同远近的花生图像通过清晰度与尺寸建立景深。顶栏的产品与搜索按钮保持强对比，使夸张品牌画面仍有可找的功能入口。\n\n借鉴：可借鉴的是让包装角色成为页面主体，而非把商品简单装进卡片。口味颜色、角色与说明统一为品牌语言；主操作采用稳定黑白块，避免被背景素材淹没。\n\n热度：2026-11-18 核验 CSSDA 最终评审 8.52/10，这是专业评审分，不是访问量或播放量，公众传播热度未知。\n\n核验与限制：读取原站文本并在云端浏览器实际查看首页画面；仅核验首屏视觉和可见导航，没有连续验证全部动效、移动端、购买或联系流程。封面为本次原站首页实拍截图。\n\n[查看原作](https://henriettasaid.com/) · [获奖与作者信息](https://www.cssdesignawards.com/sites/henrietta-said/50359/)",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://henriettasaid.com/"
+            },
+            {
+              "label": "获奖与作者信息",
+              "url": "https://www.cssdesignawards.com/sites/henrietta-said/50359/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-18-f41e46813c39",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Runmo Lab｜暗红仪表中的心电扫描",
+          "originalHeading": "Runmo Lab｜暗红仪表中的心电扫描",
+          "author": "Runmo；60fps 录屏收录",
+          "heat": "2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/runmo-lab-pulse-heart-ecg-interaction"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba32f578a19ae2569ae/main.mp4"
+            }
+          ],
+          "fullText": "### Runmo Lab｜暗红仪表中的心电扫描\n\n作者：Runmo；60fps 录屏收录。\n\n日期与状态：2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n深红色 Lab 页面顶部留给心电曲线；亮点沿横向波形前进，旧轨迹较暗，下方指标保持静止。高亮运动与静态数值形成清晰的主次。\n\n借鉴：监控型界面可把活动感集中在唯一的扫描轨迹，减少整屏同时闪烁。本例仅作视觉参考，不代表医疗测量准确性。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 8.85 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/runmo-lab-pulse-heart-ecg-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba32f578a19ae2569ae/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。",
+          "verification": "读取 60fps 公开条目与嵌入录屏，下载 8.85 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "limitations": "读取 60fps 公开条目与嵌入录屏，下载 8.85 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "originalDateNote": "2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。"
+        },
+        {
+          "id": "2026-11-18-2fb630c9ba6e",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Plasma｜从优惠卡片长出的详情面板",
+          "originalHeading": "Plasma｜从优惠卡片长出的详情面板",
+          "author": "Plasma；60fps 录屏收录",
+          "heat": "2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76b45e59c41063b892f11/main.mp4"
+            }
+          ],
+          "fullText": "### Plasma｜从优惠卡片长出的详情面板\n\n作者：Plasma；60fps 录屏收录。\n\n日期与状态：2026-10-20；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n黑色首页中的优惠卡被点开后扩展成圆角详情面板；收起时又回到原来的入口。片中还能看到半高与更高面板之间的切换，后面的首页变暗。\n\n借鉴：用同一张卡片承担入口和详情，保持图像、边框与内容的对应关系；不要在放大过程中突然换成无关弹窗。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 12.97 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76b45e59c41063b892f11/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。",
+          "verification": "读取 60fps 公开条目与嵌入录屏，下载 12.97 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "limitations": "读取 60fps 公开条目与嵌入录屏，下载 12.97 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "originalDateNote": "2026-10-20；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。"
+        },
+        {
+          "id": "2026-11-18-ff5f55dd9580",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Ripples App Store｜在固定版式中让字标起伏",
+          "originalHeading": "Ripples App Store｜在固定版式中让字标起伏",
+          "author": "Ripples 的商店页头图；展示平台 Apple App Store，60fps 录屏收录",
+          "heat": "2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/apple-app-store-app-page-header-asset-animation"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a161ab4445ed4e6277c/main.mp4"
+            }
+          ],
+          "fullText": "### Ripples App Store｜在固定版式中让字标起伏\n\n作者：Ripples 的商店页头图；展示平台 Apple App Store，60fps 录屏收录。\n\n日期与状态：2026-10-20；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\nApp Store 黑色产品详情页顶端是高饱和蓝色区域，白色鼓胀字标 Ripples 在固定区域内轻微变形，表面明暗随之改变；下面的产品信息和打开按钮不动。\n\n借鉴：把品牌动效限制在头图区，保持安装与信息区稳定。不是整个页面都要运动，小幅材质变化也能维持生命感。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 5.83 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/apple-app-store-app-page-header-asset-animation) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a161ab4445ed4e6277c/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。",
+          "verification": "读取 60fps 公开条目与嵌入录屏，下载 5.83 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "limitations": "读取 60fps 公开条目与嵌入录屏，下载 5.83 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "originalDateNote": "2026-10-20；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。"
+        },
+        {
+          "id": "2026-11-18-b3399f46f2f1",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Circle｜用余额滚动交代领取结果",
+          "originalHeading": "Circle｜用余额滚动交代领取结果",
+          "author": "Circle；60fps 录屏收录",
+          "heat": "2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/circle-new-wallet-claim-balance-interaction"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725d51bbc375977910cae/main.mp4"
+            }
+          ],
+          "fullText": "### Circle｜用余额滚动交代领取结果\n\n作者：Circle；60fps 录屏收录。\n\n日期与状态：2026-10-08；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n白色欢迎页上放着蓝绿光泽卡片；领取按钮进入加载状态，金额显现并停在 ₹1,450，随后说明文字改为钱包已就绪，底部操作变为 Continue。\n\n借鉴：把“等待—到账—下一步”留在同一个版面，金额先成为主角，再更新说明和行动按钮，减少成功页突然跳转。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 12.57 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/circle-new-wallet-claim-balance-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725d51bbc375977910cae/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。",
+          "verification": "读取 60fps 公开条目与嵌入录屏，下载 12.57 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "limitations": "读取 60fps 公开条目与嵌入录屏，下载 12.57 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "originalDateNote": "2026-10-08；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。"
+        },
+        {
+          "id": "2026-11-18-19ab653a5a12",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Revolut｜套餐切换联动卡片与环境色",
+          "originalHeading": "Revolut｜套餐切换联动卡片与环境色",
+          "author": "Revolut；60fps 录屏收录",
+          "heat": "2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/revolut-select-plan-tab-scroll-interaction"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa489a4399ce47a5/main.mp4"
+            }
+          ],
+          "fullText": "### Revolut｜套餐切换联动卡片与环境色\n\n作者：Revolut；60fps 录屏收录。\n\n日期与状态：2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\nPlus、Premium 与 Metal 套餐在紫色、绿色、暖金色环境中切换，悬浮银行卡和文字随套餐改变；竖向滚动查看权益时，底部选择按钮继续留在视野里。\n\n借鉴：横向切换表达套餐差异，纵向滚动解释权益深度；固定 CTA 让沉浸式展示不牺牲操作可达性。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 18.72 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/revolut-select-plan-tab-scroll-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa489a4399ce47a5/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。",
+          "verification": "读取 60fps 公开条目与嵌入录屏，下载 18.72 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "limitations": "读取 60fps 公开条目与嵌入录屏，下载 18.72 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "originalDateNote": "2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。"
+        },
+        {
+          "id": "2026-11-18-944f90caf60c",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Duolingo｜让奖励飞回能量计数器",
+          "originalHeading": "Duolingo｜让奖励飞回能量计数器",
+          "author": "Duolingo；60fps 录屏收录",
+          "heat": "2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/duolingo-battery-fill-up-interaction"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa4fda34666693d3/main.mp4"
+            }
+          ],
+          "fullText": "### Duolingo｜让奖励飞回能量计数器\n\n作者：Duolingo；60fps 录屏收录。\n\n日期与状态：2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。\n\n棋盘题答对后，底部反馈条出现，画面爆出彩色碎片，粉色能量奖励在中间放大，再向顶部计数器收拢。取样画面可见 +2 和后续 +1 的奖励状态。\n\n借鉴：让奖励有明确去向：中部庆祝负责情绪，向计数器收拢负责解释资产变化。不要只在屏幕中央撒花却不交代奖励加在哪里。\n\n热度：2026-11-18 查看；单条播放与点赞数据未公开，不能据品牌知名度称其高人气。\n\n核验范围：读取 60fps 公开条目与嵌入录屏，下载 5.26 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。\n\n[原作](https://60fps.design/shots/duolingo-battery-fill-up-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa4fda34666693d3/main.mp4)\n\n封面：对应公开录屏的实取视频帧，2026-11-18 核验。",
+          "verification": "读取 60fps 公开条目与嵌入录屏，下载 5.26 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "limitations": "读取 60fps 公开条目与嵌入录屏，下载 5.26 秒视频并查看 6 个时间点的画面；不是完整连续播放，也未操作真实 App。",
+          "originalDateNote": "2026-09-07；60fps 视频结构化数据上传日期；不是产品或该动画首次上线日。"
+        },
+        {
+          "id": "2026-11-18-018d35dc9735",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Clear：列表收拢回目录的层级退场",
+          "originalHeading": "Clear：列表收拢回目录的层级退场",
+          "author": "Clear 团队；60fps 收录实录",
+          "heat": "2026-11-18 未取得该片段独立播放/点赞数，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/clear-back-screen-morph"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/66cf5136a8ec7d01f57bf618/main.mp4"
+            }
+          ],
+          "fullText": "### Clear：列表收拢回目录的层级退场\n\n作者：Clear 团队；60fps 收录实录。\n\n日期与状态：2024-08-28；60fps 视频 uploadDate，非产品首发日；历史案例\n\n红橙渐变待办列表先压缩退回蓝色 My Lists 目录，随后蓝色目录再收拢为主菜单。每退一层，色彩与内容密度一起改变，不是把整张屏幕简单推走。\n\n借鉴：适合借鉴多层列表返回：把当前层收回其来源，色彩作为层级标记。原页面称捏合触发；片段可确认层级形变，未在真机测试手势。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 2.5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/clear-back-screen-morph) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/66cf5136a8ec7d01f57bf618/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。",
+          "verification": "读取公开原页及其嵌入 MP4（约 2.5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "limitations": "读取公开原页及其嵌入 MP4（约 2.5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "originalDateNote": "2024-08-28；60fps 视频 uploadDate，非产品首发日；历史案例"
+        },
+        {
+          "id": "2026-11-18-d2e016628ce5",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Amie：底部胶囊展开成三路快捷操作",
+          "originalHeading": "Amie：底部胶囊展开成三路快捷操作",
+          "author": "Amie 团队；60fps 收录实录",
+          "heat": "2026-11-18 未取得该片段独立播放/点赞数，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/amie-actions"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/66b4bcdc225b7b88f78c7543/main.mp4"
+            }
+          ],
+          "fullText": "### Amie：底部胶囊展开成三路快捷操作\n\n作者：Amie 团队；60fps 收录实录。\n\n日期与状态：2024-08-08；60fps 视频 uploadDate，非产品首发日；历史案例\n\n底部小黑胶囊横向展开为 Event、Email、Todo 三个按钮，红蓝灰图标帮助区分路径；日历同步蒙暗，关闭后又收回同一个小胶囊。\n\n借鉴：借鉴点是一个紧凑入口就地扩展，而非突然弹出独立菜单；背景压暗和按钮扩展共同建立短暂的操作焦点。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/amie-actions) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/66b4bcdc225b7b88f78c7543/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。",
+          "verification": "读取公开原页及其嵌入 MP4（约 5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "limitations": "读取公开原页及其嵌入 MP4（约 5 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "originalDateNote": "2024-08-08；60fps 视频 uploadDate，非产品首发日；历史案例"
+        },
+        {
+          "id": "2026-11-18-ca6cffc518c8",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Clocks：时钟卡片在样式库与设置页之间连续变换",
+          "originalHeading": "Clocks：时钟卡片在样式库与设置页之间连续变换",
+          "author": "Clocks 团队；60fps 收录实录",
+          "heat": "2026-11-18 未取得该片段独立播放/点赞数，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/clocks-card-screen-morph-interaction"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/682ac1d6283a3162ff379be2/main.mp4"
+            }
+          ],
+          "fullText": "### Clocks：时钟卡片在样式库与设置页之间连续变换\n\n作者：Clocks 团队；60fps 收录实录。\n\n日期与状态：2025-05-19；60fps 视频 uploadDate，非产品首发日；历史案例\n\n多张时钟样式卡片构成纵向列表。选中彩色时钟后，它移动到设置页上方，其余卡片消失，下方露出 Background、Layout、Font 等设置；返回时再次回到原样式列表。\n\n借鉴：借鉴“共享对象”作为跨页面锚点：不是先抹掉列表再生成详情，而让被选卡片持续存在。注意页面文案描述了横屏显示，但实际这段 2.48 秒视频没有展示横屏，本条按实帧描述。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 2.483 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/clocks-card-screen-morph-interaction) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/682ac1d6283a3162ff379be2/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。",
+          "verification": "读取公开原页及其嵌入 MP4（约 2.483 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "limitations": "读取公开原页及其嵌入 MP4（约 2.483 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "originalDateNote": "2025-05-19；60fps 视频 uploadDate，非产品首发日；历史案例"
+        },
+        {
+          "id": "2026-11-18-425fd2146e0c",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Haptic：拖动前景白卡露出深色统计面板",
+          "originalHeading": "Haptic：拖动前景白卡露出深色统计面板",
+          "author": "Haptic 团队；60fps 收录实录",
+          "heat": "2026-11-18 未取得该片段独立播放/点赞数，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/haptic-top-sheet"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/66b4badf61d73e2622b343d6/download.mp4"
+            }
+          ],
+          "fullText": "### Haptic：拖动前景白卡露出深色统计面板\n\n作者：Haptic 团队；60fps 收录实录。\n\n日期与状态：2024-08-08；60fps 视频 uploadDate，非产品首发日；历史案例\n\n白色任务卡在屏幕中上下移动，向下时露出后方深色日期与统计区，向上时覆盖它。前景列表、背后统计分成两张可理解的表面，而非两个互相替换的页面。\n\n借鉴：适合研究内容层和工具层的空间关系；白卡顶边就是可追踪边界。片段后半还包含日历与会员页，本条不把它们算成独立案例。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 22.358 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/haptic-top-sheet) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/66b4badf61d73e2622b343d6/download.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。",
+          "verification": "读取公开原页及其嵌入 MP4（约 22.358 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "limitations": "读取公开原页及其嵌入 MP4（约 22.358 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "originalDateNote": "2024-08-08；60fps 视频 uploadDate，非产品首发日；历史案例"
+        },
+        {
+          "id": "2026-11-18-0ecabfa4e577",
+          "date": "2026-11-18",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Eimi：文字意图变成知识卡片阵列",
+          "originalHeading": "Eimi：文字意图变成知识卡片阵列",
+          "author": "Eimi 团队；60fps 收录实录",
+          "heat": "2026-11-18 未取得该片段独立播放/点赞数，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://60fps.design/shots/eimi-intro-cards-morph-sequence-animation"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/696c8cf00de908dc60be9fcc/main.mp4"
+            }
+          ],
+          "fullText": "### Eimi：文字意图变成知识卡片阵列\n\n作者：Eimi 团队；60fps 收录实录。\n\n日期与状态：2026-01-18；60fps 视频 uploadDate，非产品首发日；历史案例\n\n黑底上先出现 I WANT TO 等短句，文字区域随后转成单张内容卡。绿色 HTTP 知识卡放大呈现，再与周围多色卡组成可横向浏览的阵列，底部蓝色 Start Exploring 最后成为稳定行动入口。\n\n借鉴：可借鉴“意图→内容对象→可操作集合”的连续叙事，适合学习或生成式产品引导；不要让逐字文字、卡片形变与按钮入场同时争抢注意力。\n\n热度：2026-11-18 未取得该片段独立播放/点赞数，热度未知。\n\n核验范围：读取公开原页及其嵌入 MP4（约 12.817 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。\n\n[原作](https://60fps.design/shots/eimi-intro-cards-morph-sequence-animation) · [公开录屏](https://video.gumlet.io/66b49d08225b7b88f78b7b44/696c8cf00de908dc60be9fcc/main.mp4)\n\n封面：60fps 收录产品实录的截帧，2026-11-18 核验。",
+          "verification": "读取公开原页及其嵌入 MP4（约 12.817 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "limitations": "读取公开原页及其嵌入 MP4（约 12.817 秒），均匀采样 6 帧核验前、中、后状态；未连续播放，未验证声音或真机手势。",
+          "originalDateNote": "2026-01-18；60fps 视频 uploadDate，非产品首发日；历史案例"
+        },
+        {
+          "id": "2026-11-18-9a2c2b64b91d",
+          "date": "2026-11-18",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "DomGL Cloth：把海报轮播做成会折叠的布片",
+          "originalHeading": "DomGL Cloth：把海报轮播做成会折叠的布片",
+          "author": "Jesper Landberg",
+          "heat": "Codrops 11/17 收录；播放量、点赞量未核实，收录不等于高播放。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://tympanus.net/Demos/ClothCarousel/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://tympanus.net/codrops/2026/11/17/cloth-posters-webgpu/"
+            }
+          ],
+          "fullText": "### DomGL Cloth：把海报轮播做成会折叠的布片\n\n作者：Jesper Landberg。\n\n日期与状态：2026-11-17（作者文章日期）\n\n这一组彩色海报不是硬卡片：滚动从布片中央牵引，边缘滞后卷曲；点开时，被点击位置先离开队列，其他部分随后抬起，旁边展开的说明页连文字一起折叠。很适合借鉴到作品集、专辑和精选卡片：把输入点、运动方向与形变建立直接因果，而不是给所有卡片套同一段晃动。\n\n热度：Codrops 11/17 收录；播放量、点赞量未核实，收录不等于高播放。\n\n核验范围：已读作者完整技术拆解，并抽看官方约 27 秒演示中的 9 个时间点；未在实时页面操作。作者注明必须支持 WebGPU，且没有回退版本。\n\n[原作](https://tympanus.net/Demos/ClothCarousel/) · [制作说明 / 来源](https://tympanus.net/codrops/2026/11/17/cloth-posters-webgpu/)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已读作者完整技术拆解，并抽看官方约 27 秒演示中的 9 个时间点；未在实时页面操作。作者注明必须支持 WebGPU，且没有回退版本。",
+          "limitations": "已读作者完整技术拆解，并抽看官方约 27 秒演示中的 9 个时间点；未在实时页面操作。作者注明必须支持 WebGPU，且没有回退版本。",
+          "originalDateNote": "2026-11-17（作者文章日期）"
+        },
+        {
+          "id": "2026-11-18-5d881e6d2060",
+          "date": "2026-11-18",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Vinyl：连唱针与唱片沟槽都参与反馈的唱机",
+          "originalHeading": "Vinyl：连唱针与唱片沟槽都参与反馈的唱机",
+          "author": "Guillermo Rauch",
+          "heat": "2026-11-18 GitHub 页面显示 139 stars、30 forks；这是代码项目关注度，不是作品播放量。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://vinyl-gl.vercel.app/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://github.com/rauchg/vinyl"
+            }
+          ],
+          "fullText": "### Vinyl：连唱针与唱片沟槽都参与反馈的唱机\n\n作者：Guillermo Rauch。\n\n日期与状态：2026-11-08（Codrops 收录日期，原始发布日期未独立核实）\n\n黑色唱盘在斜侧光下转动，唱针和唱臂与唱片保持明确的空间关系。作者不是给唱机模型简单配一段音乐，而是模拟沟槽、唱针和唱头读取过程；敲桌导致跳针等反馈也纳入模型。可借鉴的是让视觉、操作和声音来自同一状态，形成可信的物体，而不是彼此无关的装饰。\n\n热度：2026-11-18 GitHub 页面显示 139 stars、30 forks；这是代码项目关注度，不是作品播放量。\n\n核验范围：读了作者 README，抽看 Codrops 原作演示 3 个时间点，确认唱盘转动与镜头推进；未试听、未亲测跳针或上传音频，物理机制依据作者说明。\n\n[原作](https://vinyl-gl.vercel.app/) · [制作说明 / 来源](https://github.com/rauchg/vinyl)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "读了作者 README，抽看 Codrops 原作演示 3 个时间点，确认唱盘转动与镜头推进；未试听、未亲测跳针或上传音频，物理机制依据作者说明。",
+          "limitations": "读了作者 README，抽看 Codrops 原作演示 3 个时间点，确认唱盘转动与镜头推进；未试听、未亲测跳针或上传音频，物理机制依据作者说明。",
+          "originalDateNote": "2026-11-08（Codrops 收录日期，原始发布日期未独立核实）"
+        },
+        {
+          "id": "2026-11-18-edb0a249e594",
+          "date": "2026-11-18",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "The Tie-break：用一局网球逐步解锁穿搭",
+          "originalHeading": "The Tie-break：用一局网球逐步解锁穿搭",
+          "author": "Merci-Michel，为 New Balance × Miu Miu 制作",
+          "heat": "Awwwards SOTD，页面评分 7.28/10；奖项不是流量数据，真实游玩量未公开。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://thetiebreak.merci-michel.com/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://www.awwwards.com/sites/the-tie-break"
+            }
+          ],
+          "fullText": "### The Tie-break：用一局网球逐步解锁穿搭\n\n作者：Merci-Michel，为 New Balance × Miu Miu 制作。\n\n日期与状态：2026-09-25（Awwwards SOTD 日期，旧作）\n\n细白球场线、胶囊状挡板和磨砂模糊背景组成很克制的 Pong 式球场。得分不是只弹一个数字，而是关联到 Coco Gauff 合作系列的造型解锁，把看商品变成一次有节奏的互动奖励。可借鉴到品牌体验和产品发布：用简单、马上能懂的操作承载内容，避免教程比游戏还长。\n\n热度：Awwwards SOTD，页面评分 7.28/10；奖项不是流量数据，真实游玩量未公开。\n\n核验范围：读取 Awwwards 页面和创作者发布说明，抽看页面 Gameplay 短视频；看到了球场、挡板、球与比分画面，未完成实时双人对战或完整解锁流程。\n\n[原作](https://thetiebreak.merci-michel.com/) · [制作说明 / 来源](https://www.awwwards.com/sites/the-tie-break)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "读取 Awwwards 页面和创作者发布说明，抽看页面 Gameplay 短视频；看到了球场、挡板、球与比分画面，未完成实时双人对战或完整解锁流程。",
+          "limitations": "读取 Awwwards 页面和创作者发布说明，抽看页面 Gameplay 短视频；看到了球场、挡板、球与比分画面，未完成实时双人对战或完整解锁流程。",
+          "originalDateNote": "2026-09-25（Awwwards SOTD 日期，旧作）"
+        },
+        {
+          "id": "2026-11-18-bbcf0e6ddd59",
+          "date": "2026-11-18",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Cyera AI Guardian：把安全概念变成三个星球的挑战",
+          "originalHeading": "Cyera AI Guardian：把安全概念变成三个星球的挑战",
+          "author": "Active Theory",
+          "heat": "Awwwards SOTD，评分 7.52/10；游玩数与播放量未核实。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://secure-the-unknown.cyera.com/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://www.awwwards.com/sites/cyera-ai-guardian"
+            }
+          ],
+          "fullText": "### Cyera AI Guardian：把安全概念变成三个星球的挑战\n\n作者：Active Theory。\n\n日期与状态：2026-11-11（Awwwards SOTD 日期）\n\n紫色太空与荧光绿碎片构成视觉系统，入口把访问者置于宇航任务中。项目说明将三个安全主题组织成星球探索及星座、导航、防御挑战。值得借鉴的是把抽象的产品能力映射成具体操作与关卡目标；不要只是把产品说明贴进三维背景。\n\n热度：Awwwards SOTD，评分 7.52/10；游玩数与播放量未核实。\n\n核验范围：查看了项目原页入口、Awwwards 作品视觉及项目说明；原页文本接口仅给出加载态，未实测飞行或三个挑战，玩法描述依据作品发布信息。\n\n[原作](https://secure-the-unknown.cyera.com/) · [制作说明 / 来源](https://www.awwwards.com/sites/cyera-ai-guardian)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "查看了项目原页入口、Awwwards 作品视觉及项目说明；原页文本接口仅给出加载态，未实测飞行或三个挑战，玩法描述依据作品发布信息。",
+          "limitations": "查看了项目原页入口、Awwwards 作品视觉及项目说明；原页文本接口仅给出加载态，未实测飞行或三个挑战，玩法描述依据作品发布信息。",
+          "originalDateNote": "2026-11-11（Awwwards SOTD 日期）"
+        },
+        {
+          "id": "2026-11-18-a8072133ebc0",
+          "date": "2026-11-18",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Chronology：把猜答案变成在时间轴上落点",
+          "originalHeading": "Chronology：把猜答案变成在时间轴上落点",
+          "author": "Peter / RedPoint9",
+          "heat": "作品被 Website Design Awards 11/16 展示；用户数未公开核实，不以该展示证明高人气。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://chronologygame.com/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://chronologygame.com/press"
+            }
+          ],
+          "fullText": "### Chronology：把猜答案变成在时间轴上落点\n\n作者：Peter / RedPoint9。\n\n日期与状态：原始发布日期未公开核实；2026-11-16 获 Website Design Awards 展示\n\n不是普通四选一：一种模式把历史事件卡放进先后顺序，另一种在连续时间轴上放置年份标记。答案揭晓后可以直观看到猜测与真实年份的距离。深棕底、低饱和卡片与绿色正确反馈让信息层级清楚；可借鉴到知识问答、时间选择器和估算型输入，让结果直接解释误差。\n\n热度：作品被 Website Design Awards 11/16 展示；用户数未公开核实，不以该展示证明高人气。\n\n核验范围：已读官方首页、新闻资料与玩法说明，并查看官方分享图；没有实际完成游戏，不能评价动画曲线、实时手感或多人同步。\n\n[原作](https://chronologygame.com/) · [制作说明 / 来源](https://chronologygame.com/press)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已读官方首页、新闻资料与玩法说明，并查看官方分享图；没有实际完成游戏，不能评价动画曲线、实时手感或多人同步。",
+          "limitations": "已读官方首页、新闻资料与玩法说明，并查看官方分享图；没有实际完成游戏，不能评价动画曲线、实时手感或多人同步。",
+          "originalDateNote": "原始发布日期未公开核实；2026-11-16 获 Website Design Awards 展示"
+        },
+        {
+          "id": "2026-11-18-bc9f5ea266b8",
+          "date": "2026-11-18",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Allo Call Tags｜让来电胶囊归入可读的跟进标签",
+          "originalHeading": "Allo Call Tags｜让来电胶囊归入可读的跟进标签",
+          "author": "Bitmap Studio / Allo",
+          "heat": "制作方注明 X 发布帖在 2026-10-17 为 1M views；为发布帖历史数据，非本次独立统计。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.bitmapstudio.com/work/allo"
+            }
+          ],
+          "fullText": "### Allo Call Tags｜让来电胶囊归入可读的跟进标签\n\n作者：Bitmap Studio / Allo。\n\n日期与状态：制作方标注 Q2 2026\n\n这不是此前收录的 Allo × Grok 角色片，而是 Call Tags 功能宣传。奶油色空间里，不同大小的来电胶囊保留头像、通话时长和红色挂断按钮，再接到通话分类及 Follow-up 标签。借鉴：先让观众认出真实通话对象，再展示 AI 如何整理信息，避免抽象光效抢走任务本身。制作方公开了脚本、视觉叙事、UI 动画和声音设计分工；这是 AI 产品片，不等于影片用 AI 制作。\n\n热度：制作方注明 X 发布帖在 2026-10-17 为 1M views；为发布帖历史数据，非本次独立统计。\n\n核验范围：已阅读制作页，下载公开原视频并每5秒抽帧核验到片尾；未连续播放、未核听声音。可见来电、Deals closed、跟进短信和标签整理过程。\n\n[原作](https://www.bitmapstudio.com/work/allo)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读制作页，下载公开原视频并每5秒抽帧核验到片尾；未连续播放、未核听声音。可见来电、Deals closed、跟进短信和标签整理过程。",
+          "limitations": "已阅读制作页，下载公开原视频并每5秒抽帧核验到片尾；未连续播放、未核听声音。可见来电、Deals closed、跟进短信和标签整理过程。",
+          "originalDateNote": "制作方标注 Q2 2026"
+        },
+        {
+          "id": "2026-11-18-7879c6b96dd7",
+          "date": "2026-11-18",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Microsoft Designer｜让生成界面和有触感的创意素材同台",
+          "originalHeading": "Microsoft Designer｜让生成界面和有触感的创意素材同台",
+          "author": "NotReal / Microsoft",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://notreal.tv/project/microsoft-designer"
+            }
+          ],
+          "fullText": "### Microsoft Designer｜让生成界面和有触感的创意素材同台\n\n作者：NotReal / Microsoft。\n\n日期与状态：旧作；本次未核实首发日，不当作新发布\n\n原页展示甜品般的色彩、丝带般的紫粉流体和悬浮 UI，强调产品 UX 与创作情绪之间的平衡。文字输入生成图像／布局的能力被放进一套感官化的场景，而不是长录屏。借鉴：让界面里的素材与外部场景共享颜色和质感，生成结果才像从同一个世界里长出来。制作署名列有人工二维、三维动画及合成，不将宣传对象的 AI 能力误写成制作流程。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://notreal.tv/project/microsoft-designer)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "旧作；本次未核实首发日，不当作新发布"
+        },
+        {
+          "id": "2026-11-18-2124aaab0ed3",
+          "date": "2026-11-18",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "RingCentral AI Expression｜把语音与智能处理做成光和流体",
+          "originalHeading": "RingCentral AI Expression｜把语音与智能处理做成光和流体",
+          "author": "NotReal / RingCentral",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://notreal.tv/project/ring-central-ai"
+            }
+          ],
+          "fullText": "### RingCentral AI Expression｜把语音与智能处理做成光和流体\n\n作者：NotReal / RingCentral。\n\n日期与状态：2024，旧作精选\n\n橙金半透明的波形体围绕一张清楚的通话 UI 展开，产品成为光波空间的中心。原页明确把 light 和 fluidity 作为 AI 视觉系统的母题，并给出成套静帧和 reel。借鉴：同一材质语言可以扩展到听取、处理、输出等状态，而不用每个状态发明新装饰；这是设计方向推导，不是已验证的产品交互实现。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://notreal.tv/project/ring-central-ai)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2024，旧作精选"
+        },
+        {
+          "id": "2026-11-18-8ae0731b316e",
+          "date": "2026-11-18",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "AI Studio × Flowjam｜让真人讲述和界面标注共处一个窗口",
+          "originalHeading": "AI Studio × Flowjam｜让真人讲述和界面标注共处一个窗口",
+          "author": "Flowjam",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.flowjam.com/ai-studio-x-flowjam"
+            }
+          ],
+          "fullText": "### AI Studio × Flowjam｜让真人讲述和界面标注共处一个窗口\n\n作者：Flowjam。\n\n日期与状态：2025，旧作精选\n\n制作方公开 1分10秒 launch film。已查看的真实封面是珊瑚红底的讲述者，紫色 You 胶囊贴近人物，画面右下显示 HeyGen 标记。值得借鉴的是把人、品牌色和小型 UI 标注组织成同一视觉中心，而不是不断全屏切换。注意：页面只以 AI Studio 命名，制作方也未确认更多公司身份，不把它擅自归为某个产品版本。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://www.flowjam.com/ai-studio-x-flowjam)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2025，旧作精选"
+        },
+        {
+          "id": "2026-11-18-1539427b0f2c",
+          "date": "2026-11-18",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "ServiceNow AI Platform｜用连通结构讲清智能工作流",
+          "originalHeading": "ServiceNow AI Platform｜用连通结构讲清智能工作流",
+          "author": "NotReal / ServiceNow",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://vimeo.com/1201372357"
+            }
+          ],
+          "fullText": "### ServiceNow AI Platform｜用连通结构讲清智能工作流\n\n作者：NotReal / ServiceNow。\n\n日期与状态：2026；首发日未核实\n\n青绿半透明的弯曲长卡片与数据面板围绕主标题形成环形空间，材质网格和圆角 UI 共享一套层次。制作方说明这支 reel 汇集了 ServiceNow 最新产品及能力的系列影片，主题是内置 AI 如何连接系统并简化日常工作流。可作为企业 AI 宣传的结构化视觉参考，与旧版 AI Powered, Human Driven 不同；不把抽象网络本身当成已演示的真实功能。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1201372357)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2026；首发日未核实"
+        },
+        {
+          "id": "2026-11-18-5cfaa065ac26",
+          "date": "2026-11-18",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Something in the Air｜先画角色，再让鼻子真正表演",
+          "originalHeading": "Something in the Air｜先画角色，再让鼻子真正表演",
+          "author": "Creative Control：Marcos Siqueira、Julien Marsouin",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://vimeo.com/1243184607"
+            },
+            {
+              "label": "导演制作访谈",
+              "url": "https://www.stashmedia.tv/the-nose-knows-creative-control-makes-stash-debut-with-something-in-the-air-short-film/"
+            }
+          ],
+          "fullText": "### Something in the Air｜先画角色，再让鼻子真正表演\n\n作者：Creative Control：Marcos Siqueira、Julien Marsouin。\n\n日期与状态：2026-11；Stash 专访 11-16\n\n一群拟人鼻子构成荒诞小音乐剧。导演在专访说明：先手绘角色，再用 Nano Banana＋Photoshop 固定造型；Seedance 2.5 做镜头生成，持续修正比例、材质、灯光和身份一致性；DaVinci Resolve 整理镜头，Suno 创作歌曲。最值得学的是“先锁角色，再测试反应与互动”，而非只让漂亮首帧轻微运动。制作访谈：https://www.stashmedia.tv/the-nose-knows-creative-control-makes-stash-debut-with-something-in-the-air-short-film/\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1243184607) · [导演制作访谈](https://www.stashmedia.tv/the-nose-knows-creative-control-makes-stash-debut-with-something-in-the-air-short-film/)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2026-11；Stash 专访 11-16"
+        },
+        {
+          "id": "2026-11-18-73653937c344",
+          "date": "2026-11-18",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Cloudling｜用 Maya 布局约束 AI，修图与合成仍由人负责",
+          "originalHeading": "Cloudling｜用 Maya 布局约束 AI，修图与合成仍由人负责",
+          "author": "Nikita Filipchenko",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://nikitafilipchenko.artstation.com/projects/q0L6qz"
+            }
+          ],
+          "fullText": "### Cloudling｜用 Maya 布局约束 AI，修图与合成仍由人负责\n\n作者：Nikita Filipchenko。\n\n日期与状态：2026；首发日未核实\n\n柔软卷云发型、圆眼镜和暖色脸部构成易辨认的卡通角色。作者公开混合流程：ComfyUI 为主，Maya 做摄影机和角色布局，Photoshop 修画，AE 与 Premiere 完成合成剪辑。公开模型包括 NanoBanana、GPT Image、WAN 2.1/2.2、Flux、ZImageTurbo；未逐镜分配，不自行补全。借鉴：让布局、外观修正、最终节奏各有负责工具，而不是把一切塞进生成提示词。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://nikitafilipchenko.artstation.com/projects/q0L6qz)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2026；首发日未核实"
+        },
+        {
+          "id": "2026-11-18-857995a367bb",
+          "date": "2026-11-18",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "The Mexican Fisherman｜按镜头任务选模型，先做完整 animatic",
+          "originalHeading": "The Mexican Fisherman｜按镜头任务选模型，先做完整 animatic",
+          "author": "iBelieveInSwordfish",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://vimeo.com/1151396892"
+            }
+          ],
+          "fullText": "### The Mexican Fisherman｜按镜头任务选模型，先做完整 animatic\n\n作者：iBelieveInSwordfish。\n\n日期与状态：2026；首发日未独立核实\n\n水彩海港和帆船建立统一的寓言世界。制作方披露：Midjourney 做角色，FilmSpark＋Nano Banana 统一人物、环境和道具；在 Resolve 先剪风格帧成 animatic，接入 ElevenLabs 配音及 Udio 音乐。再以 Seedance 1.0 Pro 做远景、Veo 3 做对话口型、Kling 2.1 Pro 做转场，Wan 2.2 补效果。可复用重点是按镜头职责选工具，而不是盲目让每个模型重做同一场戏。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1151396892)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2026；首发日未独立核实"
+        },
+        {
+          "id": "2026-11-18-c50d7566eea1",
+          "date": "2026-11-18",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Shelter From the Storm｜把跨画风当作叙事设计，而不是生成失控",
+          "originalHeading": "Shelter From the Storm｜把跨画风当作叙事设计，而不是生成失控",
+          "author": "Alexander Kang",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://vimeo.com/1089295396"
+            }
+          ],
+          "fullText": "### Shelter From the Storm｜把跨画风当作叙事设计，而不是生成失控\n\n作者：Alexander Kang。\n\n日期与状态：2025，旧作精选\n\n作者把十年前搁置的剧本重新制作，明确希望保留铅笔、水彩、二维、三维等多种视觉语言。真实封面中，小孩被灰蓝旋涡围绕，面部仍保留手绘粗粝感。制作署名：人负责剧本和导演；GPT-4o 协助提示词与图像，Kling 生成视频。借鉴：先写清每次风格转换在故事中的职责，再允许模型变化；页面没有公开逐镜参数，不当作完整复现教程。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1089295396)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2025，旧作精选"
+        },
+        {
+          "id": "2026-11-18-fd2319c9ad2c",
+          "date": "2026-11-18",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "The Wind-Up Caterpillar｜用自然纪录片语言观察机械玩具",
+          "originalHeading": "The Wind-Up Caterpillar｜用自然纪录片语言观察机械玩具",
+          "author": "Dan Augie",
+          "heat": "未取得可核实的单片播放量，热度未知。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://vimeo.com/1196732835"
+            }
+          ],
+          "fullText": "### The Wind-Up Caterpillar｜用自然纪录片语言观察机械玩具\n\n作者：Dan Augie。\n\n日期与状态：2026；目录标 05-29，原页首发日待确认\n\n封面把绿色发条毛毛虫悬在枝叶间，透明外壳、金属细节与自然逆光形成有趣冲突。作者称以实验动画、生成式 AI 和电影感影像模拟毛毛虫到蝴蝶的生命周期。可借鉴的是先给超现实主体一个可信的摄影语境，再让变化发生。模型、输入素材和逐镜步骤没有公开，因此仅列成片／美术参考，不虚构完整工作流。\n\n热度：未取得可核实的单片播放量，热度未知。\n\n核验范围：已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。\n\n[原作](https://vimeo.com/1196732835)\n\n封面：与原作对应的公开作品画面，2026-11-18 核验。",
+          "verification": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "limitations": "已阅读作者／制作方原页并查看真实作品静帧，未连续播放完整影片；动态时序和声音未独立核验。",
+          "originalDateNote": "2026；目录标 05-29，原页首发日待确认"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "title": "2026-11-17 UI 与动效设计精选",
