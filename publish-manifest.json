@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "archiveDate": "2026-11-18",
-  "totalDays": 24,
-  "totalCases": 593,
+  "archiveDate": "2026-11-19",
+  "totalDays": 25,
+  "totalCases": 623,
   "files": {
-    "data.json": "7e85d1d20485eafc11659cbfd4cc20d6eb6507dc327c5535e161e10ac99f901d",
-    "covers.json": "937f24e62049ca6739ae57d50f14babde5eef39f643e175ce61de33e0e4606b7"
+    "data.json": "cfb6d16bce104462acd9f4a8fea244e87f8d088f5003d4a427f7dcffa6f89f7e",
+    "covers.json": "5e17b6cbf212e20127a82f30b2c172c298e8235be02e3d0698be4152443771f0"
   }
 }

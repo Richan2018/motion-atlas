@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,805 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-19",
+      "title": "2026-11-19 UI 与动效设计精选",
+      "fullText": "## 2026-11-19 UI 与动效设计精选\n\n本期共 30 个案例：UI设计 5 例、UI动效 10 例、趣味交互 5 例、AI产品宣传 5 例、AI制作动画 5 例，另附一篇动效研究。\n\n先看 Ferro Toggle 如何用铁磁液体做暗色切换、DialKit 如何边看动效边调参数，以及 Sume 如何在同一镜头演示光线和情绪控制。新作与历史补充均标明来源；静帧和视频抽样不等于完整观看，未核实的热度不冒称热门。\n\n## UI设计\n\n### Surya Aditya｜巨大字标与极小导航的极端对比\n\n作者：Surya Aditya；设计 Obys Agency。时间：2026-11-18 获 CSSDA WOTD，非首发日。\n视觉核验：黑底白色超大压缩字标几乎撑满首屏，简介、导航、年份缩为细小信息岛；下方用剪影人像连接个人介绍。可借鉴品牌字标与作品索引的两级尺度。限制：小导航在桌面截图中偏小；未验证移动端或完整项目转场。\n关注度口径：CSSDA 评委终分 8.66，属于奖项认可，不代表浏览热度。\n\n[查看原作](https://surya-aditya.com/) · [时间与背景来源](https://www.cssdesignawards.com/sites/surya-aditya/50603/)\n\n### Jaguar TCS Racing｜品牌影像与赛车展台\n\n作者：Bluestone98。时间：作者称 2026-11-10 上线，11-13 发布制作文章。\n视觉核验：实际看到蓝白赛车手全屏视觉、左侧短标题与单一主按钮；下滚进入蓝色 I-Type 08 展台，提示 DRAG TO TURN，底部特性横条。可借鉴把情绪首屏与产品细节分为两段。限制：已尝试拖动，但未证明完整360°转动及移动端表现。\n关注度口径：11-18 CSSDA 提名；没有可靠全网访问或互动量，不称爆款。\n\n[查看原作](https://www.jaguarracing.com/home/) · [时间与背景来源](https://www.bluestone98.com/jaguar-tcs-racing-website-launch/)\n\n### YAAS Energy｜口味色与包装字形统一\n\n作者：DVIGA / Timofey Beloglazov。时间：2026-11-11 CSSDA WOTD；Dribbble 首发日期未公开核实。\n视觉核验：原作者封面把能量饮料罐、草地场景与笔电网站并置：白色巨型 YAAS 字形、暖橙到紫色渐变与漂浮包装形成高辨识度。可借鉴以包装主视觉延伸网站语言。限制：本次核验作者静态作品图，未实际运行口味切换和3D罐体；不把作者动效描述当实测。\n关注度口径：CSSDA 评委终分 8.53；原帖公开浏览/点赞量未核实。\n\n[查看原作](https://dribbble.com/shots/27855647-Development-of-the-FMCG-website-for-the-YAAS-brand) · [时间与背景来源](https://www.cssdesignawards.com/sites/yaas-energy/50353/)\n\n### FUTURE HUMAN｜把信息入口放进五个空间\n\n作者：RabenRifaie；Oliwia Mikołajczak。时间：Framer Gallery 2026-09-04 发布；CSSDA 11-09 WOTD，属于旧作新获认可。\n视觉核验：实测入口为五幅横向场景缩略图与贯穿曲线；点击 Enter 后进入俯视草地，Program / Change / Beginning 等圆形热点散布其上，底部五个圆点切换章节。可借鉴用空间关系代替传统卡片分区。限制：文字在纹理背景上的可读性值得评估；只验证入口与第一场景，未完成全部五章。\n关注度口径：CSSDA 评委终分 8.25；这是专业评审，不是用户规模。\n\n[查看原作](https://www.future-human.de/) · [时间与背景来源](https://www.framer.com/community/gallery/future-human/)\n\n### LVL｜答案与证据并排的本地文档界面\n\n作者：Meyr Tad / Entroparc。时间：作品集标为 2025–2026；具体公开日期未核实。\n视觉核验：原作者私有原型展示为三栏：左侧文件与项目，中间问答，右侧文档原页与黄色高亮证据。上方 Evidence 页签与来源定位形成明确查证路径。可借鉴将引用从脚注升级为常驻阅读面板。限制：页面明确为 private macOS prototype，示例使用虚构文档；本次只看公开演示界面，没有测试本地模型、隐私或答案准确率。\n关注度口径：无可靠公开热度数据，作为独立产品界面补充，不称近期热门。\n\n[查看原作](https://www.entroparc.com/portfolio#lvl) · [时间与背景来源](https://www.entroparc.com/portfolio)\n\n## UI动效\n\n### Runmo｜训练天数滚轮计数\n\n产品：Runmo；录像来源：60fps Design 的公开 iOS 录屏，不是作者首发。\n视觉核验：数字按纵向模糊滚动切换，周一至周日的胶囊选中态同步增减；主CTA保持位置。适合把目标数量和具体安排放在同一反馈循环。\n日期：原动效推出日、录制日未公开核实，不能称今日新作。\n热度：页面数字为素材序号，不能当播放量；无可靠公开互动数据。\n限制：不要让模糊数字影响快速读取，减少动态模式需即时切换。\n\n[查看录屏与说明](https://60fps.design/shots/runmo-days-counter-interaction) · [原始录像](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa489a4399ce5396/main.mp4)\n\n### CRED｜出票后分批展开票卡\n\n产品：CRED；录像来源：60fps Design 的公开 iOS 录屏，不是作者首发。\n视觉核验：底部票卡逐张向上出现、叠放并排成横向票列；倒计时随后进入，打印中按钮换成完成后的动作。借鉴点是用物体生成过程解释操作完成，不只是播一个成功图标。\n日期：原动效推出日、录制日未公开核实，不能称今日新作。\n热度：页面数字为素材序号，不能当播放量；无可靠公开互动数据。\n限制：录屏只证明这一成功状态，不代表真实付款、出票服务已测试。\n\n[查看录屏与说明](https://60fps.design/shots/cred-printing-tickets-shuffle-interaction) · [原始录像](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a341d1f14ce09740f1/main.mp4)\n\n### Threads｜字标收拢后让位内容流\n\n产品：Threads / Meta；录像来源：60fps Design 的公开 iOS 录屏，不是作者首发。\n视觉核验：抽帧可见中央 threads 字标从右向左逐步消失，符号继续缩小，随后信息流淡入。这里不是单纯旋转logo，而是用品牌元素退场给内容让位。\n日期：原动效推出日、录制日未公开核实，不能称今日新作。\n热度：页面数字为素材序号，不能当播放量；无可靠公开互动数据。\n限制：短录屏不足以证明冷启动性能；页面概述称路径绘制，但本次视觉更明确的是字标收拢退场。\n\n[查看录屏与说明](https://60fps.design/shots/threads-splash-logo-animation) · [原始录像](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb6aa489a4399ce53a3/main.mp4)\n\n### Toolbar Morph｜工具条长成命令面板\n\n作者：Rauno Freiberg\n\n日期与状态：2024-09；历史作品补录，不是 11/19 当日发布。\n\n黑色胶囊工具条与黑色命令面板在同一锚点之间切换，窄条和大面板共享轮廓；内容随后显现，关闭后回到原来的底部胶囊。\n\n借鉴：让小控件成为大面板的起点，强化空间来源，而非在无关位置弹窗。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 7.17 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://cdn.rauno.me/toolbar-cmdk.mp4) · [制作说明 / 来源](https://rauno.me/craft)\n\n封面署名：Rauno Freiberg\n\n### Inline Conversion｜文字内部完成单位换算\n\n作者：Rauno Freiberg\n\n日期与状态：2024-11；历史作品补录，不是 11/19 当日发布。\n\n深色编辑行里，温度 20°C 原位转换成 68°F；变化集中在被高亮的短词，不打断前后句子的阅读结构。视频还演示行内金额文字处理。\n\n借鉴：把轻操作留在文本内部，用局部高亮说明可操作范围，避免为一次换算打开完整表单。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 16.38 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://cdn.rauno.me/inline-conversion.mp4) · [制作说明 / 来源](https://rauno.me/craft)\n\n封面署名：Rauno Freiberg\n\n### Gooey Tooltip｜像液滴分离的提示泡\n\n作者：Rauno Freiberg\n\n日期与状态：2024-09；历史作品补录，不是 11/19 当日发布。\n\n窗口左下角黑色圆形 N 标记上方生出黑色团块，拉开后成为圆角信息泡；收起又回到圆形按钮。黑色实心轮廓把小按钮和信息泡联系起来。\n\n借鉴：借鉴黏连轮廓表达所属关系；适合低频提示，不宜让每个生产工具提示都延迟出现。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 7.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://cdn.rauno.me/gooey-tooltip.mp4) · [制作说明 / 来源](https://rauno.me/craft)\n\n封面署名：Rauno Freiberg\n\n### Sonner｜通知堆叠与展开\n\n作者：Emil Kowalski\n\n日期与状态：2023 项目；文章更新日期未核实；历史作品补录，不是 11/19 当日发布。\n\n白色通知卡在窗口右下角逐张堆叠，后方卡片变成错位层；展开后分成可读的竖向通知列表，退出时重新释放留白。\n\n借鉴：把数量感与完整可读状态分开：默认占位小，交互后再展开。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 13.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://emilkowal.ski/ui/building-a-toast-component) · [公开录屏](https://emilkowal.ski/building-a-toast-component/sonner-intro.mp4)\n\n封面署名：Emil Kowalski\n\n### DialKit｜照片卡堆的动效实时调参\n\n作者：Josh Puckett\n\n日期与状态：原页未注明发布日期；发现日期为 2026-11-19，不能当作作品发布日期。\n\n白底旅行照片卡堆旁悬浮深色调参面板；调整控制后卡片间距与尺寸关系改变，面板切到曲线编辑，照片再切换到下一张。预览和动效参数同屏。\n\n借鉴：把运动调参放在真实内容旁边，而不是只对着孤立的缓动曲线做决定。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 11.50 秒视频并均匀抽取 10 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://joshpuckett.me/dialkit) · [公开录屏](https://www.interfacecraft.dev/images/dialkit-demo.mp4)\n\n封面署名：Josh Puckett\n\n### macOS Dock：近邻图标连续放大\n\n作者：GSAP；代码注明改编自 Blake Bowen\n\n日期与状态：2025-11-27（Codrops 标示日期；历史补充，不是今日新作）\n\n底部彩色图标不是各自突然放大，而是让靠近指针的一组形成连续高低曲线。离开后整排归位，既突出当前目标，又保留相邻入口的空间关系。适合参考紧凑工具栏的指针反馈，不应把 hover 作为手机唯一入口。\n\n热度：未取得可核验互动/播放量，不标高热度。\n\n核验范围：已读原作者 CodePen HTML/CSS/JS，确认 mousemove 与 mouseleave 事件及 GSAP 归位；下载 Codrops 真实预览并看抽帧，确认近邻放大波峰与复位。没有现场实玩，不声明触控/键盘可用。\n\n[原作](https://codepen.io/GreenSock/full/PwNeKZy) · [制作说明 / 来源](https://codepen.io/GreenSock/pen/PwNeKZy) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/demovideos/105793_macOS%20dock%20effect.mp4) · [整理来源](https://tympanus.net/codrops/hub/tag/menu/)\n\n封面署名：Codrops Demo Hub 对应案例封面；原作 GSAP / Blake Bowen\n\n### Menu Nav GSAP：大字导航的滚动式悬停\n\n作者：Moussa Mamadou\n\n日期与状态：2025-02-09（Codrops 标示日期；历史补充，不是今日新作）\n\n全屏浅色菜单用大字和横向分隔建立秩序；悬停时文字上下滚换并切到金色，两侧缩略图同步出现。反馈集中在当前菜单行，视觉能量高但不牺牲其他入口。适合品牌站导航，产品型导航应控制位移，避免目标跳动。\n\n热度：未取得可核验互动/播放量，不标高热度。\n\n核验范围：Codrops 页面给出原作者、原 CodePen、真实演示视频；下载视频并看抽帧，确认大字菜单、金色高亮、缩略图与滚字反馈。原 CodePen 本次读取失败，未验证源码或实玩，作者归属依据 Codrops，证据级别低于第一项。\n\n[原作](https://codepen.io/moussamamadou/full/zxYONpz) · [制作说明 / 来源](https://codepen.io/moussamamadou/pen/zxYONpz) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/demovideos/101260_Menu%20Nav%20GSAP.mp4) · [整理来源](https://tympanus.net/codrops/hub/tag/menu/)\n\n封面署名：Codrops Demo Hub 对应案例封面；原作 Moussa Mamadou\n\n## 趣味交互\n\n### 点标签逛穿搭：Gaussian Splat 换装展台\n\n作者：Will Eastcott\n\n日期与状态：Nov 12, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n切换穿搭时，衣服不是整块交叉淡化，而是沿人体斜向拆成细小颗粒，再重新聚成另一套；商品标注始终贴住衣物的位置。官方说明还提供旋转、缩放和点标签拉近镜头。值得借鉴的是把选款、商品定位与镜头语言合成一个过程，而不是把 3D 模型当作普通图片。\n\n热度：2026-11-19 读取 GitHub：14 stars / 3 forks；未获取社交播放量，不标为高热度。\n\n核验范围：预览帧确认蓝色外套到黑色连帽衫的粒子形变；交互入口与实现细节由作者 README 交叉确认，未现场拖拽或测试手机。作者明确商品名称和价格为演示虚构，不能作为真实购物服务。\n\n[原作](https://willeastcott.github.io/splat-fashion/) · [制作说明 / 来源](https://github.com/willeastcott/splat-fashion) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/splatfashion_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Will Eastcott；服装扫描 Christoph Schindelar，CC BY 4.0\n\n### Ferro Toggle：用铁磁流体切换暗色模式\n\n作者：Argo\n\n日期与状态：Nov 10, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n光滑金属液滴从浅色凹槽一侧滑向另一侧，切到暗色时突然竖起尖刺，槽底同时亮出橙色。一个布尔状态被表现为“材料发生变化”，反馈比普通滑块更鲜明。作者提供点击、拖动及空格键三种触发方式；适合作为可玩控件灵感，实际产品仍需保留清晰状态和低动效替代。\n\n热度：2026-11-19 读取 GitHub：8 stars / 0 forks；未获取社交播放量，不标为高热度。\n\n核验范围：逐帧确认光滑液滴、尖刺与明暗状态；README 确认 WebGL2 单 HTML 实现。未实际测试拖动、键盘及声音。作者称由 Claude Opus 5.5 制作，这只是作者声明，未独立核验生成过程。\n\n[原作](https://argofowl.github.io/ferro-toggle/) · [制作说明 / 来源](https://github.com/argofowl/ferro-toggle) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/FerroToggle_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Argo\n\n### Yarn World：拉一根线，织出一座小岛\n\n作者：Kris Yang\n\n日期与状态：Nov 1, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n预览里一团粉色毛线逐渐展开成针织拼布小岛，河流、房屋、树木和绵羊依次出现。作者把“生成世界”映射为拉线，把“重置”映射为拆线，并给房门、胡萝卜、风车、绵羊安排可点的小反馈。可借鉴的是统一材质隐喻：进入、探索、退出都遵守同一种线与织物的逻辑。\n\n热度：2026-11-19 读取 GitHub：1 star / 2 forks；未获取社交播放量，不标为高热度。\n\n核验范围：预览抽帧确认从毛线球到完整小岛的展开；拉线、拆线及物体互动来自作者 README，未逐一实玩，未听音效。\n\n[原作](https://yarn.krisyang.dev/) · [制作说明 / 来源](https://github.com/krisyangdev/yarn-world) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/YarnWorld_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Kris Yang\n\n### The Hand：隔着磨砂玻璃追逐指针\n\n作者：Pablo Mesquida\n\n日期与状态：Oct 29, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n手在浅蓝色磨砂层后伸展，离表面远时变成模糊阴影，靠近时轮廓更清晰。作者让食指跟随鼠标，前臂、手腕和指节分层配合，手指接近指针时逐级伸开。它把光标跟随从平面装饰升级成带距离感的角色回应，可参考其“先整体朝向，再局部细调”的动作顺序。\n\n热度：2026-11-19 读取 GitHub：0 stars / 0 forks；未获取社交播放量，不标为高热度。\n\n核验范围：抽帧确认不同手势与清晰度变化；鼠标跟随、弹性表层和 WebGPU/TSL 实现由原仓库确认。未现场控制指针，不将演示画面中的帧率视为实测性能。\n\n[原作](https://the-hand-chi.vercel.app) · [制作说明 / 来源](https://github.com/PabloMesquida/the-hand) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/thehand_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Pablo Mesquida\n\n### Slice of Life Crisis：在网页上切一条长崎蛋糕\n\n作者：David Yen\n\n日期与状态：Oct 21, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n阳光和树影落在砧板上，手势触发的长刀切开蛋糕，薄片侧倒，碎屑和柔软压痕补足触感。作者还把插蜡烛、端起蛋糕片和吹灭火焰连在同一物理场景中。比独立小特效更有趣的是动作之间能互相影响：切割改变对象，后续拿取与蜡烛位置也随之改变。\n\n热度：2026-11-19 读取 GitHub：1 star / 0 forks；未获取社交播放量，不标为高热度。\n\n核验范围：预览帧确认刀具下切与切片；按压、拖拿、蜡烛和吹气依据作者说明，未逐项实测，未授权或打开麦克风。作者说明无麦克风时支持长按替代，但本次未验证隐私与兼容性。\n\n[原作](https://davidyen1124.github.io/slice-of-life-crisis/) · [制作说明 / 来源](https://github.com/davidyen1124/slice-of-life-crisis) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/slicecake_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 David Yen\n\n## AI产品宣传\n\n### Sume Director Studio：让镜头、光线与情绪成为可见控件\n\n作者：Sume；原帖 David Im；具体影像制作署名未核实\n\n日期与状态：2026-11-12（收录页标注；原帖正文受访问限制）\n\n42 秒的 AI 影像工具宣传，把结果和控制界面放在同一条视觉叙事中。取样可见白底粗体“Set your camera”、地铁人物、绿色重打光、同一场景多种风格，以及叠在面部旁的情绪环。最值得借鉴的不是结果混剪，而是每个功能给一个直观视觉反例：镜头改变什么，光线改变什么，情绪改变什么。可复用为“短标题—一个控件—前后输出”的模块化产品分镜。宣传画面不能当成独立性能测试。\n\n热度：目录记录 184K 浏览、907 喜欢，但统计时间不明，不作为 11/19 实时数据。\n\n核验范围：已取得原帖所用公开视频文件，并实查 0、5、10、15、20、25、30、35、40 秒静帧；未连续看完整片。封面是该视频 5 秒帧。日期由目录记录，原 X 页本次返回 403。\n\n[原作](https://x.com/davidim/status/2120895944241930311) · [来源与视频入口](https://animatiq.ai/launch-directory/sume-director-studio)\n\n### Chatly：用一个提示串起六种输出\n\n作者：Flowjam × Chatly\n\n日期与状态：2026；具体发布日期未公开\n\n52 秒消费级 AI 助手宣传片。制作方明确说它没有按六项功能逐一介绍，而是把提示作为不变的中心，让文档、幻灯片、图片、表格与视频围绕它累积。真实封面可见深色空间中的白色中心标题和多种输出卡片，信息层级清楚。可以借鉴“一个输入，多种结果”的布局：先锁定用户动作，再拓展输出边界，避免把多功能产品剪成互不关联的功能清单。这里收录的是 AI 产品宣传，不意味着影片由 AI 生成。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：核实制作方页面、时长与官方 Vimeo 嵌入，并目视检查原始海报；未检查连续视频运动。\n\n[原作](https://www.flowjam.com/chatly) · [原始影片](https://vimeo.com/1175426523)\n\n### Fload：把 App 增长代理压缩成 54 秒发布片\n\n作者：Flowjam × Fload\n\n日期与状态：2026；具体发布日期未公开\n\nFload 是负责应用商店呈现、增长与变现的 AI 代理系统。官方影片海报采用浅灰扫描线纹理、黑色等宽字与未完成的“What if your”提问，先留出认知缺口而非立刻堆功能。本例可借鉴的是开场设计：用一个短问题建立期待，再把代理能接管的业务环节作为回答。制作方只公开了产品定位与片长，不能据此编造完整转场或模型流程；作为开场排版与产品叙事参考，而不是逐镜头拆解。\n\n热度：制作方在 2026-10-23 的横向统计记录发布帖 1,484,426 浏览、361 喜欢；不是今日实时数。\n\n核验范围：核实制作方页面与原始 Vimeo 海报；仅海报视觉核验，未连续播放。\n\n[原作](https://www.flowjam.com/fload) · [原始影片](https://vimeo.com/1198878743) · [带统计日期的制作方横向统计](https://www.flowjam.com/skyfall)\n\n### Tiiny AI Pocket Lab：实拍与生成镜头共用一种电影质感\n\n作者：导演 Alexander Browne；Capture Light；摄影／调色 Ryan Potts\n\n日期与状态：2026；具体首发日未核实\n\n口袋本地 AI 计算机的产品片采用生活化场景，而不是全程抽象芯片光效。已核实封面可见暖色室内人物、窗外绿植与半透明信息层，技术被放回真实工作环境。摄影师披露以 Alexa 35 与 Dulens APO Mini Primes 实拍，并把少量全生成镜头预先写入镜头表，统一调色后整合。可复用的是先决定哪些镜头值得实拍、哪些用生成补足，再锁定统一光色；不是拍完才随机插入 AI 素材。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：本例为混合实拍产品宣传，非纯动画。核实摄影师原文及影片封面，未全片观看；不能把整个影片都称为 AI 生成。\n\n[原作](https://rynosdop.com/work/tiiny-ai-pocket-lab/) · [原始影片](https://www.youtube.com/watch?v=OqMV09cqqos)\n\n### Skyfall SKY-001：用工程对象讲清世界模型\n\n作者：Flowjam × Skyfall AI；创始人 Sam Pasupalak\n\n日期与状态：2026-10-19\n\n2 分 36 秒的创始人讲述型发布片，把模型介绍拆成背景、问题、揭晓和可视演示。制作方公开分镜说明与时间点：0:55 用柱形图解释工程步骤规模，1:07 给出比较结果，1:43 进入发动机／汽车对象，2:01 转向建筑。适合借鉴的是让图表负责数量差异，让三维对象负责理解任务，避免纯口播。速度和成本属于品牌自报测试，本条不把它们当独立性能结论。\n\n热度：制作方 2026-10-23 记录 4,811,516 浏览、16,382 喜欢；是四天累计，不是今日实时数。\n\n核验范围：已核实制作方案例、原帖入口与公开分镜静帧；不是全片连续播放。封面取官方标记为 1:43 的静帧。混合口播与图形／三维演示，非纯动画。\n\n[原作](https://www.flowjam.com/skyfall) · [原始发布帖](https://x.com/spisallyouneed/status/2112242023805964327)\n\n## AI制作动画\n\n### Still Sweet：动作捕捉与生成动画承载无对白回忆\n\n作者：MattVisual\n\n日期与状态：2026-09-06（原始 YouTube metadata）\n\n13 分 03 秒的无对白短片，围绕鳏夫、相伴五十年的妻子和一段纪念散步展开。封面所见不是写实人脸，而是夸张眉眼、蓬松发丝与暖色服装的角色塑造。作者原始说明明确列出 mocap、Blender、Premiere、After Effects 和 Seedance 2.5，并说明在约三周内为 Higgsfield 电影节完成。可复用为“先表演／预演，再生成，再后期整理”的流程；不要误读成单次提示生成十三分钟，也不要把软件名单擅自分配到未披露的具体镜头。\n\n热度：2026-11-19 读取原始 YouTube 页面：5,406 次浏览；动态数据。\n\n核验范围：已直读原始视频页面的作者、发布日期、制作说明和公开浏览计数；目视检查官方缩略图，未全片观看。\n\n[原作](https://www.youtube.com/watch?v=jPSAJ50yW1U) · [作者公开项目入口（影片说明所列，本次未另行实查）](https://higgsfield.ai/@mattvisual/projects/still-sweet)\n\n### The Department of Forgotten Things：用档案室规则推动叙事\n\n作者：Nicki Rathore / CROFTIQ STUDIOS\n\n日期与状态：2026-09-08（原始 YouTube metadata）\n\n3 分 18 秒的黑色童话动画，老档案员保管被人类遗忘的事物，直到“人性”本身被送来。海报中的档案抽屉、暖色台灯与标记 HUMANITY 的木箱把抽象概念变成可以操作的道具。原始制作说明列明 Higgsfield Cinema Studio 负责图像、视频及声音，ElevenLabs 负责配乐，Canva 负责剪辑。可复用的是先写世界的规则和一个违反规则的物件，再让场景设计反复强化规则；生成工具只是执行层，不替代故事结构。\n\n热度：2026-11-19 读取原始 YouTube 页面：43,035 次浏览；动态数据。\n\n核验范围：已直读作者原始 YouTube 制作说明、发布日期与浏览数，并目视检查官方缩略图；未连续观看。作者项目页本次未能打开，不声称检查过项目文件。\n\n[原作](https://www.youtube.com/watch?v=iRUsmQ73OfY) · [作者项目入口](https://higgsfield.ai/@nicki_rathore/projects/the-department-of-forgotten-things)\n\n### Migoi：写实山岳与二维唐卡守护者并置\n\n作者：Floating Tiger Films；Kusuma Santapoori、Devansh Mathur；Adobe Firefly 发布\n\n日期与状态：2026-02-20 原片；2026-05-20 幕后\n\n以喜马拉雅山地守护者为题材，制作方把写实雪山／人物与二维唐卡风格的守护者放在同一视觉体系，讲述环境保护。真实影片海报能看到灰白山岩和彩色卷云式图形对照。公开工作流是 Firefly Boards 组织画面，Photoshop 细化构图，Premiere 完成剪辑和声音。可复用的是先定义两种视觉语言各自承担的叙事角色，再在构图与剪辑中建立关系，而不是追求每一层都同样写实。\n\n热度：2026-11-19 原始 YouTube 页面读取：3,474,503 次浏览；动态数据。\n\n核验范围：核实制作方项目页、Adobe 官方原片与幕后说明，目视检查原片缩略图；未全片观看。Adobe 幕后描述还混入另一部 Language of Birds 的段落，未将其 Kalighat 风格／After Effects 工具链误归到 Migoi。\n\n[原作](https://www.floatingtigerfilms.com/work/adobe-migoi) · [Adobe 原片](https://www.youtube.com/watch?v=D2QDoSyu_yU) · [Adobe 制作幕后](https://www.youtube.com/watch?v=uN4-RPp7vXk)\n\n### Flicker：用绑定状态约束 AI，减少角色漂移\n\n作者：Cris Fudge / FuzzyPixel / Amazon MGM Studios\n\n日期与状态：2026-09-08 官方制作文章；公开入口为预告\n\n故事从图书馆开关台灯的老人出发；公开剧照以暖色书架和柔和角色造型强化善意的主题。更值得读的是失败经验：团队手绘概念、制作三维角色／道具／环境后，发现直接微调与输入三维资产仍会漂移。科学家随后建立角色绑定状态与 AI 输出之间的对应，才增加姿态控制并降低漂移。可借鉴的是先做可控资产和误差分类，再选择生成方法；并非“生成模型已替代动画师”的案例。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：已阅读 Amazon 原始制作记录并检查官方剧照。公开影片入口是 teaser，不称完整短片可看；具体模型未公开，不推测。\n\n[原作](https://press.aboutamazon.com/prime-video/2026/9/how-animated-short-flicker-came-to-life-at-the-crossroads-of-art-and-science) · [官方预告](https://www.youtube.com/watch?v=hySICbdspXQ)\n\n### Ahimsa：让真人表演先于生成画面\n\n作者：Craig Lew；故事概念 Tina A. Barnett；声音 Dino Herrmann\n\n日期与状态：2025（创作者 Runway Diffuse 履历）；本次为旧作方法回看\n\n以科幻战争中的慈悲选择为主题。官方海报将机械僧人、戴设备的青年和战士置于冷色废墟与橙色火焰之间。导演披露先录制自己的动作、表情与声音表演，再让 AI 解释这些输入，结合动作捕捉、传统二维动画、剪辑与合成。可复用重点是把情绪节奏保留在人类表演中，再让生成工具负责外观转译；该流程与纯文字提示生成不同。官网没有具体模型清单，不能替它补全。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：核实影片官网制作说明、公开预告和幕后入口，目视检查原始 Vimeo 海报；未全片观看。影片为 2025 旧作，不包装成当日新作；官方报名不等于奥斯卡提名。\n\n[原作](https://ahimsafilm.com/) · [官方预告](https://vimeo.com/1095325005/9c36b52ca8) · [官方幕后](https://player.vimeo.com/video/1120615518?h=6fc9e5f322) · [创作者年份记录](https://diffuse.runway.com/clew)\n\n## 延伸阅读｜动效研究\n\n### AnimWeb-Bench：判断网页动画有没有还原，不能只看截图\n\nZhongyi Zhang、Jingyu Xiao、Shuqing Li、Michael R. Lyu｜2026-11-06，arXiv 预印本。\n\n研究用 124 个真实网页，把关键帧的静态外观和组件逐帧的位置、大小、速度、外观分开评分。作者在 Codex 的实验中，先加入逐个查看原尺寸帧的步骤，再让它录下自己的页面与参考视频对照修改；后一步让四项动效指标在该实验中进一步相对提升 4%–7%。翻牌、抖动、数字滚动等快速而连续的变化，比离散状态切换更难还原。\n\n可以借用这个方法验收可中断的弹簧动效：让设计稿录屏与实现录屏对齐，不仅看最终落点，还要对照打断前后几帧的位置和速度，找突然跳位或停顿。论文测试的是自动播放的网页初载动画，并没有验证手势打断或 AE，弹簧例子只是应用建议。\n\n[论文摘要](https://arxiv.org/abs/2611.09769) · [论文全文](https://arxiv.org/html/2611.09769v1)。已阅读数据范围和实验结果；项目视频未核验播放。\n\n",
+      "cases": [
+        {
+          "id": "2026-11-19-9c376e8574e5",
+          "date": "2026-11-19",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Surya Aditya｜巨大字标与极小导航的极端对比",
+          "originalHeading": "Surya Aditya｜巨大字标与极小导航的极端对比",
+          "author": "Surya Aditya；设计 Obys Agency",
+          "heat": "CSSDA 评委终分 8.66，属于奖项认可，不代表浏览热度。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://surya-aditya.com/"
+            },
+            {
+              "label": "时间与背景来源",
+              "url": "https://www.cssdesignawards.com/sites/surya-aditya/50603/"
+            }
+          ],
+          "fullText": "### Surya Aditya｜巨大字标与极小导航的极端对比\n\n作者：Surya Aditya；设计 Obys Agency。时间：2026-11-18 获 CSSDA WOTD，非首发日。\n视觉核验：黑底白色超大压缩字标几乎撑满首屏，简介、导航、年份缩为细小信息岛；下方用剪影人像连接个人介绍。可借鉴品牌字标与作品索引的两级尺度。限制：小导航在桌面截图中偏小；未验证移动端或完整项目转场。\n关注度口径：CSSDA 评委终分 8.66，属于奖项认可，不代表浏览热度。\n\n[查看原作](https://surya-aditya.com/) · [时间与背景来源](https://www.cssdesignawards.com/sites/surya-aditya/50603/)",
+          "verification": "黑底白色超大压缩字标几乎撑满首屏，简介、导航、年份缩为细小信息岛；下方用剪影人像连接个人介绍。可借鉴品牌字标与作品索引的两级尺度。限制：小导航在桌面截图中偏小；未验证移动端或完整项目转场。",
+          "limitations": "黑底白色超大压缩字标几乎撑满首屏，简介、导航、年份缩为细小信息岛；下方用剪影人像连接个人介绍。可借鉴品牌字标与作品索引的两级尺度。限制：小导航在桌面截图中偏小；未验证移动端或完整项目转场。",
+          "originalDateNote": "2026-11-18 获 CSSDA WOTD，非首发日。"
+        },
+        {
+          "id": "2026-11-19-d4cef274290f",
+          "date": "2026-11-19",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Jaguar TCS Racing｜品牌影像与赛车展台",
+          "originalHeading": "Jaguar TCS Racing｜品牌影像与赛车展台",
+          "author": "Bluestone98",
+          "heat": "11-18 CSSDA 提名；没有可靠全网访问或互动量，不称爆款。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://www.jaguarracing.com/home/"
+            },
+            {
+              "label": "时间与背景来源",
+              "url": "https://www.bluestone98.com/jaguar-tcs-racing-website-launch/"
+            }
+          ],
+          "fullText": "### Jaguar TCS Racing｜品牌影像与赛车展台\n\n作者：Bluestone98。时间：作者称 2026-11-10 上线，11-13 发布制作文章。\n视觉核验：实际看到蓝白赛车手全屏视觉、左侧短标题与单一主按钮；下滚进入蓝色 I-Type 08 展台，提示 DRAG TO TURN，底部特性横条。可借鉴把情绪首屏与产品细节分为两段。限制：已尝试拖动，但未证明完整360°转动及移动端表现。\n关注度口径：11-18 CSSDA 提名；没有可靠全网访问或互动量，不称爆款。\n\n[查看原作](https://www.jaguarracing.com/home/) · [时间与背景来源](https://www.bluestone98.com/jaguar-tcs-racing-website-launch/)",
+          "verification": "实际看到蓝白赛车手全屏视觉、左侧短标题与单一主按钮；下滚进入蓝色 I-Type 08 展台，提示 DRAG TO TURN，底部特性横条。可借鉴把情绪首屏与产品细节分为两段。限制：已尝试拖动，但未证明完整360°转动及移动端表现。",
+          "limitations": "实际看到蓝白赛车手全屏视觉、左侧短标题与单一主按钮；下滚进入蓝色 I-Type 08 展台，提示 DRAG TO TURN，底部特性横条。可借鉴把情绪首屏与产品细节分为两段。限制：已尝试拖动，但未证明完整360°转动及移动端表现。",
+          "originalDateNote": "作者称 2026-11-10 上线，11-13 发布制作文章。"
+        },
+        {
+          "id": "2026-11-19-5d02f4b2acfe",
+          "date": "2026-11-19",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "YAAS Energy｜口味色与包装字形统一",
+          "originalHeading": "YAAS Energy｜口味色与包装字形统一",
+          "author": "DVIGA / Timofey Beloglazov",
+          "heat": "CSSDA 评委终分 8.53；原帖公开浏览/点赞量未核实。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://dribbble.com/shots/27855647-Development-of-the-FMCG-website-for-the-YAAS-brand"
+            },
+            {
+              "label": "时间与背景来源",
+              "url": "https://www.cssdesignawards.com/sites/yaas-energy/50353/"
+            }
+          ],
+          "fullText": "### YAAS Energy｜口味色与包装字形统一\n\n作者：DVIGA / Timofey Beloglazov。时间：2026-11-11 CSSDA WOTD；Dribbble 首发日期未公开核实。\n视觉核验：原作者封面把能量饮料罐、草地场景与笔电网站并置：白色巨型 YAAS 字形、暖橙到紫色渐变与漂浮包装形成高辨识度。可借鉴以包装主视觉延伸网站语言。限制：本次核验作者静态作品图，未实际运行口味切换和3D罐体；不把作者动效描述当实测。\n关注度口径：CSSDA 评委终分 8.53；原帖公开浏览/点赞量未核实。\n\n[查看原作](https://dribbble.com/shots/27855647-Development-of-the-FMCG-website-for-the-YAAS-brand) · [时间与背景来源](https://www.cssdesignawards.com/sites/yaas-energy/50353/)",
+          "verification": "原作者封面把能量饮料罐、草地场景与笔电网站并置：白色巨型 YAAS 字形、暖橙到紫色渐变与漂浮包装形成高辨识度。可借鉴以包装主视觉延伸网站语言。限制：本次核验作者静态作品图，未实际运行口味切换和3D罐体；不把作者动效描述当实测。",
+          "limitations": "原作者封面把能量饮料罐、草地场景与笔电网站并置：白色巨型 YAAS 字形、暖橙到紫色渐变与漂浮包装形成高辨识度。可借鉴以包装主视觉延伸网站语言。限制：本次核验作者静态作品图，未实际运行口味切换和3D罐体；不把作者动效描述当实测。",
+          "originalDateNote": "2026-11-11 CSSDA WOTD；Dribbble 首发日期未公开核实。"
+        },
+        {
+          "id": "2026-11-19-02a2074d170c",
+          "date": "2026-11-19",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "FUTURE HUMAN｜把信息入口放进五个空间",
+          "originalHeading": "FUTURE HUMAN｜把信息入口放进五个空间",
+          "author": "RabenRifaie；Oliwia Mikołajczak",
+          "heat": "CSSDA 评委终分 8.25；这是专业评审，不是用户规模。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://www.future-human.de/"
+            },
+            {
+              "label": "时间与背景来源",
+              "url": "https://www.framer.com/community/gallery/future-human/"
+            }
+          ],
+          "fullText": "### FUTURE HUMAN｜把信息入口放进五个空间\n\n作者：RabenRifaie；Oliwia Mikołajczak。时间：Framer Gallery 2026-09-04 发布；CSSDA 11-09 WOTD，属于旧作新获认可。\n视觉核验：实测入口为五幅横向场景缩略图与贯穿曲线；点击 Enter 后进入俯视草地，Program / Change / Beginning 等圆形热点散布其上，底部五个圆点切换章节。可借鉴用空间关系代替传统卡片分区。限制：文字在纹理背景上的可读性值得评估；只验证入口与第一场景，未完成全部五章。\n关注度口径：CSSDA 评委终分 8.25；这是专业评审，不是用户规模。\n\n[查看原作](https://www.future-human.de/) · [时间与背景来源](https://www.framer.com/community/gallery/future-human/)",
+          "verification": "实测入口为五幅横向场景缩略图与贯穿曲线；点击 Enter 后进入俯视草地，Program / Change / Beginning 等圆形热点散布其上，底部五个圆点切换章节。可借鉴用空间关系代替传统卡片分区。限制：文字在纹理背景上的可读性值得评估；只验证入口与第一场景，未完成全部五章。",
+          "limitations": "实测入口为五幅横向场景缩略图与贯穿曲线；点击 Enter 后进入俯视草地，Program / Change / Beginning 等圆形热点散布其上，底部五个圆点切换章节。可借鉴用空间关系代替传统卡片分区。限制：文字在纹理背景上的可读性值得评估；只验证入口与第一场景，未完成全部五章。",
+          "originalDateNote": "Framer Gallery 2026-09-04 发布；CSSDA 11-09 WOTD，属于旧作新获认可。"
+        },
+        {
+          "id": "2026-11-19-273a38e02eb3",
+          "date": "2026-11-19",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "LVL｜答案与证据并排的本地文档界面",
+          "originalHeading": "LVL｜答案与证据并排的本地文档界面",
+          "author": "Meyr Tad / Entroparc",
+          "heat": "无可靠公开热度数据，作为独立产品界面补充，不称近期热门。",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://www.entroparc.com/portfolio#lvl"
+            },
+            {
+              "label": "时间与背景来源",
+              "url": "https://www.entroparc.com/portfolio"
+            }
+          ],
+          "fullText": "### LVL｜答案与证据并排的本地文档界面\n\n作者：Meyr Tad / Entroparc。时间：作品集标为 2025–2026；具体公开日期未核实。\n视觉核验：原作者私有原型展示为三栏：左侧文件与项目，中间问答，右侧文档原页与黄色高亮证据。上方 Evidence 页签与来源定位形成明确查证路径。可借鉴将引用从脚注升级为常驻阅读面板。限制：页面明确为 private macOS prototype，示例使用虚构文档；本次只看公开演示界面，没有测试本地模型、隐私或答案准确率。\n关注度口径：无可靠公开热度数据，作为独立产品界面补充，不称近期热门。\n\n[查看原作](https://www.entroparc.com/portfolio#lvl) · [时间与背景来源](https://www.entroparc.com/portfolio)",
+          "verification": "原作者私有原型展示为三栏：左侧文件与项目，中间问答，右侧文档原页与黄色高亮证据。上方 Evidence 页签与来源定位形成明确查证路径。可借鉴将引用从脚注升级为常驻阅读面板。限制：页面明确为 private macOS prototype，示例使用虚构文档；本次只看公开演示界面，没有测试本地模型、隐私或答案准确率。",
+          "limitations": "原作者私有原型展示为三栏：左侧文件与项目，中间问答，右侧文档原页与黄色高亮证据。上方 Evidence 页签与来源定位形成明确查证路径。可借鉴将引用从脚注升级为常驻阅读面板。限制：页面明确为 private macOS prototype，示例使用虚构文档；本次只看公开演示界面，没有测试本地模型、隐私或答案准确率。",
+          "originalDateNote": "作品集标为 2025–2026；具体公开日期未核实。"
+        },
+        {
+          "id": "2026-11-19-b20b0c26448f",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Runmo｜训练天数滚轮计数",
+          "originalHeading": "Runmo｜训练天数滚轮计数",
+          "author": "Runmo",
+          "heat": "页面数字为素材序号，不能当播放量；无可靠公开互动数据。",
+          "links": [
+            {
+              "label": "查看录屏与说明",
+              "url": "https://60fps.design/shots/runmo-days-counter-interaction"
+            },
+            {
+              "label": "原始录像",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa489a4399ce5396/main.mp4"
+            }
+          ],
+          "fullText": "### Runmo｜训练天数滚轮计数\n\n产品：Runmo；录像来源：60fps Design 的公开 iOS 录屏，不是作者首发。\n视觉核验：数字按纵向模糊滚动切换，周一至周日的胶囊选中态同步增减；主CTA保持位置。适合把目标数量和具体安排放在同一反馈循环。\n日期：原动效推出日、录制日未公开核实，不能称今日新作。\n热度：页面数字为素材序号，不能当播放量；无可靠公开互动数据。\n限制：不要让模糊数字影响快速读取，减少动态模式需即时切换。\n\n[查看录屏与说明](https://60fps.design/shots/runmo-days-counter-interaction) · [原始录像](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa489a4399ce5396/main.mp4)",
+          "verification": "数字按纵向模糊滚动切换，周一至周日的胶囊选中态同步增减；主CTA保持位置。适合把目标数量和具体安排放在同一反馈循环。",
+          "limitations": "数字按纵向模糊滚动切换，周一至周日的胶囊选中态同步增减；主CTA保持位置。适合把目标数量和具体安排放在同一反馈循环。",
+          "originalDateNote": "原动效推出日、录制日未公开核实，不能称今日新作。"
+        },
+        {
+          "id": "2026-11-19-aaa751b5ea57",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "CRED｜出票后分批展开票卡",
+          "originalHeading": "CRED｜出票后分批展开票卡",
+          "author": "CRED",
+          "heat": "页面数字为素材序号，不能当播放量；无可靠公开互动数据。",
+          "links": [
+            {
+              "label": "查看录屏与说明",
+              "url": "https://60fps.design/shots/cred-printing-tickets-shuffle-interaction"
+            },
+            {
+              "label": "原始录像",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a341d1f14ce09740f1/main.mp4"
+            }
+          ],
+          "fullText": "### CRED｜出票后分批展开票卡\n\n产品：CRED；录像来源：60fps Design 的公开 iOS 录屏，不是作者首发。\n视觉核验：底部票卡逐张向上出现、叠放并排成横向票列；倒计时随后进入，打印中按钮换成完成后的动作。借鉴点是用物体生成过程解释操作完成，不只是播一个成功图标。\n日期：原动效推出日、录制日未公开核实，不能称今日新作。\n热度：页面数字为素材序号，不能当播放量；无可靠公开互动数据。\n限制：录屏只证明这一成功状态，不代表真实付款、出票服务已测试。\n\n[查看录屏与说明](https://60fps.design/shots/cred-printing-tickets-shuffle-interaction) · [原始录像](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a341d1f14ce09740f1/main.mp4)",
+          "verification": "底部票卡逐张向上出现、叠放并排成横向票列；倒计时随后进入，打印中按钮换成完成后的动作。借鉴点是用物体生成过程解释操作完成，不只是播一个成功图标。",
+          "limitations": "底部票卡逐张向上出现、叠放并排成横向票列；倒计时随后进入，打印中按钮换成完成后的动作。借鉴点是用物体生成过程解释操作完成，不只是播一个成功图标。",
+          "originalDateNote": "原动效推出日、录制日未公开核实，不能称今日新作。"
+        },
+        {
+          "id": "2026-11-19-6f23422ff9f4",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Threads｜字标收拢后让位内容流",
+          "originalHeading": "Threads｜字标收拢后让位内容流",
+          "author": "Threads / Meta",
+          "heat": "页面数字为素材序号，不能当播放量；无可靠公开互动数据。",
+          "links": [
+            {
+              "label": "查看录屏与说明",
+              "url": "https://60fps.design/shots/threads-splash-logo-animation"
+            },
+            {
+              "label": "原始录像",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb6aa489a4399ce53a3/main.mp4"
+            }
+          ],
+          "fullText": "### Threads｜字标收拢后让位内容流\n\n产品：Threads / Meta；录像来源：60fps Design 的公开 iOS 录屏，不是作者首发。\n视觉核验：抽帧可见中央 threads 字标从右向左逐步消失，符号继续缩小，随后信息流淡入。这里不是单纯旋转logo，而是用品牌元素退场给内容让位。\n日期：原动效推出日、录制日未公开核实，不能称今日新作。\n热度：页面数字为素材序号，不能当播放量；无可靠公开互动数据。\n限制：短录屏不足以证明冷启动性能；页面概述称路径绘制，但本次视觉更明确的是字标收拢退场。\n\n[查看录屏与说明](https://60fps.design/shots/threads-splash-logo-animation) · [原始录像](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb6aa489a4399ce53a3/main.mp4)",
+          "verification": "抽帧可见中央 threads 字标从右向左逐步消失，符号继续缩小，随后信息流淡入。这里不是单纯旋转logo，而是用品牌元素退场给内容让位。",
+          "limitations": "抽帧可见中央 threads 字标从右向左逐步消失，符号继续缩小，随后信息流淡入。这里不是单纯旋转logo，而是用品牌元素退场给内容让位。",
+          "originalDateNote": "原动效推出日、录制日未公开核实，不能称今日新作。"
+        },
+        {
+          "id": "2026-11-19-1a7f67f03d90",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Toolbar Morph｜工具条长成命令面板",
+          "originalHeading": "Toolbar Morph｜工具条长成命令面板",
+          "author": "Rauno Freiberg",
+          "heat": "原页没有可核实的公开互动量；未据此宣称热门。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://cdn.rauno.me/toolbar-cmdk.mp4"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://rauno.me/craft"
+            }
+          ],
+          "fullText": "### Toolbar Morph｜工具条长成命令面板\n\n作者：Rauno Freiberg\n\n日期与状态：2024-09；历史作品补录，不是 11/19 当日发布。\n\n黑色胶囊工具条与黑色命令面板在同一锚点之间切换，窄条和大面板共享轮廓；内容随后显现，关闭后回到原来的底部胶囊。\n\n借鉴：让小控件成为大面板的起点，强化空间来源，而非在无关位置弹窗。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 7.17 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://cdn.rauno.me/toolbar-cmdk.mp4) · [制作说明 / 来源](https://rauno.me/craft)\n\n封面署名：Rauno Freiberg",
+          "verification": "核对原作者页面与直接视频；读取完整 7.17 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "limitations": "核对原作者页面与直接视频；读取完整 7.17 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "originalDateNote": "2024-09；历史作品补录，不是 11/19 当日发布。"
+        },
+        {
+          "id": "2026-11-19-4812a06b356c",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Inline Conversion｜文字内部完成单位换算",
+          "originalHeading": "Inline Conversion｜文字内部完成单位换算",
+          "author": "Rauno Freiberg",
+          "heat": "原页没有可核实的公开互动量；未据此宣称热门。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://cdn.rauno.me/inline-conversion.mp4"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://rauno.me/craft"
+            }
+          ],
+          "fullText": "### Inline Conversion｜文字内部完成单位换算\n\n作者：Rauno Freiberg\n\n日期与状态：2024-11；历史作品补录，不是 11/19 当日发布。\n\n深色编辑行里，温度 20°C 原位转换成 68°F；变化集中在被高亮的短词，不打断前后句子的阅读结构。视频还演示行内金额文字处理。\n\n借鉴：把轻操作留在文本内部，用局部高亮说明可操作范围，避免为一次换算打开完整表单。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 16.38 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://cdn.rauno.me/inline-conversion.mp4) · [制作说明 / 来源](https://rauno.me/craft)\n\n封面署名：Rauno Freiberg",
+          "verification": "核对原作者页面与直接视频；读取完整 16.38 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "limitations": "核对原作者页面与直接视频；读取完整 16.38 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "originalDateNote": "2024-11；历史作品补录，不是 11/19 当日发布。"
+        },
+        {
+          "id": "2026-11-19-d2b483bfe7e5",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Gooey Tooltip｜像液滴分离的提示泡",
+          "originalHeading": "Gooey Tooltip｜像液滴分离的提示泡",
+          "author": "Rauno Freiberg",
+          "heat": "原页没有可核实的公开互动量；未据此宣称热门。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://cdn.rauno.me/gooey-tooltip.mp4"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://rauno.me/craft"
+            }
+          ],
+          "fullText": "### Gooey Tooltip｜像液滴分离的提示泡\n\n作者：Rauno Freiberg\n\n日期与状态：2024-09；历史作品补录，不是 11/19 当日发布。\n\n窗口左下角黑色圆形 N 标记上方生出黑色团块，拉开后成为圆角信息泡；收起又回到圆形按钮。黑色实心轮廓把小按钮和信息泡联系起来。\n\n借鉴：借鉴黏连轮廓表达所属关系；适合低频提示，不宜让每个生产工具提示都延迟出现。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 7.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://cdn.rauno.me/gooey-tooltip.mp4) · [制作说明 / 来源](https://rauno.me/craft)\n\n封面署名：Rauno Freiberg",
+          "verification": "核对原作者页面与直接视频；读取完整 7.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "limitations": "核对原作者页面与直接视频；读取完整 7.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "originalDateNote": "2024-09；历史作品补录，不是 11/19 当日发布。"
+        },
+        {
+          "id": "2026-11-19-538e9150b845",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Sonner｜通知堆叠与展开",
+          "originalHeading": "Sonner｜通知堆叠与展开",
+          "author": "Emil Kowalski",
+          "heat": "原页没有可核实的公开互动量；未据此宣称热门。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://emilkowal.ski/ui/building-a-toast-component"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://emilkowal.ski/building-a-toast-component/sonner-intro.mp4"
+            }
+          ],
+          "fullText": "### Sonner｜通知堆叠与展开\n\n作者：Emil Kowalski\n\n日期与状态：2023 项目；文章更新日期未核实；历史作品补录，不是 11/19 当日发布。\n\n白色通知卡在窗口右下角逐张堆叠，后方卡片变成错位层；展开后分成可读的竖向通知列表，退出时重新释放留白。\n\n借鉴：把数量感与完整可读状态分开：默认占位小，交互后再展开。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 13.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://emilkowal.ski/ui/building-a-toast-component) · [公开录屏](https://emilkowal.ski/building-a-toast-component/sonner-intro.mp4)\n\n封面署名：Emil Kowalski",
+          "verification": "核对原作者页面与直接视频；读取完整 13.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "limitations": "核对原作者页面与直接视频；读取完整 13.47 秒视频并均匀抽取 8 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "originalDateNote": "2023 项目；文章更新日期未核实；历史作品补录，不是 11/19 当日发布。"
+        },
+        {
+          "id": "2026-11-19-f32800619863",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "DialKit｜照片卡堆的动效实时调参",
+          "originalHeading": "DialKit｜照片卡堆的动效实时调参",
+          "author": "Josh Puckett",
+          "heat": "原页没有可核实的公开互动量；未据此宣称热门。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://joshpuckett.me/dialkit"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://www.interfacecraft.dev/images/dialkit-demo.mp4"
+            }
+          ],
+          "fullText": "### DialKit｜照片卡堆的动效实时调参\n\n作者：Josh Puckett\n\n日期与状态：原页未注明发布日期；发现日期为 2026-11-19，不能当作作品发布日期。\n\n白底旅行照片卡堆旁悬浮深色调参面板；调整控制后卡片间距与尺寸关系改变，面板切到曲线编辑，照片再切换到下一张。预览和动效参数同屏。\n\n借鉴：把运动调参放在真实内容旁边，而不是只对着孤立的缓动曲线做决定。\n\n热度：原页没有可核实的公开互动量；未据此宣称热门。\n\n核验范围：核对原作者页面与直接视频；读取完整 11.50 秒视频并均匀抽取 10 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。\n\n[原作](https://joshpuckett.me/dialkit) · [公开录屏](https://www.interfacecraft.dev/images/dialkit-demo.mp4)\n\n封面署名：Josh Puckett",
+          "verification": "核对原作者页面与直接视频；读取完整 11.50 秒视频并均匀抽取 10 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "limitations": "核对原作者页面与直接视频；读取完整 11.50 秒视频并均匀抽取 10 帧检查状态变化。未在浏览器逐帧连续播放，也未实际操作 demo。",
+          "originalDateNote": "原页未注明发布日期；发现日期为 2026-11-19，不能当作作品发布日期。"
+        },
+        {
+          "id": "2026-11-19-9dea4708586c",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "macOS Dock：近邻图标连续放大",
+          "originalHeading": "macOS Dock：近邻图标连续放大",
+          "author": "GSAP；代码注明改编自 Blake Bowen",
+          "heat": "未取得可核验互动/播放量，不标高热度。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://codepen.io/GreenSock/full/PwNeKZy"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://codepen.io/GreenSock/pen/PwNeKZy"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/demovideos/105793_macOS%20dock%20effect.mp4"
+            },
+            {
+              "label": "整理来源",
+              "url": "https://tympanus.net/codrops/hub/tag/menu/"
+            }
+          ],
+          "fullText": "### macOS Dock：近邻图标连续放大\n\n作者：GSAP；代码注明改编自 Blake Bowen\n\n日期与状态：2025-11-27（Codrops 标示日期；历史补充，不是今日新作）\n\n底部彩色图标不是各自突然放大，而是让靠近指针的一组形成连续高低曲线。离开后整排归位，既突出当前目标，又保留相邻入口的空间关系。适合参考紧凑工具栏的指针反馈，不应把 hover 作为手机唯一入口。\n\n热度：未取得可核验互动/播放量，不标高热度。\n\n核验范围：已读原作者 CodePen HTML/CSS/JS，确认 mousemove 与 mouseleave 事件及 GSAP 归位；下载 Codrops 真实预览并看抽帧，确认近邻放大波峰与复位。没有现场实玩，不声明触控/键盘可用。\n\n[原作](https://codepen.io/GreenSock/full/PwNeKZy) · [制作说明 / 来源](https://codepen.io/GreenSock/pen/PwNeKZy) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/demovideos/105793_macOS%20dock%20effect.mp4) · [整理来源](https://tympanus.net/codrops/hub/tag/menu/)\n\n封面署名：Codrops Demo Hub 对应案例封面；原作 GSAP / Blake Bowen",
+          "verification": "已读原作者 CodePen HTML/CSS/JS，确认 mousemove 与 mouseleave 事件及 GSAP 归位；下载 Codrops 真实预览并看抽帧，确认近邻放大波峰与复位。没有现场实玩，不声明触控/键盘可用。",
+          "limitations": "已读原作者 CodePen HTML/CSS/JS，确认 mousemove 与 mouseleave 事件及 GSAP 归位；下载 Codrops 真实预览并看抽帧，确认近邻放大波峰与复位。没有现场实玩，不声明触控/键盘可用。",
+          "originalDateNote": "2025-11-27（Codrops 标示日期；历史补充，不是今日新作）"
+        },
+        {
+          "id": "2026-11-19-fc6d999dbe48",
+          "date": "2026-11-19",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Menu Nav GSAP：大字导航的滚动式悬停",
+          "originalHeading": "Menu Nav GSAP：大字导航的滚动式悬停",
+          "author": "Moussa Mamadou",
+          "heat": "未取得可核验互动/播放量，不标高热度。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://codepen.io/moussamamadou/full/zxYONpz"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://codepen.io/moussamamadou/pen/zxYONpz"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/demovideos/101260_Menu%20Nav%20GSAP.mp4"
+            },
+            {
+              "label": "整理来源",
+              "url": "https://tympanus.net/codrops/hub/tag/menu/"
+            }
+          ],
+          "fullText": "### Menu Nav GSAP：大字导航的滚动式悬停\n\n作者：Moussa Mamadou\n\n日期与状态：2025-02-09（Codrops 标示日期；历史补充，不是今日新作）\n\n全屏浅色菜单用大字和横向分隔建立秩序；悬停时文字上下滚换并切到金色，两侧缩略图同步出现。反馈集中在当前菜单行，视觉能量高但不牺牲其他入口。适合品牌站导航，产品型导航应控制位移，避免目标跳动。\n\n热度：未取得可核验互动/播放量，不标高热度。\n\n核验范围：Codrops 页面给出原作者、原 CodePen、真实演示视频；下载视频并看抽帧，确认大字菜单、金色高亮、缩略图与滚字反馈。原 CodePen 本次读取失败，未验证源码或实玩，作者归属依据 Codrops，证据级别低于第一项。\n\n[原作](https://codepen.io/moussamamadou/full/zxYONpz) · [制作说明 / 来源](https://codepen.io/moussamamadou/pen/zxYONpz) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/demovideos/101260_Menu%20Nav%20GSAP.mp4) · [整理来源](https://tympanus.net/codrops/hub/tag/menu/)\n\n封面署名：Codrops Demo Hub 对应案例封面；原作 Moussa Mamadou",
+          "verification": "Codrops 页面给出原作者、原 CodePen、真实演示视频；下载视频并看抽帧，确认大字菜单、金色高亮、缩略图与滚字反馈。原 CodePen 本次读取失败，未验证源码或实玩，作者归属依据 Codrops，证据级别低于第一项。",
+          "limitations": "Codrops 页面给出原作者、原 CodePen、真实演示视频；下载视频并看抽帧，确认大字菜单、金色高亮、缩略图与滚字反馈。原 CodePen 本次读取失败，未验证源码或实玩，作者归属依据 Codrops，证据级别低于第一项。",
+          "originalDateNote": "2025-02-09（Codrops 标示日期；历史补充，不是今日新作）"
+        },
+        {
+          "id": "2026-11-19-d890b9660255",
+          "date": "2026-11-19",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "点标签逛穿搭：Gaussian Splat 换装展台",
+          "originalHeading": "点标签逛穿搭：Gaussian Splat 换装展台",
+          "author": "Will Eastcott",
+          "heat": "2026-11-19 读取 GitHub：14 stars / 3 forks；未获取社交播放量，不标为高热度。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://willeastcott.github.io/splat-fashion/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://github.com/willeastcott/splat-fashion"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/splatfashion_800x600.mp4"
+            },
+            {
+              "label": "整理来源",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "fullText": "### 点标签逛穿搭：Gaussian Splat 换装展台\n\n作者：Will Eastcott\n\n日期与状态：Nov 12, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n切换穿搭时，衣服不是整块交叉淡化，而是沿人体斜向拆成细小颗粒，再重新聚成另一套；商品标注始终贴住衣物的位置。官方说明还提供旋转、缩放和点标签拉近镜头。值得借鉴的是把选款、商品定位与镜头语言合成一个过程，而不是把 3D 模型当作普通图片。\n\n热度：2026-11-19 读取 GitHub：14 stars / 3 forks；未获取社交播放量，不标为高热度。\n\n核验范围：预览帧确认蓝色外套到黑色连帽衫的粒子形变；交互入口与实现细节由作者 README 交叉确认，未现场拖拽或测试手机。作者明确商品名称和价格为演示虚构，不能作为真实购物服务。\n\n[原作](https://willeastcott.github.io/splat-fashion/) · [制作说明 / 来源](https://github.com/willeastcott/splat-fashion) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/splatfashion_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Will Eastcott；服装扫描 Christoph Schindelar，CC BY 4.0",
+          "verification": "预览帧确认蓝色外套到黑色连帽衫的粒子形变；交互入口与实现细节由作者 README 交叉确认，未现场拖拽或测试手机。作者明确商品名称和价格为演示虚构，不能作为真实购物服务。",
+          "limitations": "预览帧确认蓝色外套到黑色连帽衫的粒子形变；交互入口与实现细节由作者 README 交叉确认，未现场拖拽或测试手机。作者明确商品名称和价格为演示虚构，不能作为真实购物服务。",
+          "originalDateNote": "Nov 12, 2026（Codrops 收录标示日期，非已核验原作首发日）"
+        },
+        {
+          "id": "2026-11-19-188e2e377557",
+          "date": "2026-11-19",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Ferro Toggle：用铁磁流体切换暗色模式",
+          "originalHeading": "Ferro Toggle：用铁磁流体切换暗色模式",
+          "author": "Argo",
+          "heat": "2026-11-19 读取 GitHub：8 stars / 0 forks；未获取社交播放量，不标为高热度。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://argofowl.github.io/ferro-toggle/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://github.com/argofowl/ferro-toggle"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/FerroToggle_800x600.mp4"
+            },
+            {
+              "label": "整理来源",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "fullText": "### Ferro Toggle：用铁磁流体切换暗色模式\n\n作者：Argo\n\n日期与状态：Nov 10, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n光滑金属液滴从浅色凹槽一侧滑向另一侧，切到暗色时突然竖起尖刺，槽底同时亮出橙色。一个布尔状态被表现为“材料发生变化”，反馈比普通滑块更鲜明。作者提供点击、拖动及空格键三种触发方式；适合作为可玩控件灵感，实际产品仍需保留清晰状态和低动效替代。\n\n热度：2026-11-19 读取 GitHub：8 stars / 0 forks；未获取社交播放量，不标为高热度。\n\n核验范围：逐帧确认光滑液滴、尖刺与明暗状态；README 确认 WebGL2 单 HTML 实现。未实际测试拖动、键盘及声音。作者称由 Claude Opus 5.5 制作，这只是作者声明，未独立核验生成过程。\n\n[原作](https://argofowl.github.io/ferro-toggle/) · [制作说明 / 来源](https://github.com/argofowl/ferro-toggle) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/FerroToggle_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Argo",
+          "verification": "逐帧确认光滑液滴、尖刺与明暗状态；README 确认 WebGL2 单 HTML 实现。未实际测试拖动、键盘及声音。作者称由 Claude Opus 5.5 制作，这只是作者声明，未独立核验生成过程。",
+          "limitations": "逐帧确认光滑液滴、尖刺与明暗状态；README 确认 WebGL2 单 HTML 实现。未实际测试拖动、键盘及声音。作者称由 Claude Opus 5.5 制作，这只是作者声明，未独立核验生成过程。",
+          "originalDateNote": "Nov 10, 2026（Codrops 收录标示日期，非已核验原作首发日）"
+        },
+        {
+          "id": "2026-11-19-6d2521898d96",
+          "date": "2026-11-19",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Yarn World：拉一根线，织出一座小岛",
+          "originalHeading": "Yarn World：拉一根线，织出一座小岛",
+          "author": "Kris Yang",
+          "heat": "2026-11-19 读取 GitHub：1 star / 2 forks；未获取社交播放量，不标为高热度。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://yarn.krisyang.dev/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://github.com/krisyangdev/yarn-world"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/YarnWorld_800x600.mp4"
+            },
+            {
+              "label": "整理来源",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "fullText": "### Yarn World：拉一根线，织出一座小岛\n\n作者：Kris Yang\n\n日期与状态：Nov 1, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n预览里一团粉色毛线逐渐展开成针织拼布小岛，河流、房屋、树木和绵羊依次出现。作者把“生成世界”映射为拉线，把“重置”映射为拆线，并给房门、胡萝卜、风车、绵羊安排可点的小反馈。可借鉴的是统一材质隐喻：进入、探索、退出都遵守同一种线与织物的逻辑。\n\n热度：2026-11-19 读取 GitHub：1 star / 2 forks；未获取社交播放量，不标为高热度。\n\n核验范围：预览抽帧确认从毛线球到完整小岛的展开；拉线、拆线及物体互动来自作者 README，未逐一实玩，未听音效。\n\n[原作](https://yarn.krisyang.dev/) · [制作说明 / 来源](https://github.com/krisyangdev/yarn-world) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/YarnWorld_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Kris Yang",
+          "verification": "预览抽帧确认从毛线球到完整小岛的展开；拉线、拆线及物体互动来自作者 README，未逐一实玩，未听音效。",
+          "limitations": "预览抽帧确认从毛线球到完整小岛的展开；拉线、拆线及物体互动来自作者 README，未逐一实玩，未听音效。",
+          "originalDateNote": "Nov 1, 2026（Codrops 收录标示日期，非已核验原作首发日）"
+        },
+        {
+          "id": "2026-11-19-2062df65f398",
+          "date": "2026-11-19",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "The Hand：隔着磨砂玻璃追逐指针",
+          "originalHeading": "The Hand：隔着磨砂玻璃追逐指针",
+          "author": "Pablo Mesquida",
+          "heat": "2026-11-19 读取 GitHub：0 stars / 0 forks；未获取社交播放量，不标为高热度。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://the-hand-chi.vercel.app"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://github.com/PabloMesquida/the-hand"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/thehand_800x600.mp4"
+            },
+            {
+              "label": "整理来源",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "fullText": "### The Hand：隔着磨砂玻璃追逐指针\n\n作者：Pablo Mesquida\n\n日期与状态：Oct 29, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n手在浅蓝色磨砂层后伸展，离表面远时变成模糊阴影，靠近时轮廓更清晰。作者让食指跟随鼠标，前臂、手腕和指节分层配合，手指接近指针时逐级伸开。它把光标跟随从平面装饰升级成带距离感的角色回应，可参考其“先整体朝向，再局部细调”的动作顺序。\n\n热度：2026-11-19 读取 GitHub：0 stars / 0 forks；未获取社交播放量，不标为高热度。\n\n核验范围：抽帧确认不同手势与清晰度变化；鼠标跟随、弹性表层和 WebGPU/TSL 实现由原仓库确认。未现场控制指针，不将演示画面中的帧率视为实测性能。\n\n[原作](https://the-hand-chi.vercel.app) · [制作说明 / 来源](https://github.com/PabloMesquida/the-hand) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/thehand_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 Pablo Mesquida",
+          "verification": "抽帧确认不同手势与清晰度变化；鼠标跟随、弹性表层和 WebGPU/TSL 实现由原仓库确认。未现场控制指针，不将演示画面中的帧率视为实测性能。",
+          "limitations": "抽帧确认不同手势与清晰度变化；鼠标跟随、弹性表层和 WebGPU/TSL 实现由原仓库确认。未现场控制指针，不将演示画面中的帧率视为实测性能。",
+          "originalDateNote": "Oct 29, 2026（Codrops 收录标示日期，非已核验原作首发日）"
+        },
+        {
+          "id": "2026-11-19-471a77d118ef",
+          "date": "2026-11-19",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Slice of Life Crisis：在网页上切一条长崎蛋糕",
+          "originalHeading": "Slice of Life Crisis：在网页上切一条长崎蛋糕",
+          "author": "David Yen",
+          "heat": "2026-11-19 读取 GitHub：1 star / 0 forks；未获取社交播放量，不标为高热度。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://davidyen1124.github.io/slice-of-life-crisis/"
+            },
+            {
+              "label": "制作说明 / 来源",
+              "url": "https://github.com/davidyen1124/slice-of-life-crisis"
+            },
+            {
+              "label": "公开录屏",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/slicecake_800x600.mp4"
+            },
+            {
+              "label": "整理来源",
+              "url": "https://tympanus.net/codrops/hub/all/"
+            }
+          ],
+          "fullText": "### Slice of Life Crisis：在网页上切一条长崎蛋糕\n\n作者：David Yen\n\n日期与状态：Oct 21, 2026（Codrops 收录标示日期，非已核验原作首发日）\n\n阳光和树影落在砧板上，手势触发的长刀切开蛋糕，薄片侧倒，碎屑和柔软压痕补足触感。作者还把插蜡烛、端起蛋糕片和吹灭火焰连在同一物理场景中。比独立小特效更有趣的是动作之间能互相影响：切割改变对象，后续拿取与蜡烛位置也随之改变。\n\n热度：2026-11-19 读取 GitHub：1 star / 0 forks；未获取社交播放量，不标为高热度。\n\n核验范围：预览帧确认刀具下切与切片；按压、拖拿、蜡烛和吹气依据作者说明，未逐项实测，未授权或打开麦克风。作者说明无麦克风时支持长按替代，但本次未验证隐私与兼容性。\n\n[原作](https://davidyen1124.github.io/slice-of-life-crisis/) · [制作说明 / 来源](https://github.com/davidyen1124/slice-of-life-crisis) · [公开录屏](https://tympanus.net/codrops/wp-content/uploads/2026/11/slicecake_800x600.mp4) · [整理来源](https://tympanus.net/codrops/hub/all/)\n\n封面署名：Codrops Demo Hub 对应作品预览封面；创作者 David Yen",
+          "verification": "预览帧确认刀具下切与切片；按压、拖拿、蜡烛和吹气依据作者说明，未逐项实测，未授权或打开麦克风。作者说明无麦克风时支持长按替代，但本次未验证隐私与兼容性。",
+          "limitations": "预览帧确认刀具下切与切片；按压、拖拿、蜡烛和吹气依据作者说明，未逐项实测，未授权或打开麦克风。作者说明无麦克风时支持长按替代，但本次未验证隐私与兼容性。",
+          "originalDateNote": "Oct 21, 2026（Codrops 收录标示日期，非已核验原作首发日）"
+        },
+        {
+          "id": "2026-11-19-34bc5748385b",
+          "date": "2026-11-19",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Sume Director Studio：让镜头、光线与情绪成为可见控件",
+          "originalHeading": "Sume Director Studio：让镜头、光线与情绪成为可见控件",
+          "author": "Sume；原帖 David Im；具体影像制作署名未核实",
+          "heat": "目录记录 184K 浏览、907 喜欢，但统计时间不明，不作为 11/19 实时数据。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://x.com/davidim/status/2120895944241930311"
+            },
+            {
+              "label": "来源与视频入口",
+              "url": "https://animatiq.ai/launch-directory/sume-director-studio"
+            }
+          ],
+          "fullText": "### Sume Director Studio：让镜头、光线与情绪成为可见控件\n\n作者：Sume；原帖 David Im；具体影像制作署名未核实\n\n日期与状态：2026-11-12（收录页标注；原帖正文受访问限制）\n\n42 秒的 AI 影像工具宣传，把结果和控制界面放在同一条视觉叙事中。取样可见白底粗体“Set your camera”、地铁人物、绿色重打光、同一场景多种风格，以及叠在面部旁的情绪环。最值得借鉴的不是结果混剪，而是每个功能给一个直观视觉反例：镜头改变什么，光线改变什么，情绪改变什么。可复用为“短标题—一个控件—前后输出”的模块化产品分镜。宣传画面不能当成独立性能测试。\n\n热度：目录记录 184K 浏览、907 喜欢，但统计时间不明，不作为 11/19 实时数据。\n\n核验范围：已取得原帖所用公开视频文件，并实查 0、5、10、15、20、25、30、35、40 秒静帧；未连续看完整片。封面是该视频 5 秒帧。日期由目录记录，原 X 页本次返回 403。\n\n[原作](https://x.com/davidim/status/2120895944241930311) · [来源与视频入口](https://animatiq.ai/launch-directory/sume-director-studio)",
+          "verification": "已取得原帖所用公开视频文件，并实查 0、5、10、15、20、25、30、35、40 秒静帧；未连续看完整片。封面是该视频 5 秒帧。日期由目录记录，原 X 页本次返回 403。",
+          "limitations": "已取得原帖所用公开视频文件，并实查 0、5、10、15、20、25、30、35、40 秒静帧；未连续看完整片。封面是该视频 5 秒帧。日期由目录记录，原 X 页本次返回 403。",
+          "originalDateNote": "2026-11-12（收录页标注；原帖正文受访问限制）"
+        },
+        {
+          "id": "2026-11-19-d2332e9eba03",
+          "date": "2026-11-19",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Chatly：用一个提示串起六种输出",
+          "originalHeading": "Chatly：用一个提示串起六种输出",
+          "author": "Flowjam × Chatly",
+          "heat": "未取得可信实时热度；按视觉／方法价值收录。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.flowjam.com/chatly"
+            },
+            {
+              "label": "原始影片",
+              "url": "https://vimeo.com/1175426523"
+            }
+          ],
+          "fullText": "### Chatly：用一个提示串起六种输出\n\n作者：Flowjam × Chatly\n\n日期与状态：2026；具体发布日期未公开\n\n52 秒消费级 AI 助手宣传片。制作方明确说它没有按六项功能逐一介绍，而是把提示作为不变的中心，让文档、幻灯片、图片、表格与视频围绕它累积。真实封面可见深色空间中的白色中心标题和多种输出卡片，信息层级清楚。可以借鉴“一个输入，多种结果”的布局：先锁定用户动作，再拓展输出边界，避免把多功能产品剪成互不关联的功能清单。这里收录的是 AI 产品宣传，不意味着影片由 AI 生成。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：核实制作方页面、时长与官方 Vimeo 嵌入，并目视检查原始海报；未检查连续视频运动。\n\n[原作](https://www.flowjam.com/chatly) · [原始影片](https://vimeo.com/1175426523)",
+          "verification": "核实制作方页面、时长与官方 Vimeo 嵌入，并目视检查原始海报；未检查连续视频运动。",
+          "limitations": "核实制作方页面、时长与官方 Vimeo 嵌入，并目视检查原始海报；未检查连续视频运动。",
+          "originalDateNote": "2026；具体发布日期未公开"
+        },
+        {
+          "id": "2026-11-19-4a9d0c324edb",
+          "date": "2026-11-19",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Fload：把 App 增长代理压缩成 54 秒发布片",
+          "originalHeading": "Fload：把 App 增长代理压缩成 54 秒发布片",
+          "author": "Flowjam × Fload",
+          "heat": "制作方在 2026-10-23 的横向统计记录发布帖 1,484,426 浏览、361 喜欢；不是今日实时数。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.flowjam.com/fload"
+            },
+            {
+              "label": "原始影片",
+              "url": "https://vimeo.com/1198878743"
+            },
+            {
+              "label": "带统计日期的制作方横向统计",
+              "url": "https://www.flowjam.com/skyfall"
+            }
+          ],
+          "fullText": "### Fload：把 App 增长代理压缩成 54 秒发布片\n\n作者：Flowjam × Fload\n\n日期与状态：2026；具体发布日期未公开\n\nFload 是负责应用商店呈现、增长与变现的 AI 代理系统。官方影片海报采用浅灰扫描线纹理、黑色等宽字与未完成的“What if your”提问，先留出认知缺口而非立刻堆功能。本例可借鉴的是开场设计：用一个短问题建立期待，再把代理能接管的业务环节作为回答。制作方只公开了产品定位与片长，不能据此编造完整转场或模型流程；作为开场排版与产品叙事参考，而不是逐镜头拆解。\n\n热度：制作方在 2026-10-23 的横向统计记录发布帖 1,484,426 浏览、361 喜欢；不是今日实时数。\n\n核验范围：核实制作方页面与原始 Vimeo 海报；仅海报视觉核验，未连续播放。\n\n[原作](https://www.flowjam.com/fload) · [原始影片](https://vimeo.com/1198878743) · [带统计日期的制作方横向统计](https://www.flowjam.com/skyfall)",
+          "verification": "核实制作方页面与原始 Vimeo 海报；仅海报视觉核验，未连续播放。",
+          "limitations": "核实制作方页面与原始 Vimeo 海报；仅海报视觉核验，未连续播放。",
+          "originalDateNote": "2026；具体发布日期未公开"
+        },
+        {
+          "id": "2026-11-19-80ed40cb476a",
+          "date": "2026-11-19",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Tiiny AI Pocket Lab：实拍与生成镜头共用一种电影质感",
+          "originalHeading": "Tiiny AI Pocket Lab：实拍与生成镜头共用一种电影质感",
+          "author": "导演 Alexander Browne；Capture Light；摄影／调色 Ryan Potts",
+          "heat": "未取得可信实时热度；按视觉／方法价值收录。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://rynosdop.com/work/tiiny-ai-pocket-lab/"
+            },
+            {
+              "label": "原始影片",
+              "url": "https://www.youtube.com/watch?v=OqMV09cqqos"
+            }
+          ],
+          "fullText": "### Tiiny AI Pocket Lab：实拍与生成镜头共用一种电影质感\n\n作者：导演 Alexander Browne；Capture Light；摄影／调色 Ryan Potts\n\n日期与状态：2026；具体首发日未核实\n\n口袋本地 AI 计算机的产品片采用生活化场景，而不是全程抽象芯片光效。已核实封面可见暖色室内人物、窗外绿植与半透明信息层，技术被放回真实工作环境。摄影师披露以 Alexa 35 与 Dulens APO Mini Primes 实拍，并把少量全生成镜头预先写入镜头表，统一调色后整合。可复用的是先决定哪些镜头值得实拍、哪些用生成补足，再锁定统一光色；不是拍完才随机插入 AI 素材。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：本例为混合实拍产品宣传，非纯动画。核实摄影师原文及影片封面，未全片观看；不能把整个影片都称为 AI 生成。\n\n[原作](https://rynosdop.com/work/tiiny-ai-pocket-lab/) · [原始影片](https://www.youtube.com/watch?v=OqMV09cqqos)",
+          "verification": "本例为混合实拍产品宣传，非纯动画。核实摄影师原文及影片封面，未全片观看；不能把整个影片都称为 AI 生成。",
+          "limitations": "本例为混合实拍产品宣传，非纯动画。核实摄影师原文及影片封面，未全片观看；不能把整个影片都称为 AI 生成。",
+          "originalDateNote": "2026；具体首发日未核实"
+        },
+        {
+          "id": "2026-11-19-a2a0efbc663c",
+          "date": "2026-11-19",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Skyfall SKY-001：用工程对象讲清世界模型",
+          "originalHeading": "Skyfall SKY-001：用工程对象讲清世界模型",
+          "author": "Flowjam × Skyfall AI；创始人 Sam Pasupalak",
+          "heat": "制作方 2026-10-23 记录 4,811,516 浏览、16,382 喜欢；是四天累计，不是今日实时数。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.flowjam.com/skyfall"
+            },
+            {
+              "label": "原始发布帖",
+              "url": "https://x.com/spisallyouneed/status/2112242023805964327"
+            }
+          ],
+          "fullText": "### Skyfall SKY-001：用工程对象讲清世界模型\n\n作者：Flowjam × Skyfall AI；创始人 Sam Pasupalak\n\n日期与状态：2026-10-19\n\n2 分 36 秒的创始人讲述型发布片，把模型介绍拆成背景、问题、揭晓和可视演示。制作方公开分镜说明与时间点：0:55 用柱形图解释工程步骤规模，1:07 给出比较结果，1:43 进入发动机／汽车对象，2:01 转向建筑。适合借鉴的是让图表负责数量差异，让三维对象负责理解任务，避免纯口播。速度和成本属于品牌自报测试，本条不把它们当独立性能结论。\n\n热度：制作方 2026-10-23 记录 4,811,516 浏览、16,382 喜欢；是四天累计，不是今日实时数。\n\n核验范围：已核实制作方案例、原帖入口与公开分镜静帧；不是全片连续播放。封面取官方标记为 1:43 的静帧。混合口播与图形／三维演示，非纯动画。\n\n[原作](https://www.flowjam.com/skyfall) · [原始发布帖](https://x.com/spisallyouneed/status/2112242023805964327)",
+          "verification": "已核实制作方案例、原帖入口与公开分镜静帧；不是全片连续播放。封面取官方标记为 1:43 的静帧。混合口播与图形／三维演示，非纯动画。",
+          "limitations": "已核实制作方案例、原帖入口与公开分镜静帧；不是全片连续播放。封面取官方标记为 1:43 的静帧。混合口播与图形／三维演示，非纯动画。",
+          "originalDateNote": "2026-10-19"
+        },
+        {
+          "id": "2026-11-19-f7baf10d9297",
+          "date": "2026-11-19",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Still Sweet：动作捕捉与生成动画承载无对白回忆",
+          "originalHeading": "Still Sweet：动作捕捉与生成动画承载无对白回忆",
+          "author": "MattVisual",
+          "heat": "2026-11-19 读取原始 YouTube 页面：5,406 次浏览；动态数据。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.youtube.com/watch?v=jPSAJ50yW1U"
+            },
+            {
+              "label": "作者公开项目入口（影片说明所列，本次未另行实查）",
+              "url": "https://higgsfield.ai/@mattvisual/projects/still-sweet"
+            }
+          ],
+          "fullText": "### Still Sweet：动作捕捉与生成动画承载无对白回忆\n\n作者：MattVisual\n\n日期与状态：2026-09-06（原始 YouTube metadata）\n\n13 分 03 秒的无对白短片，围绕鳏夫、相伴五十年的妻子和一段纪念散步展开。封面所见不是写实人脸，而是夸张眉眼、蓬松发丝与暖色服装的角色塑造。作者原始说明明确列出 mocap、Blender、Premiere、After Effects 和 Seedance 2.5，并说明在约三周内为 Higgsfield 电影节完成。可复用为“先表演／预演，再生成，再后期整理”的流程；不要误读成单次提示生成十三分钟，也不要把软件名单擅自分配到未披露的具体镜头。\n\n热度：2026-11-19 读取原始 YouTube 页面：5,406 次浏览；动态数据。\n\n核验范围：已直读原始视频页面的作者、发布日期、制作说明和公开浏览计数；目视检查官方缩略图，未全片观看。\n\n[原作](https://www.youtube.com/watch?v=jPSAJ50yW1U) · [作者公开项目入口（影片说明所列，本次未另行实查）](https://higgsfield.ai/@mattvisual/projects/still-sweet)",
+          "verification": "已直读原始视频页面的作者、发布日期、制作说明和公开浏览计数；目视检查官方缩略图，未全片观看。",
+          "limitations": "已直读原始视频页面的作者、发布日期、制作说明和公开浏览计数；目视检查官方缩略图，未全片观看。",
+          "originalDateNote": "2026-09-06（原始 YouTube metadata）"
+        },
+        {
+          "id": "2026-11-19-1ba2ab961dd1",
+          "date": "2026-11-19",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "The Department of Forgotten Things：用档案室规则推动叙事",
+          "originalHeading": "The Department of Forgotten Things：用档案室规则推动叙事",
+          "author": "Nicki Rathore / CROFTIQ STUDIOS",
+          "heat": "2026-11-19 读取原始 YouTube 页面：43,035 次浏览；动态数据。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.youtube.com/watch?v=iRUsmQ73OfY"
+            },
+            {
+              "label": "作者项目入口",
+              "url": "https://higgsfield.ai/@nicki_rathore/projects/the-department-of-forgotten-things"
+            }
+          ],
+          "fullText": "### The Department of Forgotten Things：用档案室规则推动叙事\n\n作者：Nicki Rathore / CROFTIQ STUDIOS\n\n日期与状态：2026-09-08（原始 YouTube metadata）\n\n3 分 18 秒的黑色童话动画，老档案员保管被人类遗忘的事物，直到“人性”本身被送来。海报中的档案抽屉、暖色台灯与标记 HUMANITY 的木箱把抽象概念变成可以操作的道具。原始制作说明列明 Higgsfield Cinema Studio 负责图像、视频及声音，ElevenLabs 负责配乐，Canva 负责剪辑。可复用的是先写世界的规则和一个违反规则的物件，再让场景设计反复强化规则；生成工具只是执行层，不替代故事结构。\n\n热度：2026-11-19 读取原始 YouTube 页面：43,035 次浏览；动态数据。\n\n核验范围：已直读作者原始 YouTube 制作说明、发布日期与浏览数，并目视检查官方缩略图；未连续观看。作者项目页本次未能打开，不声称检查过项目文件。\n\n[原作](https://www.youtube.com/watch?v=iRUsmQ73OfY) · [作者项目入口](https://higgsfield.ai/@nicki_rathore/projects/the-department-of-forgotten-things)",
+          "verification": "已直读作者原始 YouTube 制作说明、发布日期与浏览数，并目视检查官方缩略图；未连续观看。作者项目页本次未能打开，不声称检查过项目文件。",
+          "limitations": "已直读作者原始 YouTube 制作说明、发布日期与浏览数，并目视检查官方缩略图；未连续观看。作者项目页本次未能打开，不声称检查过项目文件。",
+          "originalDateNote": "2026-09-08（原始 YouTube metadata）"
+        },
+        {
+          "id": "2026-11-19-0f7901a4a644",
+          "date": "2026-11-19",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Migoi：写实山岳与二维唐卡守护者并置",
+          "originalHeading": "Migoi：写实山岳与二维唐卡守护者并置",
+          "author": "Floating Tiger Films；Kusuma Santapoori、Devansh Mathur；Adobe Firefly 发布",
+          "heat": "2026-11-19 原始 YouTube 页面读取：3,474,503 次浏览；动态数据。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://www.floatingtigerfilms.com/work/adobe-migoi"
+            },
+            {
+              "label": "Adobe 原片",
+              "url": "https://www.youtube.com/watch?v=D2QDoSyu_yU"
+            },
+            {
+              "label": "Adobe 制作幕后",
+              "url": "https://www.youtube.com/watch?v=uN4-RPp7vXk"
+            }
+          ],
+          "fullText": "### Migoi：写实山岳与二维唐卡守护者并置\n\n作者：Floating Tiger Films；Kusuma Santapoori、Devansh Mathur；Adobe Firefly 发布\n\n日期与状态：2026-02-20 原片；2026-05-20 幕后\n\n以喜马拉雅山地守护者为题材，制作方把写实雪山／人物与二维唐卡风格的守护者放在同一视觉体系，讲述环境保护。真实影片海报能看到灰白山岩和彩色卷云式图形对照。公开工作流是 Firefly Boards 组织画面，Photoshop 细化构图，Premiere 完成剪辑和声音。可复用的是先定义两种视觉语言各自承担的叙事角色，再在构图与剪辑中建立关系，而不是追求每一层都同样写实。\n\n热度：2026-11-19 原始 YouTube 页面读取：3,474,503 次浏览；动态数据。\n\n核验范围：核实制作方项目页、Adobe 官方原片与幕后说明，目视检查原片缩略图；未全片观看。Adobe 幕后描述还混入另一部 Language of Birds 的段落，未将其 Kalighat 风格／After Effects 工具链误归到 Migoi。\n\n[原作](https://www.floatingtigerfilms.com/work/adobe-migoi) · [Adobe 原片](https://www.youtube.com/watch?v=D2QDoSyu_yU) · [Adobe 制作幕后](https://www.youtube.com/watch?v=uN4-RPp7vXk)",
+          "verification": "核实制作方项目页、Adobe 官方原片与幕后说明，目视检查原片缩略图；未全片观看。Adobe 幕后描述还混入另一部 Language of Birds 的段落，未将其 Kalighat 风格／After Effects 工具链误归到 Migoi。",
+          "limitations": "核实制作方项目页、Adobe 官方原片与幕后说明，目视检查原片缩略图；未全片观看。Adobe 幕后描述还混入另一部 Language of Birds 的段落，未将其 Kalighat 风格／After Effects 工具链误归到 Migoi。",
+          "originalDateNote": "2026-02-20 原片；2026-05-20 幕后"
+        },
+        {
+          "id": "2026-11-19-372e2aeb22ae",
+          "date": "2026-11-19",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Flicker：用绑定状态约束 AI，减少角色漂移",
+          "originalHeading": "Flicker：用绑定状态约束 AI，减少角色漂移",
+          "author": "Cris Fudge / FuzzyPixel / Amazon MGM Studios",
+          "heat": "未取得可信实时热度；按视觉／方法价值收录。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://press.aboutamazon.com/prime-video/2026/9/how-animated-short-flicker-came-to-life-at-the-crossroads-of-art-and-science"
+            },
+            {
+              "label": "官方预告",
+              "url": "https://www.youtube.com/watch?v=hySICbdspXQ"
+            }
+          ],
+          "fullText": "### Flicker：用绑定状态约束 AI，减少角色漂移\n\n作者：Cris Fudge / FuzzyPixel / Amazon MGM Studios\n\n日期与状态：2026-09-08 官方制作文章；公开入口为预告\n\n故事从图书馆开关台灯的老人出发；公开剧照以暖色书架和柔和角色造型强化善意的主题。更值得读的是失败经验：团队手绘概念、制作三维角色／道具／环境后，发现直接微调与输入三维资产仍会漂移。科学家随后建立角色绑定状态与 AI 输出之间的对应，才增加姿态控制并降低漂移。可借鉴的是先做可控资产和误差分类，再选择生成方法；并非“生成模型已替代动画师”的案例。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：已阅读 Amazon 原始制作记录并检查官方剧照。公开影片入口是 teaser，不称完整短片可看；具体模型未公开，不推测。\n\n[原作](https://press.aboutamazon.com/prime-video/2026/9/how-animated-short-flicker-came-to-life-at-the-crossroads-of-art-and-science) · [官方预告](https://www.youtube.com/watch?v=hySICbdspXQ)",
+          "verification": "已阅读 Amazon 原始制作记录并检查官方剧照。公开影片入口是 teaser，不称完整短片可看；具体模型未公开，不推测。",
+          "limitations": "已阅读 Amazon 原始制作记录并检查官方剧照。公开影片入口是 teaser，不称完整短片可看；具体模型未公开，不推测。",
+          "originalDateNote": "2026-09-08 官方制作文章；公开入口为预告"
+        },
+        {
+          "id": "2026-11-19-94f30361210b",
+          "date": "2026-11-19",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Ahimsa：让真人表演先于生成画面",
+          "originalHeading": "Ahimsa：让真人表演先于生成画面",
+          "author": "Craig Lew；故事概念 Tina A. Barnett；声音 Dino Herrmann",
+          "heat": "未取得可信实时热度；按视觉／方法价值收录。",
+          "links": [
+            {
+              "label": "原作",
+              "url": "https://ahimsafilm.com/"
+            },
+            {
+              "label": "官方预告",
+              "url": "https://vimeo.com/1095325005/9c36b52ca8"
+            },
+            {
+              "label": "官方幕后",
+              "url": "https://player.vimeo.com/video/1120615518?h=6fc9e5f322"
+            },
+            {
+              "label": "创作者年份记录",
+              "url": "https://diffuse.runway.com/clew"
+            }
+          ],
+          "fullText": "### Ahimsa：让真人表演先于生成画面\n\n作者：Craig Lew；故事概念 Tina A. Barnett；声音 Dino Herrmann\n\n日期与状态：2025（创作者 Runway Diffuse 履历）；本次为旧作方法回看\n\n以科幻战争中的慈悲选择为主题。官方海报将机械僧人、戴设备的青年和战士置于冷色废墟与橙色火焰之间。导演披露先录制自己的动作、表情与声音表演，再让 AI 解释这些输入，结合动作捕捉、传统二维动画、剪辑与合成。可复用重点是把情绪节奏保留在人类表演中，再让生成工具负责外观转译；该流程与纯文字提示生成不同。官网没有具体模型清单，不能替它补全。\n\n热度：未取得可信实时热度；按视觉／方法价值收录。\n\n核验范围：核实影片官网制作说明、公开预告和幕后入口，目视检查原始 Vimeo 海报；未全片观看。影片为 2025 旧作，不包装成当日新作；官方报名不等于奥斯卡提名。\n\n[原作](https://ahimsafilm.com/) · [官方预告](https://vimeo.com/1095325005/9c36b52ca8) · [官方幕后](https://player.vimeo.com/video/1120615518?h=6fc9e5f322) · [创作者年份记录](https://diffuse.runway.com/clew)",
+          "verification": "核实影片官网制作说明、公开预告和幕后入口，目视检查原始 Vimeo 海报；未全片观看。影片为 2025 旧作，不包装成当日新作；官方报名不等于奥斯卡提名。",
+          "limitations": "核实影片官网制作说明、公开预告和幕后入口，目视检查原始 Vimeo 海报；未全片观看。影片为 2025 旧作，不包装成当日新作；官方报名不等于奥斯卡提名。",
+          "originalDateNote": "2025（创作者 Runway Diffuse 履历）；本次为旧作方法回看"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "title": "2026-11-18 UI 与动效设计精选",
