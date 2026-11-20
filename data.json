@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,643 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-20",
+      "title": "2026-11-20 UI 与动效设计精选",
+      "fullText": "## UI 设计｜5\n\n1. **[Chande Bootcamp](https://www.chandebootcamp.com/)**｜Kaixa Pham / Lumen Studio / Pháp Nguyễn｜2026-11-19 CSSDA 日奖，非首发\n绿色像素织物、社区成员人像和奶白信息块拼成同一张活动地图。人物本身就是内容，不只是装饰。已看原站桌面首屏，未完整测动效。 热度：CSSDA 评委 8.39；作者 Muzli 页 79 票。[作品画面](https://files.muzli.cloud/57086ec5-418e-4b73-bdb0-108c994afa17-1792093302018.jpg)\n\n2. **[Michael de Jong](https://dejongm.com/)**｜Michael de Jong｜2026-11-19 CSSDA 提名，首发未核实\n深酒红颗粒底上，粉红和蓝色矩形拉出水平方向的残影，与 forward 和 CTA 共用色彩。让视觉方向直接服务品牌主张，同时保持导航固定。已看原站首屏；封面为原站 OG，未单验。 热度：CSSDA UI 6、UX 4、创新 4 票。[作品画面](https://cdn.prod.website-files.com/6a3b598e3821b760191eb416/6aa619f167282599e25900a1_open-graph.png)\n\n3. **[Rinat Seif Marking Sheet](https://seifrinat.com/)**｜Rinat Seif｜2026-11-19 CSSDA 提名，首发未核实\n米灰纸、红墨、吊牌与条码，把作品集排成质检档案。材料隐喻进入章节与经历表，不是孤立贴个拟物物件。已看原站首屏，未实际操作标签枪；封面为原站 OG，未单验。 热度：CSSDA UI 5、UX 5、创新 7 票。[作品画面](https://seifrinat.com/og.jpg)\n\n4. **[Digital Panda 2026](https://www.digitalpanda.com/)**｜Digital Panda｜2026-11-18 Mesh3D 收录，首发未核实\n用巨型字标和一间有橙椅、复古显示器、植物与熊猫的 3D 工位表现团队气质；定位与导航不埋进模型。已看桌面首屏，未验证 3D 拖动或播放影片。 热度：有画廊收录和提名，流量未知。[作品画面](https://cdn.prod.website-files.com/6a8613d3038c16471e17fe66/6a8e401c1cb7b9a430afd359_image-p-1600.avif)\n\n5. **[Meelo](https://byjessicaw.com/meelo)**｜Jessica Wang 等｜2025-06 至 08，历史毕业项目\n把慢社交做成暖棕猫咪咖啡馆，橘色行动钮、3D 猫头像和双人匹配卡沿用同一场景语言。已看公开设计图，未实测 App 或留存。 热度：作者称入选营内优秀作品，用户热度未知。[作品画面](https://framerusercontent.com/images/jUgXgcAH6KLrsIfjwWiWyJYAnEw.png?scale-down-to=2048&width=3120&height=1944)\n\n## 好玩的交互｜5\n\n1. **[OATs](https://daehwakim.com/oat/index.html)**｜Daehwa Kim、Chris Harrison / CMU｜UIST 2026，首发日未核实\n给植物、冰箱等日用品挂上墨水屏和传感器。植物缺水就紧张，被照料后露出笑脸。与其再加个数据面板，不如让简单状态直接变成表情。已看作者实物图和技术说明，未体验硬件。 热度：仓库 5 stars、1 fork。[作品画面](https://daehwakim.com/oat/figures/sea-onion.png)\n\n2. **[lilpix](https://lilpix.dhrv.pw)**｜Dhruv Suthar｜Codrops 标示 2026-10-16，非首发\n点一下，黑色立方机器人用像素眼、灯光和声音一起换心情。可把表情拆成多个反馈通道，比只换一张脸更有角色感。已看真实预览封面和原仓库，未实玩或听声音。 热度：仓库 4 stars。[作品画面](https://tympanus.net/codrops/wp-content/uploads/2026/11/lilpix_cover-400x300.jpg)\n\n3. **[Tree Demo](https://tree-demo-ten.vercel.app/)**｜Pablo Mesquida｜Codrops 标示 2026-11-05，非首发\n通过指针摇树，叶片掉下再从树枝长回。值得参考的是破坏后自动恢复，不用重置页面就能再玩。已看封面和原仓库，未现场摇动。 热度：仓库页面显示 0 stars、1 fork。[作品画面](https://tympanus.net/codrops/wp-content/uploads/2026/11/livingtrees_cover-400x300.jpg)\n\n4. **[Earthlight](https://earthlight.maxvyshniakov.com/)**｜Max Vyshniakov｜Codrops 标示 2026-10-21，非首发\n轨道视角下能找夜景、极光构图，调整视点、时间和曝光。可把导览做成摄影操作，而不只是转一个球。已查原作者实时渲染帧及控制说明，未现场飞行。 热度：仓库 2 stars、1 fork。[作品画面](https://tympanus.net/codrops/wp-content/uploads/2026/11/Earthlight_cover-400x300.jpg)\n\n5. **[Ocean](https://ocean-noniv.vercel.app/)**｜Maksymilian Dendura / Noniv｜Codrops 标示 2026-10-17，非首发\n自由移动相机并调风、涌浪和浑浊度；从低机位看浪尖和夕阳反光的关系。已看真实预览和作者 README，未现场飞行；试玩需兼容 WebGPU。 热度：仓库约 1.1k stars、162 forks。[作品画面](https://tympanus.net/codrops/wp-content/uploads/2026/10/ocean_cover-400x300.jpg)\n\n热度为本轮读取的公开显示值，奖项票数、仓库星数不是播放量。\n\n## UI 动效｜10\n\n1. **[Photo Shredder](https://x.com/gabriell_lab/status/2122315012157112765)**｜Gabriel Obholz｜2026-11-16，按 X 帖 ID 推算\n黑色机口下，完整照片逐渐变成纵向条带。可借鉴让删除过程可理解，但不能用演出代替确认。已看收藏页录屏，多帧可见；未实测拉回恢复。[观看](https://memorabl.es/work/photo-shredder) 热度：原帖未读到互动数。[作品画面](https://media.memorabl.es/works/photo-shredder-1440.webp)\n\n2. **[Liquid Arrow Button](https://x.com/koppkev/status/2118648019490934950)**｜Kopp｜2026-11-06，按 X 帖 ID 推算\n白色胶囊按钮里的箭头圆端先拖出黏连桥，再脱离成独立圆形。悬停反馈不仅换图，还能表达方向。已看转载录屏多帧，未实际操作。[观看](https://memorabl.es/work/liquid-arrow-button) 热度：原帖未读到互动数。[作品画面](https://media.memorabl.es/works/liquid-arrow-button-1154.webp)\n\n3. **[Animated UI Controls](https://x.com/guhrodrrigues/status/2118003586873352510)**｜Gustavo Rodrigues｜2026-11-04，按 X 帖 ID 推算\n单选、复选、开关排在同一块米白面板，复选先填深灰再出现白勾。可借鉴圆角、对比和状态节奏的统一。已看转载录屏多帧，未实际操作；画面链接为录屏而非静态封面。[观看](https://memorabl.es/work/animated-ui-controls) 热度：原帖未读到互动数。[作品画面](https://media.memorabl.es/works/animated-ui-controls-360.mp4)\n\n4. **[Usage Limit Drain](https://x.com/Nomandsign/status/2076749587872682297)**｜Noman Ijaz｜2026-07-14 北京时间，按 X 帖 ID 推算\n概念页面用绿色玻璃管的液面辅助阅读剩余用量，数字和材质讲同一件事。已看录屏 76、75 两态。这不是实际 Codex 界面。[观看](https://memorabl.es/work/usage-limit-drain) 热度：原帖未读到互动数。[作品画面](https://media.memorabl.es/works/usage-limit-drain-1080.webp)\n\n5. **[Animated Hugeicons](https://x.com/socoloffalex/status/2120095601698177160)**｜Alex Socoloff｜2026-11-10，按 X 帖 ID 推算\n黑底网格里的橙色轮廓、紫色星形在不同阶段逐笔绘出。可以把统一线宽延伸到统一的绘制节奏。已看多帧录屏，未验证所有图标与触发方式。[观看](https://memorabl.es/work/animated-hugeicons) 热度：原帖未读到互动数。[作品画面](https://media.memorabl.es/works/animated-hugeicons-1080.webp)\n\n6. **[Shader Transition](https://x.com/saintdsgn/status/2122389933327524262)**｜saint｜2026-11-17 北京时间，按 X 帖 ID 推算\n浅色与深色切换时保留同一文字版式，深底带短暂重影。可借鉴先固定阅读重心再改变氛围。录像确认两态，未核验 shader 或完整中间帧。[观看](https://memorabl.es/work/shader-transition) 热度：原帖未读到互动数。[作品画面](https://media.memorabl.es/works/shader-transition-1920.webp)\n\n7. **[AI Generating](https://dribbble.com/shots/24524978-AI-Generating)**｜Grzegorz Musial｜2024-07-19\n输入框切到过程卡，搜索、考虑来源、写查询逐项勾选。把耗时步骤说清楚，比只转圈更有用。已核对 14 秒原视频的输入和步骤状态；未试玩。 热度：81 赞 / 41,287 浏览 / 57 收藏。[作品画面](https://cdn.dribbble.com/userupload/15608338/file/still-0f766cda517e1325f6e0e65c2eb5aadd.png)\n\n8. **[SEO Ai Assistant](https://dribbble.com/shots/25936404-SEO-Ai-Assistant-generating-and-filtering-tables)**｜Virgil Pana｜2025-04-23\n把运行中任务卡放在数据表旁，转动指示和计时显示检索进度，不挡住正在看的数据。已核对主片的表格和运行状态，未试玩。 热度：138 赞 / 99,501 浏览 / 106 收藏。[作品画面](https://cdn.dribbble.com/userupload/43032999/file/still-fcbf2d66ff869d1796e628b4b83e1332.png)\n\n9. **[Ello Assistant](https://dribbble.com/shots/26292737--Animation-Ello-Assistant-AI-Generate)**｜Taufiq｜2025-07-19\n上传 PDF 后，空态柔光球退场，原位置换成文档式回答；侧栏不动。适合参考装饰如何把注意力交给结果。已核对主片两种状态；未试玩。 热度：19 赞 / 3,264 浏览 / 4 收藏。[作品画面](https://cdn.dribbble.com/userupload/44157802/file/still-5edcdf8c885e7d59981677d6c8bb277f.png)\n\n10. **[AI image generating — Experimentations](https://dribbble.com/shots/27814430-AI-image-generating-Experimentations)**｜AYOUB MARGHOUBI｜2026-10-15\n黄绿流线、颗粒网格和紫橙色带让卡片显得正在成形。可以借鉴逐步显影，而非给现成图叠普通光扫。看过 3.37 秒原循环的不同帧；实现未公开。 热度：0 赞 / 143 浏览。[作品画面](https://cdn.dribbble.com/userupload/49335902/file/still-2beb3896b95b29fcd6bf27997ff9283c.png)\n\n## AI 产品宣传动画｜5\n\n1. **[SoftworkerAI’s launch, in 69 seconds](https://nishkarsh-ux.vercel.app/softworker-launch.html)**｜Nishkarsh Gupta｜2026-09 至 10 制作\n黑底应用标签、粉白仪表盘与四张并排 agent 卡。作者用 Remotion、React 和 AI 编码工具重建真实界面，逐秒抽查后改成清晰的向上推页。大标题快，真实界面细节放慢。已看成片三处静帧。[影片](https://www.youtube.com/watch?v=9KG0TOtMS_w) 热度：公开数据未知。[作品画面](https://nishkarsh-ux.vercel.app/assets/motion/softworker-launch/after-dashboard.webp)\n\n2. **[EquiSense](https://nishkarsh-ux.vercel.app/assets/motion/equisense/launch-720.mp4)**｜Nishkarsh Gupta｜2026，精确日期未知\n用绿色外套角色和被划掉的 3 hours 对比醒目的 3 minutes，先让观众明白效率差异，再讲产品。已看原封面及作者制作说明，未完整播放；时间是宣传文案，不是核验结果。[作者页](https://nishkarsh-ux.vercel.app/motion.html) 热度：公开数据未知。[作品画面](https://nishkarsh-ux.vercel.app/assets/motion/equisense/poster.webp)\n\n3. **[Oracle AI: Ask. Act.](https://orbimotion.com/spec-oracle-ai)**｜orbimotion｜2026 非官方概念宣传\n红橙点阵数据环接到大号数字，作者分镜最后落到自然语言查询框。适合借鉴几何母题如何贯穿视觉和功能说明。已看作品静帧、核对作者分镜；其中数字不是 Oracle 官方指标。[循环片段](https://orbimotion.com/media/loops/oracle-ai.mp4) 热度：公开数据未知。[作品画面](https://orbimotion.com/media/posters/oracle-ai-640.webp)\n\n4. **[Gemini 3.8 Flash: Intelligence in a flash](https://orbimotion.com/spec-gemini-flash-cosmic)**｜orbimotion｜2026 非官方概念宣传\n暗色星空与代码衬托一枚巨大的紫粉数字，作者用疾速开场、提示词到结果、计分板三拍讲述。已看作品静帧、核对作者分镜；片名和分数不能当 Google 官方发布或性能数据。[循环片段](https://orbimotion.com/media/loops/gemini-flash-cosmic.mp4) 热度：公开数据未知。[作品画面](https://orbimotion.com/media/posters/gemini-flash-cosmic-640.webp)\n\n5. **[Blink × Flowjam](https://www.flowjam.com/blink)**｜Flowjam｜2026，精确日期未知\n暗色体积光和布料质感承托醒目的白字。适合参考先用材料氛围立住品牌、再用极少文字讲产品的做法。已看原项目封面与说明，未验证完整分镜。[影片](https://vimeo.com/1155453093) 热度：工作室自报约 33 万，统计时间及口径未核实。[作品画面](https://www.flowjam.com/media/film/26b02c1e-1280.webp)\n\n## AI 制作动画｜5\n\n1. **[OpenFilm intro](https://openfilm.dev/)**｜OpenFilm / riverisbuilding｜v0.4.0：2026-11-18；不等于影片首发\n1:42 中文介绍片，Blender 做开场、ElevenLabs 配音，HTML 镜头对齐字幕时间码；31.6–49.8 秒看镜头内编辑，49.8–70.8 秒看香水片工作流。读了完整工程说明：录的是实际桌面 App，但对话由脚本驱动，没有实时调用模型。借鉴把可修改的分镜与生成素材拆开。[工程](https://github.com/openfilm/examples/blob/main/openfilm-intro/README.md) · [幕后](https://github.com/openfilm/examples/blob/main/openfilm-intro/make/README.md) 热度：影片热度未知。[作品画面](https://raw.githubusercontent.com/openfilm/examples/main/openfilm-intro/look.jpg)\n\n2. **[Making Mila’s launch video with Claude Code](https://www.gulipad.com/writings/mila-launch-video)**｜Guli Moreno｜2026-10-05\nClaude Code 写 HyperFrames 的 HTML/GSAP 动效，作者先选参考和音乐，再审脚本、卡重拍、保存好版本。公开对话记录了 69 轮提示与回复、652 次工具调用、8 小时 27 分，不是一条提示成片。已看封面和制作记录。[成片](https://www.gulipad.com/writings/mila-launch-video/mila.mp4) 热度：影片热度未知。[作品画面](https://www.gulipad.com/writings/mila-launch-video/poster.jpg)\n\n3. **[AMBER](https://craiglew.com/)**｜Craig Lew｜发布日期未公开\n先把穿山甲正、侧、背和表情做成角色表，再用 Omni 逐镜生成、用 Premiere 剪辑混音。与其反复抽卡找同一张脸，不如先固定角色资产包。实看设定图和作者流程，未确认完整影片公开可播；模型版本未披露。 热度：公开数据未知。[作品画面](https://craiglew.com/assets/images/gallery01/3c5ce067.jpg?v=e3f77d26)\n\n4. **[OVA - The Little Astronaut (AI Short Film)](https://vimeo.com/1082110544)**｜Cyril Verbois / Chyrillo Motion｜2025-05-07 Vimeo 上传，旧作\n小宇航员与蓝色星球。作者用 ChatGPT 做脚本基础、Midjourney 出图、Runway 做动镜，Magnific/Topaz 放大，再用 Adobe 工具完成后期。可以复用生成候选、筛镜头、手工合成的工序。已读原始制作说明、看封面，未完整看片；不把有配音署名的影片说成无人制作。 热度：Vimeo 播放量未核实。[作品画面](https://i.vimeocdn.com/video/2013034118-1841ee86d7b9441f70bce330f5fef8d5644f54fa2e73fc4ce75c4bbfff2a2ef2-d?f=webp&region=us)\n\n5. **[Alas de Papel (Paper Wings) - AI Animated Short Film](https://vimeo.com/1075703067)**｜Amaru Zeas-Sigüenza｜2025-04-15 Vimeo 上传，旧作\n导演用 Griptape 和 ComfyUI 管流程，混用 Kling、Runway 和后期工具；自述做过 3,500 多张图、400 多段视频、145 版配乐。可借鉴按镜头存资产、按版本筛选，再把声画汇合剪辑。已读原说明和看封面，未完整看片。[作者制作记录](https://www.linkedin.com/posts/amaru-zeas-sig%C3%BCenza_klingai-aifilmmaking-shortfilm-activity-7317925188640104448-qAOC) 热度：Vimeo 播放量未核实。[作品画面](https://i.vimeocdn.com/video/2005342156-e9b38acbe04ff7aeeb3785f80715681b62efa8d06e021aa141bdf7c10547ccba-d?f=webp&region=us)\n\n## 延伸阅读｜怎样让用户更快注意到结果？\n\n[Yang 等人的动效眼动研究，表 3](https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2630289)｜2026-02-26 发表，非本周新论文。36 人在类似淘宝的 Figma 原型里用鼠标找签到入口，首次注视平均为加速 126.3 ms、匀速 198.8 ms、减速 266.1 ms；总注视时长和次数无显著差别。借鉴：把「AI 正在生成」与「结果刚刚可用」当成两个不同的动效任务，单独比较后者的速度曲线。这不是对 AI 加载的直接实验，也没给出一条通用缓动。",
+      "cases": [
+        {
+          "id": "2026-11-20-b587f66a0d9b",
+          "date": "2026-11-20",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Chande Bootcamp",
+          "originalHeading": "Chande Bootcamp",
+          "author": "Kaixa Pham / Lumen Studio / Pháp Nguyễn",
+          "heat": "CSSDA 评委 8.39；作者 Muzli 页 79 票",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://www.chandebootcamp.com/"
+            }
+          ],
+          "fullText": "### Chande Bootcamp\n\n作者：Kaixa Pham / Lumen Studio / Pháp Nguyễn。日期：2026-11-19 CSSDA 日奖，非首发。\n\n绿色像素织物、社区成员人像和奶白信息块拼成同一张活动地图。人物本身就是内容，不只是装饰。已看原站桌面首屏，未完整测动效。\n\n热度：CSSDA 评委 8.39；作者 Muzli 页 79 票。\n\n[查看原作](https://www.chandebootcamp.com/)",
+          "verification": "绿色像素织物、社区成员人像和奶白信息块拼成同一张活动地图。人物本身就是内容，不只是装饰。已看原站桌面首屏，未完整测动效。",
+          "originalDateNote": "2026-11-19 CSSDA 日奖，非首发"
+        },
+        {
+          "id": "2026-11-20-d973a6e49b11",
+          "date": "2026-11-20",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Michael de Jong",
+          "originalHeading": "Michael de Jong",
+          "author": "Michael de Jong",
+          "heat": "CSSDA UI 6、UX 4、创新 4 票",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://dejongm.com/"
+            }
+          ],
+          "fullText": "### Michael de Jong\n\n作者：Michael de Jong。日期：2026-11-19 CSSDA 提名，首发未核实。\n\n深酒红颗粒底上，粉红和蓝色矩形拉出水平方向的残影，与 forward 和 CTA 共用色彩。让视觉方向直接服务品牌主张，同时保持导航固定。已看原站首屏；封面为原站 OG，未单验。\n\n热度：CSSDA UI 6、UX 4、创新 4 票。\n\n[查看原作](https://dejongm.com/)",
+          "verification": "深酒红颗粒底上，粉红和蓝色矩形拉出水平方向的残影，与 forward 和 CTA 共用色彩。让视觉方向直接服务品牌主张，同时保持导航固定。已看原站首屏；封面为原站 OG，未单验。",
+          "originalDateNote": "2026-11-19 CSSDA 提名，首发未核实"
+        },
+        {
+          "id": "2026-11-20-6d63c3e40f61",
+          "date": "2026-11-20",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Rinat Seif Marking Sheet",
+          "originalHeading": "Rinat Seif Marking Sheet",
+          "author": "Rinat Seif",
+          "heat": "CSSDA UI 5、UX 5、创新 7 票",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://seifrinat.com/"
+            }
+          ],
+          "fullText": "### Rinat Seif Marking Sheet\n\n作者：Rinat Seif。日期：2026-11-19 CSSDA 提名，首发未核实。\n\n米灰纸、红墨、吊牌与条码，把作品集排成质检档案。材料隐喻进入章节与经历表，不是孤立贴个拟物物件。已看原站首屏，未实际操作标签枪；封面为原站 OG，未单验。\n\n热度：CSSDA UI 5、UX 5、创新 7 票。\n\n[查看原作](https://seifrinat.com/)",
+          "verification": "米灰纸、红墨、吊牌与条码，把作品集排成质检档案。材料隐喻进入章节与经历表，不是孤立贴个拟物物件。已看原站首屏，未实际操作标签枪；封面为原站 OG，未单验。",
+          "originalDateNote": "2026-11-19 CSSDA 提名，首发未核实"
+        },
+        {
+          "id": "2026-11-20-4b9488066e37",
+          "date": "2026-11-20",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Digital Panda 2026",
+          "originalHeading": "Digital Panda 2026",
+          "author": "Digital Panda",
+          "heat": "有画廊收录和提名，流量未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://www.digitalpanda.com/"
+            }
+          ],
+          "fullText": "### Digital Panda 2026\n\n作者：Digital Panda。日期：2026-11-18 Mesh3D 收录，首发未核实。\n\n用巨型字标和一间有橙椅、复古显示器、植物与熊猫的 3D 工位表现团队气质；定位与导航不埋进模型。已看桌面首屏，未验证 3D 拖动或播放影片。\n\n热度：有画廊收录和提名，流量未知。\n\n[查看原作](https://www.digitalpanda.com/)",
+          "verification": "用巨型字标和一间有橙椅、复古显示器、植物与熊猫的 3D 工位表现团队气质；定位与导航不埋进模型。已看桌面首屏，未验证 3D 拖动或播放影片。",
+          "originalDateNote": "2026-11-18 Mesh3D 收录，首发未核实"
+        },
+        {
+          "id": "2026-11-20-61ca03dcea65",
+          "date": "2026-11-20",
+          "module": "UI设计",
+          "originalModule": "UI设计",
+          "title": "Meelo",
+          "originalHeading": "Meelo",
+          "author": "Jessica Wang 等",
+          "heat": "作者称入选营内优秀作品，用户热度未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://byjessicaw.com/meelo"
+            }
+          ],
+          "fullText": "### Meelo\n\n作者：Jessica Wang 等。日期：2025-06 至 08，历史毕业项目。\n\n把慢社交做成暖棕猫咪咖啡馆，橘色行动钮、3D 猫头像和双人匹配卡沿用同一场景语言。已看公开设计图，未实测 App 或留存。\n\n热度：作者称入选营内优秀作品，用户热度未知。\n\n[查看原作](https://byjessicaw.com/meelo)",
+          "verification": "把慢社交做成暖棕猫咪咖啡馆，橘色行动钮、3D 猫头像和双人匹配卡沿用同一场景语言。已看公开设计图，未实测 App 或留存。",
+          "originalDateNote": "2025-06 至 08，历史毕业项目"
+        },
+        {
+          "id": "2026-11-20-606f81fc2b51",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Photo Shredder",
+          "originalHeading": "Photo Shredder",
+          "author": "Gabriel Obholz",
+          "heat": "原帖未读到互动数",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/gabriell_lab/status/2122315012157112765"
+            },
+            {
+              "label": "观看",
+              "url": "https://memorabl.es/work/photo-shredder"
+            }
+          ],
+          "fullText": "### Photo Shredder\n\n作者：Gabriel Obholz。日期：2026-11-16，按 X 帖 ID 推算。\n\n黑色机口下，完整照片逐渐变成纵向条带。可借鉴让删除过程可理解，但不能用演出代替确认。已看收藏页录屏，多帧可见；未实测拉回恢复。[观看](https://memorabl.es/work/photo-shredder)\n\n热度：原帖未读到互动数。\n\n[查看原作](https://x.com/gabriell_lab/status/2122315012157112765)",
+          "verification": "黑色机口下，完整照片逐渐变成纵向条带。可借鉴让删除过程可理解，但不能用演出代替确认。已看收藏页录屏，多帧可见；未实测拉回恢复。[观看](https://memorabl.es/work/photo-shredder)",
+          "originalDateNote": "2026-11-16，按 X 帖 ID 推算"
+        },
+        {
+          "id": "2026-11-20-3c0f60b981ec",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Liquid Arrow Button",
+          "originalHeading": "Liquid Arrow Button",
+          "author": "Kopp",
+          "heat": "原帖未读到互动数",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/koppkev/status/2118648019490934950"
+            },
+            {
+              "label": "观看",
+              "url": "https://memorabl.es/work/liquid-arrow-button"
+            }
+          ],
+          "fullText": "### Liquid Arrow Button\n\n作者：Kopp。日期：2026-11-06，按 X 帖 ID 推算。\n\n白色胶囊按钮里的箭头圆端先拖出黏连桥，再脱离成独立圆形。悬停反馈不仅换图，还能表达方向。已看转载录屏多帧，未实际操作。[观看](https://memorabl.es/work/liquid-arrow-button)\n\n热度：原帖未读到互动数。\n\n[查看原作](https://x.com/koppkev/status/2118648019490934950)",
+          "verification": "白色胶囊按钮里的箭头圆端先拖出黏连桥，再脱离成独立圆形。悬停反馈不仅换图，还能表达方向。已看转载录屏多帧，未实际操作。[观看](https://memorabl.es/work/liquid-arrow-button)",
+          "originalDateNote": "2026-11-06，按 X 帖 ID 推算"
+        },
+        {
+          "id": "2026-11-20-b1fb71dc94e9",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Animated UI Controls",
+          "originalHeading": "Animated UI Controls",
+          "author": "Gustavo Rodrigues",
+          "heat": "原帖未读到互动数",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/guhrodrrigues/status/2118003586873352510"
+            },
+            {
+              "label": "观看",
+              "url": "https://memorabl.es/work/animated-ui-controls"
+            }
+          ],
+          "fullText": "### Animated UI Controls\n\n作者：Gustavo Rodrigues。日期：2026-11-04，按 X 帖 ID 推算。\n\n单选、复选、开关排在同一块米白面板，复选先填深灰再出现白勾。可借鉴圆角、对比和状态节奏的统一。已看转载录屏多帧，未实际操作；画面链接为录屏而非静态封面。[观看](https://memorabl.es/work/animated-ui-controls)\n\n热度：原帖未读到互动数。\n\n[查看原作](https://x.com/guhrodrrigues/status/2118003586873352510)",
+          "verification": "单选、复选、开关排在同一块米白面板，复选先填深灰再出现白勾。可借鉴圆角、对比和状态节奏的统一。已看转载录屏多帧，未实际操作；画面链接为录屏而非静态封面。[观看](https://memorabl.es/work/animated-ui-controls)",
+          "originalDateNote": "2026-11-04，按 X 帖 ID 推算"
+        },
+        {
+          "id": "2026-11-20-149b605fdccc",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Usage Limit Drain",
+          "originalHeading": "Usage Limit Drain",
+          "author": "Noman Ijaz",
+          "heat": "原帖未读到互动数",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/Nomandsign/status/2076749587872682297"
+            },
+            {
+              "label": "观看",
+              "url": "https://memorabl.es/work/usage-limit-drain"
+            }
+          ],
+          "fullText": "### Usage Limit Drain\n\n作者：Noman Ijaz。日期：2026-07-14 北京时间，按 X 帖 ID 推算。\n\n概念页面用绿色玻璃管的液面辅助阅读剩余用量，数字和材质讲同一件事。已看录屏 76、75 两态。这不是实际 Codex 界面。[观看](https://memorabl.es/work/usage-limit-drain)\n\n热度：原帖未读到互动数。\n\n[查看原作](https://x.com/Nomandsign/status/2076749587872682297)",
+          "verification": "概念页面用绿色玻璃管的液面辅助阅读剩余用量，数字和材质讲同一件事。已看录屏 76、75 两态。这不是实际 Codex 界面。[观看](https://memorabl.es/work/usage-limit-drain)",
+          "originalDateNote": "2026-07-14 北京时间，按 X 帖 ID 推算"
+        },
+        {
+          "id": "2026-11-20-1841a95e1cd2",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Animated Hugeicons",
+          "originalHeading": "Animated Hugeicons",
+          "author": "Alex Socoloff",
+          "heat": "原帖未读到互动数",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/socoloffalex/status/2120095601698177160"
+            },
+            {
+              "label": "观看",
+              "url": "https://memorabl.es/work/animated-hugeicons"
+            }
+          ],
+          "fullText": "### Animated Hugeicons\n\n作者：Alex Socoloff。日期：2026-11-10，按 X 帖 ID 推算。\n\n黑底网格里的橙色轮廓、紫色星形在不同阶段逐笔绘出。可以把统一线宽延伸到统一的绘制节奏。已看多帧录屏，未验证所有图标与触发方式。[观看](https://memorabl.es/work/animated-hugeicons)\n\n热度：原帖未读到互动数。\n\n[查看原作](https://x.com/socoloffalex/status/2120095601698177160)",
+          "verification": "黑底网格里的橙色轮廓、紫色星形在不同阶段逐笔绘出。可以把统一线宽延伸到统一的绘制节奏。已看多帧录屏，未验证所有图标与触发方式。[观看](https://memorabl.es/work/animated-hugeicons)",
+          "originalDateNote": "2026-11-10，按 X 帖 ID 推算"
+        },
+        {
+          "id": "2026-11-20-6bd1457e2912",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Shader Transition",
+          "originalHeading": "Shader Transition",
+          "author": "saint",
+          "heat": "原帖未读到互动数",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://x.com/saintdsgn/status/2122389933327524262"
+            },
+            {
+              "label": "观看",
+              "url": "https://memorabl.es/work/shader-transition"
+            }
+          ],
+          "fullText": "### Shader Transition\n\n作者：saint。日期：2026-11-17 北京时间，按 X 帖 ID 推算。\n\n浅色与深色切换时保留同一文字版式，深底带短暂重影。可借鉴先固定阅读重心再改变氛围。录像确认两态，未核验 shader 或完整中间帧。[观看](https://memorabl.es/work/shader-transition)\n\n热度：原帖未读到互动数。\n\n[查看原作](https://x.com/saintdsgn/status/2122389933327524262)",
+          "verification": "浅色与深色切换时保留同一文字版式，深底带短暂重影。可借鉴先固定阅读重心再改变氛围。录像确认两态，未核验 shader 或完整中间帧。[观看](https://memorabl.es/work/shader-transition)",
+          "originalDateNote": "2026-11-17 北京时间，按 X 帖 ID 推算"
+        },
+        {
+          "id": "2026-11-20-ae6eb9d615f1",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "AI Generating",
+          "originalHeading": "AI Generating",
+          "author": "Grzegorz Musial",
+          "heat": "81 赞 / 41,287 浏览 / 57 收藏",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://dribbble.com/shots/24524978-AI-Generating"
+            }
+          ],
+          "fullText": "### AI Generating\n\n作者：Grzegorz Musial。日期：2024-07-19。\n\n输入框切到过程卡，搜索、考虑来源、写查询逐项勾选。把耗时步骤说清楚，比只转圈更有用。已核对 14 秒原视频的输入和步骤状态；未试玩。\n\n热度：81 赞 / 41,287 浏览 / 57 收藏。\n\n[查看原作](https://dribbble.com/shots/24524978-AI-Generating)",
+          "verification": "输入框切到过程卡，搜索、考虑来源、写查询逐项勾选。把耗时步骤说清楚，比只转圈更有用。已核对 14 秒原视频的输入和步骤状态；未试玩。",
+          "originalDateNote": "2024-07-19"
+        },
+        {
+          "id": "2026-11-20-68c2a1e07e58",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "SEO Ai Assistant",
+          "originalHeading": "SEO Ai Assistant",
+          "author": "Virgil Pana",
+          "heat": "138 赞 / 99,501 浏览 / 106 收藏",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://dribbble.com/shots/25936404-SEO-Ai-Assistant-generating-and-filtering-tables"
+            }
+          ],
+          "fullText": "### SEO Ai Assistant\n\n作者：Virgil Pana。日期：2025-04-23。\n\n把运行中任务卡放在数据表旁，转动指示和计时显示检索进度，不挡住正在看的数据。已核对主片的表格和运行状态，未试玩。\n\n热度：138 赞 / 99,501 浏览 / 106 收藏。\n\n[查看原作](https://dribbble.com/shots/25936404-SEO-Ai-Assistant-generating-and-filtering-tables)",
+          "verification": "把运行中任务卡放在数据表旁，转动指示和计时显示检索进度，不挡住正在看的数据。已核对主片的表格和运行状态，未试玩。",
+          "originalDateNote": "2025-04-23"
+        },
+        {
+          "id": "2026-11-20-63c7bf8b017f",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "Ello Assistant",
+          "originalHeading": "Ello Assistant",
+          "author": "Taufiq",
+          "heat": "19 赞 / 3,264 浏览 / 4 收藏",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://dribbble.com/shots/26292737--Animation-Ello-Assistant-AI-Generate"
+            }
+          ],
+          "fullText": "### Ello Assistant\n\n作者：Taufiq。日期：2025-07-19。\n\n上传 PDF 后，空态柔光球退场，原位置换成文档式回答；侧栏不动。适合参考装饰如何把注意力交给结果。已核对主片两种状态；未试玩。\n\n热度：19 赞 / 3,264 浏览 / 4 收藏。\n\n[查看原作](https://dribbble.com/shots/26292737--Animation-Ello-Assistant-AI-Generate)",
+          "verification": "上传 PDF 后，空态柔光球退场，原位置换成文档式回答；侧栏不动。适合参考装饰如何把注意力交给结果。已核对主片两种状态；未试玩。",
+          "originalDateNote": "2025-07-19"
+        },
+        {
+          "id": "2026-11-20-ad9fb55aaa19",
+          "date": "2026-11-20",
+          "module": "UI动效",
+          "originalModule": "UI动效",
+          "title": "AI image generating — Experimentations",
+          "originalHeading": "AI image generating — Experimentations",
+          "author": "AYOUB MARGHOUBI",
+          "heat": "0 赞 / 143 浏览",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://dribbble.com/shots/27814430-AI-image-generating-Experimentations"
+            }
+          ],
+          "fullText": "### AI image generating — Experimentations\n\n作者：AYOUB MARGHOUBI。日期：2026-10-15。\n\n黄绿流线、颗粒网格和紫橙色带让卡片显得正在成形。可以借鉴逐步显影，而非给现成图叠普通光扫。看过 3.37 秒原循环的不同帧；实现未公开。\n\n热度：0 赞 / 143 浏览。\n\n[查看原作](https://dribbble.com/shots/27814430-AI-image-generating-Experimentations)",
+          "verification": "黄绿流线、颗粒网格和紫橙色带让卡片显得正在成形。可以借鉴逐步显影，而非给现成图叠普通光扫。看过 3.37 秒原循环的不同帧；实现未公开。",
+          "originalDateNote": "2026-10-15"
+        },
+        {
+          "id": "2026-11-20-96fb688a023a",
+          "date": "2026-11-20",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "OATs",
+          "originalHeading": "OATs",
+          "author": "Daehwa Kim、Chris Harrison / CMU",
+          "heat": "仓库 5 stars、1 fork",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://daehwakim.com/oat/index.html"
+            }
+          ],
+          "fullText": "### OATs\n\n作者：Daehwa Kim、Chris Harrison / CMU。日期：UIST 2026，首发日未核实。\n\n给植物、冰箱等日用品挂上墨水屏和传感器。植物缺水就紧张，被照料后露出笑脸。与其再加个数据面板，不如让简单状态直接变成表情。已看作者实物图和技术说明，未体验硬件。\n\n热度：仓库 5 stars、1 fork。\n\n[查看原作](https://daehwakim.com/oat/index.html)",
+          "verification": "给植物、冰箱等日用品挂上墨水屏和传感器。植物缺水就紧张，被照料后露出笑脸。与其再加个数据面板，不如让简单状态直接变成表情。已看作者实物图和技术说明，未体验硬件。",
+          "originalDateNote": "UIST 2026，首发日未核实"
+        },
+        {
+          "id": "2026-11-20-9fd0758c8880",
+          "date": "2026-11-20",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "lilpix",
+          "originalHeading": "lilpix",
+          "author": "Dhruv Suthar",
+          "heat": "仓库 4 stars",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://lilpix.dhrv.pw"
+            }
+          ],
+          "fullText": "### lilpix\n\n作者：Dhruv Suthar。日期：Codrops 标示 2026-10-16，非首发。\n\n点一下，黑色立方机器人用像素眼、灯光和声音一起换心情。可把表情拆成多个反馈通道，比只换一张脸更有角色感。已看真实预览封面和原仓库，未实玩或听声音。\n\n热度：仓库 4 stars。\n\n[查看原作](https://lilpix.dhrv.pw)",
+          "verification": "点一下，黑色立方机器人用像素眼、灯光和声音一起换心情。可把表情拆成多个反馈通道，比只换一张脸更有角色感。已看真实预览封面和原仓库，未实玩或听声音。",
+          "originalDateNote": "Codrops 标示 2026-10-16，非首发"
+        },
+        {
+          "id": "2026-11-20-918bfb030578",
+          "date": "2026-11-20",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Tree Demo",
+          "originalHeading": "Tree Demo",
+          "author": "Pablo Mesquida",
+          "heat": "仓库页面显示 0 stars、1 fork",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://tree-demo-ten.vercel.app/"
+            }
+          ],
+          "fullText": "### Tree Demo\n\n作者：Pablo Mesquida。日期：Codrops 标示 2026-11-05，非首发。\n\n通过指针摇树，叶片掉下再从树枝长回。值得参考的是破坏后自动恢复，不用重置页面就能再玩。已看封面和原仓库，未现场摇动。\n\n热度：仓库页面显示 0 stars、1 fork。\n\n[查看原作](https://tree-demo-ten.vercel.app/)",
+          "verification": "通过指针摇树，叶片掉下再从树枝长回。值得参考的是破坏后自动恢复，不用重置页面就能再玩。已看封面和原仓库，未现场摇动。",
+          "originalDateNote": "Codrops 标示 2026-11-05，非首发"
+        },
+        {
+          "id": "2026-11-20-c599e76c5a7e",
+          "date": "2026-11-20",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Earthlight",
+          "originalHeading": "Earthlight",
+          "author": "Max Vyshniakov",
+          "heat": "仓库 2 stars、1 fork",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://earthlight.maxvyshniakov.com/"
+            }
+          ],
+          "fullText": "### Earthlight\n\n作者：Max Vyshniakov。日期：Codrops 标示 2026-10-21，非首发。\n\n轨道视角下能找夜景、极光构图，调整视点、时间和曝光。可把导览做成摄影操作，而不只是转一个球。已查原作者实时渲染帧及控制说明，未现场飞行。\n\n热度：仓库 2 stars、1 fork。\n\n[查看原作](https://earthlight.maxvyshniakov.com/)",
+          "verification": "轨道视角下能找夜景、极光构图，调整视点、时间和曝光。可把导览做成摄影操作，而不只是转一个球。已查原作者实时渲染帧及控制说明，未现场飞行。",
+          "originalDateNote": "Codrops 标示 2026-10-21，非首发"
+        },
+        {
+          "id": "2026-11-20-01eb3a894a25",
+          "date": "2026-11-20",
+          "module": "趣味交互",
+          "originalModule": "趣味交互",
+          "title": "Ocean",
+          "originalHeading": "Ocean",
+          "author": "Maksymilian Dendura / Noniv",
+          "heat": "仓库约 1.1k stars、162 forks",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://ocean-noniv.vercel.app/"
+            }
+          ],
+          "fullText": "### Ocean\n\n作者：Maksymilian Dendura / Noniv。日期：Codrops 标示 2026-10-17，非首发。\n\n自由移动相机并调风、涌浪和浑浊度；从低机位看浪尖和夕阳反光的关系。已看真实预览和作者 README，未现场飞行；试玩需兼容 WebGPU。\n\n热度：仓库约 1.1k stars、162 forks。\n\n[查看原作](https://ocean-noniv.vercel.app/)",
+          "verification": "自由移动相机并调风、涌浪和浑浊度；从低机位看浪尖和夕阳反光的关系。已看真实预览和作者 README，未现场飞行；试玩需兼容 WebGPU。",
+          "originalDateNote": "Codrops 标示 2026-10-17，非首发"
+        },
+        {
+          "id": "2026-11-20-95148fa5cc04",
+          "date": "2026-11-20",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "SoftworkerAI’s launch, in 69 seconds",
+          "originalHeading": "SoftworkerAI’s launch, in 69 seconds",
+          "author": "Nishkarsh Gupta",
+          "heat": "公开数据未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://nishkarsh-ux.vercel.app/softworker-launch.html"
+            },
+            {
+              "label": "影片",
+              "url": "https://www.youtube.com/watch?v=9KG0TOtMS_w"
+            }
+          ],
+          "fullText": "### SoftworkerAI’s launch, in 69 seconds\n\n作者：Nishkarsh Gupta。日期：2026-09 至 10 制作。\n\n黑底应用标签、粉白仪表盘与四张并排 agent 卡。作者用 Remotion、React 和 AI 编码工具重建真实界面，逐秒抽查后改成清晰的向上推页。大标题快，真实界面细节放慢。已看成片三处静帧。[影片](https://www.youtube.com/watch?v=9KG0TOtMS_w)\n\n热度：公开数据未知。\n\n[查看原作](https://nishkarsh-ux.vercel.app/softworker-launch.html)",
+          "verification": "黑底应用标签、粉白仪表盘与四张并排 agent 卡。作者用 Remotion、React 和 AI 编码工具重建真实界面，逐秒抽查后改成清晰的向上推页。大标题快，真实界面细节放慢。已看成片三处静帧。[影片](https://www.youtube.com/watch?v=9KG0TOtMS_w)",
+          "originalDateNote": "2026-09 至 10 制作"
+        },
+        {
+          "id": "2026-11-20-c34fc6e63cd9",
+          "date": "2026-11-20",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "EquiSense",
+          "originalHeading": "EquiSense",
+          "author": "Nishkarsh Gupta",
+          "heat": "公开数据未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://nishkarsh-ux.vercel.app/assets/motion/equisense/launch-720.mp4"
+            },
+            {
+              "label": "作者页",
+              "url": "https://nishkarsh-ux.vercel.app/motion.html"
+            }
+          ],
+          "fullText": "### EquiSense\n\n作者：Nishkarsh Gupta。日期：2026，精确日期未知。\n\n用绿色外套角色和被划掉的 3 hours 对比醒目的 3 minutes，先让观众明白效率差异，再讲产品。已看原封面及作者制作说明，未完整播放；时间是宣传文案，不是核验结果。[作者页](https://nishkarsh-ux.vercel.app/motion.html)\n\n热度：公开数据未知。\n\n[查看原作](https://nishkarsh-ux.vercel.app/assets/motion/equisense/launch-720.mp4)",
+          "verification": "用绿色外套角色和被划掉的 3 hours 对比醒目的 3 minutes，先让观众明白效率差异，再讲产品。已看原封面及作者制作说明，未完整播放；时间是宣传文案，不是核验结果。[作者页](https://nishkarsh-ux.vercel.app/motion.html)",
+          "originalDateNote": "2026，精确日期未知"
+        },
+        {
+          "id": "2026-11-20-9806c6cc0c58",
+          "date": "2026-11-20",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Oracle AI: Ask. Act.",
+          "originalHeading": "Oracle AI: Ask. Act.",
+          "author": "orbimotion",
+          "heat": "公开数据未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://orbimotion.com/spec-oracle-ai"
+            },
+            {
+              "label": "循环片段",
+              "url": "https://orbimotion.com/media/loops/oracle-ai.mp4"
+            }
+          ],
+          "fullText": "### Oracle AI: Ask. Act.\n\n作者：orbimotion。日期：2026 非官方概念宣传。\n\n红橙点阵数据环接到大号数字，作者分镜最后落到自然语言查询框。适合借鉴几何母题如何贯穿视觉和功能说明。已看作品静帧、核对作者分镜；其中数字不是 Oracle 官方指标。[循环片段](https://orbimotion.com/media/loops/oracle-ai.mp4)\n\n热度：公开数据未知。\n\n[查看原作](https://orbimotion.com/spec-oracle-ai)",
+          "verification": "红橙点阵数据环接到大号数字，作者分镜最后落到自然语言查询框。适合借鉴几何母题如何贯穿视觉和功能说明。已看作品静帧、核对作者分镜；其中数字不是 Oracle 官方指标。[循环片段](https://orbimotion.com/media/loops/oracle-ai.mp4)",
+          "originalDateNote": "2026 非官方概念宣传"
+        },
+        {
+          "id": "2026-11-20-98ed426fd449",
+          "date": "2026-11-20",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Gemini 3.8 Flash: Intelligence in a flash",
+          "originalHeading": "Gemini 3.8 Flash: Intelligence in a flash",
+          "author": "orbimotion",
+          "heat": "公开数据未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://orbimotion.com/spec-gemini-flash-cosmic"
+            },
+            {
+              "label": "循环片段",
+              "url": "https://orbimotion.com/media/loops/gemini-flash-cosmic.mp4"
+            }
+          ],
+          "fullText": "### Gemini 3.8 Flash: Intelligence in a flash\n\n作者：orbimotion。日期：2026 非官方概念宣传。\n\n暗色星空与代码衬托一枚巨大的紫粉数字，作者用疾速开场、提示词到结果、计分板三拍讲述。已看作品静帧、核对作者分镜；片名和分数不能当 Google 官方发布或性能数据。[循环片段](https://orbimotion.com/media/loops/gemini-flash-cosmic.mp4)\n\n热度：公开数据未知。\n\n[查看原作](https://orbimotion.com/spec-gemini-flash-cosmic)",
+          "verification": "暗色星空与代码衬托一枚巨大的紫粉数字，作者用疾速开场、提示词到结果、计分板三拍讲述。已看作品静帧、核对作者分镜；片名和分数不能当 Google 官方发布或性能数据。[循环片段](https://orbimotion.com/media/loops/gemini-flash-cosmic.mp4)",
+          "originalDateNote": "2026 非官方概念宣传"
+        },
+        {
+          "id": "2026-11-20-83ca60b9c118",
+          "date": "2026-11-20",
+          "module": "AI产品宣传",
+          "originalModule": "AI产品宣传",
+          "title": "Blink × Flowjam",
+          "originalHeading": "Blink × Flowjam",
+          "author": "Flowjam",
+          "heat": "工作室自报约 33 万，统计时间及口径未核实",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://www.flowjam.com/blink"
+            },
+            {
+              "label": "影片",
+              "url": "https://vimeo.com/1155453093"
+            }
+          ],
+          "fullText": "### Blink × Flowjam\n\n作者：Flowjam。日期：2026，精确日期未知。\n\n暗色体积光和布料质感承托醒目的白字。适合参考先用材料氛围立住品牌、再用极少文字讲产品的做法。已看原项目封面与说明，未验证完整分镜。[影片](https://vimeo.com/1155453093)\n\n热度：工作室自报约 33 万，统计时间及口径未核实。\n\n[查看原作](https://www.flowjam.com/blink)",
+          "verification": "暗色体积光和布料质感承托醒目的白字。适合参考先用材料氛围立住品牌、再用极少文字讲产品的做法。已看原项目封面与说明，未验证完整分镜。[影片](https://vimeo.com/1155453093)",
+          "originalDateNote": "2026，精确日期未知"
+        },
+        {
+          "id": "2026-11-20-bf5ec9759e80",
+          "date": "2026-11-20",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "OpenFilm intro",
+          "originalHeading": "OpenFilm intro",
+          "author": "OpenFilm / riverisbuilding",
+          "heat": "影片热度未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://openfilm.dev/"
+            },
+            {
+              "label": "工程",
+              "url": "https://github.com/openfilm/examples/blob/main/openfilm-intro/README.md"
+            },
+            {
+              "label": "幕后",
+              "url": "https://github.com/openfilm/examples/blob/main/openfilm-intro/make/README.md"
+            }
+          ],
+          "fullText": "### OpenFilm intro\n\n作者：OpenFilm / riverisbuilding。日期：v0.4.0：2026-11-18；不等于影片首发。\n\n1:42 中文介绍片，Blender 做开场、ElevenLabs 配音，HTML 镜头对齐字幕时间码；31.6–49.8 秒看镜头内编辑，49.8–70.8 秒看香水片工作流。读了完整工程说明：录的是实际桌面 App，但对话由脚本驱动，没有实时调用模型。借鉴把可修改的分镜与生成素材拆开。[工程](https://github.com/openfilm/examples/blob/main/openfilm-intro/README.md) · [幕后](https://github.com/openfilm/examples/blob/main/openfilm-intro/make/README.md)\n\n热度：影片热度未知。\n\n[查看原作](https://openfilm.dev/)",
+          "verification": "1:42 中文介绍片，Blender 做开场、ElevenLabs 配音，HTML 镜头对齐字幕时间码；31.6–49.8 秒看镜头内编辑，49.8–70.8 秒看香水片工作流。读了完整工程说明：录的是实际桌面 App，但对话由脚本驱动，没有实时调用模型。借鉴把可修改的分镜与生成素材拆开。[工程](https://github.com/openfilm/examples/blob/main/openfilm-intro/README.md) · [幕后](https://github.com/openfilm/examples/blob/main/openfilm-intro/make/README.md)",
+          "originalDateNote": "v0.4.0：2026-11-18；不等于影片首发"
+        },
+        {
+          "id": "2026-11-20-89fa2a063a6a",
+          "date": "2026-11-20",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Making Mila’s launch video with Claude Code",
+          "originalHeading": "Making Mila’s launch video with Claude Code",
+          "author": "Guli Moreno",
+          "heat": "影片热度未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://www.gulipad.com/writings/mila-launch-video"
+            },
+            {
+              "label": "成片",
+              "url": "https://www.gulipad.com/writings/mila-launch-video/mila.mp4"
+            }
+          ],
+          "fullText": "### Making Mila’s launch video with Claude Code\n\n作者：Guli Moreno。日期：2026-10-05。\n\nClaude Code 写 HyperFrames 的 HTML/GSAP 动效，作者先选参考和音乐，再审脚本、卡重拍、保存好版本。公开对话记录了 69 轮提示与回复、652 次工具调用、8 小时 27 分，不是一条提示成片。已看封面和制作记录。[成片](https://www.gulipad.com/writings/mila-launch-video/mila.mp4)\n\n热度：影片热度未知。\n\n[查看原作](https://www.gulipad.com/writings/mila-launch-video)",
+          "verification": "Claude Code 写 HyperFrames 的 HTML/GSAP 动效，作者先选参考和音乐，再审脚本、卡重拍、保存好版本。公开对话记录了 69 轮提示与回复、652 次工具调用、8 小时 27 分，不是一条提示成片。已看封面和制作记录。[成片](https://www.gulipad.com/writings/mila-launch-video/mila.mp4)",
+          "originalDateNote": "2026-10-05"
+        },
+        {
+          "id": "2026-11-20-b6ff23a55635",
+          "date": "2026-11-20",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "AMBER",
+          "originalHeading": "AMBER",
+          "author": "Craig Lew",
+          "heat": "公开数据未知",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://craiglew.com/"
+            }
+          ],
+          "fullText": "### AMBER\n\n作者：Craig Lew。日期：发布日期未公开。\n\n先把穿山甲正、侧、背和表情做成角色表，再用 Omni 逐镜生成、用 Premiere 剪辑混音。与其反复抽卡找同一张脸，不如先固定角色资产包。实看设定图和作者流程，未确认完整影片公开可播；模型版本未披露。\n\n热度：公开数据未知。\n\n[查看原作](https://craiglew.com/)",
+          "verification": "先把穿山甲正、侧、背和表情做成角色表，再用 Omni 逐镜生成、用 Premiere 剪辑混音。与其反复抽卡找同一张脸，不如先固定角色资产包。实看设定图和作者流程，未确认完整影片公开可播；模型版本未披露。",
+          "originalDateNote": "发布日期未公开"
+        },
+        {
+          "id": "2026-11-20-2ae11c665bbe",
+          "date": "2026-11-20",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "OVA - The Little Astronaut (AI Short Film)",
+          "originalHeading": "OVA - The Little Astronaut (AI Short Film)",
+          "author": "Cyril Verbois / Chyrillo Motion",
+          "heat": "Vimeo 播放量未核实",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://vimeo.com/1082110544"
+            }
+          ],
+          "fullText": "### OVA - The Little Astronaut (AI Short Film)\n\n作者：Cyril Verbois / Chyrillo Motion。日期：2025-05-07 Vimeo 上传，旧作。\n\n小宇航员与蓝色星球。作者用 ChatGPT 做脚本基础、Midjourney 出图、Runway 做动镜，Magnific/Topaz 放大，再用 Adobe 工具完成后期。可以复用生成候选、筛镜头、手工合成的工序。已读原始制作说明、看封面，未完整看片；不把有配音署名的影片说成无人制作。\n\n热度：Vimeo 播放量未核实。\n\n[查看原作](https://vimeo.com/1082110544)",
+          "verification": "小宇航员与蓝色星球。作者用 ChatGPT 做脚本基础、Midjourney 出图、Runway 做动镜，Magnific/Topaz 放大，再用 Adobe 工具完成后期。可以复用生成候选、筛镜头、手工合成的工序。已读原始制作说明、看封面，未完整看片；不把有配音署名的影片说成无人制作。",
+          "originalDateNote": "2025-05-07 Vimeo 上传，旧作"
+        },
+        {
+          "id": "2026-11-20-14c148dc30b1",
+          "date": "2026-11-20",
+          "module": "AI制作动画",
+          "originalModule": "AI制作动画",
+          "title": "Alas de Papel (Paper Wings) - AI Animated Short Film",
+          "originalHeading": "Alas de Papel (Paper Wings) - AI Animated Short Film",
+          "author": "Amaru Zeas-Sigüenza",
+          "heat": "Vimeo 播放量未核实",
+          "links": [
+            {
+              "label": "查看原作",
+              "url": "https://vimeo.com/1075703067"
+            },
+            {
+              "label": "作者制作记录",
+              "url": "https://www.linkedin.com/posts/amaru-zeas-sig%C3%BCenza_klingai-aifilmmaking-shortfilm-activity-7317925188640104448-qAOC"
+            }
+          ],
+          "fullText": "### Alas de Papel (Paper Wings) - AI Animated Short Film\n\n作者：Amaru Zeas-Sigüenza。日期：2025-04-15 Vimeo 上传，旧作。\n\n导演用 Griptape 和 ComfyUI 管流程，混用 Kling、Runway 和后期工具；自述做过 3,500 多张图、400 多段视频、145 版配乐。可借鉴按镜头存资产、按版本筛选，再把声画汇合剪辑。已读原说明和看封面，未完整看片。[作者制作记录](https://www.linkedin.com/posts/amaru-zeas-sig%C3%BCenza_klingai-aifilmmaking-shortfilm-activity-7317925188640104448-qAOC)\n\n热度：Vimeo 播放量未核实。\n\n[查看原作](https://vimeo.com/1075703067)",
+          "verification": "导演用 Griptape 和 ComfyUI 管流程，混用 Kling、Runway 和后期工具；自述做过 3,500 多张图、400 多段视频、145 版配乐。可借鉴按镜头存资产、按版本筛选，再把声画汇合剪辑。已读原说明和看封面，未完整看片。[作者制作记录](https://www.linkedin.com/posts/amaru-zeas-sig%C3%BCenza_klingai-aifilmmaking-shortfilm-activity-7317925188640104448-qAOC)",
+          "originalDateNote": "2025-04-15 Vimeo 上传，旧作"
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "title": "2026-11-19 UI 与动效设计精选",
