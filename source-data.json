@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,935 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-22",
+      "title": "11 月 22 日 · UI 与动效精选",
+      "fullText": "# 2026-11-22｜UI 与动效精选\n\n**33 例：UI 设计 6、UI 动效 10、趣味交互 5、AI 产品宣传 5、AI 制作动画 7。**\n\n先看 **EV cluster**：速度数字、针和蓝色轨道一起响应，旁边电量不乱动；再看 **Pitch Anything Block**，把输入、生成和可拖的结果拍得很清楚；想拆制作流程，推荐 **Ploto** 同一镜头的三版对照。\n\n## UI 设计｜6\n\n1. **[Binaery｜把 Shopify 工作室做成航天任务](https://www.binaery.com/)**｜Binaery｜2026-11-21 CSS Design Awards 提名；不是首发日期\n首页把 Ehsan 和 Angie 变成坐在驾驶舱的毛毡宇航员；作者分享图和站内原图都用了同一套玩具材质。可让团队介绍担任品牌故事的开场，但业务链接仍用直接文字。已看原站驾驶舱图和分享图，未实测飞行或滚动。 热度：CSSDA 当前 UI 4 / UX 4 / 创新 4 票，不是流量。 [提名证据](https://cssdesignawards.com/sites/binaery/50854/)\n\n2. **[Polestar 非官方概念｜让用车数据有实体开关感](https://dribbble.com/shots/27897600-Polestar-UI-Concept-Tactile-3D-Car-Dashboard-and-Mobile-Compan)**｜Aurélien Salomon / Orizon｜本轮见于 Dribbble 近一周热门榜；具体上传日未核实\n深色布局中，续航、电量和 Inbox 分层，银色旋钮与橙色控件比图表更像可操作区域。可借鉴让材质只强调控制权，不把每项数据都拟物化。已看作者静帧；这是非官方 App 概念，不是量产车机，未测试驾驶可用性。 热度：48 赞 / 约 8,100 浏览（Dribbble 榜单）。 [榜单热度](https://dribbble.com/shots/popular/product-design?timeframe=week)\n\n3. **[OmniBuds｜让健康科技落到可读的版面](https://dribbble.com/shots/27900390-Website-for-a-Healthtech-Product-OmniBuds)**｜Halo UI/UX / HALO LAB｜本轮见于 Dribbble 近一周热门榜；具体上传日未核实\n左列用摄影和小号文字交代使用情境，右列用亮黄色卷首、耳朵轮廓和循环示意组织技术介绍。可借鉴让亮色承担章节定位，正文留白保持可读。已看作者发布的页面拼版，未验证真实产品及医疗宣称。 热度：114 赞 / 约 2.48 万浏览（Dribbble 榜单）。 [榜单热度](https://dribbble.com/shots/popular/product-design?timeframe=week)\n\n4. **[Atrium｜把语音代理的交接留在屏幕上](https://dribbble.com/shots/27892406-Atrium-Delegate-by-voice-AI-Voice-Assistant-Dashboard)**｜Imran Hossen｜本轮见于 Dribbble 近一周热门榜；具体上传日未核实\n主画布让发光橙球和录音键成为唯一重心，侧栏独立显示代理或任务信息。语音界面不必把所有说明都塞到波形旁边，可用侧栏保留可复查的工作线索。已看作者封面和说明，未实测代理、自动执行或撤销。 热度：202 赞 / 约 2.85 万浏览（Dribbble 榜单）。 [榜单热度](https://dribbble.com/shots/popular/product-design?timeframe=week)\n\n5. **[GTA 6 Radio｜让电台封面做主导航](https://dribbble.com/shots/27907220-GTA-6-Radio-Gaming-Website-Music-Player-UI)**｜vino_costa / Roobinium｜本轮见于 Dribbble 近一周热门榜；具体上传日未核实\n把电台做成横向唱片封面，当前 FLASH FM 站名居中，播放控件缩到城景下角。浏览时靠封面识别，播放后给环境让出空间。已看作者静帧与原说明；为非官方同人设计，不保证音乐版权或播放可用。 热度：201 赞 / 约 2.21 万浏览（Dribbble 榜单）。 [榜单热度](https://dribbble.com/shots/popular/product-design?timeframe=week)\n\n6. **[maximale｜建筑项目索引先分信息层](https://www.maximalestudio.com/)**｜maximale / 网站制作署名未核｜11/19 北京时间现有站点构建，首发日未核实\n原站分享图以模糊暖色景深托住超大的细衬线字标；主页公开索引把项目、地点、类型分栏。可借鉴氛围图负责建立调性，项目表负责快速查找。已看原分享图及原站文本，未验证索引交互。 热度：Siteinspire 收录；无公开流量量级。 [收录证据](https://www.siteinspire.com/website/13687-maximale)\n\n## UI 动效｜10\n\n1. **[EV cluster：可拖动的座舱仪表](https://www.exodeui.com/showcase/)**｜ExodeUI；单件作者未公开｜2026 年 11 月项目合集更新，单件首发日未核实\n在公开网页实拖速度盘，拖前显示 78 km/h，拖向右侧后显示 132 km/h，蓝针与轨道亮段一起前进；68% 电量在这次操作中没有跟着变。借鉴：数字、针和轨道表达同一速度，而旁边的独立信息保持稳定。只测网页示例，不是量产座舱，也没测实际弹簧参数。 热度：该案例互动量未公开。 封面暂缺：已实看原站画布，未确认独立案例预览图的公开再发布许可。\n\n2. **[Atelier North](https://atelier-north.crnacura.workers.dev/)**｜Kaisei Sadatoki｜2026-10-09（Codrops Demo Hub 所列日期，首发日未核定）\n滚过蓝色巨字：描边转为实色，服务区的色块与字层叠放，随后 Selected Works 大图区接力。值得拆的是让文字动效在进入内容前先划出章节，不只是装饰首屏。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://tympanus.net/codrops/?p=123651) · [作者解读／源码](https://github.com/codrops/atelier-north) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/10/AtelierNorth_800x600.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/10/AtelierNorth_cover-400x300.jpg) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n3. **[Amber Genetics](https://amber.isma.uy/)**｜Ismael Martínez｜2026-10-08（Codrops Demo Hub 所列日期，首发日未核定）\n三维恐龙轮播钻入物种详情时，当前标本与标题仍是焦点，明亮展示台换成带密集规格的界面；模型是两种布局之间的识别锚点。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://tympanus.net/codrops/?p=123421) · [作者解读／源码](https://github.com/ismamz/amber) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/10/amber_demo.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/10/amber-first-frame-400x300.png) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n4. **[Smear Frames × Motion Blur](https://smear.niccolofanton.dev)**｜Niccolò Fanton｜2026-09-27（Codrops Demo Hub 所列日期，首发日未核定）\n同一段快速运动可切 Before / After：亮色几何体在高速时拉成粗长剪影或叠成多道拖影，停下仍保持清楚轮廓。适合给极短过场定速度线和监管变形量。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://github.com/niccolofanton/smear-blur-showreel) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/10/smear_800x600.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/10/smear_cover-400x300.jpg) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n5. **[Custom-Shaped Cursor Trail with Three.js and TSL](https://tympanus.net/Demos/CustomShapedCursorTrail/)**｜Bautista Berto｜2026-09-24（Codrops Demo Hub 所列日期，首发日未核定）\n红黄笔触横穿深色字标时，笔触与字的局部形变一同掠过；让指针留下短路径记忆，又不变成盖住页面的信息层。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://tympanus.net/codrops/?p=121682) · [作者解读／源码](https://github.com/BertovDev/cursor-shader-trail) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/09/cursor-shader-trail-demo-4s-compressed.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/09/featured-1200x900-2-400x300.jpg) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n6. **[Reel Flux](https://saurow-reel.vercel.app/)**｜Saurabh Thapliyal｜2026-09-14（Codrops Demo Hub 所列日期，首发日未核定）\n横向作品带不是一条平跑的轴：图框随通过弯曲路径改变形变与位置，正中能看清，两端逐步收走，主次随连续滚动变换。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://blog-saurow.vercel.app/article/reel) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/09/saurow.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/09/saurow-400x300.png) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n7. **[Golem｜菜单栏计时反馈](https://x.com/nicofrey/status/2123490424992281023)**｜Nico Frey｜2026-11-19（作者 X 原帖 ID 对应 UTC 日期）\n点击 macOS 菜单栏小白图标后，位置附近出现红色信号，左侧短计时从 00:00 跳到 00:03；鼠标移开也能继续读状态，不需要展开工具面板。演示只确认计时状态，未确认录制功能本身已经上架。 已看署名演示逐秒画面，未实操。 热度：X 未能直读统计；未核到可比传播量。 [署名动态预览](https://memorabl.es/work/golem) · [目录原作预览](https://media.memorabl.es/works/golem-1440.webp) 封面暂缺：未确认署名预览的本站复用许可；仅链出处。\n\n8. **[Liquid UI Components](https://x.com/koppkev/status/2120471771602092136)**｜Kopp｜2026-11-11（作者 X 原帖 ID 对应 UTC 日期）\n指针从下载、复制移到收藏时，上方短提示随着定位变化；录屏末尾还见胶囊式页签和色彩选单。可以把动作确认的提示保持在手边，不打断内容。 已看署名演示逐秒画面，未实操。 热度：X 未能直读统计；未核到可比传播量。 [署名动态预览](https://memorabl.es/work/liquid-ui-components) · [目录原作预览](https://media.memorabl.es/works/liquid-ui-components-1152.webp) 封面暂缺：未确认署名预览的本站复用许可；仅链出处。\n\n9. **[Imagine Comments](https://x.com/rybinandy/status/2118327758912618611)**｜Andrey Rybin｜2026-11-05（作者 X 原帖 ID 对应 UTC 日期）\n评论选中后周围内容虚化，Copy / Select / Imagine 三个操作就地出现；稍后列表恢复，原评论中露出两张图，然后下一条评论能重新聚焦。仅能确认 UI 演示的完整状态，不能据此说生成服务已上线。 已看署名演示逐秒画面，未实操。 热度：X 未能直读统计；未核到可比传播量。 [署名动态预览](https://memorabl.es/work/imagine-comments) · [目录原作预览](https://media.memorabl.es/works/imagine-comments-1080.webp) 封面暂缺：未确认署名预览的本站复用许可；仅链出处。\n\n10. **[Feedback Slider](https://x.com/salungprastyo/status/2117510268926546245)**｜Salung Prastyo｜2026-11-03（作者 X 原帖 ID 对应 UTC 日期）\n弹窗里的黄色滑轨由左拉到右，上方脸从低落切换到中性再到笑脸；按钮仍固定。值得借的是即刻可见的表情反馈，分值不需要在手指附近再多弹一层。 已看署名演示逐秒画面，未实操。 热度：X 未能直读统计；未核到可比传播量。 [署名动态预览](https://memorabl.es/work/feedback-slider) · [目录原作预览](https://media.memorabl.es/works/feedback-slider-1146.webp) 封面暂缺：未确认署名预览的本站复用许可；仅链出处。\n\n## 趣味交互｜5\n\n1. **[Allo Logo｜会回应的字标](https://allo.joshpuckett.me/)**｜Josh Puckett｜2026-11-16（作者 X 原帖 ID 对应 UTC 日期）\nAllo 字标把句点变成角色，片中能看见点在字母上方出现，随后落到字尾；作者原帖的公开副本补充，它会对戳碰和试图拖走等行为作出回应。字体的开源许可不能自动覆盖网页和录像。 已看署名演示逐秒画面，未实操。 热度：X 未能直读统计；未核到可比传播量。 [原帖文本公开读取](https://teapawt.net/joshpuckett/status/2122476493481865674) · [作者原帖（X）](https://x.com/joshpuckett/status/2122476493481865674) · [署名动态预览](https://memorabl.es/work/allo-logo) · [目录原作预览](https://media.memorabl.es/works/allo-logo-1526.webp) 封面暂缺：未确认署名预览的本站复用许可；仅链出处。\n\n2. **[Organ Bank](https://davidyen1124.github.io/organ-bank/)**｜David Yen｜2026-10-12（Codrops Demo Hub 所列日期，首发日未核定）\n把躯体拆成十个固定于墙的裸 CRT，单个器官维持四帧循环。演示从全身推进至 CEREBRUM，再转移到成对紫色 OCULUS，最后退回整体；详情与近景绑在一起，好像在翻一份可钻进的解剖档案。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://github.com/davidyen1124/organ-bank) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/11/OrganBank_800x600.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/11/OrganBank_cover-400x300.jpg) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n3. **[Under the Sea](https://underthesea.wawasensei.dev/)**｜Wawa Sensei｜2026-10-05（Codrops Demo Hub 所列日期，首发日未核定）\n夜海中飞鱼群在暖黄灯和倒影附近忽聚忽散，左下的近景小窗换了镜头，右下保留控制区；原作 README 确认是 GPU 模拟鱼群的 WebGPU 夜景，对支持情况有要求。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://github.com/wass08/under-the-sea) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/10/underthesea_800x600.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/10/underthesea_cover-400x300.jpg) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n4. **[Sakura Fantasy](https://sakura.billpwchan.art/)**｜Bill P. W. Chan｜2026-10-04（Codrops Demo Hub 所列日期，首发日未核定）\n低机位乌篷船沿樱花河谷前行，尾迹、河面倒影和季候把切换接在同一条航线。逐秒画面证实船位和视角推进，原作说明支持四季和按小时变化；未逐项实试控制。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://github.com/billpwchan/sakura-fantasy) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/10/sakurafantasy_800x600.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/10/sakurafantasy_cover-400x300.jpg) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n5. **[Bumpy Metaballs 2026](https://spite.github.io/bumpy-metaballs-2026/)**｜Jaume Sánchez Elias｜2026-09-29（Codrops Demo Hub 所列日期，首发日未核定）\n桃红场景里的液珠彼此靠近、收成带孔的团，再拉开；右边始终露出参数栏，可以对照连续形变而不是只看一段静态渲染。（已看真实演示逐秒画面，未在浏览器实操。） 热度：未核到可比传播量。 [作者解读／源码](https://github.com/spite/bumpy-metaballs-2026) · [真实演示（视频）](https://tympanus.net/codrops/wp-content/uploads/2026/11/BumpyMetaballs2026_800x600.mp4) · [目录原作预览](https://tympanus.net/codrops/wp-content/uploads/2026/11/BumpyMetaballs2026_cover-400x300.jpg) 封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。\n\n## AI 产品宣传｜5\n\n1. **[Introducing Gemini 4 Neon](https://x.com/GoogleAIStudio/status/2123168408678359294)**｜Google AI Studio｜Google 官方公告：2026-11-18；观察的是 Google AI Studio 35 秒版本，不是第三方的同名 90 秒短片。\n约 0:00 的 Argon 白字标签、0:06 的 Carbon (CH₄)、0:12 的紫色玻璃和橙色火焰，给同一系列逐件建起视觉记忆；约 0:27 四种颜色物件合列，0:31 转为蓝底 Gemini 4 Neon 产品名。适合借鉴的是如何用重复的材料特写和不同光色区分型号，最后再统一收束。实播 35.05 秒；它不是产品 UI 演示，未确认实拍／CG、制作工具或声音设计。 热度：Google 官方发布；未核到原帖公开播放量。 [可播放版本](https://launchscene.app/v/google-google-ai-studio-introducing-gemini-4-neon-frontier-l) · [Google 官方公告](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) 封面暂缺：未确认可转载封面，保留播放和官方源链接。\n\n2. **[Make interactive slides with AI | Meet Pitch’s Anything block](https://www.pitch.com/whats-new/introducing-the-anything-block)**｜Pitch｜2026-10-06 为官方功能公告日；独立 47 秒片源上传日未独立核实。\n约 0:08.7 输入前后图对比滑块，0:10.8 显示 Thinking，0:13.5 显示构建回执，0:17.7 滑块已可拖。后半段换漏斗例子：0:31–0:32 悬停只改变高亮，0:36–0:38 编辑 Total views 参数后比例才实际变化。可借鉴的是把触发、处理、可操作结果分别给镜头；不要把宣传剪辑时间当成生成耗时。已实播抽样，47.817 秒。 热度：Launchscene 标注对应 YouTube 链接截至 11 月 16 日为 47 播放，未在原页独立核验。 [官方功能文档](https://help.pitch.com/en/articles/16987482-create-anything-with-pitch) · [索引页标注的 YouTube 源](https://www.youtube.com/watch?v=QzH4Y0aL9iE) · [可播放版本](https://launchscene.app/v/pitch-make-interactive-slides-with-ai-meet-pitchs-anything-b?play=1&s=14) 封面暂缺：未确认可再分发封面；原链查看。\n\n3. **[Memento AI Launch Film](https://contra.com/p/EbgmFNYs-memento-ai-launch-film)**｜Samuel Kelvin｜2026-11-19，制作方作品集发布时间；不是产品上线日期。\n约 0:34–0:37，零散照片被细线串成记忆网络；0:38–0:41 输入周年相关记忆查询后切走，没有显示对应回答。0:43–0:47 继续用连线呈现关系，1:00–1:04 出现信件，却没有发送动作。最值得看的是先让照片显出彼此关系，再引出检索动机，而非从空聊天框讲 AI。已核验制作方嵌入视频实际解码，70.059 秒；这是视觉化产品概念，不是公开试用。 热度：未找到公开影片播放量。 [产品官网](https://mymemento.io/) 封面暂缺：影片页有原始画面，但封面再利用权限未核实。\n\n4. **[Agentic Canvas](https://animaapp.com/blog/agentic/canvas/)**｜Anima / AgentGrid；原帖 Michal Cohen｜2026-11-15，品牌发布。\n0:28 左右选中 Kestrel 页面按钮时填色仍是黑色，0:30 左右检查器色签和同一按钮一同变橙；0:35.4 另一个代码镜头显示 .button 的背景为 var(--orange)。不换页面就让观众跟得上人手改哪一处、代码画面又展示哪一处，这是片中最清楚的交接。第三方播放器实播 52.053 秒；未实测导出，也不说片中这段代码一定是即时生成。 热度：Product Hunt 该发布页的已见快照：当日第 6、130 点；不是影片播放量。 [官方产品页](https://agentgrid.io/canvas) · [原发布帖](https://x.com/michal_mic/status/2121904623619658098) · [可播放版本](https://launchscene.app/v/agentgrid-michal-cohen-for-the-visual-thinkers-out-there-wer) · [发布热度](https://www.producthunt.com/products/agentgrid-io?launch=canvas-by-agentgrid-io) 封面暂缺：官方过程图能在其原页查看，复制为公共封面的权限未核。\n\n5. **[Introducing: Native Edits](https://native.no/blog/introducing-native-edits)**｜Native；Benjamin Bekken｜官方文章未核到明确日；影片发布日未核，不当作 11 月新片。\n约 0:03.3–0:04.2，镜头停在同一张沙发图上，先显示原标题，再显示金色选框内正在输入的新标题。0:12.7–0:13.2 的助手控件，从灰槽左侧白圆点切到金槽右侧白圆点。用固定底图和局部改动讲清楚「可编辑」比把改好的成品快切成轮播更直接。播放器实播并抽样核验 22.983 秒，未在产品内操作。 热度：未核到可信公开播放指标。 [文章所嵌官方影片](https://www.youtube.com/watch?v=pCfJ64iSrXc) · [可播放版本](https://launchscene.app/v/native-ai-introducing-native-edits-create-and-edit-your-mark?play=1&s=10) 封面暂缺：未确认可再分发封面；原链查看。\n\n## AI 制作动画｜7\n\n1. **[Ploto｜用同一镜头的三版试片，决定从 Three.js 换到 Blender](https://ploto.me/posts/how-i-made-a-long-video-with-ai/)**｜Ploto｜2026-10-23 作者复盘\n作者先锁定风格与讲法，再让 Claude 写 Python 驱动 Blender 的模型、材质、灯光、机位和关键帧，自己审阅并决定取舍。已逐一解码同镜头三段各 6 秒的原片：9/29 Three.js 只有灰色资金叠块，10/1 Blender 预览给 250 万叠块加灯光和引线，10/6 终版先比较多座标注金额的体块，再收束到被光圈隔离的 250 万。值得借鉴的是第一天拿最难的一镜做对照，定工具和视觉规则后再扩到全片。 主长片过程是 AI 写代码、渲染器出图，不应写成视频模型生成这段；核验是作者自托管同镜三版，未把 B 站长拆解或播放量当实看校验数据。 热度：作者复盘称 46 分钟原片全网约 150 万播放；拆解本身的实时播放量未独立核实。 [B 站拆解原链](https://www.bilibili.com/video/BV1xFnt6zE3K/) · [Three.js 原试片](https://ploto.me/assets/video/retro-video-making/11_same-scene_Threejs.mp4) · [Blender 原预览](https://ploto.me/assets/video/retro-video-making/12_same-scene_Blender-preview.mp4) · [终版原片／封面帧来源](https://ploto.me/assets/video/retro-video-making/13_same-scene_final.mp4) 封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。\n\n2. **[LayerInbetween: Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering](https://mo-haoran.com/LayerInbetween/)**｜Haoran Mo、Zhongyue Guan、Yixin Hu、Zeyu Wang｜ACM 论文 2026-07-03 发表，SIGGRAPH 2026 Journal track。方法案例，不是新短片。\n公开流程输入两张位图线稿和首帧对应的 SVG；系统追踪可见及被挡住的对应笔画、推断图层顺序，再用矢量笔画插值补中间帧。作者页三个以上原始 GIF 已实际解码抽样；多关键帧示例里手与刘海相接时，手/发丝轮廓依遮挡变化；另一个黑白例子是眼周、手形和前后轮廓改变，不靠直接把整张图做淡入淡出。可借鉴的是先把遮挡关系做成独立控制，再查补间中哪些线应消失或重现。研究演示，未各项复测模型或承诺生产质量。 热度：原仓库本轮快照 19 stars、5 forks；非影片播放量。 [手与刘海：原始多关键帧样例](https://mo-haoran.com/LayerInbetween/figures/gif/42_v3_comb.gif) · [ACM 论文](https://doi.org/10.1145/3811364) · [源码及流程](https://github.com/MarkMoHR/LayerInbetween) 封面暂缺：作者项目样例可链接；示例关键帧来自另有来源的动画数据集，不复制为公共封面。\n\n3. **[The workshop in the valley（El taller del valle）](https://github.com/scorpile/CartoonAI)**｜scorpile / Cel Studio｜示例 MP4 随 v0.1.0 于 2026-11-17 释出；不等于影片首映日。\n把 AI 画出的角色/场景资源拆为纸偶部件，用 Python 校量切片、关节和脸部，再让代理把表演、镜头和时序作为 shot 数据编排，由渲染器按数据生成画面，不是每帧跑视频扩散。原版 MP4 已解码为 46.583 秒、1920×1080、单视频流；开头橙衣和青衣角色从山谷工坊外进入，后续在同一背景通过挥手、指向、闭眼反应和单人/双人景别组织交流。最值得借鉴的是把反应和停顿交给脚本，把素材生成与逐镜装配分开。源码可读，未重跑；作者明示没有音轨、口型同步及成品级手部细节。 热度：仓库当次查询 0 stars、0 forks；项目处于 Alpha。 [原始发布与样片下载](https://github.com/scorpile/CartoonAI/releases/tag/v0.1.0) · [作者原片 MP4](https://github.com/scorpile/CartoonAI/releases/download/v0.1.0/taller-v16.mp4) · [导演脚本和现有素材](https://github.com/scorpile/CartoonAI/tree/main/projects/taller-v3) 封面暂缺：代码声明 MIT；影片、成品画面和素材的单独封面授权未确认。\n\n4. **[The Agent Handoff](https://demos.digitalsamba.com/video/the-agent-handoff.mp4)**｜Digital Samba / Claude Code Video Toolkit｜制作方示例表记载 2026-11-01。\n制作方公开记录：代理把一条 Discord 指令扩成脚本和镜头单，管线合成语音、用 LTX-2 生成四个片段和一张流程图卡，再合成、质检。已解码 57.051 秒成片：约 0:03 电路板与黄铜秤用具象画面讲抽象成本；0:22 插入翻动纸页，0:31 切到 model → memory → you deciding → action 图，0:37 又切回装满文件的抽屉。可以借用实物隐喻→流程图→实物的结构。作者明确是修过三次管线后的第 4 次运行，非拿到任何素材都能一次成功；没有重跑，费用不作通用基准。 热度：工具仓库本次查询约 2.7k stars、470 forks，不是这支影片的观看数据。 [制作方样例表与具体分工](https://github.com/digitalsamba/claude-code-video-toolkit/blob/main/docs/features.md) · [工作流说明](https://github.com/digitalsamba/claude-code-video-toolkit/blob/main/docs/agent-video-jobs.md) 封面暂缺：未确认影片画面可另发为公共封面。\n\n5. **[CGI Nerd｜AI 做角色小动作，程序动画守住机械细节](https://www.cginerd.com/blog/from-article-to-film-ai-assisted-filmmaking-pipeline/)**｜Alejandro Perez／CGI Nerd｜2026-11-01 制作复盘\n这篇生产日志把成片拆成旁白、字词时间、分镜、图像、运动、合成和剪辑。已解码三段作者公开片段：5.33 秒 E05/E06 把同一位伏案创作者的普通合成和 Wan 2.2 I2V 小幅表演并排，右侧肩臂动起来，但手和排线变软；30 秒开场对照把同一轮镜头修订并排；63.1 秒技术样片让亮度曲线、线性空间和贴图说明按段出现。生成机械臂曾重复关节或夹爪，作者因此改为固定长度的程序动画。可借鉴：只把需要被表演的那一层交给生成模型，严谨图形和机械关系继续用可编辑结构。 亲查的是作者原站三段结果和前后对照，不是独立复现，也没有把 17 分钟成片当作逐段播验。 热度：原文未公开播放量；17 分钟成片与复盘播放量未核实。 [E05/E06 动画对照 MP4](https://www.cginerd.com/journal-media/article-to-film/clips/05-first-wan.mp4) · [开场修订对照 MP4](https://www.cginerd.com/journal-media/article-to-film/clips/09-opening-comparison.mp4) · [成片原链](https://youtu.be/0L8HOMwnI34) · [播放器封面来源](https://www.cginerd.com/journal-media/article-to-film/images/05-first-wan-poster.jpg) 封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。\n\n6. **[RUS-T｜先固定机器人、机位和飞行器，再做火星镜头](https://magazine.reallusion.com/2026/10/16/ai-studio-storytellers-rus-t-millions-of-views-award-winning-ai-film-workflow-unveiled/)**｜John C. Martin II／Reallusion｜2026-10-16 制作复盘；作者工具方注明正片 2026-08-31 上线\nCharacter Creator 搭可反复使用的机器人，iClone 先定姿势、占位和机位；AI Studio／Nano Banana 由 3D 引导定首帧，再以 Seedance 2.0 做镜头，Premiere 完成节奏和剪辑。已抽帧核验四段官方 GIF：连续剪辑里金属机器人登上悬浮车，蓝色喷口亮起，出机库卷起火星尘土；Seedance 操作界面里可见由跪姿切到点火与沙尘。值得拆的是角色和关键道具分别建立多角度参考，而不是每个分镜都重新生成同一个物体。 属于创作者兼工具方案例；已看官方公开 GIF 动态，没有将未逐段核验的正片当实见。 热度：Reallusion 10/16 报道正片 YouTube 破 100 万播放，非本次独立读数。 [登车与火星终片片段／封面帧来源](https://magazine.reallusion.com/wp-content/uploads/2026/10/RUS-TBoardHovercraft-1.gif) · [AI Studio 操作与动态结果](https://magazine.reallusion.com/wp-content/uploads/2026/10/RUS-Tseedance.gif) · [正片原链](https://www.youtube.com/watch?v=eVCiHbcLBe4) 封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。\n\n7. **[Runway Dev｜先做产品首帧，再对运动镜头换季](https://dev.runwayml.com/learn/generate-ugc-videos)**｜Alex Breg／Runway Dev｜2026-10-22 官方教程\n先把产品与构图定在首帧，Seedance 2.5 让镜头运动，再用 Aleph 2.0 视频到视频改场景。已解码两条约 5.06 秒原片：镜头缓慢推向同一只竖立的绿色水壶；原版是雾湖旁的木台，改后成雪地山谷与岩面，毛衣、书和壶仍在相近构图位置。值得借鉴的是把保留对象、构图与镜头移动写为约束，与要替换的元素分列。 这是品牌自选示例，不是广告投放实录；台面与布景被重绘，不宣称像素锁定或跨素材一致。首帧海报来自官方播放器，转载授权未核。 热度：比较播放器未公开播放量。 [Seedance 2.5 原镜头](https://d3phaj0sisr2ct.cloudfront.net/devportal/learn/generate-ugc-videos-broll-abc539af.mp4) · [Aleph 2.0 雪景结果](https://d3phaj0sisr2ct.cloudfront.net/devportal/learn/generate-ugc-videos-aleph-8a2e5ee7.mp4) · [原结果播放器封面](https://d3phaj0sisr2ct.cloudfront.net/devportal/learn/generate-ugc-videos-aleph-8a2e5ee7.jpg) 封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。\n\n## 延伸阅读｜不计入案例数量\n\n**[SwiftUI 动画为何不总像 UIKit](https://aleahim.com/blog/how-swiftui-animates/)**｜Mihaela Mihaljević｜11/09。对照同一小圆点在主线程阻塞约半秒时的画面：作者测试中的 Mac SwiftUI 停住后跳位，AppKit 仍移动；实机 iPad 和 iPhone 的 SwiftUI 在该测试中继续移动。已核对作者原文并查看回放；不同设备录屏采样率不同，不是苹果承诺或所有动画的表现。借鉴：把内部进度和屏幕画面分开验收。[Mac 回放](https://aleahim.com/images/blog/how-swiftui-animates/replay-mac.mp4) · [iPad 回放](https://aleahim.com/images/blog/how-swiftui-animates/replay-ipad.mp4)\n\n**[Animating on Twos](https://alvdansen.github.io/animating-on-twos/)**｜Minta Carlson、Timothy Bielec（Alvdansen Labs）｜2026 年 8 月。论文把提议下一主姿势、朝一个固定终点补一张、用两端生成短段落分成三项。[翻书接触表](https://alvdansen.github.io/animating-on-twos/figures/seq_probe_lineart_interp_strip.png)里的书底几乎不动，页角与弯曲逐张变化；11 张图的原序列停留统计来自作者报告。看了原图，没运行模型或播放底层序列。借鉴：先定主姿势和停顿，再决定哪些帧值得补。\n\n**[Kavaliero：让玻璃折射 HTML 标题](https://kavaliero.com/en/insights/behind-kavaliero-com)**｜Kavaliero｜10/20 制作拆解。保留真正可排版的 HTML 标题，另放一份 WebGL 副本供折射；合并两边透视，再同步遮罩和出现位移。约 0.6° 倾角出现 8 像素错位，是工作室对旧实现的测量。读了制作拆解；实站运行报错，未看到指针或滚动效果。",
+      "cases": [
+        {
+          "id": "2026-11-22-binaery-felt-cockpit",
+          "date": "2026-11-22",
+          "module": "UI设计",
+          "title": "Binaery｜把 Shopify 工作室做成航天任务",
+          "author": "Binaery",
+          "originalDateNote": "2026-11-21 CSS Design Awards 提名；不是首发日期",
+          "heat": "CSSDA 当前 UI 4 / UX 4 / 创新 4 票，不是流量",
+          "verification": "首页把 Ehsan 和 Angie 变成坐在驾驶舱的毛毡宇航员；作者分享图和站内原图都用了同一套玩具材质。可让团队介绍担任品牌故事的开场，但业务链接仍用直接文字。已看原站驾驶舱图和分享图，未实测飞行或滚动。",
+          "limitations": "核验范围见正文。封面使用公开原作预览。",
+          "links": [
+            {
+              "url": "https://www.binaery.com/",
+              "label": "作者原站"
+            },
+            {
+              "url": "https://cssdesignawards.com/sites/binaery/50854/",
+              "label": "提名证据"
+            }
+          ],
+          "fullText": "作者：Binaery。日期：2026-11-21 CSS Design Awards 提名；不是首发日期。\n\n首页把 Ehsan 和 Angie 变成坐在驾驶舱的毛毡宇航员；作者分享图和站内原图都用了同一套玩具材质。可让团队介绍担任品牌故事的开场，但业务链接仍用直接文字。已看原站驾驶舱图和分享图，未实测飞行或滚动。\n\n热度：CSSDA 当前 UI 4 / UX 4 / 创新 4 票，不是流量。"
+        },
+        {
+          "id": "2026-11-22-polestar-tactile-orizon",
+          "date": "2026-11-22",
+          "module": "UI设计",
+          "title": "Polestar 非官方概念｜让用车数据有实体开关感",
+          "author": "Aurélien Salomon / Orizon",
+          "originalDateNote": "本轮见于 Dribbble 近一周热门榜；具体上传日未核实",
+          "heat": "48 赞 / 约 8,100 浏览（Dribbble 榜单）",
+          "verification": "深色布局中，续航、电量和 Inbox 分层，银色旋钮与橙色控件比图表更像可操作区域。可借鉴让材质只强调控制权，不把每项数据都拟物化。已看作者静帧；这是非官方 App 概念，不是量产车机，未测试驾驶可用性。",
+          "limitations": "核验范围见正文。封面使用公开原作预览。",
+          "links": [
+            {
+              "url": "https://dribbble.com/shots/27897600-Polestar-UI-Concept-Tactile-3D-Car-Dashboard-and-Mobile-Compan",
+              "label": "作者原作"
+            },
+            {
+              "url": "https://dribbble.com/shots/popular/product-design?timeframe=week",
+              "label": "榜单热度"
+            }
+          ],
+          "fullText": "作者：Aurélien Salomon / Orizon。日期：本轮见于 Dribbble 近一周热门榜；具体上传日未核实。\n\n深色布局中，续航、电量和 Inbox 分层，银色旋钮与橙色控件比图表更像可操作区域。可借鉴让材质只强调控制权，不把每项数据都拟物化。已看作者静帧；这是非官方 App 概念，不是量产车机，未测试驾驶可用性。\n\n热度：48 赞 / 约 8,100 浏览（Dribbble 榜单）。"
+        },
+        {
+          "id": "2026-11-22-omnibuds-halo",
+          "date": "2026-11-22",
+          "module": "UI设计",
+          "title": "OmniBuds｜让健康科技落到可读的版面",
+          "author": "Halo UI/UX / HALO LAB",
+          "originalDateNote": "本轮见于 Dribbble 近一周热门榜；具体上传日未核实",
+          "heat": "114 赞 / 约 2.48 万浏览（Dribbble 榜单）",
+          "verification": "左列用摄影和小号文字交代使用情境，右列用亮黄色卷首、耳朵轮廓和循环示意组织技术介绍。可借鉴让亮色承担章节定位，正文留白保持可读。已看作者发布的页面拼版，未验证真实产品及医疗宣称。",
+          "limitations": "核验范围见正文。封面使用公开原作预览。",
+          "links": [
+            {
+              "url": "https://dribbble.com/shots/27900390-Website-for-a-Healthtech-Product-OmniBuds",
+              "label": "作者原作"
+            },
+            {
+              "url": "https://dribbble.com/shots/popular/product-design?timeframe=week",
+              "label": "榜单热度"
+            }
+          ],
+          "fullText": "作者：Halo UI/UX / HALO LAB。日期：本轮见于 Dribbble 近一周热门榜；具体上传日未核实。\n\n左列用摄影和小号文字交代使用情境，右列用亮黄色卷首、耳朵轮廓和循环示意组织技术介绍。可借鉴让亮色承担章节定位，正文留白保持可读。已看作者发布的页面拼版，未验证真实产品及医疗宣称。\n\n热度：114 赞 / 约 2.48 万浏览（Dribbble 榜单）。"
+        },
+        {
+          "id": "2026-11-22-atrium-voice-imran",
+          "date": "2026-11-22",
+          "module": "UI设计",
+          "title": "Atrium｜把语音代理的交接留在屏幕上",
+          "author": "Imran Hossen",
+          "originalDateNote": "本轮见于 Dribbble 近一周热门榜；具体上传日未核实",
+          "heat": "202 赞 / 约 2.85 万浏览（Dribbble 榜单）",
+          "verification": "主画布让发光橙球和录音键成为唯一重心，侧栏独立显示代理或任务信息。语音界面不必把所有说明都塞到波形旁边，可用侧栏保留可复查的工作线索。已看作者封面和说明，未实测代理、自动执行或撤销。",
+          "limitations": "核验范围见正文。封面使用公开原作预览。",
+          "links": [
+            {
+              "url": "https://dribbble.com/shots/27892406-Atrium-Delegate-by-voice-AI-Voice-Assistant-Dashboard",
+              "label": "作者原作"
+            },
+            {
+              "url": "https://dribbble.com/shots/popular/product-design?timeframe=week",
+              "label": "榜单热度"
+            }
+          ],
+          "fullText": "作者：Imran Hossen。日期：本轮见于 Dribbble 近一周热门榜；具体上传日未核实。\n\n主画布让发光橙球和录音键成为唯一重心，侧栏独立显示代理或任务信息。语音界面不必把所有说明都塞到波形旁边，可用侧栏保留可复查的工作线索。已看作者封面和说明，未实测代理、自动执行或撤销。\n\n热度：202 赞 / 约 2.85 万浏览（Dribbble 榜单）。"
+        },
+        {
+          "id": "2026-11-22-gta6-radio-roobinium",
+          "date": "2026-11-22",
+          "module": "UI设计",
+          "title": "GTA 6 Radio｜让电台封面做主导航",
+          "author": "vino_costa / Roobinium",
+          "originalDateNote": "本轮见于 Dribbble 近一周热门榜；具体上传日未核实",
+          "heat": "201 赞 / 约 2.21 万浏览（Dribbble 榜单）",
+          "verification": "把电台做成横向唱片封面，当前 FLASH FM 站名居中，播放控件缩到城景下角。浏览时靠封面识别，播放后给环境让出空间。已看作者静帧与原说明；为非官方同人设计，不保证音乐版权或播放可用。",
+          "limitations": "核验范围见正文。封面使用公开原作预览。",
+          "links": [
+            {
+              "url": "https://dribbble.com/shots/27907220-GTA-6-Radio-Gaming-Website-Music-Player-UI",
+              "label": "作者原作"
+            },
+            {
+              "url": "https://dribbble.com/shots/popular/product-design?timeframe=week",
+              "label": "榜单热度"
+            }
+          ],
+          "fullText": "作者：vino_costa / Roobinium。日期：本轮见于 Dribbble 近一周热门榜；具体上传日未核实。\n\n把电台做成横向唱片封面，当前 FLASH FM 站名居中，播放控件缩到城景下角。浏览时靠封面识别，播放后给环境让出空间。已看作者静帧与原说明；为非官方同人设计，不保证音乐版权或播放可用。\n\n热度：201 赞 / 约 2.21 万浏览（Dribbble 榜单）。"
+        },
+        {
+          "id": "2026-11-22-maximale-architecture-index",
+          "date": "2026-11-22",
+          "module": "UI设计",
+          "title": "maximale｜建筑项目索引先分信息层",
+          "author": "maximale / 网站制作署名未核",
+          "originalDateNote": "11/19 北京时间现有站点构建，首发日未核实",
+          "heat": "Siteinspire 收录；无公开流量量级",
+          "verification": "原站分享图以模糊暖色景深托住超大的细衬线字标；主页公开索引把项目、地点、类型分栏。可借鉴氛围图负责建立调性，项目表负责快速查找。已看原分享图及原站文本，未验证索引交互。",
+          "limitations": "核验范围见正文。封面使用公开原作预览。",
+          "links": [
+            {
+              "url": "https://www.maximalestudio.com/",
+              "label": "原站"
+            },
+            {
+              "url": "https://www.siteinspire.com/website/13687-maximale",
+              "label": "收录证据"
+            }
+          ],
+          "fullText": "作者：maximale / 网站制作署名未核。日期：11/19 北京时间现有站点构建，首发日未核实。\n\n原站分享图以模糊暖色景深托住超大的细衬线字标；主页公开索引把项目、地点、类型分栏。可借鉴氛围图负责建立调性，项目表负责快速查找。已看原分享图及原站文本，未验证索引交互。\n\n热度：Siteinspire 收录；无公开流量量级。"
+        },
+        {
+          "id": "2026-11-22-exodeui-ev-cluster",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "EV cluster：可拖动的座舱仪表",
+          "author": "ExodeUI；单件作者未公开",
+          "originalDateNote": "2026 年 11 月项目合集更新，单件首发日未核实",
+          "heat": "该案例互动量未公开",
+          "verification": "在公开网页实拖速度盘，拖前显示 78 km/h，拖向右侧后显示 132 km/h，蓝针与轨道亮段一起前进；68% 电量在这次操作中没有跟着变。借鉴：数字、针和轨道表达同一速度，而旁边的独立信息保持稳定。只测网页示例，不是量产座舱，也没测实际弹簧参数。",
+          "limitations": "封面暂缺：已实看原站画布，未确认独立案例预览图的公开再发布许可。",
+          "links": [
+            {
+              "url": "https://www.exodeui.com/showcase/",
+              "label": "原作／试玩"
+            }
+          ],
+          "fullText": "作者：ExodeUI；单件作者未公开。日期：2026 年 11 月项目合集更新，单件首发日未核实。\n\n在公开网页实拖速度盘，拖前显示 78 km/h，拖向右侧后显示 132 km/h，蓝针与轨道亮段一起前进；68% 电量在这次操作中没有跟着变。借鉴：数字、针和轨道表达同一速度，而旁边的独立信息保持稳定。只测网页示例，不是量产座舱，也没测实际弹簧参数。\n\n热度：该案例互动量未公开。\n\n封面暂缺：已实看原站画布，未确认独立案例预览图的公开再发布许可。"
+        },
+        {
+          "id": "2026-11-22-atelier-north",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Atelier North",
+          "author": "Kaisei Sadatoki",
+          "originalDateNote": "2026-10-09（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "滚过蓝色巨字：描边转为实色，服务区的色块与字层叠放，随后 Selected Works 大图区接力。值得拆的是让文字动效在进入内容前先划出章节，不只是装饰首屏。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://atelier-north.crnacura.workers.dev/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://tympanus.net/codrops/?p=123651",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://github.com/codrops/atelier-north",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/AtelierNorth_800x600.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/AtelierNorth_cover-400x300.jpg"
+            }
+          ],
+          "fullText": "作者：Kaisei Sadatoki。日期：2026-10-09（Codrops Demo Hub 所列日期，首发日未核定）。\n\n滚过蓝色巨字：描边转为实色，服务区的色块与字层叠放，随后 Selected Works 大图区接力。值得拆的是让文字动效在进入内容前先划出章节，不只是装饰首屏。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-amber-genetics",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Amber Genetics",
+          "author": "Ismael Martínez",
+          "originalDateNote": "2026-10-08（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "三维恐龙轮播钻入物种详情时，当前标本与标题仍是焦点，明亮展示台换成带密集规格的界面；模型是两种布局之间的识别锚点。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://amber.isma.uy/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://tympanus.net/codrops/?p=123421",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://github.com/ismamz/amber",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/amber_demo.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/amber-first-frame-400x300.png"
+            }
+          ],
+          "fullText": "作者：Ismael Martínez。日期：2026-10-08（Codrops Demo Hub 所列日期，首发日未核定）。\n\n三维恐龙轮播钻入物种详情时，当前标本与标题仍是焦点，明亮展示台换成带密集规格的界面；模型是两种布局之间的识别锚点。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-smear-motion-blur",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Smear Frames × Motion Blur",
+          "author": "Niccolò Fanton",
+          "originalDateNote": "2026-09-27（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "同一段快速运动可切 Before / After：亮色几何体在高速时拉成粗长剪影或叠成多道拖影，停下仍保持清楚轮廓。适合给极短过场定速度线和监管变形量。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://smear.niccolofanton.dev",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://github.com/niccolofanton/smear-blur-showreel",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/smear_800x600.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/smear_cover-400x300.jpg"
+            }
+          ],
+          "fullText": "作者：Niccolò Fanton。日期：2026-09-27（Codrops Demo Hub 所列日期，首发日未核定）。\n\n同一段快速运动可切 Before / After：亮色几何体在高速时拉成粗长剪影或叠成多道拖影，停下仍保持清楚轮廓。适合给极短过场定速度线和监管变形量。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-custom-shaped-cursor-trail",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Custom-Shaped Cursor Trail with Three.js and TSL",
+          "author": "Bautista Berto",
+          "originalDateNote": "2026-09-24（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "红黄笔触横穿深色字标时，笔触与字的局部形变一同掠过；让指针留下短路径记忆，又不变成盖住页面的信息层。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://tympanus.net/Demos/CustomShapedCursorTrail/",
+              "label": "作者公开体验"
+            },
+            {
+              "url": "https://tympanus.net/codrops/?p=121682",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://github.com/BertovDev/cursor-shader-trail",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/09/cursor-shader-trail-demo-4s-compressed.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/09/featured-1200x900-2-400x300.jpg"
+            }
+          ],
+          "fullText": "作者：Bautista Berto。日期：2026-09-24（Codrops Demo Hub 所列日期，首发日未核定）。\n\n红黄笔触横穿深色字标时，笔触与字的局部形变一同掠过；让指针留下短路径记忆，又不变成盖住页面的信息层。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-saurow-reel-flux",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Reel Flux",
+          "author": "Saurabh Thapliyal",
+          "originalDateNote": "2026-09-14（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "横向作品带不是一条平跑的轴：图框随通过弯曲路径改变形变与位置，正中能看清，两端逐步收走，主次随连续滚动变换。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://saurow-reel.vercel.app/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://blog-saurow.vercel.app/article/reel",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/09/saurow.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/09/saurow-400x300.png"
+            }
+          ],
+          "fullText": "作者：Saurabh Thapliyal。日期：2026-09-14（Codrops Demo Hub 所列日期，首发日未核定）。\n\n横向作品带不是一条平跑的轴：图框随通过弯曲路径改变形变与位置，正中能看清，两端逐步收走，主次随连续滚动变换。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-golem",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Golem｜菜单栏计时反馈",
+          "author": "Nico Frey",
+          "originalDateNote": "2026-11-19（作者 X 原帖 ID 对应 UTC 日期）",
+          "heat": "X 未能直读统计；未核到可比传播量",
+          "verification": "点击 macOS 菜单栏小白图标后，位置附近出现红色信号，左侧短计时从 00:00 跳到 00:03；鼠标移开也能继续读状态，不需要展开工具面板。演示只确认计时状态，未确认录制功能本身已经上架。 已看署名演示逐秒画面，未实操。",
+          "limitations": "封面暂缺：未确认署名预览的本站复用许可；仅链出处。",
+          "links": [
+            {
+              "url": "https://x.com/nicofrey/status/2123490424992281023",
+              "label": "作者原帖（X）"
+            },
+            {
+              "url": "https://memorabl.es/work/golem",
+              "label": "署名动态预览"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://media.memorabl.es/works/golem-1440.webp"
+            }
+          ],
+          "fullText": "作者：Nico Frey。日期：2026-11-19（作者 X 原帖 ID 对应 UTC 日期）。\n\n点击 macOS 菜单栏小白图标后，位置附近出现红色信号，左侧短计时从 00:00 跳到 00:03；鼠标移开也能继续读状态，不需要展开工具面板。演示只确认计时状态，未确认录制功能本身已经上架。 已看署名演示逐秒画面，未实操。\n\n热度：X 未能直读统计；未核到可比传播量。\n\n封面暂缺：未确认署名预览的本站复用许可；仅链出处。"
+        },
+        {
+          "id": "2026-11-22-liquid-ui-components",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Liquid UI Components",
+          "author": "Kopp",
+          "originalDateNote": "2026-11-11（作者 X 原帖 ID 对应 UTC 日期）",
+          "heat": "X 未能直读统计；未核到可比传播量",
+          "verification": "指针从下载、复制移到收藏时，上方短提示随着定位变化；录屏末尾还见胶囊式页签和色彩选单。可以把动作确认的提示保持在手边，不打断内容。 已看署名演示逐秒画面，未实操。",
+          "limitations": "封面暂缺：未确认署名预览的本站复用许可；仅链出处。",
+          "links": [
+            {
+              "url": "https://x.com/koppkev/status/2120471771602092136",
+              "label": "作者原帖（X）"
+            },
+            {
+              "url": "https://memorabl.es/work/liquid-ui-components",
+              "label": "署名动态预览"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://media.memorabl.es/works/liquid-ui-components-1152.webp"
+            }
+          ],
+          "fullText": "作者：Kopp。日期：2026-11-11（作者 X 原帖 ID 对应 UTC 日期）。\n\n指针从下载、复制移到收藏时，上方短提示随着定位变化；录屏末尾还见胶囊式页签和色彩选单。可以把动作确认的提示保持在手边，不打断内容。 已看署名演示逐秒画面，未实操。\n\n热度：X 未能直读统计；未核到可比传播量。\n\n封面暂缺：未确认署名预览的本站复用许可；仅链出处。"
+        },
+        {
+          "id": "2026-11-22-imagine-comments",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Imagine Comments",
+          "author": "Andrey Rybin",
+          "originalDateNote": "2026-11-05（作者 X 原帖 ID 对应 UTC 日期）",
+          "heat": "X 未能直读统计；未核到可比传播量",
+          "verification": "评论选中后周围内容虚化，Copy / Select / Imagine 三个操作就地出现；稍后列表恢复，原评论中露出两张图，然后下一条评论能重新聚焦。仅能确认 UI 演示的完整状态，不能据此说生成服务已上线。 已看署名演示逐秒画面，未实操。",
+          "limitations": "封面暂缺：未确认署名预览的本站复用许可；仅链出处。",
+          "links": [
+            {
+              "url": "https://x.com/rybinandy/status/2118327758912618611",
+              "label": "作者原帖（X）"
+            },
+            {
+              "url": "https://memorabl.es/work/imagine-comments",
+              "label": "署名动态预览"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://media.memorabl.es/works/imagine-comments-1080.webp"
+            }
+          ],
+          "fullText": "作者：Andrey Rybin。日期：2026-11-05（作者 X 原帖 ID 对应 UTC 日期）。\n\n评论选中后周围内容虚化，Copy / Select / Imagine 三个操作就地出现；稍后列表恢复，原评论中露出两张图，然后下一条评论能重新聚焦。仅能确认 UI 演示的完整状态，不能据此说生成服务已上线。 已看署名演示逐秒画面，未实操。\n\n热度：X 未能直读统计；未核到可比传播量。\n\n封面暂缺：未确认署名预览的本站复用许可；仅链出处。"
+        },
+        {
+          "id": "2026-11-22-feedback-slider",
+          "date": "2026-11-22",
+          "module": "UI动效",
+          "title": "Feedback Slider",
+          "author": "Salung Prastyo",
+          "originalDateNote": "2026-11-03（作者 X 原帖 ID 对应 UTC 日期）",
+          "heat": "X 未能直读统计；未核到可比传播量",
+          "verification": "弹窗里的黄色滑轨由左拉到右，上方脸从低落切换到中性再到笑脸；按钮仍固定。值得借的是即刻可见的表情反馈，分值不需要在手指附近再多弹一层。 已看署名演示逐秒画面，未实操。",
+          "limitations": "封面暂缺：未确认署名预览的本站复用许可；仅链出处。",
+          "links": [
+            {
+              "url": "https://x.com/salungprastyo/status/2117510268926546245",
+              "label": "作者原帖（X）"
+            },
+            {
+              "url": "https://memorabl.es/work/feedback-slider",
+              "label": "署名动态预览"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://media.memorabl.es/works/feedback-slider-1146.webp"
+            }
+          ],
+          "fullText": "作者：Salung Prastyo。日期：2026-11-03（作者 X 原帖 ID 对应 UTC 日期）。\n\n弹窗里的黄色滑轨由左拉到右，上方脸从低落切换到中性再到笑脸；按钮仍固定。值得借的是即刻可见的表情反馈，分值不需要在手指附近再多弹一层。 已看署名演示逐秒画面，未实操。\n\n热度：X 未能直读统计；未核到可比传播量。\n\n封面暂缺：未确认署名预览的本站复用许可；仅链出处。"
+        },
+        {
+          "id": "2026-11-22-allo-logo",
+          "date": "2026-11-22",
+          "module": "趣味交互",
+          "title": "Allo Logo｜会回应的字标",
+          "author": "Josh Puckett",
+          "originalDateNote": "2026-11-16（作者 X 原帖 ID 对应 UTC 日期）",
+          "heat": "X 未能直读统计；未核到可比传播量",
+          "verification": "Allo 字标把句点变成角色，片中能看见点在字母上方出现，随后落到字尾；作者原帖的公开副本补充，它会对戳碰和试图拖走等行为作出回应。字体的开源许可不能自动覆盖网页和录像。 已看署名演示逐秒画面，未实操。",
+          "limitations": "封面暂缺：未确认署名预览的本站复用许可；仅链出处。",
+          "links": [
+            {
+              "url": "https://allo.joshpuckett.me/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://teapawt.net/joshpuckett/status/2122476493481865674",
+              "label": "原帖文本公开读取"
+            },
+            {
+              "url": "https://x.com/joshpuckett/status/2122476493481865674",
+              "label": "作者原帖（X）"
+            },
+            {
+              "url": "https://memorabl.es/work/allo-logo",
+              "label": "署名动态预览"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://media.memorabl.es/works/allo-logo-1526.webp"
+            }
+          ],
+          "fullText": "作者：Josh Puckett。日期：2026-11-16（作者 X 原帖 ID 对应 UTC 日期）。\n\nAllo 字标把句点变成角色，片中能看见点在字母上方出现，随后落到字尾；作者原帖的公开副本补充，它会对戳碰和试图拖走等行为作出回应。字体的开源许可不能自动覆盖网页和录像。 已看署名演示逐秒画面，未实操。\n\n热度：X 未能直读统计；未核到可比传播量。\n\n封面暂缺：未确认署名预览的本站复用许可；仅链出处。"
+        },
+        {
+          "id": "2026-11-22-organ-bank",
+          "date": "2026-11-22",
+          "module": "趣味交互",
+          "title": "Organ Bank",
+          "author": "David Yen",
+          "originalDateNote": "2026-10-12（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "把躯体拆成十个固定于墙的裸 CRT，单个器官维持四帧循环。演示从全身推进至 CEREBRUM，再转移到成对紫色 OCULUS，最后退回整体；详情与近景绑在一起，好像在翻一份可钻进的解剖档案。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://davidyen1124.github.io/organ-bank/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://github.com/davidyen1124/organ-bank",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/OrganBank_800x600.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/OrganBank_cover-400x300.jpg"
+            }
+          ],
+          "fullText": "作者：David Yen。日期：2026-10-12（Codrops Demo Hub 所列日期，首发日未核定）。\n\n把躯体拆成十个固定于墙的裸 CRT，单个器官维持四帧循环。演示从全身推进至 CEREBRUM，再转移到成对紫色 OCULUS，最后退回整体；详情与近景绑在一起，好像在翻一份可钻进的解剖档案。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-wawa-under-the-sea",
+          "date": "2026-11-22",
+          "module": "趣味交互",
+          "title": "Under the Sea",
+          "author": "Wawa Sensei",
+          "originalDateNote": "2026-10-05（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "夜海中飞鱼群在暖黄灯和倒影附近忽聚忽散，左下的近景小窗换了镜头，右下保留控制区；原作 README 确认是 GPU 模拟鱼群的 WebGPU 夜景，对支持情况有要求。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://underthesea.wawasensei.dev/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://github.com/wass08/under-the-sea",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/underthesea_800x600.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/underthesea_cover-400x300.jpg"
+            }
+          ],
+          "fullText": "作者：Wawa Sensei。日期：2026-10-05（Codrops Demo Hub 所列日期，首发日未核定）。\n\n夜海中飞鱼群在暖黄灯和倒影附近忽聚忽散，左下的近景小窗换了镜头，右下保留控制区；原作 README 确认是 GPU 模拟鱼群的 WebGPU 夜景，对支持情况有要求。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-sakura-fantasy",
+          "date": "2026-11-22",
+          "module": "趣味交互",
+          "title": "Sakura Fantasy",
+          "author": "Bill P. W. Chan",
+          "originalDateNote": "2026-10-04（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "低机位乌篷船沿樱花河谷前行，尾迹、河面倒影和季候把切换接在同一条航线。逐秒画面证实船位和视角推进，原作说明支持四季和按小时变化；未逐项实试控制。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://sakura.billpwchan.art/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://github.com/billpwchan/sakura-fantasy",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/sakurafantasy_800x600.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/sakurafantasy_cover-400x300.jpg"
+            }
+          ],
+          "fullText": "作者：Bill P. W. Chan。日期：2026-10-04（Codrops Demo Hub 所列日期，首发日未核定）。\n\n低机位乌篷船沿樱花河谷前行，尾迹、河面倒影和季候把切换接在同一条航线。逐秒画面证实船位和视角推进，原作说明支持四季和按小时变化；未逐项实试控制。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-bumpy-metaballs-2026",
+          "date": "2026-11-22",
+          "module": "趣味交互",
+          "title": "Bumpy Metaballs 2026",
+          "author": "Jaume Sánchez Elias",
+          "originalDateNote": "2026-09-29（Codrops Demo Hub 所列日期，首发日未核定）",
+          "heat": "未核到可比传播量",
+          "verification": "桃红场景里的液珠彼此靠近、收成带孔的团，再拉开；右边始终露出参数栏，可以对照连续形变而不是只看一段静态渲染。（已看真实演示逐秒画面，未在浏览器实操。）",
+          "limitations": "封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。",
+          "links": [
+            {
+              "url": "https://spite.github.io/bumpy-metaballs-2026/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://github.com/spite/bumpy-metaballs-2026",
+              "label": "作者解读／源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/BumpyMetaballs2026_800x600.mp4",
+              "label": "真实演示（视频）"
+            },
+            {
+              "label": "目录原作预览",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/BumpyMetaballs2026_cover-400x300.jpg"
+            }
+          ],
+          "fullText": "作者：Jaume Sánchez Elias。日期：2026-09-29（Codrops Demo Hub 所列日期，首发日未核定）。\n\n桃红场景里的液珠彼此靠近、收成带孔的团，再拉开；右边始终露出参数栏，可以对照连续形变而不是只看一段静态渲染。（已看真实演示逐秒画面，未在浏览器实操。）\n\n热度：未核到可比传播量。\n\n封面暂缺：目录真图可溯源；未确认允许本站复用，建议用文字卡／跳转，不缓存或热链。"
+        },
+        {
+          "id": "2026-11-22-google-ai-studio-gemini-4-neon",
+          "date": "2026-11-22",
+          "module": "AI产品宣传",
+          "title": "Introducing Gemini 4 Neon",
+          "author": "Google AI Studio",
+          "originalDateNote": "Google 官方公告：2026-11-18；观察的是 Google AI Studio 35 秒版本，不是第三方的同名 90 秒短片。",
+          "heat": "Google 官方发布；未核到原帖公开播放量。",
+          "verification": "约 0:00 的 Argon 白字标签、0:06 的 Carbon (CH₄)、0:12 的紫色玻璃和橙色火焰，给同一系列逐件建起视觉记忆；约 0:27 四种颜色物件合列，0:31 转为蓝底 Gemini 4 Neon 产品名。适合借鉴的是如何用重复的材料特写和不同光色区分型号，最后再统一收束。实播 35.05 秒；它不是产品 UI 演示，未确认实拍／CG、制作工具或声音设计。",
+          "limitations": "封面暂缺：未确认可转载封面，保留播放和官方源链接。",
+          "links": [
+            {
+              "url": "https://x.com/GoogleAIStudio/status/2123168408678359294",
+              "label": "Google AI Studio 原发布"
+            },
+            {
+              "url": "https://launchscene.app/v/google-google-ai-studio-introducing-gemini-4-neon-frontier-l",
+              "label": "可播放版本"
+            },
+            {
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+              "label": "Google 官方公告"
+            }
+          ],
+          "fullText": "作者：Google AI Studio。日期：Google 官方公告：2026-11-18；观察的是 Google AI Studio 35 秒版本，不是第三方的同名 90 秒短片。\n\n约 0:00 的 Argon 白字标签、0:06 的 Carbon (CH₄)、0:12 的紫色玻璃和橙色火焰，给同一系列逐件建起视觉记忆；约 0:27 四种颜色物件合列，0:31 转为蓝底 Gemini 4 Neon 产品名。适合借鉴的是如何用重复的材料特写和不同光色区分型号，最后再统一收束。实播 35.05 秒；它不是产品 UI 演示，未确认实拍／CG、制作工具或声音设计。\n\n热度：Google 官方发布；未核到原帖公开播放量。\n\n封面暂缺：未确认可转载封面，保留播放和官方源链接。"
+        },
+        {
+          "id": "2026-11-22-pitch-anything-block-interactive-slides",
+          "date": "2026-11-22",
+          "module": "AI产品宣传",
+          "title": "Make interactive slides with AI | Meet Pitch’s Anything block",
+          "author": "Pitch",
+          "originalDateNote": "2026-10-06 为官方功能公告日；独立 47 秒片源上传日未独立核实。",
+          "heat": "Launchscene 标注对应 YouTube 链接截至 11 月 16 日为 47 播放，未在原页独立核验。",
+          "verification": "约 0:08.7 输入前后图对比滑块，0:10.8 显示 Thinking，0:13.5 显示构建回执，0:17.7 滑块已可拖。后半段换漏斗例子：0:31–0:32 悬停只改变高亮，0:36–0:38 编辑 Total views 参数后比例才实际变化。可借鉴的是把触发、处理、可操作结果分别给镜头；不要把宣传剪辑时间当成生成耗时。已实播抽样，47.817 秒。",
+          "limitations": "封面暂缺：未确认可再分发封面；原链查看。",
+          "links": [
+            {
+              "url": "https://www.pitch.com/whats-new/introducing-the-anything-block",
+              "label": "官方发布说明"
+            },
+            {
+              "url": "https://help.pitch.com/en/articles/16987482-create-anything-with-pitch",
+              "label": "官方功能文档"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=QzH4Y0aL9iE",
+              "label": "索引页标注的 YouTube 源"
+            },
+            {
+              "url": "https://launchscene.app/v/pitch-make-interactive-slides-with-ai-meet-pitchs-anything-b?play=1&s=14",
+              "label": "可播放版本"
+            }
+          ],
+          "fullText": "作者：Pitch。日期：2026-10-06 为官方功能公告日；独立 47 秒片源上传日未独立核实。\n\n约 0:08.7 输入前后图对比滑块，0:10.8 显示 Thinking，0:13.5 显示构建回执，0:17.7 滑块已可拖。后半段换漏斗例子：0:31–0:32 悬停只改变高亮，0:36–0:38 编辑 Total views 参数后比例才实际变化。可借鉴的是把触发、处理、可操作结果分别给镜头；不要把宣传剪辑时间当成生成耗时。已实播抽样，47.817 秒。\n\n热度：Launchscene 标注对应 YouTube 链接截至 11 月 16 日为 47 播放，未在原页独立核验。\n\n封面暂缺：未确认可再分发封面；原链查看。"
+        },
+        {
+          "id": "2026-11-22-samuel-kelvin-memento-ai-launch-film",
+          "date": "2026-11-22",
+          "module": "AI产品宣传",
+          "title": "Memento AI Launch Film",
+          "author": "Samuel Kelvin",
+          "originalDateNote": "2026-11-19，制作方作品集发布时间；不是产品上线日期。",
+          "heat": "未找到公开影片播放量。",
+          "verification": "约 0:34–0:37，零散照片被细线串成记忆网络；0:38–0:41 输入周年相关记忆查询后切走，没有显示对应回答。0:43–0:47 继续用连线呈现关系，1:00–1:04 出现信件，却没有发送动作。最值得看的是先让照片显出彼此关系，再引出检索动机，而非从空聊天框讲 AI。已核验制作方嵌入视频实际解码，70.059 秒；这是视觉化产品概念，不是公开试用。",
+          "limitations": "封面暂缺：影片页有原始画面，但封面再利用权限未核实。",
+          "links": [
+            {
+              "url": "https://contra.com/p/EbgmFNYs-memento-ai-launch-film",
+              "label": "制作方原片与署名"
+            },
+            {
+              "url": "https://mymemento.io/",
+              "label": "产品官网"
+            }
+          ],
+          "fullText": "作者：Samuel Kelvin。日期：2026-11-19，制作方作品集发布时间；不是产品上线日期。\n\n约 0:34–0:37，零散照片被细线串成记忆网络；0:38–0:41 输入周年相关记忆查询后切走，没有显示对应回答。0:43–0:47 继续用连线呈现关系，1:00–1:04 出现信件，却没有发送动作。最值得看的是先让照片显出彼此关系，再引出检索动机，而非从空聊天框讲 AI。已核验制作方嵌入视频实际解码，70.059 秒；这是视觉化产品概念，不是公开试用。\n\n热度：未找到公开影片播放量。\n\n封面暂缺：影片页有原始画面，但封面再利用权限未核实。"
+        },
+        {
+          "id": "2026-11-22-anima-agentic-canvas-launch-film",
+          "date": "2026-11-22",
+          "module": "AI产品宣传",
+          "title": "Agentic Canvas",
+          "author": "Anima / AgentGrid；原帖 Michal Cohen",
+          "originalDateNote": "2026-11-15，品牌发布。",
+          "heat": "Product Hunt 该发布页的已见快照：当日第 6、130 点；不是影片播放量。",
+          "verification": "0:28 左右选中 Kestrel 页面按钮时填色仍是黑色，0:30 左右检查器色签和同一按钮一同变橙；0:35.4 另一个代码镜头显示 .button 的背景为 var(--orange)。不换页面就让观众跟得上人手改哪一处、代码画面又展示哪一处，这是片中最清楚的交接。第三方播放器实播 52.053 秒；未实测导出，也不说片中这段代码一定是即时生成。",
+          "limitations": "封面暂缺：官方过程图能在其原页查看，复制为公共封面的权限未核。",
+          "links": [
+            {
+              "url": "https://animaapp.com/blog/agentic/canvas/",
+              "label": "官方文章和过程图"
+            },
+            {
+              "url": "https://agentgrid.io/canvas",
+              "label": "官方产品页"
+            },
+            {
+              "url": "https://x.com/michal_mic/status/2121904623619658098",
+              "label": "原发布帖"
+            },
+            {
+              "url": "https://launchscene.app/v/agentgrid-michal-cohen-for-the-visual-thinkers-out-there-wer",
+              "label": "可播放版本"
+            },
+            {
+              "url": "https://www.producthunt.com/products/agentgrid-io?launch=canvas-by-agentgrid-io",
+              "label": "发布热度"
+            }
+          ],
+          "fullText": "作者：Anima / AgentGrid；原帖 Michal Cohen。日期：2026-11-15，品牌发布。\n\n0:28 左右选中 Kestrel 页面按钮时填色仍是黑色，0:30 左右检查器色签和同一按钮一同变橙；0:35.4 另一个代码镜头显示 .button 的背景为 var(--orange)。不换页面就让观众跟得上人手改哪一处、代码画面又展示哪一处，这是片中最清楚的交接。第三方播放器实播 52.053 秒；未实测导出，也不说片中这段代码一定是即时生成。\n\n热度：Product Hunt 该发布页的已见快照：当日第 6、130 点；不是影片播放量。\n\n封面暂缺：官方过程图能在其原页查看，复制为公共封面的权限未核。"
+        },
+        {
+          "id": "2026-11-22-native-ai-introducing-native-edits",
+          "date": "2026-11-22",
+          "module": "AI产品宣传",
+          "title": "Introducing: Native Edits",
+          "author": "Native；Benjamin Bekken",
+          "originalDateNote": "官方文章未核到明确日；影片发布日未核，不当作 11 月新片。",
+          "heat": "未核到可信公开播放指标。",
+          "verification": "约 0:03.3–0:04.2，镜头停在同一张沙发图上，先显示原标题，再显示金色选框内正在输入的新标题。0:12.7–0:13.2 的助手控件，从灰槽左侧白圆点切到金槽右侧白圆点。用固定底图和局部改动讲清楚「可编辑」比把改好的成品快切成轮播更直接。播放器实播并抽样核验 22.983 秒，未在产品内操作。",
+          "limitations": "封面暂缺：未确认可再分发封面；原链查看。",
+          "links": [
+            {
+              "url": "https://native.no/blog/introducing-native-edits",
+              "label": "Native 官方文章"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=pCfJ64iSrXc",
+              "label": "文章所嵌官方影片"
+            },
+            {
+              "url": "https://launchscene.app/v/native-ai-introducing-native-edits-create-and-edit-your-mark?play=1&s=10",
+              "label": "可播放版本"
+            }
+          ],
+          "fullText": "作者：Native；Benjamin Bekken。日期：官方文章未核到明确日；影片发布日未核，不当作 11 月新片。\n\n约 0:03.3–0:04.2，镜头停在同一张沙发图上，先显示原标题，再显示金色选框内正在输入的新标题。0:12.7–0:13.2 的助手控件，从灰槽左侧白圆点切到金槽右侧白圆点。用固定底图和局部改动讲清楚「可编辑」比把改好的成品快切成轮播更直接。播放器实播并抽样核验 22.983 秒，未在产品内操作。\n\n热度：未核到可信公开播放指标。\n\n封面暂缺：未确认可再分发封面；原链查看。"
+        },
+        {
+          "id": "2026-11-22-ploto-code-animated-finance",
+          "date": "2026-11-22",
+          "module": "AI制作动画",
+          "title": "Ploto｜用同一镜头的三版试片，决定从 Three.js 换到 Blender",
+          "author": "Ploto",
+          "originalDateNote": "2026-10-23 作者复盘",
+          "heat": "作者复盘称 46 分钟原片全网约 150 万播放；拆解本身的实时播放量未独立核实",
+          "verification": "作者先锁定风格与讲法，再让 Claude 写 Python 驱动 Blender 的模型、材质、灯光、机位和关键帧，自己审阅并决定取舍。已逐一解码同镜头三段各 6 秒的原片：9/29 Three.js 只有灰色资金叠块，10/1 Blender 预览给 250 万叠块加灯光和引线，10/6 终版先比较多座标注金额的体块，再收束到被光圈隔离的 250 万。值得借鉴的是第一天拿最难的一镜做对照，定工具和视觉规则后再扩到全片。 主长片过程是 AI 写代码、渲染器出图，不应写成视频模型生成这段；核验是作者自托管同镜三版，未把 B 站长拆解或播放量当实看校验数据。",
+          "limitations": "封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。",
+          "links": [
+            {
+              "label": "作者完整拆解",
+              "url": "https://ploto.me/posts/how-i-made-a-long-video-with-ai/"
+            },
+            {
+              "label": "B 站拆解原链",
+              "url": "https://www.bilibili.com/video/BV1xFnt6zE3K/"
+            },
+            {
+              "label": "Three.js 原试片",
+              "url": "https://ploto.me/assets/video/retro-video-making/11_same-scene_Threejs.mp4"
+            },
+            {
+              "label": "Blender 原预览",
+              "url": "https://ploto.me/assets/video/retro-video-making/12_same-scene_Blender-preview.mp4"
+            },
+            {
+              "label": "终版原片／封面帧来源",
+              "url": "https://ploto.me/assets/video/retro-video-making/13_same-scene_final.mp4"
+            }
+          ],
+          "fullText": "作者：Ploto。日期：2026-10-23 作者复盘。\n\n作者先锁定风格与讲法，再让 Claude 写 Python 驱动 Blender 的模型、材质、灯光、机位和关键帧，自己审阅并决定取舍。已逐一解码同镜头三段各 6 秒的原片：9/29 Three.js 只有灰色资金叠块，10/1 Blender 预览给 250 万叠块加灯光和引线，10/6 终版先比较多座标注金额的体块，再收束到被光圈隔离的 250 万。值得借鉴的是第一天拿最难的一镜做对照，定工具和视觉规则后再扩到全片。 主长片过程是 AI 写代码、渲染器出图，不应写成视频模型生成这段；核验是作者自托管同镜三版，未把 B 站长拆解或播放量当实看校验数据。\n\n热度：作者复盘称 46 分钟原片全网约 150 万播放；拆解本身的实时播放量未独立核实。\n\n封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。"
+        },
+        {
+          "id": "2026-11-22-layerinbetween-occlusion-aware-vector-inbetweening",
+          "date": "2026-11-22",
+          "module": "AI制作动画",
+          "title": "LayerInbetween: Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering",
+          "author": "Haoran Mo、Zhongyue Guan、Yixin Hu、Zeyu Wang",
+          "originalDateNote": "ACM 论文 2026-07-03 发表，SIGGRAPH 2026 Journal track。方法案例，不是新短片。",
+          "heat": "原仓库本轮快照 19 stars、5 forks；非影片播放量。",
+          "verification": "公开流程输入两张位图线稿和首帧对应的 SVG；系统追踪可见及被挡住的对应笔画、推断图层顺序，再用矢量笔画插值补中间帧。作者页三个以上原始 GIF 已实际解码抽样；多关键帧示例里手与刘海相接时，手/发丝轮廓依遮挡变化；另一个黑白例子是眼周、手形和前后轮廓改变，不靠直接把整张图做淡入淡出。可借鉴的是先把遮挡关系做成独立控制，再查补间中哪些线应消失或重现。研究演示，未各项复测模型或承诺生产质量。",
+          "limitations": "封面暂缺：作者项目样例可链接；示例关键帧来自另有来源的动画数据集，不复制为公共封面。",
+          "links": [
+            {
+              "url": "https://mo-haoran.com/LayerInbetween/",
+              "label": "作者方法与对照动图"
+            },
+            {
+              "url": "https://mo-haoran.com/LayerInbetween/figures/gif/42_v3_comb.gif",
+              "label": "手与刘海：原始多关键帧样例"
+            },
+            {
+              "url": "https://doi.org/10.1145/3811364",
+              "label": "ACM 论文"
+            },
+            {
+              "url": "https://github.com/MarkMoHR/LayerInbetween",
+              "label": "源码及流程"
+            }
+          ],
+          "fullText": "作者：Haoran Mo、Zhongyue Guan、Yixin Hu、Zeyu Wang。日期：ACM 论文 2026-07-03 发表，SIGGRAPH 2026 Journal track。方法案例，不是新短片。\n\n公开流程输入两张位图线稿和首帧对应的 SVG；系统追踪可见及被挡住的对应笔画、推断图层顺序，再用矢量笔画插值补中间帧。作者页三个以上原始 GIF 已实际解码抽样；多关键帧示例里手与刘海相接时，手/发丝轮廓依遮挡变化；另一个黑白例子是眼周、手形和前后轮廓改变，不靠直接把整张图做淡入淡出。可借鉴的是先把遮挡关系做成独立控制，再查补间中哪些线应消失或重现。研究演示，未各项复测模型或承诺生产质量。\n\n热度：原仓库本轮快照 19 stars、5 forks；非影片播放量。\n\n封面暂缺：作者项目样例可链接；示例关键帧来自另有来源的动画数据集，不复制为公共封面。"
+        },
+        {
+          "id": "2026-11-22-cel-studio-the-workshop-in-the-valley",
+          "date": "2026-11-22",
+          "module": "AI制作动画",
+          "title": "The workshop in the valley（El taller del valle）",
+          "author": "scorpile / Cel Studio",
+          "originalDateNote": "示例 MP4 随 v0.1.0 于 2026-11-17 释出；不等于影片首映日。",
+          "heat": "仓库当次查询 0 stars、0 forks；项目处于 Alpha。",
+          "verification": "把 AI 画出的角色/场景资源拆为纸偶部件，用 Python 校量切片、关节和脸部，再让代理把表演、镜头和时序作为 shot 数据编排，由渲染器按数据生成画面，不是每帧跑视频扩散。原版 MP4 已解码为 46.583 秒、1920×1080、单视频流；开头橙衣和青衣角色从山谷工坊外进入，后续在同一背景通过挥手、指向、闭眼反应和单人/双人景别组织交流。最值得借鉴的是把反应和停顿交给脚本，把素材生成与逐镜装配分开。源码可读，未重跑；作者明示没有音轨、口型同步及成品级手部细节。",
+          "limitations": "封面暂缺：代码声明 MIT；影片、成品画面和素材的单独封面授权未确认。",
+          "links": [
+            {
+              "url": "https://github.com/scorpile/CartoonAI",
+              "label": "作者制作方法与源码"
+            },
+            {
+              "url": "https://github.com/scorpile/CartoonAI/releases/tag/v0.1.0",
+              "label": "原始发布与样片下载"
+            },
+            {
+              "url": "https://github.com/scorpile/CartoonAI/releases/download/v0.1.0/taller-v16.mp4",
+              "label": "作者原片 MP4"
+            },
+            {
+              "url": "https://github.com/scorpile/CartoonAI/tree/main/projects/taller-v3",
+              "label": "导演脚本和现有素材"
+            }
+          ],
+          "fullText": "作者：scorpile / Cel Studio。日期：示例 MP4 随 v0.1.0 于 2026-11-17 释出；不等于影片首映日。\n\n把 AI 画出的角色/场景资源拆为纸偶部件，用 Python 校量切片、关节和脸部，再让代理把表演、镜头和时序作为 shot 数据编排，由渲染器按数据生成画面，不是每帧跑视频扩散。原版 MP4 已解码为 46.583 秒、1920×1080、单视频流；开头橙衣和青衣角色从山谷工坊外进入，后续在同一背景通过挥手、指向、闭眼反应和单人/双人景别组织交流。最值得借鉴的是把反应和停顿交给脚本，把素材生成与逐镜装配分开。源码可读，未重跑；作者明示没有音轨、口型同步及成品级手部细节。\n\n热度：仓库当次查询 0 stars、0 forks；项目处于 Alpha。\n\n封面暂缺：代码声明 MIT；影片、成品画面和素材的单独封面授权未确认。"
+        },
+        {
+          "id": "2026-11-22-digitalsamba-the-agent-handoff",
+          "date": "2026-11-22",
+          "module": "AI制作动画",
+          "title": "The Agent Handoff",
+          "author": "Digital Samba / Claude Code Video Toolkit",
+          "originalDateNote": "制作方示例表记载 2026-11-01。",
+          "heat": "工具仓库本次查询约 2.7k stars、470 forks，不是这支影片的观看数据。",
+          "verification": "制作方公开记录：代理把一条 Discord 指令扩成脚本和镜头单，管线合成语音、用 LTX-2 生成四个片段和一张流程图卡，再合成、质检。已解码 57.051 秒成片：约 0:03 电路板与黄铜秤用具象画面讲抽象成本；0:22 插入翻动纸页，0:31 切到 model → memory → you deciding → action 图，0:37 又切回装满文件的抽屉。可以借用实物隐喻→流程图→实物的结构。作者明确是修过三次管线后的第 4 次运行，非拿到任何素材都能一次成功；没有重跑，费用不作通用基准。",
+          "limitations": "封面暂缺：未确认影片画面可另发为公共封面。",
+          "links": [
+            {
+              "url": "https://demos.digitalsamba.com/video/the-agent-handoff.mp4",
+              "label": "制作方原片 MP4"
+            },
+            {
+              "url": "https://github.com/digitalsamba/claude-code-video-toolkit/blob/main/docs/features.md",
+              "label": "制作方样例表与具体分工"
+            },
+            {
+              "url": "https://github.com/digitalsamba/claude-code-video-toolkit/blob/main/docs/agent-video-jobs.md",
+              "label": "工作流说明"
+            }
+          ],
+          "fullText": "作者：Digital Samba / Claude Code Video Toolkit。日期：制作方示例表记载 2026-11-01。\n\n制作方公开记录：代理把一条 Discord 指令扩成脚本和镜头单，管线合成语音、用 LTX-2 生成四个片段和一张流程图卡，再合成、质检。已解码 57.051 秒成片：约 0:03 电路板与黄铜秤用具象画面讲抽象成本；0:22 插入翻动纸页，0:31 切到 model → memory → you deciding → action 图，0:37 又切回装满文件的抽屉。可以借用实物隐喻→流程图→实物的结构。作者明确是修过三次管线后的第 4 次运行，非拿到任何素材都能一次成功；没有重跑，费用不作通用基准。\n\n热度：工具仓库本次查询约 2.7k stars、470 forks，不是这支影片的观看数据。\n\n封面暂缺：未确认影片画面可另发为公共封面。"
+        },
+        {
+          "id": "2026-11-22-cginerd-article-to-film",
+          "date": "2026-11-22",
+          "module": "AI制作动画",
+          "title": "CGI Nerd｜AI 做角色小动作，程序动画守住机械细节",
+          "author": "Alejandro Perez／CGI Nerd",
+          "originalDateNote": "2026-11-01 制作复盘",
+          "heat": "原文未公开播放量；17 分钟成片与复盘播放量未核实",
+          "verification": "这篇生产日志把成片拆成旁白、字词时间、分镜、图像、运动、合成和剪辑。已解码三段作者公开片段：5.33 秒 E05/E06 把同一位伏案创作者的普通合成和 Wan 2.2 I2V 小幅表演并排，右侧肩臂动起来，但手和排线变软；30 秒开场对照把同一轮镜头修订并排；63.1 秒技术样片让亮度曲线、线性空间和贴图说明按段出现。生成机械臂曾重复关节或夹爪，作者因此改为固定长度的程序动画。可借鉴：只把需要被表演的那一层交给生成模型，严谨图形和机械关系继续用可编辑结构。 亲查的是作者原站三段结果和前后对照，不是独立复现，也没有把 17 分钟成片当作逐段播验。",
+          "limitations": "封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。",
+          "links": [
+            {
+              "label": "作者制作日志",
+              "url": "https://www.cginerd.com/blog/from-article-to-film-ai-assisted-filmmaking-pipeline/"
+            },
+            {
+              "label": "E05/E06 动画对照 MP4",
+              "url": "https://www.cginerd.com/journal-media/article-to-film/clips/05-first-wan.mp4"
+            },
+            {
+              "label": "开场修订对照 MP4",
+              "url": "https://www.cginerd.com/journal-media/article-to-film/clips/09-opening-comparison.mp4"
+            },
+            {
+              "label": "成片原链",
+              "url": "https://youtu.be/0L8HOMwnI34"
+            },
+            {
+              "label": "播放器封面来源",
+              "url": "https://www.cginerd.com/journal-media/article-to-film/images/05-first-wan-poster.jpg"
+            }
+          ],
+          "fullText": "作者：Alejandro Perez／CGI Nerd。日期：2026-11-01 制作复盘。\n\n这篇生产日志把成片拆成旁白、字词时间、分镜、图像、运动、合成和剪辑。已解码三段作者公开片段：5.33 秒 E05/E06 把同一位伏案创作者的普通合成和 Wan 2.2 I2V 小幅表演并排，右侧肩臂动起来，但手和排线变软；30 秒开场对照把同一轮镜头修订并排；63.1 秒技术样片让亮度曲线、线性空间和贴图说明按段出现。生成机械臂曾重复关节或夹爪，作者因此改为固定长度的程序动画。可借鉴：只把需要被表演的那一层交给生成模型，严谨图形和机械关系继续用可编辑结构。 亲查的是作者原站三段结果和前后对照，不是独立复现，也没有把 17 分钟成片当作逐段播验。\n\n热度：原文未公开播放量；17 分钟成片与复盘播放量未核实。\n\n封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。"
+        },
+        {
+          "id": "2026-11-22-rust-3d-guided-ai",
+          "date": "2026-11-22",
+          "module": "AI制作动画",
+          "title": "RUS-T｜先固定机器人、机位和飞行器，再做火星镜头",
+          "author": "John C. Martin II／Reallusion",
+          "originalDateNote": "2026-10-16 制作复盘；作者工具方注明正片 2026-08-31 上线",
+          "heat": "Reallusion 10/16 报道正片 YouTube 破 100 万播放，非本次独立读数",
+          "verification": "Character Creator 搭可反复使用的机器人，iClone 先定姿势、占位和机位；AI Studio／Nano Banana 由 3D 引导定首帧，再以 Seedance 2.0 做镜头，Premiere 完成节奏和剪辑。已抽帧核验四段官方 GIF：连续剪辑里金属机器人登上悬浮车，蓝色喷口亮起，出机库卷起火星尘土；Seedance 操作界面里可见由跪姿切到点火与沙尘。值得拆的是角色和关键道具分别建立多角度参考，而不是每个分镜都重新生成同一个物体。 属于创作者兼工具方案例；已看官方公开 GIF 动态，没有将未逐段核验的正片当实见。",
+          "limitations": "封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。",
+          "links": [
+            {
+              "label": "官方制作复盘",
+              "url": "https://magazine.reallusion.com/2026/10/16/ai-studio-storytellers-rus-t-millions-of-views-award-winning-ai-film-workflow-unveiled/"
+            },
+            {
+              "label": "登车与火星终片片段／封面帧来源",
+              "url": "https://magazine.reallusion.com/wp-content/uploads/2026/10/RUS-TBoardHovercraft-1.gif"
+            },
+            {
+              "label": "AI Studio 操作与动态结果",
+              "url": "https://magazine.reallusion.com/wp-content/uploads/2026/10/RUS-Tseedance.gif"
+            },
+            {
+              "label": "正片原链",
+              "url": "https://www.youtube.com/watch?v=eVCiHbcLBe4"
+            }
+          ],
+          "fullText": "作者：John C. Martin II／Reallusion。日期：2026-10-16 制作复盘；作者工具方注明正片 2026-08-31 上线。\n\nCharacter Creator 搭可反复使用的机器人，iClone 先定姿势、占位和机位；AI Studio／Nano Banana 由 3D 引导定首帧，再以 Seedance 2.0 做镜头，Premiere 完成节奏和剪辑。已抽帧核验四段官方 GIF：连续剪辑里金属机器人登上悬浮车，蓝色喷口亮起，出机库卷起火星尘土；Seedance 操作界面里可见由跪姿切到点火与沙尘。值得拆的是角色和关键道具分别建立多角度参考，而不是每个分镜都重新生成同一个物体。 属于创作者兼工具方案例；已看官方公开 GIF 动态，没有将未逐段核验的正片当实见。\n\n热度：Reallusion 10/16 报道正片 YouTube 破 100 万播放，非本次独立读数。\n\n封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。"
+        },
+        {
+          "id": "2026-11-22-runway-aleph-broll-environment",
+          "date": "2026-11-22",
+          "module": "AI制作动画",
+          "title": "Runway Dev｜先做产品首帧，再对运动镜头换季",
+          "author": "Alex Breg／Runway Dev",
+          "originalDateNote": "2026-10-22 官方教程",
+          "heat": "比较播放器未公开播放量",
+          "verification": "先把产品与构图定在首帧，Seedance 2.5 让镜头运动，再用 Aleph 2.0 视频到视频改场景。已解码两条约 5.06 秒原片：镜头缓慢推向同一只竖立的绿色水壶；原版是雾湖旁的木台，改后成雪地山谷与岩面，毛衣、书和壶仍在相近构图位置。值得借鉴的是把保留对象、构图与镜头移动写为约束，与要替换的元素分列。 这是品牌自选示例，不是广告投放实录；台面与布景被重绘，不宣称像素锁定或跨素材一致。首帧海报来自官方播放器，转载授权未核。",
+          "limitations": "封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。",
+          "links": [
+            {
+              "label": "官方文章与互动对照",
+              "url": "https://dev.runwayml.com/learn/generate-ugc-videos"
+            },
+            {
+              "label": "Seedance 2.5 原镜头",
+              "url": "https://d3phaj0sisr2ct.cloudfront.net/devportal/learn/generate-ugc-videos-broll-abc539af.mp4"
+            },
+            {
+              "label": "Aleph 2.0 雪景结果",
+              "url": "https://d3phaj0sisr2ct.cloudfront.net/devportal/learn/generate-ugc-videos-aleph-8a2e5ee7.mp4"
+            },
+            {
+              "label": "原结果播放器封面",
+              "url": "https://d3phaj0sisr2ct.cloudfront.net/devportal/learn/generate-ugc-videos-aleph-8a2e5ee7.jpg"
+            }
+          ],
+          "fullText": "作者：Alex Breg／Runway Dev。日期：2026-10-22 官方教程。\n\n先把产品与构图定在首帧，Seedance 2.5 让镜头运动，再用 Aleph 2.0 视频到视频改场景。已解码两条约 5.06 秒原片：镜头缓慢推向同一只竖立的绿色水壶；原版是雾湖旁的木台，改后成雪地山谷与岩面，毛衣、书和壶仍在相近构图位置。值得借鉴的是把保留对象、构图与镜头移动写为约束，与要替换的元素分列。 这是品牌自选示例，不是广告投放实录；台面与布景被重绘，不宣称像素锁定或跨素材一致。首帧海报来自官方播放器，转载授权未核。\n\n热度：比较播放器未公开播放量。\n\n封面暂缺：可从作者原始媒体查看对应画面，未核实转载授权。"
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "title": "11 月 21 日 · UI 与动效精选",
