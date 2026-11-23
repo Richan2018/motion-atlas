@@ -3937,5 +3937,17 @@
     "alt": "模糊夕色地平线前的浅色 maximale 大号衬线字标",
     "sourceUrl": "https://www.maximalestudio.com/",
     "credit": "maximale 原站 OG 社交预览；可链接，不另存或转传"
+  },
+  "2026-11-23-seveneves-passenger-ink-in-motion": {
+    "src": "images/2026-11-23-passenger-official-frame.jpg",
+    "alt": "蓝紫色蝴蝶从结雾列车窗的蝶形剪影飞起，逆光泛暖黄。",
+    "sourceUrl": "https://github.com/sevenevesai/riso-windowseat/releases/download/v1.0/passenger.mp4",
+    "credit": "Passenger · Seveneves / Ink in Motion · © 2026 sevenevesai · MIT · 官方影片 19.900 秒截帧并缩放；完整许可随图片保存"
+  },
+  "2026-11-23-lemo-opuscar-material-grid-film": {
+    "src": "images/2026-11-23-lemo-material-grid.jpg",
+    "alt": "侧视网格中的黄方块及红绿圆柱，地面可见长投影",
+    "sourceUrl": "https://github.com/lemomo-ai/lemo-opuscar",
+    "credit": "Lemo-Opuscar by Lemomo (LemoLab) · CC BY 4.0 · 10.5 秒截帧并缩放"
   }
 }

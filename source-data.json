@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,911 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-23",
+      "title": "11 月 23 日 · UI 与动效精选",
+      "fullText": "# 2026-11-23｜UI 与动效精选\n\n**33 例：UI 设计 6、UI 动效 11、趣味交互 5、AI 产品宣传 6、AI 制作动画 5。**\n\n先看 **Editorial Engine**：拖走圆球时，正文真的会绕开它；再看 **Clueso v2**：把柱图换成四杯奶昔，原来的四周数值还在。偏座舱的话，重点看 **Instrument Cluster** 的失效状态。\n\n## UI 设计｜6\n\n1. **[Stripe Press 新版｜让一本书主动走出书架](https://stripe.press/)**｜Stripe Press；Devin Jacoviello、Nick Jones 等｜2026-11-18 北京时间新版上线，依官方公告 X 帖 ID 换算\n窄书脊横向排成书架，让选中的一本以正封占据中央，出版社标识和导航保持在外围。可借鉴用大小、朝向区分浏览层与当前焦点，不必靠新开面板。已看作者分享图，核对原站书目；未试玩翻页或购买。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：官方发布，另获设计媒体收录；未核平台互动数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[官方上线帖](https://x.com/stripepress/status/2122721696998465972) · [原作预览图（仅链接）](https://stripe.press/images/social_card.jpg)\n\n2. **[JOYCO｜把站点做成工作室的刊头](https://joyco.studio/)**｜JOYCO｜Lapa 标为 2026，精确首发日未核\n原站分享图右下拼接巨型 JOYCO 字标与黑色图形，钴蓝窄条装下编号等微型信息；原站作品索引用项目、内容、类型、年份分列。可借鉴让品牌先用一条强有力的版式规则亮相，检索区再恢复稳定字段。未实测首页动态。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Lapa 收录；未见可靠流量\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[Lapa 收录](https://www.lapa.ninja/post/joyco/) · [原作预览图（仅链接）](https://joyco.studio/opengraph-image.png?v=4)\n\n3. **[Micaela DL｜让红黄大字和人物承担主角](https://micaeladl.xyz/)**｜Micaela DL｜原站 Framer 构建标记 2026-11-18 21:21 UTC（北京时间 11-19），非初发证明\n红底上以极窄厚重的黄字配人物切片，细黄辅助线贯穿版面；公开截图中案例区改为绿色及橙色分节。像杂志封面一样设定层级，让大标题和人像互相让位，而不是为每个角落填插画。已看原站 OG 和收录截图，未实测交互。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Lapa 收录；未见可靠流量\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[Lapa 收录](https://www.lapa.ninja/post/micaela-dl/) · [原作预览图（仅链接）](https://framerusercontent.com/images/xdTEwSCNIZHeQv62TCHvdxYvKg.png)\n\n4. **[Royden So｜让材质照片与界面索引分工](https://roydenso.com/)**｜Royden So｜Lapa 标为 2026，精确首发日未知\n原站分享图以黑底白字配手势照片，右侧放在同一画面里的多个项目界面则像接触印相。真正只有一小块文字发声，带来材料感但不妨碍看案例。已看作者 OG 与公开页面内容，未拖动体验。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Lapa 收录；未见可靠流量\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[Lapa 收录](https://www.lapa.ninja/post/royden-so/) · [原作预览图（仅链接）](https://roydenso.com/opengraph-image?2c52f8d0bdf3f6f0)\n\n5. **[Kestrel｜把复杂任务操控拆成同一视觉语法](https://dribbble.com/shots/27894830-Geospatial-Intelligence-Dashboard-Mission-Control-UI)**｜George Railean｜见于 Dribbble 本轮近一周热门；精确上传日未核\n深底网格同时放入轨道小图、长时间带、细折线和柱形图，却把大面积高亮收敛到蓝青色。可借鉴用形状区分不同时间或任务粒度，同一高亮体系标选中与重点。已看作者上传静帧；未实测实时数据或系统功能。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Dribbble 榜单 240 赞 / 约 3.42 万浏览\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[热度口径](https://dribbble.com/shots/popular/product-design?timeframe=week) · [原作预览图（仅链接）](https://cdn.dribbble.com/userupload/49641914/file/still-912df4d8ab54f81bbee3ec684019c544.png?resize=400x0)\n\n6. **[Tokenwise｜同屏保留总览，也给一组指标主位](https://dribbble.com/shots/27894525-Tokenwise-AI-Spend-Routing-Agent-Telemetry-Dashboard)**｜uixNinja｜见于 Dribbble 本轮近一周热门；精确上传日未核\n奶白网格卡片包住黑底用量柱状图，黄色计量环与账单色块各有独立面积。可借鉴在同一格栅内借对比给关键指标更重层级，而不是让每张卡同时抢色。已看作者预览静帧，未复测文案所称 60fps 或实时交互。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Dribbble 榜单 79 赞 / 约 1.51 万浏览\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[热度口径](https://dribbble.com/shots/popular/product-design?timeframe=week) · [原作预览图（仅链接）](https://cdn.dribbble.com/userupload/49640277/file/still-7d2004fe3732df3b85f6b4da150ab8c3.png?resize=400x0)\n\n\n## UI 动效｜11\n\n1. **[Apple Image Playground｜待生成的光球如何变成可编辑结果](https://60fps.design/shots/apple-playground-generation-interaction)**｜Apple；60fps.design 收录｜Apple 2024-12-11 公布上线；非 2026 新功能\n对 5.903 秒录屏分时取帧：约 0.5 秒，中央只见亮球，周围环绕三个主题标签；约 3.7 秒，图像在球内逐渐可以辨认；约 5.3 秒，球形展示过渡到方形结果，外围标签淡出或散开。它把等待过程与结果放在同个视觉中心，让人不用重新寻找生成物。可借鉴的是保持焦点，不是给无进度数据的系统编造百分比。\n\n核验：公开录屏取帧与 Apple 上线公告，未实际操作 Apple 设备。。 并非标签被逐一吸入；录屏不代表固定生成时长，也没有体现失败与取消状态。\n热度：未核到这段录屏的播放量\n封面待补：录屏和对应预览图出自第三方操作档案，未确认公开重用许可。\n更多：[Apple 上线说明](https://www.apple.com/ie/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/)\n\n2. **[Instrument Cluster｜仪表可动，更要看读数失效时如何退场](https://shchilkin.dev/design-lab/studies/car-dashboard/gauge-studio/)**｜Aleksandr Shchilkin｜作者标为 2026 年 10 月 Car Dashboard v4；11/18 为站点版本标记，不当首发\n云端实拖 Gauge Studio 的 Speed，从 60 到 126，刻度针与数字同步变，续航保持 218 km。再在 Customize 触发 Electric / Drive 的 Sensor lost：画面立刻提示 Data unavailable，左表暗下，无障碍树中的速度项移除，但其可见大数仍变（看到 34→88）；右侧功率、行程计时继续更新，电量保持 68%。切回 Drive 恢复正常。这一矛盾比成功状态更值得看：淡出一个仪表不等于停止显示其失效读数。\n\n核验：实际操作两个在线演示并核对可见值与无障碍树。。 在线设计研究，不代表量产 HMI、安全测试或标准建议；没有测帧率。\n热度：未核到公开试玩次数\n封面待补：找到作者正常工况预览，但它不对应失效状态，也没有确认转载许可。\n更多：[测试 Sensor lost 状态](https://shchilkin.dev/design-lab/studies/car-dashboard/customize/)\n\n3. **[Airbnb｜礼品卡用一次扇开解释「礼物」](https://60fps.design/shots/airbnb-gift-feature-intro-card-split-interaction)**｜Airbnb 团队；60fps 录屏｜2026-11-20（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）\n在 1.24 秒录屏里，标题出现后，灰色占位变成一叠彩色插画卡；中间橙卡正向停住，左右卡边分别滑出并向外转成一把小扇形。可借鉴中心先定住、两边后展开的节奏，让用户先认出礼品卡，再看到选择。\n\n核验：见正文所述原作、录屏或实际操作范围。 视频仅显示进入礼品页时的首次揭示；没测试动画是否每次重播，未核原型参数；该 MP4 的容器帧率并非 60fps。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[对应原始 MP4](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ec198a74c685f8a4da9/main.mp4) · [播放器海报原出处](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ec198a74c685f8a4da9/thumbnail-1-0.png?width=800)\n\n4. **[Plasma｜账户顶角用币旗轮换承载待机动效](https://60fps.design/shots/plasma-flags-circle-shuffle-spin-interaction)**｜Plasma 团队；Benji／60fps 录屏｜2026-11-20（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）\n已抽帧核验 14.57 秒录屏。右上角两个极小的彩色币旗圆点循环挪位、换色，粉、黄、蓝和绿先后进入同一图标区域；大字余额与主要按钮保持不动。可以把氛围限定在低优先级角标，避免全页抢注意力。\n\n核验：见正文所述原作、录屏或实际操作范围。 实录只验证角标轮换与画面保持；没有验证它可点、选中了何种货币，或复现其精确曲线。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[对应原始 MP4](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ebf98a74c685f8a4d9c/main.mp4) · [播放器海报原出处](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ebf98a74c685f8a4d9c/thumbnail-1-0.png?width=800)\n\n5. **[DOOD｜照片与插画是同一张卡的两面](https://60fps.design/shots/dood-photo-to-illustration-flip-interaction)**｜DOOD 团队；60fps 录屏｜2026-10-20（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）\n已抽帧核验 5.15 秒录屏：照片卡在白底界面里倾转，翻到近乎侧边时很短暂地只剩窄面，随后露出较浅的插画版本，下一轮再返回照片。下方说明和按钮不一起翻，效果主体与操作位置分得很清楚。\n\n核验：见正文所述原作、录屏或实际操作范围。 这是产品展示页的动画，不是拍摄或生成现场；视频没有证明翻转需要点击，也不能判断转化用了哪种模型。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[对应原始 MP4](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a16e59c41063b892b88/main.mp4) · [播放器海报原出处](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a16e59c41063b892b88/thumbnail-1-0.png?width=800)\n\n6. **[Peaks｜睡眠详情收回自己的格子](https://60fps.design/shots/peaks-card-scale-morph-interaction)**｜Peaks 团队；Benji／60fps 录屏｜2026-09-07（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）\n4.02 秒实录可见蓝紫色睡眠信息卡短暂放大进入详情，中心评分 77 和多边形图保持可识别；返回时整块缩回白色 Insights 网格的左上格，邻卡重新显露。借鉴点是详情先交还去向再结束，不把回退做成突然换页。\n\n核验：见正文所述原作、录屏或实际操作范围。 只核验 iOS 录屏里的屏幕转场，未判断程序采用何种共享元素或是否支持中途反向。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[对应原始 MP4](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bbaaa489a4399ce53cd/main.mp4) · [播放器海报原出处](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bbaaa489a4399ce53cd/thumbnail-1-0.png?width=800)\n\n7. **[Revolut｜把「账户就绪」变成一张有重量的卡](https://60fps.design/shots/revolut-card-ready-animation)**｜Revolut 团队；Benji／60fps 录屏｜2026-09-07（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）\n9.18 秒录屏中，铺近屏幕上方的洋红色卡面后撤并旋向斜角，落在黑色起伏形体前，卡面形成蓝紫到洋红渐变。随后就绪文案和白色按钮形成稳定落点。用一个物件由大变小把庆祝和结果连起来，而不是额外盖一张完成弹窗。\n\n核验：见正文所述原作、录屏或实际操作范围。 只核验开户就绪录屏的视觉反馈；不代表真实账户开通流程、艺术资产或全部版本。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[对应原始 MP4](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9e212f578a19ae25f6c8/main.mp4) · [播放器海报原出处](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9e212f578a19ae25f6c8/thumbnail-1-0.png?width=800)\n\n8. **[Runmo｜先让通知预览出现，再保留继续按钮](https://60fps.design/shots/runmo-enable-notifications-nudge-animation)**｜Runmo 团队；60fps 录屏｜2026-09-07（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）\n已逐段抽查 1 秒原录屏，暗色 Stay on track 页面中，中央通知示意从很暗的轮廓迅速提亮，荧光黄图标和两行文字分阶段可辨，底部黄色 Continue 按钮始终位于原处。适合借鉴成「先看将收到什么，再决定是否继续」的权限说明。\n\n核验：见正文所述原作、录屏或实际操作范围。 仅是 App 内的通知示意，不是系统权限弹窗或失败晃动；这段没有看到按键后结果，不把它说成权限授权。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。\n更多：[对应原始 MP4](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa489a4399ce5393/main.mp4) · [播放器海报原出处](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa489a4399ce5393/thumbnail-1-0.png?width=800)\n\n9. **[Sakuga VFX｜复选反馈做成漫画的一击](https://sakuga-vfx.vercel.app/)**｜finktheartist / @crtvTeknologist｜2026-11-16 已见第三方 GitHub 趋势记录；首发日未核实\n云端 Chrome 实点 Remember me，复选框变为 checked，瞬态画面出现两道斩击、碎晶及拟声字，最终勾选仍清晰。作者说明尊重 prefers-reduced-motion。可借鉴把强装饰只放在完成瞬间，稳定状态仍用原生勾选表达。\n\n核验：见正文所述原作、录屏或实际操作范围。 没有核对全部 12 控件。MIT 为仓库代码许可，不假定截图、发布方素材也在许可范围。\n热度：GitHub 公开快照 397 stars / 37 forks（仓库热度，非作品播放量）\n封面待补：作者在线画廊无明确可复用静帧授权；保留原型链接，不转载截图。\n更多：[原仓库与动作机制](https://github.com/finktheartist/sakuga-vfx)\n\n10. **[Skeleton Loader｜骨架屏退场时让卡高跟着内容变](https://gsapvault.com/ui-elements/skeleton-to-content-reveal)**｜Jay Dickinson / GSAP Vault｜作者公开组件页未确认首发时间\n实点嵌入原型 Reload，页面先报 Loading 8 items…，后变为 8 items loaded。作者实现对占位与内容做错峰交叉淡入、卡高过渡到实际高度。可借鉴先预留版式再微调，避免各张卡骤然跳动。\n\n核验：见正文所述原作、录屏或实际操作范围。 仅测默认场景，不代表已验证无障碍和低端设备性能。\n热度：开源合集 9 stars / 2 forks（合集快照，组件独立热度未知）\n封面待补：作者缩略图可打开，但没有查到独立转载许可；不镜像。\n更多：[作者 MIT 源码](https://github.com/jaydickinson/free-gsap-effects/tree/main/skeleton-to-content-reveal)\n\n11. **[motion-dialog｜开合共享一套弹簧的原生弹窗](https://www.motion-components.dev/docs/components/motion-dialog/)**｜Tomi Gomilar / Motion Components｜作者文档首发日期未核实\n实点 Open dialog，看到 Spring dialog 显示且焦点落在 Close；按 Escape 后不是同步消失，短暂仍可见，随后关闭。作者明确为弹簧上滑、遮罩淡入与弹簧回落，底层是原生 dialog。适合借鉴把开合动效与键盘退出、焦点路径一起设计。\n\n核验：见正文所述原作、录屏或实际操作范围。 未核对手机端、反复打断下的轨迹或所有遮罩变体。\n热度：GitHub 合集公开快照 16 stars / 4 forks（非单组件热度）\n封面待补：作者文档 OG 未确认是组件实画面，也未确认单独图片许可。\n更多：[作者 MIT 实现](https://github.com/tgomilar/motion-components)\n\n\n## 趣味交互｜5\n\n1. **[Animorio｜低音滑块：数值先到，磁流体再追上](https://animorio.com/demo/cursore-di-ferrofluido/index.html)**｜Animorio｜作者记录 2026-10-06 测试，未核到首发日\n把低音调节做成一条玻璃轨。云端实测：Home / End 分别到 0.0 / +12.0 dB；按 End 后，数字与轨下灰色标记已到右端，黑色液团仍扁而宽地滞留在中段，随后追到端点、竖起尖刺。快速横拖同样从 12 到 0 再到 12，右移的早期与稳定画面形态不同。设置值和材料反应分开：即使动效还在追赶，选中了什么已经明确。\n\n核验：见正文所述原作、录屏或实际操作范围。 未测精确延迟、声音或触屏；减弱动态效果为作者文档，未在云端复现。\n热度：未核到公开互动量\n封面待补：Animorio 的许可允许项目内使用动画，不明确允许精选库转载作者海报；不作外链封面。\n更多：[作者拆解](https://animorio.com/en/animations/ferrofluid-slider/) · [参数工作台](https://animorio.com/en/animations/ferrofluid-slider/playground/) · [原作预览图（仅链接）](https://animorio.com/anteprime/cursore-di-ferrofluido.jpg)\n\n2. **[Miku Traffic｜主歌指挥来车，副歌躲开歌词](https://magicalmirai.com/2026/procon/2026_finalist_applications/008_Miku_Traffic/)**｜Suite108｜Magical Mirai 2026 编程竞赛 #8；入围发布会 2026-07-25，确切首发未核\n实玩 imie 的《こたえて》：主歌按方向键，所选车道亮起、绿灯放行，日文词语随着小车穿过十字路口；副歌切到东京塔夜景，同一方向键改为让角色在粉色边界里移动，避开挂着歌词的气球与飞艇。底部歌词不消失，只把当前强调色从青换成粉。换段落不只换背景，也换了同一按键的职责，却保留了读歌词的固定位置。\n\n核验：见正文所述原作、录屏或实际操作范围。 云端键鼠实玩了两段，未测音画精确同步、移动端或完整通关。\n热度：入围；播放量未核，不是获奖条目\n封面待补：官方录屏与游戏截图未获本库转载许可，直接链接而不作封面。\n更多：[比赛条目与作者说明](https://magicalmirai.com/2026/procon/entry.html#entry_no08)\n\n3. **[Editorial Engine｜拖走球体，正文腾出新的落脚处](https://somnai-dreams.github.io/pretext-demos/the-editorial-engine.html)**｜Maxwell Ingham；使用 Cheng Lou 的 Pretext｜作者代码 2026-03-27 已有记录，非确切上线日\n在作者原版实拖一枚金色球，空白从页首扫进正文，真实英文行当场改变内容和断点，不是把已有的文字整体推开。松手后球继续漂移，原来狭窄处重新填出长行。延伸看 Rich Text：实测把宽度从 516 缩到 260px，正文换行，@maya、P1 等标签仍完整。\n\n核验：见正文所述原作、录屏或实际操作范围。 极窄空隙偶尔拆开英文单词，未测持续帧率；Rich Text 是单独的库演示。\n热度：作者仓库 26 stars；Pretext 库约 5.1 万 stars；不是作品播放量\n封面待补：未核到原作图片或截图复用许可，不做封面。\n更多：[Pretext 收录版](https://chenglou.me/pretext/editorial-engine/) · [富文本换行对照](https://chenglou.me/pretext/rich-note/) · [作者代码记录](https://github.com/somnai-dreams/pretext-demos/commit/500ed84b48d4a641d42bc1acfc6a73be6522b818)\n\n4. **[Skate Dog｜让滑板动作和得分贴在场景里](https://skate-dog.vercel.app/)**｜Matt Greenberg｜Codrops 目录标记 2026-08-13，未单独确认首发\n等距粉紫滑板场里，小狗载着角色穿梭；实看短片，角色经过台阶时头顶出现 OLLIE，左上得分在不同采样帧变化，倒计时从 2:00 走到 1:57。把动作名称留在角色周围、把整体局势留在稳定的 HUD，比分变化和身体动作彼此可对照，不需要为每次反馈暂停游戏。\n\n核验：见正文所述原作、录屏或实际操作范围。 看过真实演示逐秒画面，未在该浏览器实玩或测试音轨。\n热度：未核到可比传播量\n封面待补：未核到可公开复用的实拍封面。\n更多：[作者源码](https://github.com/MatthewGreenberg/skate-dog) · [Codrops 演示与收录日期](https://tympanus.net/codrops/hub/author/mattgreenberg/) · [真实演示短片](https://tympanus.net/codrops/wp-content/uploads/2026/10/skatedog_800x600.mp4) · [原作预览图（仅链接）](https://tympanus.net/codrops/wp-content/uploads/2026/10/skatedog_cover-400x300.jpg)\n\n5. **[Cocoon｜把裹丝和破茧做成一次可触发的状态切换](https://spite.github.io/codevember-2026/20/)**｜Jaume Sánchez Elias｜2026-11-20，作者 [vibe-]codevember 第 20 天\n实看演示，粉色人偶在漫射光中转向，表面的发光丝团在中段炸开，碎屑围着露出的暗色人偶向四周落散。原作将视角和状态分开：拖拽绕看、滚轮拉近，而 R / Randomize 用于尝试孵化新的形态；作者源码区分裹满后的破茧与未裹满时只换动作。先在原地积累，再换动画状态，比直接把角色替换成下一帧更有因果。\n\n核验：见正文所述原作、录屏或实际操作范围。 已抽查目录真实录屏，并核对原作提示和执行条件；没有实按 R，也不能确定录屏中的破茧由哪个输入触发。\n热度：未核到可比传播量\n封面待补：未确认作者预览或录屏静帧的本站转载许可。\n更多：[作者源文件](https://github.com/spite/codevember-2026/tree/main/20) · [真实演示短片](https://tympanus.net/codrops/wp-content/uploads/2026/11/CodevemberCocoon_800x600.mp4) · [原作预览图（仅链接）](https://spite.github.io/codevember-2026/screenshots/20-social.jpg)\n\n\n## AI 产品宣传｜6\n\n1. **[Clueso AI v2](https://x.com/realAkashAnand/status/2123068893895770148)**｜Clueso / Akash Anand｜官方公告 2026-11-18；创始人原帖 15:00 UTC。\n0:58.5 原柱图；1:00 粉色框选柱图并在输入框给出蓝色 Chart 标签；1:01.5–1:03 输入改成奶昔的指令；1:04.5 切出四只灰白玻璃杯，1:05.3 粉红液面和 120／260／410／580 标签对应原四周数值。左侧标题和总数 1,370 在这个示例里保留。另见 0:38–0:41 招聘卡 Building→Ready；1:14–1:20 同一张图上的标题评论和 AI 回复。原 X 文件独立解码 122.347 秒；不把剪辑当作生成速度或保真承诺。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 记录原帖 120,799 浏览（11/18 快照，不是当前值）。\n封面待补：官方封面可打开，未确认图像转载许可。\n更多：[官方发布与评论 GIF](https://www.clueso.io/blog/introducing-clueso-ai-v2) · [可播放归档](https://whatships.com/videos/clueso-v2/) · [定位到图表片段](https://launchscene.app/v/clueso-akash-anand-today-were-launching-clueso-v2-ai-has-fi?play=1&s=15) · [官方文章原图（仅链接）](https://d37f9k611f70xr.cloudfront.net/clueso-ai-v2-cover.webp)\n\n2. **[Pika Enact — Research Preview](https://x.com/pika_labs/status/2123127584342921652)**｜Pika｜2026-11-18 官方研究预览；X 原帖 18:53 UTC，北京 11/19 凌晨。\n0:49–1:02.5，带橙色播放指针的帧条接到一段紫色处理区，导演的指令进入，理解／计划／记忆／表演四个标题随后出现；帧条显示 Bob 转身，最后放大成连续画面。1:30–1:35 另用横向运动模糊从厨房里的男人重构到女演员近景。片子讲清楚了新指令插在哪、后续画面改在哪里；已解码 150.293 秒，不等于产品实测。官方明确尚不向消费者开放，不能拿来承诺 AE/FBX 可编辑镜头或实际延迟。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Launchscene 对 X 原帖标注截至 11/20 约 55.2 万浏览，非本轮独立查证。\n封面待补：官方原图已验；未确认可转载为封面。\n更多：[官方研究说明](https://pika.art/blog/pika-enact) · [可播放归档](https://whatships.com/videos/pika-enact/) · [跳到帧条段落](https://launchscene.app/v/pika-pika-today-were-excited-to-share-enact-a-research-previ?play=1&t=47) · [官方文章原图（仅链接）](https://cdn.pika.art/v2/creation/cms/notion/3d4def814b639f561d66a26a482e3b70.webp)\n\n3. **[Introducing Ideogram 4.6](https://x.com/ideogram_ai/status/2123461101224624402)**｜Ideogram｜原帖 2026-11-19 16:59 UTC。\n42.112 秒原帖视频抽帧核验：0:00.8、0:14.3、0:18.5 和 0:22.7 都以蹲姿人像为对比锚点，逐步展示不同光照与配色；0:27.4 放大橙色鞋面面料并标出局部，0:32.0 叠加「touch ups」，0:39.6 才拉回不同出图版本做收束。作为宣传，先固定构图再依次换灯光、颜色和细节，比每项功能都换片子更容易比较；并非重现模型能力或测量编辑精度。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/19 快照：5,597 浏览，非实时。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。\n更多：[官方型号页](https://ideogram.ai/models/4.6/) · [可播放归档](https://whatships.com/videos/ideogram-4-6/)\n\n4. **[Neue Studio](https://x.com/neue_academy/status/2123767154054959406)**｜Neue Academy｜原帖 2026-11-20 13:15 UTC，内容为 first look。\n编辑器以 AI 辅助视频编辑和创意编程为卖点。58.752 秒原帖视频抽帧核验：0:05.3 用「Plug in every source」和散开的素材卡起句；0:20.0 是聚成板的素材；0:25.9 和 0:31.7 转到有时间轴的文字动画与城市镜头；0:38.2 展示一组同构黄紫图形，0:44.7 和 0:55.2 保留斜线构图、切换配色，末尾出现导出对话框。把素材板、版本预览、时间轴和导出组织成一条看得懂的叙事。本轮未独立核对开放范围；这不是可用性实测，也没有制作方证据称宣传片由 AI 生成。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/21 快照：3,814 浏览，非实时。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。\n更多：[可播放归档](https://whatships.com/videos/neue-studio/)\n\n5. **[Anijam Sensei](https://x.com/Anijam_ai/status/2123071095532298680)**｜Anijam｜原帖 2026-11-18 15:09 UTC。\n56.448 秒原帖视频抽帧核验：0:01.1 把 @anijam_ai 做成片子里重复出现的胶囊形视觉锚点，0:05.1–0:14.1 从汽车外形切到机械爆炸图又归回外壳；0:30.5 换成蒸汽波汽车，0:42.9 以数字标注转成竞技场图解；0:48.6–0:53.1 才把社交平台的回复输入和输出摆清楚。异质片段靠同一提及标签串联，读起来像反复演绎同一动作。剪辑不代表平台的实际响应速度或对品牌素材的授权。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/18 快照：15,335 浏览。片中展示的其他帖子的浏览数字不计入。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。\n更多：[官方技术说明与示例](https://www.anijam.ai/sensei/) · [可播放归档](https://whatships.com/videos/anijam-sensei/)\n\n6. **[HolyMolly](https://x.com/HolyMolly_AI/status/2122604857127325911)**｜HolyMolly｜原帖 2026-11-17 08:16 UTC。\n62.869 秒原帖视频抽帧核验：0:10.7 把参考素材拖向输入框，0:15.7 手机端点黄色发起按钮；0:21.4 与 0:27.7 以手绘风车世界、写实室内球场对比画风。0:34.0 显示加载百分数，0:47.8 在第一人称画面下给出「Add airstrike」输入，0:54.1 切回同场景的瞄准视角。输入、处理状态、可操纵后的镜头分得明确。仅描述片中演示，不把分段剪辑当延时结论，也未实玩。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/20 快照：811,978 浏览，非实时。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。\n更多：[官方产品演示](https://holymolly.ai/) · [可播放归档](https://whatships.com/videos/holymolly/)\n\n\n## AI 制作动画｜5\n\n1. **[A Line to the Drowning｜先定机位，再用 Seedance 做镜头](https://www.youtube.com/watch?v=wQPOJ28XcQ4)**｜AXXOLAB STUDIO｜公开片段 2026-10-07（YouTube 发布元数据）；完整项目未完成\n查看 YouTube 原播放器逐秒缩略帧：开场地铁的手机与扶杆，切到打卡和仓库几乎固定的广角，同一排工人横向穿过输送线，随后回到地铁。制作组先写机位、镜头运动、剪辑点及前后镜头衔接，再让 Claude、Codex 辅助用脚本搭 Blender 块体预演、ffmpeg 拼预览；人工确认镜头后，用参考图、预演和提示进入 Higgsfield 的 Seedance，字幕后加。最值得借鉴的是把可无限重跑的构图与时长检查，放在付费生成之前。\n\n核验：原播放器公开逐秒缩略帧及 AXXOLAB 韩英制作记录；未核音轨、不声称看完连续视频。。 公开的是约 42 秒片段；其余镜头仍在预演，未公开准确模型版本或逐镜头参数。\n热度：原视频页面元数据显示 107 次观看（11/23 检查）\n封面待补：找到作者发布的视频预览与项目剧照，但未确认允许原尺寸封面再发布。\n更多：[韩文原始制作记录](https://axxolab.com/work/drowning/) · [英文制作拆解](https://axxolab.com/en/work/drowning/)\n\n2. **[From a generated image to a Blender film](https://aictrl.dev/blog/from-agent-factory-to-workflow)**｜Bulat Yapparov / aictrl.dev｜2026-09-09 为制作文章日期，不是确认的影片首发日期。\n冻结版 2–2.5 秒，工坊在转，相对显示器的位置上橙色角色还不动；最终版前 2.5 秒橙色角色经过自己的屏幕。制作者说他们在过渡区间重采样刚性零件的世界变换，而不是只复制一帧。正片 6 秒删到一层，7.5 秒只剩显示器和两位机器人，8.5 秒让已对齐的显示器和流程卡叠化，9 秒进入纯平面。值得借鉴的是先在镜头里对齐对象与目标卡片，再做换媒介，并检查角色的动作有没有在接缝处丢掉。制作者称 AI 只提供概念和重建参考图；Blender/bpy 做场景和动作，SVG、FFmpeg 完成合成与导出。四条原始片段均已解码并与原清单校验值相符。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：无公开播放数。\n封面待补：原海报验证通过；没有再发布授权。\n更多：[22 秒正片](https://media.aictrl.dev/homepage-film-v1/blog/media/from-agent-factory-to-workflow/finished.mp4) · [冻结版开头](https://media.aictrl.dev/homepage-film-v1/blog/media/from-agent-factory-to-workflow/frozen-opening.mp4) · [修复版开头](https://media.aictrl.dev/homepage-film-v1/blog/media/from-agent-factory-to-workflow/live-opening.mp4) · [作者原海报（仅链接）](https://aictrl.dev/blog/media/from-agent-factory-to-workflow/finished-poster.webp)\n\n3. **[Passenger](https://seveneves.ai/riso/)**｜Seveneves / Ink in Motion｜2026-09-24 为该 MP4 上传日；v1.0 容器的 9/22 不是这支片的上传日。\n雾窗上的同一个蝶形先让朝阳透过，再成为飞离的蝴蝶，最后留下原位剪影。19.60 秒仍和窗口轮廓对齐；19.73 秒上翅翻起，透窗剪影露出来；20.2 秒飞向右上仍保留蓝紫和橙色，约 28 秒落在杯沿。18.85 秒遮罩切全轮廓是源码事实，实际相邻帧无明显跳变。可复用做法是先定准交接轮廓，分别处理取色与前后遮挡，再检查切换前后两帧。作者说自己导演，Claude Code 写 Canvas 2D 和 Web Audio 程序；原 36 秒 MP4 已校验解码，不是文生视频。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：原发布没有独立核到影片播放量。\n封面：Passenger · Seveneves / Ink in Motion · © 2026 sevenevesai · MIT · 官方影片 19.900 秒截帧并缩放；完整许可随图片保存。\n更多：[官方 36 秒 MP4](https://github.com/sevenevesai/riso-windowseat/releases/download/v1.0/passenger.mp4) · [原作者逐帧方法与审查记录](https://github.com/sevenevesai/riso-windowseat/blob/main/films/passenger/FILM.md) · [原站海报（仅链接）](https://seveneves.ai/riso/posters/passenger.jpg) · [制作方给影片注明 MIT 的发布页](https://github.com/sevenevesai/riso-windowseat/releases/tag/v1.0) · [完整 MIT 版权与许可](https://raw.githubusercontent.com/sevenevesai/riso-windowseat/main/LICENSE) · [封面许可](https://github.com/sevenevesai/riso-windowseat/blob/main/LICENSE)\n\n4. **[Pushups for Love](https://3d-agent.com/blog/ai-short-film-blender-workflow)**｜Hugo Caumo / 3D-Agent｜制作文章日期 2026-10-24，不作影片独立首发日。\n作者用 3D-Agent 在 Blender 做灰模、走位和机位规划，再制作人物／视觉参考及每镜首帧，用 Seedance 2.5 生成镜头，回 Blender 剪接修边。作者的反例是模型错误地让女主拿起哑铃；他同时改灰模和提示，让手在梳头时保持为空。17.958 秒成片抽帧：0:00.4 女主眼部极近，约 0:04.5 拉到健身房低视角，0:09.7–0:11.7 镜中示两人接近，0:13.7 伸出的手位于持哑铃人物身后，0:16.9 回到女主眼部极近。可借鉴的是在难控制的局部动作上同时修机位／动作参照和文字约束；首尾相似构图不等于逐像素无缝。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：未核到官方播放量。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。\n更多：[原站短片 MP4](https://kfgqdunxjdmbvuvs.public.blob.vercel-storage.com/ai-short-film-blender/pushups-for-love-ai-short-film.mp4)\n\n5. **[材质网格 / Material Grid](https://github.com/lemomo-ai/lemo-opuscar/blob/main/MY-STYLES.md)**｜LemoLab / Lemo-Opuscar｜GitHub 正片资产上传于 2026-10-22 06:51 UTC。\n31 秒正式片抽帧：0:00.6–0:05.3 以平视逐个加原色几何及中文标题；0:07.8–0:13.6 组块被拉出高度，侧斜机位让投影与厚度显形，0:20.2 出现原色像素框的变体，0:26.7–0:30.4 回到正面海报但黄件、圆和金属环继续改位。对照同仓库的 Swiss Motion Graphics：后者 0:07.5–0:23.8 逐条演示网格、单字体、留白、对齐与破例，不是同一条片。创作者文档的流程是先访谈并定下风格变量，再用代码渲染单张试片，早审后才做短片；Claude 参与编程，动画由代码渲染，并非视频扩散。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：无独立播放量。\n封面：Lemo-Opuscar by Lemomo (LemoLab) · CC BY 4.0 · 10.5 秒截帧并缩放。\n更多：[工程与案例说明](https://github.com/lemomo-ai/lemo-opuscar) · [影片逐文件日期](https://github.com/lemomo-ai/lemo-opuscar/releases/expanded_assets/films) · [Material Grid 官方正片](https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/my-style-material-grid.mp4) · [只作对照的 Swiss Motion 原片](https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/swiss-motion.mp4) · [封面许可](https://creativecommons.org/licenses/by/4.0/)\n\n\n## 延伸阅读｜不计入案例数\n\n- **[座舱中的约束式生成 UI](https://www.akshilshah.com/papers/constrained-generative-ui-cockpit-automotiveui26.pdf)｜Akshil Shah、Sebastian Zepf、Andreas Riener，AutomotiveUI 2026。** 30 名内部招募人员在停驶车辆中观看模拟道路，比较预设界面和由预验证组件组成的界面。清晰度、主观分心和态势觉察差异未达到统计显著，不能说两者等效或已证实道路安全。原型平均生成约 32 秒，而且问卷不评价这段延迟。可借鉴：用相同场景和相同信息，对比固定布局与预制的可变布局，单独记录关键信息是否被重排。\n- **[Brilliant Motion beta](https://brilliant.design/docs/changelog/changelog) 与 [Blueprint 文档](https://brilliant.design/docs/developers/blueprint)｜Brilliant，2026-11-19。** 更新日志描述画布动效、聊天中的可播卡片、按时间点评论和并排对比，开发文档把原生影片 `.bm` 和设计画布 `.bl` 区分开。值得借鉴的是让意见绑定到影片版本与时间码。仅核到官方文档，未实跑该 beta，也没验证 AE 互通或透明输出。\n",
+      "cases": [
+        {
+          "id": "2026-11-23-stripe-press-new-shelf",
+          "date": "2026-11-23",
+          "module": "UI设计",
+          "title": "Stripe Press 新版｜让一本书主动走出书架",
+          "author": "Stripe Press；Devin Jacoviello、Nick Jones 等",
+          "originalDateNote": "2026-11-18 北京时间新版上线，依官方公告 X 帖 ID 换算",
+          "heat": "官方发布，另获设计媒体收录；未核平台互动数",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://stripe.press/",
+              "label": "原站"
+            },
+            {
+              "url": "https://x.com/stripepress/status/2122721696998465972",
+              "label": "官方上线帖"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://stripe.press/images/social_card.jpg"
+            }
+          ],
+          "fullText": "窄书脊横向排成书架，让选中的一本以正封占据中央，出版社标识和导航保持在外围。可借鉴用大小、朝向区分浏览层与当前焦点，不必靠新开面板。已看作者分享图，核对原站书目；未试玩翻页或购买。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：官方发布，另获设计媒体收录；未核平台互动数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-joyco-studio-editorial",
+          "date": "2026-11-23",
+          "module": "UI设计",
+          "title": "JOYCO｜把站点做成工作室的刊头",
+          "author": "JOYCO",
+          "originalDateNote": "Lapa 标为 2026，精确首发日未核",
+          "heat": "Lapa 收录；未见可靠流量",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://joyco.studio/",
+              "label": "作者原站"
+            },
+            {
+              "url": "https://www.lapa.ninja/post/joyco/",
+              "label": "Lapa 收录"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://joyco.studio/opengraph-image.png?v=4"
+            }
+          ],
+          "fullText": "原站分享图右下拼接巨型 JOYCO 字标与黑色图形，钴蓝窄条装下编号等微型信息；原站作品索引用项目、内容、类型、年份分列。可借鉴让品牌先用一条强有力的版式规则亮相，检索区再恢复稳定字段。未实测首页动态。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Lapa 收录；未见可靠流量\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-micaela-dl-portfolio",
+          "date": "2026-11-23",
+          "module": "UI设计",
+          "title": "Micaela DL｜让红黄大字和人物承担主角",
+          "author": "Micaela DL",
+          "originalDateNote": "原站 Framer 构建标记 2026-11-18 21:21 UTC（北京时间 11-19），非初发证明",
+          "heat": "Lapa 收录；未见可靠流量",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://micaeladl.xyz/",
+              "label": "作者原站"
+            },
+            {
+              "url": "https://www.lapa.ninja/post/micaela-dl/",
+              "label": "Lapa 收录"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://framerusercontent.com/images/xdTEwSCNIZHeQv62TCHvdxYvKg.png"
+            }
+          ],
+          "fullText": "红底上以极窄厚重的黄字配人物切片，细黄辅助线贯穿版面；公开截图中案例区改为绿色及橙色分节。像杂志封面一样设定层级，让大标题和人像互相让位，而不是为每个角落填插画。已看原站 OG 和收录截图，未实测交互。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Lapa 收录；未见可靠流量\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-royden-so-portfolio",
+          "date": "2026-11-23",
+          "module": "UI设计",
+          "title": "Royden So｜让材质照片与界面索引分工",
+          "author": "Royden So",
+          "originalDateNote": "Lapa 标为 2026，精确首发日未知",
+          "heat": "Lapa 收录；未见可靠流量",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://roydenso.com/",
+              "label": "作者原站"
+            },
+            {
+              "url": "https://www.lapa.ninja/post/royden-so/",
+              "label": "Lapa 收录"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://roydenso.com/opengraph-image?2c52f8d0bdf3f6f0"
+            }
+          ],
+          "fullText": "原站分享图以黑底白字配手势照片，右侧放在同一画面里的多个项目界面则像接触印相。真正只有一小块文字发声，带来材料感但不妨碍看案例。已看作者 OG 与公开页面内容，未拖动体验。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Lapa 收录；未见可靠流量\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-kestrel-mission-dashboard",
+          "date": "2026-11-23",
+          "module": "UI设计",
+          "title": "Kestrel｜把复杂任务操控拆成同一视觉语法",
+          "author": "George Railean",
+          "originalDateNote": "见于 Dribbble 本轮近一周热门；精确上传日未核",
+          "heat": "Dribbble 榜单 240 赞 / 约 3.42 万浏览",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://dribbble.com/shots/27894830-Geospatial-Intelligence-Dashboard-Mission-Control-UI",
+              "label": "作者原作"
+            },
+            {
+              "url": "https://dribbble.com/shots/popular/product-design?timeframe=week",
+              "label": "热度口径"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://cdn.dribbble.com/userupload/49641914/file/still-912df4d8ab54f81bbee3ec684019c544.png?resize=400x0"
+            }
+          ],
+          "fullText": "深底网格同时放入轨道小图、长时间带、细折线和柱形图，却把大面积高亮收敛到蓝青色。可借鉴用形状区分不同时间或任务粒度，同一高亮体系标选中与重点。已看作者上传静帧；未实测实时数据或系统功能。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Dribbble 榜单 240 赞 / 约 3.42 万浏览\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-tokenwise-bento",
+          "date": "2026-11-23",
+          "module": "UI设计",
+          "title": "Tokenwise｜同屏保留总览，也给一组指标主位",
+          "author": "uixNinja",
+          "originalDateNote": "见于 Dribbble 本轮近一周热门；精确上传日未核",
+          "heat": "Dribbble 榜单 79 赞 / 约 1.51 万浏览",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://dribbble.com/shots/27894525-Tokenwise-AI-Spend-Routing-Agent-Telemetry-Dashboard",
+              "label": "作者原作"
+            },
+            {
+              "url": "https://dribbble.com/shots/popular/product-design?timeframe=week",
+              "label": "热度口径"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://cdn.dribbble.com/userupload/49640277/file/still-7d2004fe3732df3b85f6b4da150ab8c3.png?resize=400x0"
+            }
+          ],
+          "fullText": "奶白网格卡片包住黑底用量柱状图，黄色计量环与账单色块各有独立面积。可借鉴在同一格栅内借对比给关键指标更重层级，而不是让每张卡同时抢色。已看作者预览静帧，未复测文案所称 60fps 或实时交互。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Dribbble 榜单 79 赞 / 约 1.51 万浏览\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-apple-image-playground-orb-unfold",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Apple Image Playground｜待生成的光球如何变成可编辑结果",
+          "author": "Apple；60fps.design 收录",
+          "originalDateNote": "Apple 2024-12-11 公布上线；非 2026 新功能",
+          "heat": "未核到这段录屏的播放量",
+          "verification": "公开录屏取帧与 Apple 上线公告，未实际操作 Apple 设备。",
+          "limitations": "并非标签被逐一吸入；录屏不代表固定生成时长，也没有体现失败与取消状态。",
+          "links": [
+            {
+              "label": "看完整操作录屏",
+              "url": "https://60fps.design/shots/apple-playground-generation-interaction"
+            },
+            {
+              "label": "Apple 上线说明",
+              "url": "https://www.apple.com/ie/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/"
+            }
+          ],
+          "fullText": "对 5.903 秒录屏分时取帧：约 0.5 秒，中央只见亮球，周围环绕三个主题标签；约 3.7 秒，图像在球内逐渐可以辨认；约 5.3 秒，球形展示过渡到方形结果，外围标签淡出或散开。它把等待过程与结果放在同个视觉中心，让人不用重新寻找生成物。可借鉴的是保持焦点，不是给无进度数据的系统编造百分比。\n\n核验：公开录屏取帧与 Apple 上线公告，未实际操作 Apple 设备。。 并非标签被逐一吸入；录屏不代表固定生成时长，也没有体现失败与取消状态。\n热度：未核到这段录屏的播放量\n封面待补：录屏和对应预览图出自第三方操作档案，未确认公开重用许可。"
+        },
+        {
+          "id": "2026-11-23-shchilkin-instrument-cluster-sensor-loss",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Instrument Cluster｜仪表可动，更要看读数失效时如何退场",
+          "author": "Aleksandr Shchilkin",
+          "originalDateNote": "作者标为 2026 年 10 月 Car Dashboard v4；11/18 为站点版本标记，不当首发",
+          "heat": "未核到公开试玩次数",
+          "verification": "实际操作两个在线演示并核对可见值与无障碍树。",
+          "limitations": "在线设计研究，不代表量产 HMI、安全测试或标准建议；没有测帧率。",
+          "links": [
+            {
+              "label": "拖动仪表速度",
+              "url": "https://shchilkin.dev/design-lab/studies/car-dashboard/gauge-studio/"
+            },
+            {
+              "label": "测试 Sensor lost 状态",
+              "url": "https://shchilkin.dev/design-lab/studies/car-dashboard/customize/"
+            }
+          ],
+          "fullText": "云端实拖 Gauge Studio 的 Speed，从 60 到 126，刻度针与数字同步变，续航保持 218 km。再在 Customize 触发 Electric / Drive 的 Sensor lost：画面立刻提示 Data unavailable，左表暗下，无障碍树中的速度项移除，但其可见大数仍变（看到 34→88）；右侧功率、行程计时继续更新，电量保持 68%。切回 Drive 恢复正常。这一矛盾比成功状态更值得看：淡出一个仪表不等于停止显示其失效读数。\n\n核验：实际操作两个在线演示并核对可见值与无障碍树。。 在线设计研究，不代表量产 HMI、安全测试或标准建议；没有测帧率。\n热度：未核到公开试玩次数\n封面待补：找到作者正常工况预览，但它不对应失效状态，也没有确认转载许可。"
+        },
+        {
+          "id": "2026-11-23-airbnb-gift-feature-intro-card-split-interaction",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Airbnb｜礼品卡用一次扇开解释「礼物」",
+          "author": "Airbnb 团队；60fps 录屏",
+          "originalDateNote": "2026-11-20（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）",
+          "heat": "原作页未公开可靠的播放或点赞计数",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "视频仅显示进入礼品页时的首次揭示；没测试动画是否每次重播，未核原型参数；该 MP4 的容器帧率并非 60fps。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。",
+          "links": [
+            {
+              "label": "原录屏与逐帧工具",
+              "url": "https://60fps.design/shots/airbnb-gift-feature-intro-card-split-interaction"
+            },
+            {
+              "label": "对应原始 MP4",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ec198a74c685f8a4da9/main.mp4"
+            },
+            {
+              "label": "播放器海报原出处",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ec198a74c685f8a4da9/thumbnail-1-0.png?width=800"
+            }
+          ],
+          "fullText": "在 1.24 秒录屏里，标题出现后，灰色占位变成一叠彩色插画卡；中间橙卡正向停住，左右卡边分别滑出并向外转成一把小扇形。可借鉴中心先定住、两边后展开的节奏，让用户先认出礼品卡，再看到选择。\n\n核验：见正文所述原作、录屏或实际操作范围。 视频仅显示进入礼品页时的首次揭示；没测试动画是否每次重播，未核原型参数；该 MP4 的容器帧率并非 60fps。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-plasma-flags-circle-shuffle-spin-interaction",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Plasma｜账户顶角用币旗轮换承载待机动效",
+          "author": "Plasma 团队；Benji／60fps 录屏",
+          "originalDateNote": "2026-11-20（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）",
+          "heat": "原作页未公开可靠的播放或点赞计数",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "实录只验证角标轮换与画面保持；没有验证它可点、选中了何种货币，或复现其精确曲线。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。",
+          "links": [
+            {
+              "label": "原录屏与逐帧工具",
+              "url": "https://60fps.design/shots/plasma-flags-circle-shuffle-spin-interaction"
+            },
+            {
+              "label": "对应原始 MP4",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ebf98a74c685f8a4d9c/main.mp4"
+            },
+            {
+              "label": "播放器海报原出处",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6b005ebf98a74c685f8a4d9c/thumbnail-1-0.png?width=800"
+            }
+          ],
+          "fullText": "已抽帧核验 14.57 秒录屏。右上角两个极小的彩色币旗圆点循环挪位、换色，粉、黄、蓝和绿先后进入同一图标区域；大字余额与主要按钮保持不动。可以把氛围限定在低优先级角标，避免全页抢注意力。\n\n核验：见正文所述原作、录屏或实际操作范围。 实录只验证角标轮换与画面保持；没有验证它可点、选中了何种货币，或复现其精确曲线。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-dood-photo-to-illustration-flip-interaction",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "DOOD｜照片与插画是同一张卡的两面",
+          "author": "DOOD 团队；60fps 录屏",
+          "originalDateNote": "2026-10-20（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）",
+          "heat": "原作页未公开可靠的播放或点赞计数",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "这是产品展示页的动画，不是拍摄或生成现场；视频没有证明翻转需要点击，也不能判断转化用了哪种模型。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。",
+          "links": [
+            {
+              "label": "原录屏与逐帧工具",
+              "url": "https://60fps.design/shots/dood-photo-to-illustration-flip-interaction"
+            },
+            {
+              "label": "对应原始 MP4",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a16e59c41063b892b88/main.mp4"
+            },
+            {
+              "label": "播放器海报原出处",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a16e59c41063b892b88/thumbnail-1-0.png?width=800"
+            }
+          ],
+          "fullText": "已抽帧核验 5.15 秒录屏：照片卡在白底界面里倾转，翻到近乎侧边时很短暂地只剩窄面，随后露出较浅的插画版本，下一轮再返回照片。下方说明和按钮不一起翻，效果主体与操作位置分得很清楚。\n\n核验：见正文所述原作、录屏或实际操作范围。 这是产品展示页的动画，不是拍摄或生成现场；视频没有证明翻转需要点击，也不能判断转化用了哪种模型。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-peaks-card-scale-morph-interaction",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Peaks｜睡眠详情收回自己的格子",
+          "author": "Peaks 团队；Benji／60fps 录屏",
+          "originalDateNote": "2026-09-07（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）",
+          "heat": "原作页未公开可靠的播放或点赞计数",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "只核验 iOS 录屏里的屏幕转场，未判断程序采用何种共享元素或是否支持中途反向。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。",
+          "links": [
+            {
+              "label": "原录屏与逐帧工具",
+              "url": "https://60fps.design/shots/peaks-card-scale-morph-interaction"
+            },
+            {
+              "label": "对应原始 MP4",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bbaaa489a4399ce53cd/main.mp4"
+            },
+            {
+              "label": "播放器海报原出处",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bbaaa489a4399ce53cd/thumbnail-1-0.png?width=800"
+            }
+          ],
+          "fullText": "4.02 秒实录可见蓝紫色睡眠信息卡短暂放大进入详情，中心评分 77 和多边形图保持可识别；返回时整块缩回白色 Insights 网格的左上格，邻卡重新显露。借鉴点是详情先交还去向再结束，不把回退做成突然换页。\n\n核验：见正文所述原作、录屏或实际操作范围。 只核验 iOS 录屏里的屏幕转场，未判断程序采用何种共享元素或是否支持中途反向。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-revolut-card-ready-animation",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Revolut｜把「账户就绪」变成一张有重量的卡",
+          "author": "Revolut 团队；Benji／60fps 录屏",
+          "originalDateNote": "2026-09-07（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）",
+          "heat": "原作页未公开可靠的播放或点赞计数",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "只核验开户就绪录屏的视觉反馈；不代表真实账户开通流程、艺术资产或全部版本。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。",
+          "links": [
+            {
+              "label": "原录屏与逐帧工具",
+              "url": "https://60fps.design/shots/revolut-card-ready-animation"
+            },
+            {
+              "label": "对应原始 MP4",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9e212f578a19ae25f6c8/main.mp4"
+            },
+            {
+              "label": "播放器海报原出处",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9e212f578a19ae25f6c8/thumbnail-1-0.png?width=800"
+            }
+          ],
+          "fullText": "9.18 秒录屏中，铺近屏幕上方的洋红色卡面后撤并旋向斜角，落在黑色起伏形体前，卡面形成蓝紫到洋红渐变。随后就绪文案和白色按钮形成稳定落点。用一个物件由大变小把庆祝和结果连起来，而不是额外盖一张完成弹窗。\n\n核验：见正文所述原作、录屏或实际操作范围。 只核验开户就绪录屏的视觉反馈；不代表真实账户开通流程、艺术资产或全部版本。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-runmo-enable-notifications-nudge-animation",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Runmo｜先让通知预览出现，再保留继续按钮",
+          "author": "Runmo 团队；60fps 录屏",
+          "originalDateNote": "2026-09-07（60fps 对应 VideoObject 录屏上传；产品功能首发未核实）",
+          "heat": "原作页未公开可靠的播放或点赞计数",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "仅是 App 内的通知示意，不是系统权限弹窗或失败晃动；这段没有看到按键后结果，不把它说成权限授权。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。",
+          "links": [
+            {
+              "label": "原录屏与逐帧工具",
+              "url": "https://60fps.design/shots/runmo-enable-notifications-nudge-animation"
+            },
+            {
+              "label": "对应原始 MP4",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa489a4399ce5393/main.mp4"
+            },
+            {
+              "label": "播放器海报原出处",
+              "url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa489a4399ce5393/thumbnail-1-0.png?width=800"
+            }
+          ],
+          "fullText": "已逐段抽查 1 秒原录屏，暗色 Stay on track 页面中，中央通知示意从很暗的轮廓迅速提亮，荧光黄图标和两行文字分阶段可辨，底部黄色 Continue 按钮始终位于原处。适合借鉴成「先看将收到什么，再决定是否继续」的权限说明。\n\n核验：见正文所述原作、录屏或实际操作范围。 仅是 App 内的通知示意，不是系统权限弹窗或失败晃动；这段没有看到按键后结果，不把它说成权限授权。 对应播放器原海报见链接；无确认的转载授权，建议只链接，不镜像。\n热度：原作页未公开可靠的播放或点赞计数\n封面待补：已核对原作画面，但未确认可用于公开精选库封面的转载许可。"
+        },
+        {
+          "id": "2026-11-23-sakuga-vfx-remember-me",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Sakuga VFX｜复选反馈做成漫画的一击",
+          "author": "finktheartist / @crtvTeknologist",
+          "originalDateNote": "2026-11-16 已见第三方 GitHub 趋势记录；首发日未核实",
+          "heat": "GitHub 公开快照 397 stars / 37 forks（仓库热度，非作品播放量）",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "没有核对全部 12 控件。MIT 为仓库代码许可，不假定截图、发布方素材也在许可范围。",
+          "links": [
+            {
+              "url": "https://sakuga-vfx.vercel.app/",
+              "label": "作者互动原型"
+            },
+            {
+              "url": "https://github.com/finktheartist/sakuga-vfx",
+              "label": "原仓库与动作机制"
+            }
+          ],
+          "fullText": "云端 Chrome 实点 Remember me，复选框变为 checked，瞬态画面出现两道斩击、碎晶及拟声字，最终勾选仍清晰。作者说明尊重 prefers-reduced-motion。可借鉴把强装饰只放在完成瞬间，稳定状态仍用原生勾选表达。\n\n核验：见正文所述原作、录屏或实际操作范围。 没有核对全部 12 控件。MIT 为仓库代码许可，不假定截图、发布方素材也在许可范围。\n热度：GitHub 公开快照 397 stars / 37 forks（仓库热度，非作品播放量）\n封面待补：作者在线画廊无明确可复用静帧授权；保留原型链接，不转载截图。"
+        },
+        {
+          "id": "2026-11-23-gsap-vault-skeleton-loader",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "Skeleton Loader｜骨架屏退场时让卡高跟着内容变",
+          "author": "Jay Dickinson / GSAP Vault",
+          "originalDateNote": "作者公开组件页未确认首发时间",
+          "heat": "开源合集 9 stars / 2 forks（合集快照，组件独立热度未知）",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "仅测默认场景，不代表已验证无障碍和低端设备性能。",
+          "links": [
+            {
+              "url": "https://gsapvault.com/ui-elements/skeleton-to-content-reveal",
+              "label": "作者现场组件"
+            },
+            {
+              "url": "https://github.com/jaydickinson/free-gsap-effects/tree/main/skeleton-to-content-reveal",
+              "label": "作者 MIT 源码"
+            }
+          ],
+          "fullText": "实点嵌入原型 Reload，页面先报 Loading 8 items…，后变为 8 items loaded。作者实现对占位与内容做错峰交叉淡入、卡高过渡到实际高度。可借鉴先预留版式再微调，避免各张卡骤然跳动。\n\n核验：见正文所述原作、录屏或实际操作范围。 仅测默认场景，不代表已验证无障碍和低端设备性能。\n热度：开源合集 9 stars / 2 forks（合集快照，组件独立热度未知）\n封面待补：作者缩略图可打开，但没有查到独立转载许可；不镜像。"
+        },
+        {
+          "id": "2026-11-23-motion-components-dialog",
+          "date": "2026-11-23",
+          "module": "UI动效",
+          "title": "motion-dialog｜开合共享一套弹簧的原生弹窗",
+          "author": "Tomi Gomilar / Motion Components",
+          "originalDateNote": "作者文档首发日期未核实",
+          "heat": "GitHub 合集公开快照 16 stars / 4 forks（非单组件热度）",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未核对手机端、反复打断下的轨迹或所有遮罩变体。",
+          "links": [
+            {
+              "url": "https://www.motion-components.dev/docs/components/motion-dialog/",
+              "label": "作者组件现场"
+            },
+            {
+              "url": "https://github.com/tgomilar/motion-components",
+              "label": "作者 MIT 实现"
+            }
+          ],
+          "fullText": "实点 Open dialog，看到 Spring dialog 显示且焦点落在 Close；按 Escape 后不是同步消失，短暂仍可见，随后关闭。作者明确为弹簧上滑、遮罩淡入与弹簧回落，底层是原生 dialog。适合借鉴把开合动效与键盘退出、焦点路径一起设计。\n\n核验：见正文所述原作、录屏或实际操作范围。 未核对手机端、反复打断下的轨迹或所有遮罩变体。\n热度：GitHub 合集公开快照 16 stars / 4 forks（非单组件热度）\n封面待补：作者文档 OG 未确认是组件实画面，也未确认单独图片许可。"
+        },
+        {
+          "id": "2026-11-23-animorio-ferrofluid-slider",
+          "date": "2026-11-23",
+          "module": "趣味交互",
+          "title": "Animorio｜低音滑块：数值先到，磁流体再追上",
+          "author": "Animorio",
+          "originalDateNote": "作者记录 2026-10-06 测试，未核到首发日",
+          "heat": "未核到公开互动量",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未测精确延迟、声音或触屏；减弱动态效果为作者文档，未在云端复现。",
+          "links": [
+            {
+              "url": "https://animorio.com/demo/cursore-di-ferrofluido/index.html",
+              "label": "直接体验"
+            },
+            {
+              "url": "https://animorio.com/en/animations/ferrofluid-slider/",
+              "label": "作者拆解"
+            },
+            {
+              "url": "https://animorio.com/en/animations/ferrofluid-slider/playground/",
+              "label": "参数工作台"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://animorio.com/anteprime/cursore-di-ferrofluido.jpg"
+            }
+          ],
+          "fullText": "把低音调节做成一条玻璃轨。云端实测：Home / End 分别到 0.0 / +12.0 dB；按 End 后，数字与轨下灰色标记已到右端，黑色液团仍扁而宽地滞留在中段，随后追到端点、竖起尖刺。快速横拖同样从 12 到 0 再到 12，右移的早期与稳定画面形态不同。设置值和材料反应分开：即使动效还在追赶，选中了什么已经明确。\n\n核验：见正文所述原作、录屏或实际操作范围。 未测精确延迟、声音或触屏；减弱动态效果为作者文档，未在云端复现。\n热度：未核到公开互动量\n封面待补：Animorio 的许可允许项目内使用动画，不明确允许精选库转载作者海报；不作外链封面。"
+        },
+        {
+          "id": "2026-11-23-miku-traffic",
+          "date": "2026-11-23",
+          "module": "趣味交互",
+          "title": "Miku Traffic｜主歌指挥来车，副歌躲开歌词",
+          "author": "Suite108",
+          "originalDateNote": "Magical Mirai 2026 编程竞赛 #8；入围发布会 2026-07-25，确切首发未核",
+          "heat": "入围；播放量未核，不是获奖条目",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "云端键鼠实玩了两段，未测音画精确同步、移动端或完整通关。",
+          "links": [
+            {
+              "url": "https://magicalmirai.com/2026/procon/2026_finalist_applications/008_Miku_Traffic/",
+              "label": "官方实玩"
+            },
+            {
+              "url": "https://magicalmirai.com/2026/procon/entry.html#entry_no08",
+              "label": "比赛条目与作者说明"
+            }
+          ],
+          "fullText": "实玩 imie 的《こたえて》：主歌按方向键，所选车道亮起、绿灯放行，日文词语随着小车穿过十字路口；副歌切到东京塔夜景，同一方向键改为让角色在粉色边界里移动，避开挂着歌词的气球与飞艇。底部歌词不消失，只把当前强调色从青换成粉。换段落不只换背景，也换了同一按键的职责，却保留了读歌词的固定位置。\n\n核验：见正文所述原作、录屏或实际操作范围。 云端键鼠实玩了两段，未测音画精确同步、移动端或完整通关。\n热度：入围；播放量未核，不是获奖条目\n封面待补：官方录屏与游戏截图未获本库转载许可，直接链接而不作封面。"
+        },
+        {
+          "id": "2026-11-23-editorial-engine",
+          "date": "2026-11-23",
+          "module": "趣味交互",
+          "title": "Editorial Engine｜拖走球体，正文腾出新的落脚处",
+          "author": "Maxwell Ingham；使用 Cheng Lou 的 Pretext",
+          "originalDateNote": "作者代码 2026-03-27 已有记录，非确切上线日",
+          "heat": "作者仓库 26 stars；Pretext 库约 5.1 万 stars；不是作品播放量",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "极窄空隙偶尔拆开英文单词，未测持续帧率；Rich Text 是单独的库演示。",
+          "links": [
+            {
+              "url": "https://somnai-dreams.github.io/pretext-demos/the-editorial-engine.html",
+              "label": "作者原版可拖"
+            },
+            {
+              "url": "https://chenglou.me/pretext/editorial-engine/",
+              "label": "Pretext 收录版"
+            },
+            {
+              "url": "https://chenglou.me/pretext/rich-note/",
+              "label": "富文本换行对照"
+            },
+            {
+              "url": "https://github.com/somnai-dreams/pretext-demos/commit/500ed84b48d4a641d42bc1acfc6a73be6522b818",
+              "label": "作者代码记录"
+            }
+          ],
+          "fullText": "在作者原版实拖一枚金色球，空白从页首扫进正文，真实英文行当场改变内容和断点，不是把已有的文字整体推开。松手后球继续漂移，原来狭窄处重新填出长行。延伸看 Rich Text：实测把宽度从 516 缩到 260px，正文换行，@maya、P1 等标签仍完整。\n\n核验：见正文所述原作、录屏或实际操作范围。 极窄空隙偶尔拆开英文单词，未测持续帧率；Rich Text 是单独的库演示。\n热度：作者仓库 26 stars；Pretext 库约 5.1 万 stars；不是作品播放量\n封面待补：未核到原作图片或截图复用许可，不做封面。"
+        },
+        {
+          "id": "2026-11-23-skate-dog-rhythm-feedback",
+          "date": "2026-11-23",
+          "module": "趣味交互",
+          "title": "Skate Dog｜让滑板动作和得分贴在场景里",
+          "author": "Matt Greenberg",
+          "originalDateNote": "Codrops 目录标记 2026-08-13，未单独确认首发",
+          "heat": "未核到可比传播量",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "看过真实演示逐秒画面，未在该浏览器实玩或测试音轨。",
+          "links": [
+            {
+              "url": "https://skate-dog.vercel.app/",
+              "label": "作者试玩"
+            },
+            {
+              "url": "https://github.com/MatthewGreenberg/skate-dog",
+              "label": "作者源码"
+            },
+            {
+              "url": "https://tympanus.net/codrops/hub/author/mattgreenberg/",
+              "label": "Codrops 演示与收录日期"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/skatedog_800x600.mp4",
+              "label": "真实演示短片"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/10/skatedog_cover-400x300.jpg"
+            }
+          ],
+          "fullText": "等距粉紫滑板场里，小狗载着角色穿梭；实看短片，角色经过台阶时头顶出现 OLLIE，左上得分在不同采样帧变化，倒计时从 2:00 走到 1:57。把动作名称留在角色周围、把整体局势留在稳定的 HUD，比分变化和身体动作彼此可对照，不需要为每次反馈暂停游戏。\n\n核验：见正文所述原作、录屏或实际操作范围。 看过真实演示逐秒画面，未在该浏览器实玩或测试音轨。\n热度：未核到可比传播量\n封面待补：未核到可公开复用的实拍封面。"
+        },
+        {
+          "id": "2026-11-23-codevember-cocoon-hatch",
+          "date": "2026-11-23",
+          "module": "趣味交互",
+          "title": "Cocoon｜把裹丝和破茧做成一次可触发的状态切换",
+          "author": "Jaume Sánchez Elias",
+          "originalDateNote": "2026-11-20，作者 [vibe-]codevember 第 20 天",
+          "heat": "未核到可比传播量",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "已抽查目录真实录屏，并核对原作提示和执行条件；没有实按 R，也不能确定录屏中的破茧由哪个输入触发。",
+          "links": [
+            {
+              "url": "https://spite.github.io/codevember-2026/20/",
+              "label": "作者体验"
+            },
+            {
+              "url": "https://github.com/spite/codevember-2026/tree/main/20",
+              "label": "作者源文件"
+            },
+            {
+              "url": "https://tympanus.net/codrops/wp-content/uploads/2026/11/CodevemberCocoon_800x600.mp4",
+              "label": "真实演示短片"
+            },
+            {
+              "label": "原作预览图（仅链接）",
+              "url": "https://spite.github.io/codevember-2026/screenshots/20-social.jpg"
+            }
+          ],
+          "fullText": "实看演示，粉色人偶在漫射光中转向，表面的发光丝团在中段炸开，碎屑围着露出的暗色人偶向四周落散。原作将视角和状态分开：拖拽绕看、滚轮拉近，而 R / Randomize 用于尝试孵化新的形态；作者源码区分裹满后的破茧与未裹满时只换动作。先在原地积累，再换动画状态，比直接把角色替换成下一帧更有因果。\n\n核验：见正文所述原作、录屏或实际操作范围。 已抽查目录真实录屏，并核对原作提示和执行条件；没有实按 R，也不能确定录屏中的破茧由哪个输入触发。\n热度：未核到可比传播量\n封面待补：未确认作者预览或录屏静帧的本站转载许可。"
+        },
+        {
+          "id": "2026-11-23-clueso-v2-milkshake-chart",
+          "date": "2026-11-23",
+          "module": "AI产品宣传",
+          "title": "Clueso AI v2",
+          "author": "Clueso / Akash Anand",
+          "originalDateNote": "官方公告 2026-11-18；创始人原帖 15:00 UTC。",
+          "heat": "What Ships 记录原帖 120,799 浏览（11/18 快照，不是当前值）。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://x.com/realAkashAnand/status/2123068893895770148",
+              "label": "创始人原帖"
+            },
+            {
+              "url": "https://www.clueso.io/blog/introducing-clueso-ai-v2",
+              "label": "官方发布与评论 GIF"
+            },
+            {
+              "url": "https://whatships.com/videos/clueso-v2/",
+              "label": "可播放归档"
+            },
+            {
+              "url": "https://launchscene.app/v/clueso-akash-anand-today-were-launching-clueso-v2-ai-has-fi?play=1&s=15",
+              "label": "定位到图表片段"
+            },
+            {
+              "url": "https://d37f9k611f70xr.cloudfront.net/clueso-ai-v2-cover.webp",
+              "label": "官方文章原图（仅链接）"
+            }
+          ],
+          "fullText": "0:58.5 原柱图；1:00 粉色框选柱图并在输入框给出蓝色 Chart 标签；1:01.5–1:03 输入改成奶昔的指令；1:04.5 切出四只灰白玻璃杯，1:05.3 粉红液面和 120／260／410／580 标签对应原四周数值。左侧标题和总数 1,370 在这个示例里保留。另见 0:38–0:41 招聘卡 Building→Ready；1:14–1:20 同一张图上的标题评论和 AI 回复。原 X 文件独立解码 122.347 秒；不把剪辑当作生成速度或保真承诺。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 记录原帖 120,799 浏览（11/18 快照，不是当前值）。\n封面待补：官方封面可打开，未确认图像转载许可。"
+        },
+        {
+          "id": "2026-11-23-pika-enact-research-preview",
+          "date": "2026-11-23",
+          "module": "AI产品宣传",
+          "title": "Pika Enact — Research Preview",
+          "author": "Pika",
+          "originalDateNote": "2026-11-18 官方研究预览；X 原帖 18:53 UTC，北京 11/19 凌晨。",
+          "heat": "Launchscene 对 X 原帖标注截至 11/20 约 55.2 万浏览，非本轮独立查证。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://x.com/pika_labs/status/2123127584342921652",
+              "label": "Pika 原帖"
+            },
+            {
+              "url": "https://pika.art/blog/pika-enact",
+              "label": "官方研究说明"
+            },
+            {
+              "url": "https://whatships.com/videos/pika-enact/",
+              "label": "可播放归档"
+            },
+            {
+              "url": "https://launchscene.app/v/pika-pika-today-were-excited-to-share-enact-a-research-previ?play=1&t=47",
+              "label": "跳到帧条段落"
+            },
+            {
+              "url": "https://cdn.pika.art/v2/creation/cms/notion/3d4def814b639f561d66a26a482e3b70.webp",
+              "label": "官方文章原图（仅链接）"
+            }
+          ],
+          "fullText": "0:49–1:02.5，带橙色播放指针的帧条接到一段紫色处理区，导演的指令进入，理解／计划／记忆／表演四个标题随后出现；帧条显示 Bob 转身，最后放大成连续画面。1:30–1:35 另用横向运动模糊从厨房里的男人重构到女演员近景。片子讲清楚了新指令插在哪、后续画面改在哪里；已解码 150.293 秒，不等于产品实测。官方明确尚不向消费者开放，不能拿来承诺 AE/FBX 可编辑镜头或实际延迟。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：Launchscene 对 X 原帖标注截至 11/20 约 55.2 万浏览，非本轮独立查证。\n封面待补：官方原图已验；未确认可转载为封面。"
+        },
+        {
+          "id": "2026-11-23-ideogram-4-6-precise-editing-launch",
+          "date": "2026-11-23",
+          "module": "AI产品宣传",
+          "title": "Introducing Ideogram 4.6",
+          "author": "Ideogram",
+          "originalDateNote": "原帖 2026-11-19 16:59 UTC。",
+          "heat": "What Ships 11/19 快照：5,597 浏览，非实时。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://x.com/ideogram_ai/status/2123461101224624402",
+              "label": "官方原帖"
+            },
+            {
+              "url": "https://ideogram.ai/models/4.6/",
+              "label": "官方型号页"
+            },
+            {
+              "url": "https://whatships.com/videos/ideogram-4-6/",
+              "label": "可播放归档"
+            }
+          ],
+          "fullText": "42.112 秒原帖视频抽帧核验：0:00.8、0:14.3、0:18.5 和 0:22.7 都以蹲姿人像为对比锚点，逐步展示不同光照与配色；0:27.4 放大橙色鞋面面料并标出局部，0:32.0 叠加「touch ups」，0:39.6 才拉回不同出图版本做收束。作为宣传，先固定构图再依次换灯光、颜色和细节，比每项功能都换片子更容易比较；并非重现模型能力或测量编辑精度。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/19 快照：5,597 浏览，非实时。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。"
+        },
+        {
+          "id": "2026-11-23-neue-studio-first-look-neue-academy",
+          "date": "2026-11-23",
+          "module": "AI产品宣传",
+          "title": "Neue Studio",
+          "author": "Neue Academy",
+          "originalDateNote": "原帖 2026-11-20 13:15 UTC，内容为 first look。",
+          "heat": "What Ships 11/21 快照：3,814 浏览，非实时。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://x.com/neue_academy/status/2123767154054959406",
+              "label": "Neue Academy 原帖"
+            },
+            {
+              "url": "https://whatships.com/videos/neue-studio/",
+              "label": "可播放归档"
+            }
+          ],
+          "fullText": "编辑器以 AI 辅助视频编辑和创意编程为卖点。58.752 秒原帖视频抽帧核验：0:05.3 用「Plug in every source」和散开的素材卡起句；0:20.0 是聚成板的素材；0:25.9 和 0:31.7 转到有时间轴的文字动画与城市镜头；0:38.2 展示一组同构黄紫图形，0:44.7 和 0:55.2 保留斜线构图、切换配色，末尾出现导出对话框。把素材板、版本预览、时间轴和导出组织成一条看得懂的叙事。本轮未独立核对开放范围；这不是可用性实测，也没有制作方证据称宣传片由 AI 生成。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/21 快照：3,814 浏览，非实时。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。"
+        },
+        {
+          "id": "2026-11-23-anijam-sensei-video-anything",
+          "date": "2026-11-23",
+          "module": "AI产品宣传",
+          "title": "Anijam Sensei",
+          "author": "Anijam",
+          "originalDateNote": "原帖 2026-11-18 15:09 UTC。",
+          "heat": "What Ships 11/18 快照：15,335 浏览。片中展示的其他帖子的浏览数字不计入。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://x.com/Anijam_ai/status/2123071095532298680",
+              "label": "Anijam 原帖"
+            },
+            {
+              "url": "https://www.anijam.ai/sensei/",
+              "label": "官方技术说明与示例"
+            },
+            {
+              "url": "https://whatships.com/videos/anijam-sensei/",
+              "label": "可播放归档"
+            }
+          ],
+          "fullText": "56.448 秒原帖视频抽帧核验：0:01.1 把 @anijam_ai 做成片子里重复出现的胶囊形视觉锚点，0:05.1–0:14.1 从汽车外形切到机械爆炸图又归回外壳；0:30.5 换成蒸汽波汽车，0:42.9 以数字标注转成竞技场图解；0:48.6–0:53.1 才把社交平台的回复输入和输出摆清楚。异质片段靠同一提及标签串联，读起来像反复演绎同一动作。剪辑不代表平台的实际响应速度或对品牌素材的授权。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/18 快照：15,335 浏览。片中展示的其他帖子的浏览数字不计入。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。"
+        },
+        {
+          "id": "2026-11-23-holymolly-playable-3d-world-launch",
+          "date": "2026-11-23",
+          "module": "AI产品宣传",
+          "title": "HolyMolly",
+          "author": "HolyMolly",
+          "originalDateNote": "原帖 2026-11-17 08:16 UTC。",
+          "heat": "What Ships 11/20 快照：811,978 浏览，非实时。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://x.com/HolyMolly_AI/status/2122604857127325911",
+              "label": "HolyMolly 原帖"
+            },
+            {
+              "url": "https://holymolly.ai/",
+              "label": "官方产品演示"
+            },
+            {
+              "url": "https://whatships.com/videos/holymolly/",
+              "label": "可播放归档"
+            }
+          ],
+          "fullText": "62.869 秒原帖视频抽帧核验：0:10.7 把参考素材拖向输入框，0:15.7 手机端点黄色发起按钮；0:21.4 与 0:27.7 以手绘风车世界、写实室内球场对比画风。0:34.0 显示加载百分数，0:47.8 在第一人称画面下给出「Add airstrike」输入，0:54.1 切回同场景的瞄准视角。输入、处理状态、可操纵后的镜头分得明确。仅描述片中演示，不把分段剪辑当延时结论，也未实玩。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：What Ships 11/20 快照：811,978 浏览，非实时。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。"
+        },
+        {
+          "id": "2026-11-23-axxolab-drowning-previz",
+          "date": "2026-11-23",
+          "module": "AI制作动画",
+          "title": "A Line to the Drowning｜先定机位，再用 Seedance 做镜头",
+          "author": "AXXOLAB STUDIO",
+          "originalDateNote": "公开片段 2026-10-07（YouTube 发布元数据）；完整项目未完成",
+          "heat": "原视频页面元数据显示 107 次观看（11/23 检查）",
+          "verification": "原播放器公开逐秒缩略帧及 AXXOLAB 韩英制作记录；未核音轨、不声称看完连续视频。",
+          "limitations": "公开的是约 42 秒片段；其余镜头仍在预演，未公开准确模型版本或逐镜头参数。",
+          "links": [
+            {
+              "url": "https://www.youtube.com/watch?v=wQPOJ28XcQ4",
+              "label": "官方公开片段"
+            },
+            {
+              "url": "https://axxolab.com/work/drowning/",
+              "label": "韩文原始制作记录"
+            },
+            {
+              "url": "https://axxolab.com/en/work/drowning/",
+              "label": "英文制作拆解"
+            }
+          ],
+          "fullText": "查看 YouTube 原播放器逐秒缩略帧：开场地铁的手机与扶杆，切到打卡和仓库几乎固定的广角，同一排工人横向穿过输送线，随后回到地铁。制作组先写机位、镜头运动、剪辑点及前后镜头衔接，再让 Claude、Codex 辅助用脚本搭 Blender 块体预演、ffmpeg 拼预览；人工确认镜头后，用参考图、预演和提示进入 Higgsfield 的 Seedance，字幕后加。最值得借鉴的是把可无限重跑的构图与时长检查，放在付费生成之前。\n\n核验：原播放器公开逐秒缩略帧及 AXXOLAB 韩英制作记录；未核音轨、不声称看完连续视频。。 公开的是约 42 秒片段；其余镜头仍在预演，未公开准确模型版本或逐镜头参数。\n热度：原视频页面元数据显示 107 次观看（11/23 检查）\n封面待补：找到作者发布的视频预览与项目剧照，但未确认允许原尺寸封面再发布。"
+        },
+        {
+          "id": "2026-11-23-aictrl-from-generated-image-to-blender-film",
+          "date": "2026-11-23",
+          "module": "AI制作动画",
+          "title": "From a generated image to a Blender film",
+          "author": "Bulat Yapparov / aictrl.dev",
+          "originalDateNote": "2026-09-09 为制作文章日期，不是确认的影片首发日期。",
+          "heat": "无公开播放数。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://aictrl.dev/blog/from-agent-factory-to-workflow",
+              "label": "制作拆解与对照素材"
+            },
+            {
+              "url": "https://media.aictrl.dev/homepage-film-v1/blog/media/from-agent-factory-to-workflow/finished.mp4",
+              "label": "22 秒正片"
+            },
+            {
+              "url": "https://media.aictrl.dev/homepage-film-v1/blog/media/from-agent-factory-to-workflow/frozen-opening.mp4",
+              "label": "冻结版开头"
+            },
+            {
+              "url": "https://media.aictrl.dev/homepage-film-v1/blog/media/from-agent-factory-to-workflow/live-opening.mp4",
+              "label": "修复版开头"
+            },
+            {
+              "url": "https://aictrl.dev/blog/media/from-agent-factory-to-workflow/finished-poster.webp",
+              "label": "作者原海报（仅链接）"
+            }
+          ],
+          "fullText": "冻结版 2–2.5 秒，工坊在转，相对显示器的位置上橙色角色还不动；最终版前 2.5 秒橙色角色经过自己的屏幕。制作者说他们在过渡区间重采样刚性零件的世界变换，而不是只复制一帧。正片 6 秒删到一层，7.5 秒只剩显示器和两位机器人，8.5 秒让已对齐的显示器和流程卡叠化，9 秒进入纯平面。值得借鉴的是先在镜头里对齐对象与目标卡片，再做换媒介，并检查角色的动作有没有在接缝处丢掉。制作者称 AI 只提供概念和重建参考图；Blender/bpy 做场景和动作，SVG、FFmpeg 完成合成与导出。四条原始片段均已解码并与原清单校验值相符。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：无公开播放数。\n封面待补：原海报验证通过；没有再发布授权。"
+        },
+        {
+          "id": "2026-11-23-seveneves-passenger-ink-in-motion",
+          "date": "2026-11-23",
+          "module": "AI制作动画",
+          "title": "Passenger",
+          "author": "Seveneves / Ink in Motion",
+          "originalDateNote": "2026-09-24 为该 MP4 上传日；v1.0 容器的 9/22 不是这支片的上传日。",
+          "heat": "原发布没有独立核到影片播放量。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://seveneves.ai/riso/",
+              "label": "创作者项目合集"
+            },
+            {
+              "url": "https://github.com/sevenevesai/riso-windowseat/releases/download/v1.0/passenger.mp4",
+              "label": "官方 36 秒 MP4"
+            },
+            {
+              "url": "https://github.com/sevenevesai/riso-windowseat/blob/main/films/passenger/FILM.md",
+              "label": "原作者逐帧方法与审查记录"
+            },
+            {
+              "url": "https://seveneves.ai/riso/posters/passenger.jpg",
+              "label": "原站海报（仅链接）"
+            },
+            {
+              "url": "https://github.com/sevenevesai/riso-windowseat/releases/tag/v1.0",
+              "label": "制作方给影片注明 MIT 的发布页"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sevenevesai/riso-windowseat/main/LICENSE",
+              "label": "完整 MIT 版权与许可"
+            },
+            {
+              "label": "封面许可",
+              "url": "https://github.com/sevenevesai/riso-windowseat/blob/main/LICENSE"
+            }
+          ],
+          "fullText": "雾窗上的同一个蝶形先让朝阳透过，再成为飞离的蝴蝶，最后留下原位剪影。19.60 秒仍和窗口轮廓对齐；19.73 秒上翅翻起，透窗剪影露出来；20.2 秒飞向右上仍保留蓝紫和橙色，约 28 秒落在杯沿。18.85 秒遮罩切全轮廓是源码事实，实际相邻帧无明显跳变。可复用做法是先定准交接轮廓，分别处理取色与前后遮挡，再检查切换前后两帧。作者说自己导演，Claude Code 写 Canvas 2D 和 Web Audio 程序；原 36 秒 MP4 已校验解码，不是文生视频。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：原发布没有独立核到影片播放量。\n封面：Passenger · Seveneves / Ink in Motion · © 2026 sevenevesai · MIT · 官方影片 19.900 秒截帧并缩放；完整许可随图片保存。"
+        },
+        {
+          "id": "2026-11-23-pushups-for-love-blender-seedance",
+          "date": "2026-11-23",
+          "module": "AI制作动画",
+          "title": "Pushups for Love",
+          "author": "Hugo Caumo / 3D-Agent",
+          "originalDateNote": "制作文章日期 2026-10-24，不作影片独立首发日。",
+          "heat": "未核到官方播放量。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://3d-agent.com/blog/ai-short-film-blender-workflow",
+              "label": "作者流程、失败返工与制作图"
+            },
+            {
+              "url": "https://kfgqdunxjdmbvuvs.public.blob.vercel-storage.com/ai-short-film-blender/pushups-for-love-ai-short-film.mp4",
+              "label": "原站短片 MP4"
+            }
+          ],
+          "fullText": "作者用 3D-Agent 在 Blender 做灰模、走位和机位规划，再制作人物／视觉参考及每镜首帧，用 Seedance 2.5 生成镜头，回 Blender 剪接修边。作者的反例是模型错误地让女主拿起哑铃；他同时改灰模和提示，让手在梳头时保持为空。17.958 秒成片抽帧：0:00.4 女主眼部极近，约 0:04.5 拉到健身房低视角，0:09.7–0:11.7 镜中示两人接近，0:13.7 伸出的手位于持哑铃人物身后，0:16.9 回到女主眼部极近。可借鉴的是在难控制的局部动作上同时修机位／动作参照和文字约束；首尾相似构图不等于逐像素无缝。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：未核到官方播放量。\n封面待补：未确认影片或网页预览图的转载授权；保留播放原链，不复制封面。"
+        },
+        {
+          "id": "2026-11-23-lemo-opuscar-material-grid-film",
+          "date": "2026-11-23",
+          "module": "AI制作动画",
+          "title": "材质网格 / Material Grid",
+          "author": "LemoLab / Lemo-Opuscar",
+          "originalDateNote": "GitHub 正片资产上传于 2026-10-22 06:51 UTC。",
+          "heat": "无独立播放量。",
+          "verification": "见正文所述原作、录屏或实际操作范围",
+          "limitations": "未独立确认演示之外的上线或实现细节。",
+          "links": [
+            {
+              "url": "https://github.com/lemomo-ai/lemo-opuscar/blob/main/MY-STYLES.md",
+              "label": "作者风格提取与制作流程"
+            },
+            {
+              "url": "https://github.com/lemomo-ai/lemo-opuscar",
+              "label": "工程与案例说明"
+            },
+            {
+              "url": "https://github.com/lemomo-ai/lemo-opuscar/releases/expanded_assets/films",
+              "label": "影片逐文件日期"
+            },
+            {
+              "url": "https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/my-style-material-grid.mp4",
+              "label": "Material Grid 官方正片"
+            },
+            {
+              "url": "https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/swiss-motion.mp4",
+              "label": "只作对照的 Swiss Motion 原片"
+            },
+            {
+              "label": "封面许可",
+              "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          ],
+          "fullText": "31 秒正式片抽帧：0:00.6–0:05.3 以平视逐个加原色几何及中文标题；0:07.8–0:13.6 组块被拉出高度，侧斜机位让投影与厚度显形，0:20.2 出现原色像素框的变体，0:26.7–0:30.4 回到正面海报但黄件、圆和金属环继续改位。对照同仓库的 Swiss Motion Graphics：后者 0:07.5–0:23.8 逐条演示网格、单字体、留白、对齐与破例，不是同一条片。创作者文档的流程是先访谈并定下风格变量，再用代码渲染单张试片，早审后才做短片；Claude 参与编程，动画由代码渲染，并非视频扩散。\n\n核验：见正文所述原作、录屏或实际操作范围。 未独立确认演示之外的上线或实现细节。\n热度：无独立播放量。\n封面：Lemo-Opuscar by Lemomo (LemoLab) · CC BY 4.0 · 10.5 秒截帧并缩放。"
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "title": "11 月 22 日 · UI 与动效精选",
