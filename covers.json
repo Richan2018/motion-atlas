@@ -4015,5 +4015,599 @@
     "alt": "深色双栏对比：左是常规小勾选框，右是具立体感的大勾选球",
     "sourceUrl": "https://vimeo.com/715398709",
     "credit": "Andy / !Boring Software · Vimeo"
+  },
+  "2026-11-25-andy-reff-golf-course": {
+    "src": "images/shot-2026-11-25-andy-reff-golf-course.webp",
+    "alt": "草绿色高尔夫球场画面，左边是 IT’S YOUR SHOT 大字，右侧是球洞、风向与积分卡",
+    "credit": "Andy Reff（公开原站截图）",
+    "sourceUrl": "https://andrewreff.com/"
+  },
+  "2026-11-23-joyco-studio-editorial": {
+    "src": "images/shot-2026-11-23-joyco-studio-editorial.webp",
+    "alt": "黑白 JOYCO 固定刊头下方是蓝底白字的首页标题",
+    "credit": "JOYCO（公开原站截图）",
+    "sourceUrl": "https://joyco.studio/"
+  },
+  "2026-11-23-micaela-dl-portfolio": {
+    "src": "images/shot-2026-11-23-micaela-dl-portfolio.webp",
+    "alt": "红底黄色大字，中间为戴橙色眼镜、端咖啡的设计师",
+    "credit": "Micaela DL（公开原站截图）",
+    "sourceUrl": "https://micaeladl.xyz/"
+  },
+  "2026-11-23-royden-so-portfolio": {
+    "src": "images/shot-2026-11-23-royden-so-portfolio.webp",
+    "alt": "深黑背景中双手拿着带菱形织纹的板，板面是手机界面",
+    "credit": "Royden So（公开原站截图）",
+    "sourceUrl": "https://roydenso.com/"
+  },
+  "2026-11-23-stripe-press-new-shelf": {
+    "src": "images/shot-2026-11-23-stripe-press-new-shelf.webp",
+    "alt": "Stripe Press 网站的横排书名与在山谷背景前立体呈现的书封",
+    "credit": "Stripe Press / Devin Jacoviello、Nick Jones 等（公开原站截图）",
+    "sourceUrl": "https://stripe.press/"
+  },
+  "2026-11-24-ttm-templates-that-move": {
+    "src": "images/shot-2026-11-24-ttm-templates-that-move.webp",
+    "alt": "TTM 深色首页中间的大标题，周围漂浮彩色造型与样片",
+    "credit": "Mees Verberne、Ronald de Groot（公开原站截图）",
+    "sourceUrl": "https://ttm.supply/"
+  },
+  "2026-11-24-kolfest-nomadic-city": {
+    "src": "images/shot-2026-11-24-kolfest-nomadic-city.webp",
+    "alt": "音乐节首页，背景是手部操作调音设备的影像，叠白色大标题 The city of nomadic future",
+    "credit": "Bermet Darbish / KOLFEST（公开原站截图）",
+    "sourceUrl": "https://kolfest.bermet.design/"
+  },
+  "2026-11-24-ethiack-terminal-artdirection": {
+    "src": "images/shot-2026-11-24-ethiack-terminal-artdirection.webp",
+    "alt": "青黑背景下的浅绿色 Ethiack 大标题和底部绿色导航",
+    "credit": "Bürocratik / Ethiack（公开原站截图）",
+    "sourceUrl": "https://ethiack.com/"
+  },
+  "2026-11-24-polcode-type-fields": {
+    "src": "images/shot-2026-11-24-polcode-type-fields.webp",
+    "alt": "Polcode 黑白大字标，以及亮紫工作室首页内容区",
+    "credit": "Polcode（公开原站截图）",
+    "sourceUrl": "https://polcode.com/"
+  },
+  "2026-11-25-quynh-folio-desktop": {
+    "src": "images/shot-2026-11-25-quynh-folio-desktop.webp",
+    "alt": "作品集首页左侧为白色时间示意，右侧是彩色插画和栏目字样",
+    "credit": "Quynh Cao（公开原站截图）",
+    "sourceUrl": "https://quynh.moe/"
+  },
+  "2026-11-24-screenagers-field-guide": {
+    "src": "images/shot-2026-11-24-screenagers-field-guide.webp",
+    "alt": "黑色工作室首页、上下分列的超大白字 CREATIVE 与 STUDIO 以及荧黄标记",
+    "credit": "Screenagers（公开原站截图）",
+    "sourceUrl": "https://screenagers.io/"
+  },
+  "2026-11-24-dragology-card-piles": {
+    "src": "images/shot-2026-11-24-dragology-card-piles.webp",
+    "alt": "红边卡靠近黄边卡，两张牌共用灰色组底；上方另有一叠牌。",
+    "credit": "Joshua Horowitz、Andrew Blinn、Jeffrey Heer",
+    "sourceUrl": "https://declarative-dragging.github.io/"
+  },
+  "2026-11-24-timeless-pick-your-vibe": {
+    "src": "images/shot-2026-11-24-timeless-pick-your-vibe.webp",
+    "alt": "手指在手机地图下部拖动紫蓝发光圆盘以选择出行心情。",
+    "credit": "Timeless",
+    "sourceUrl": "https://x.com/timelessco/status/2116568321781010942"
+  },
+  "2026-11-22-atelier-north": {
+    "src": "images/shot-2026-11-22-atelier-north.webp",
+    "alt": "奶油色网格页面中，蓝色 WHO WE ARE 大字横跨三列。",
+    "credit": "Kaisei Sadatoki",
+    "sourceUrl": "https://atelier-north.crnacura.workers.dev/"
+  },
+  "2026-11-22-amber-genetics": {
+    "src": "images/shot-2026-11-22-amber-genetics.webp",
+    "alt": "白色科学档案界面，长颈恐龙在右侧，左侧是基因数据和选择控件。",
+    "credit": "Ismael Martínez",
+    "sourceUrl": "https://amber.isma.uy/"
+  },
+  "2026-11-22-smear-motion-blur": {
+    "src": "images/shot-2026-11-22-smear-motion-blur.webp",
+    "alt": "灰白底上的粗黑字母被动势拉开，呈笔锋状拖影。",
+    "credit": "Niccolò Fanton",
+    "sourceUrl": "https://smear.niccolofanton.dev"
+  },
+  "2026-11-22-saurow-reel-flux": {
+    "src": "images/shot-2026-11-22-saurow-reel-flux.webp",
+    "alt": "白色页面中，一条波形胶片带同时容纳蒲公英、花瓣和植物影像。",
+    "credit": "Saurabh Thapliyal",
+    "sourceUrl": "https://saurow-reel.vercel.app/"
+  },
+  "2026-11-23-shchilkin-instrument-cluster-sensor-loss": {
+    "src": "images/shot-2026-11-23-shchilkin-instrument-cluster-sensor-loss.webp",
+    "alt": "仪表原站切换 Sensor lost 后，左侧 33 km/h 速度圈变暗，右侧 3200 rpm 读数仍清晰。",
+    "credit": "Aleksandr Shchilkin",
+    "sourceUrl": "https://shchilkin.dev/design-lab/studies/car-dashboard/customize/"
+  },
+  "2026-11-25-1125-ui-pixel-menu": {
+    "src": "images/shot-2026-11-25-1125-ui-pixel-menu.webp",
+    "alt": "浅底中央显示 Work、Notes、Skills 和 Contact 四行像素字，配蓝、黄等短色带。",
+    "credit": "Rajat Sethi",
+    "sourceUrl": "https://x.com/sethihq/status/2124630343093531094"
+  },
+  "2026-11-25-1125-ui-brand-color-palette-checker": {
+    "src": "images/shot-2026-11-25-1125-ui-brand-color-palette-checker.webp",
+    "alt": "深底上的蓝紫色色卡展开，色卡下方露出浮动拾色面板。",
+    "credit": "Daniel Petho",
+    "sourceUrl": "https://x.com/nonzeroexitcode/status/2124214207440953827"
+  },
+  "2026-11-25-1125-ui-x-work-experience": {
+    "src": "images/shot-2026-11-25-1125-ui-x-work-experience.webp",
+    "alt": "黑底 X 履历界面中，两条经历排列在白色 Add Work Experience 按钮上方。",
+    "credit": "Benji Taylor",
+    "sourceUrl": "https://x.com/benjitaylor/status/2125049706644705283"
+  },
+  "2026-11-25-1125-ui-reshaping-dock": {
+    "src": "images/shot-2026-11-25-1125-ui-reshaping-dock.webp",
+    "alt": "灰色图标导航条中，Work 图标鼓成白圆，下面出现文字。",
+    "credit": "Matt Ölschlegel",
+    "sourceUrl": "https://x.com/Matthias_Oel/status/2116908175412867445"
+  },
+  "2026-11-25-1125-ui-liquid-glass-bubble-components": {
+    "src": "images/shot-2026-11-25-1125-ui-liquid-glass-bubble-components.webp",
+    "alt": "绿色开关和透明泡膜滑块共同展示，滑块覆在蓝灰轨道的交界。",
+    "credit": "Cristian Javier",
+    "sourceUrl": "https://x.com/_crisjav/status/2115686765159993439"
+  },
+  "2026-11-25-1125-ui-seed-packet-tilt": {
+    "src": "images/shot-2026-11-25-1125-ui-seed-packet-tilt.webp",
+    "alt": "手把手机倾斜，白底紫色种子袋朝一侧倾倒。",
+    "credit": "Alec Dilanchian",
+    "sourceUrl": "https://x.com/alec_dilanchian/status/2046640714340028517"
+  },
+  "2026-11-25-1125-ui-wave-slider": {
+    "src": "images/shot-2026-11-25-1125-ui-wave-slider.webp",
+    "alt": "一排滑杆竖线在浮动数值下凹出波谷。",
+    "credit": "Shiv",
+    "sourceUrl": "https://x.com/shiv_visual/status/2018612499625787881"
+  },
+  "2026-11-25-1125-ui-add-new-button": {
+    "src": "images/shot-2026-11-25-1125-ui-add-new-button.webp",
+    "alt": "黑底 Add new 胶囊按钮内掠过蓝、黄彩色折光。",
+    "credit": "Jakub Wuzik",
+    "sourceUrl": "https://x.com/tojawuzik/status/2059732565628531133"
+  },
+  "2026-11-24-sooc-viewer": {
+    "src": "images/shot-2026-11-24-sooc-viewer.webp",
+    "alt": "手机照片查看器显示一张街景照片，底部是可横览的胶片式缩略条。",
+    "credit": "Siddharth Arun",
+    "sourceUrl": "https://x.com/siddhartharun/status/2123430591919980742"
+  },
+  "2026-11-22-golem": {
+    "src": "images/shot-2026-11-22-golem.webp",
+    "alt": "红黑渐变的桌面上方，菜单栏小图标附近显示短计时状态。",
+    "credit": "Nico Frey",
+    "sourceUrl": "https://x.com/nicofrey/status/2123490424992281023"
+  },
+  "2026-11-22-liquid-ui-components": {
+    "src": "images/shot-2026-11-22-liquid-ui-components.webp",
+    "alt": "深色界面中央的胶囊式色彩选单显示紫色圆点与 Violet 标签。",
+    "credit": "Kopp",
+    "sourceUrl": "https://x.com/koppkev/status/2120471771602092136"
+  },
+  "2026-11-22-feedback-slider": {
+    "src": "images/shot-2026-11-22-feedback-slider.webp",
+    "alt": "白色反馈弹窗中，圆形表情置于黄色滑轨与黑色确认按钮上方。",
+    "credit": "Salung Prastyo",
+    "sourceUrl": "https://x.com/salungprastyo/status/2117510268926546245"
+  },
+  "2026-11-21-glass-slider": {
+    "src": "images/shot-2026-11-21-glass-slider.webp",
+    "alt": "深灰斜向滑轨被亮蓝光段逐渐填亮。",
+    "credit": "Reijo Palmiste",
+    "sourceUrl": "https://x.com/reijowrites/status/2123774810614272307"
+  },
+  "2026-11-21-slash-card-activation": {
+    "src": "images/shot-2026-11-21-slash-card-activation.webp",
+    "alt": "黑色背景中央展示银灰卡面，亮色激活按钮仍在下方。",
+    "credit": "Axel Piccioni",
+    "sourceUrl": "https://x.com/alyx_so/status/2122849828367393228"
+  },
+  "2026-11-21-distortion-waves-for-react": {
+    "src": "images/shot-2026-11-21-distortion-waves-for-react.webp",
+    "alt": "暗色移动界面被弧形彩色光波扫过，光波沿卡片边缘弯折。",
+    "credit": "Jakub Antalik",
+    "sourceUrl": "https://x.com/Jakubantalik/status/2122738787667349562"
+  },
+  "2026-11-21-agentation-layout-mode": {
+    "src": "images/shot-2026-11-21-agentation-layout-mode.webp",
+    "alt": "浅色网页上，布局模式以蓝色轮廓框出可拖动卡片。",
+    "credit": "Benji Taylor",
+    "sourceUrl": "https://x.com/benjitaylor/status/2036497249589739870"
+  },
+  "2026-11-21-swipe-to-send": {
+    "src": "images/shot-2026-11-21-swipe-to-send.webp",
+    "alt": "手持手机上，转账滑条以蓝紫色辉光提示滑动。",
+    "credit": "Yogi Suria",
+    "sourceUrl": "https://x.com/suriadesign/status/2123140379482681663"
+  },
+  "2026-11-22-imagine-comments": {
+    "src": "images/shot-2026-11-22-imagine-comments.webp",
+    "alt": "蓝绿色评论列表中，一条评论内并排显示两张生成结果，下方仍是其他文字留言。",
+    "credit": "Andrey Rybin",
+    "sourceUrl": "https://x.com/rybinandy/status/2118327758912618611"
+  },
+  "2026-11-21-serotoninn": {
+    "src": "images/shot-2026-11-21-serotoninn.webp",
+    "alt": "Serotoninn 原站导航演示：左边小字分类仍在，蓝衣模特占满背景，中央白框展示商品造型。",
+    "credit": "BL/S® Studio、Vladyslav Litovka、Artycoders",
+    "sourceUrl": "https://tympanus.net/codrops/2026/11/16/where-glam-meets-grunge-the-making-of-serotoninn/"
+  },
+  "2026-11-22-sakura-fantasy": {
+    "src": "images/shot-2026-11-22-sakura-fantasy.webp",
+    "alt": "傍晚樱花夹岸，带篷的小船从倒映花树的河上漂过",
+    "credit": "Bill P. W. Chan｜作者项目文档中的真实关卡截图",
+    "sourceUrl": "https://github.com/billpwchan/sakura-fantasy/blob/main/docs/media/journey-2-avenue.jpg"
+  },
+  "2026-11-24-phrasis": {
+    "src": "images/shot-2026-11-24-phrasis.webp",
+    "alt": "Phrasis 演示中，岸边构图和人物轮廓由不同灰度和疏密的词语重建",
+    "credit": "slow chaz｜原发布演示截帧，经 Memorables 核对",
+    "sourceUrl": "https://x.com/slowchaz/status/2114791305285116144"
+  },
+  "2026-11-24-click-but-spiderman": {
+    "src": "images/shot-2026-11-24-click-but-spiderman.webp",
+    "alt": "白底上，手形光标用一根细线连住标有 thwip 的按钮",
+    "credit": "ozzy｜原发布演示截帧，经 Memorables 核对",
+    "sourceUrl": "https://x.com/ozzyxs1a/status/2086332798709715445"
+  },
+  "2026-11-25-koalas-to-the-max": {
+    "src": "images/shot-2026-11-25-koalas-to-the-max.webp",
+    "alt": "白底上两枚较大的绿色圆与多个更小的圆并存，显示局部递归后的不同细分程度",
+    "credit": "Vadim Ogievetsky，为 Annie Albagli 制作｜原站实操截图",
+    "sourceUrl": "https://www.koalastothemax.com/"
+  },
+  "2026-11-25-office-assistant-which-are-you": {
+    "src": "images/shot-2026-11-25-office-assistant-which-are-you.webp",
+    "alt": "渐变彩色桌面上，旧式单选问卷弹窗自动以 Bob 称呼访客",
+    "credit": "Antoine Ramo｜原站实操截图",
+    "sourceUrl": "https://antoine-ramo.com/office_assistant.html"
+  },
+  "2026-11-24-tcosta-impermanence-brick-breaker": {
+    "src": "images/shot-2026-11-24-tcosta-impermanence-brick-breaker.webp",
+    "alt": "黑底个人简介正作为打砖块关卡，白色球带拖尾，底部有挡板",
+    "credit": "Thiago Costa｜原站游戏实操截图",
+    "sourceUrl": "https://tcosta.com/"
+  },
+  "2026-11-24-symphony-in-acid": {
+    "src": "images/shot-2026-11-24-symphony-in-acid.webp",
+    "alt": "黑色英文短句在白底上重排，独立文字被灰、蓝色块标出",
+    "credit": "Ksawery Komputery × Max Cooper｜原站实时播放截图",
+    "sourceUrl": "https://symphonyinacid.net/"
+  },
+  "2026-11-24-rive-signal-chamber": {
+    "src": "images/shot-2026-11-24-rive-signal-chamber.webp",
+    "alt": "紫色交互房间中可见人物、发光能量球和底部三档选择",
+    "credit": "threesided；跑者原动画 JcToon｜原站实操截图",
+    "sourceUrl": "https://threesided.com/lab/rive-room/"
+  },
+  "2026-11-23-editorial-engine": {
+    "src": "images/shot-2026-11-23-editorial-engine.webp",
+    "alt": "深色编辑实验有醒目大字标题和多列文字，彩色圆形挤出不规则留白",
+    "credit": "Maxwell Ingham；使用 Cheng Lou 的 Pretext｜原站运行截图",
+    "sourceUrl": "https://somnai-dreams.github.io/pretext-demos/the-editorial-engine.html"
+  },
+  "2026-11-23-animorio-ferrofluid-slider": {
+    "src": "images/shot-2026-11-23-animorio-ferrofluid-slider.webp",
+    "alt": "白底低音控制的玻璃轨上，黑色磁流体竖起细小尖刺",
+    "credit": "Animorio｜原站运行截图",
+    "sourceUrl": "https://animorio.com/demo/cursore-di-ferrofluido/index.html"
+  },
+  "2026-11-25-internet-artifacts-aol": {
+    "src": "images/shot-2026-11-25-internet-artifacts-aol.webp",
+    "alt": "仿博物馆展台上摆着 AOL 拨号互动面板，右侧是展品说明",
+    "credit": "Neal Agarwal｜原站展品实操截图；AOL 为展品标识",
+    "sourceUrl": "https://neal.fun/internet-artifacts/aol/"
+  },
+  "2026-11-25-embleme-variable-font": {
+    "src": "images/shot-2026-11-25-embleme-variable-font.webp",
+    "alt": "作品案例页右下的 Motif Editor 显示黑白重复柱形，上方是字重编辑器。",
+    "credit": "Andrew Bellamy / Otherwhere Collective｜原站实操截图",
+    "sourceUrl": "https://otherwherecollective.com/projects/embleme/"
+  },
+  "2026-11-23-miku-traffic": {
+    "src": "images/shot-2026-11-23-miku-traffic.webp",
+    "alt": "第一关的主歌倒数显示 1，十字路口不同方向上已经出现歌词车。",
+    "credit": "Suite108｜赛事官网试玩截图",
+    "sourceUrl": "https://magicalmirai.com/2026/procon/2026_finalist_applications/008_Miku_Traffic/"
+  },
+  "2026-11-22-allo-logo": {
+    "src": "images/shot-2026-11-22-allo-logo.webp",
+    "alt": "官方页面左上角是互动字标，下方以鲜红和青绿排出 Hello 与 Hola。",
+    "credit": "Josh Puckett｜原站截图",
+    "sourceUrl": "https://allo.joshpuckett.me/"
+  },
+  "2026-11-23-skate-dog-rhythm-feedback": {
+    "src": "images/shot-2026-11-23-skate-dog-rhythm-feedback.webp",
+    "alt": "滑板角色位于暖色场地，计时及得分留在上方，角色附近出现动作粒子。",
+    "credit": "Matt Greenberg｜Codrops 公开原作演示截帧",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/10/skatedog_800x600.mp4"
+  },
+  "2026-11-23-codevember-cocoon-hatch": {
+    "src": "images/shot-2026-11-23-codevember-cocoon-hatch.webp",
+    "alt": "灰暗舞台上半透明的茧丝围住人形，聚光照出拖长的影子。",
+    "credit": "Jaume Sánchez Elias｜作者公开的原作场景截图",
+    "sourceUrl": "https://spite.github.io/codevember-2026/screenshots/20-social.jpg"
+  },
+  "2026-11-22-organ-bank": {
+    "src": "images/shot-2026-11-22-organ-bank.webp",
+    "alt": "器官档案界面用一个较大的旧屏幕显示脑部，两枚紫色小屏显示眼睛。",
+    "credit": "David Yen｜Codrops 公开原作演示截帧",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/OrganBank_800x600.mp4"
+  },
+  "2026-11-22-wawa-under-the-sea": {
+    "src": "images/shot-2026-11-22-wawa-under-the-sea.webp",
+    "alt": "深蓝水面上有暖色灯光和倒影，水下的鱼群聚成一团，画面边缘保留原作交互提示。",
+    "credit": "Wawa Sensei｜Codrops 公开原作演示截帧",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/10/underthesea_800x600.mp4"
+  },
+  "2026-11-22-bumpy-metaballs-2026": {
+    "src": "images/shot-2026-11-22-bumpy-metaballs-2026.webp",
+    "alt": "浅红场景中发亮的软团相互连成一体，右侧显示原作参数面板。",
+    "credit": "Jaume Sánchez Elias｜Codrops 公开原作演示截帧",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/BumpyMetaballs2026_800x600.mp4"
+  },
+  "2026-11-25-framer-shader-generation": {
+    "src": "images/shot-2026-11-25-framer-shader-generation.webp",
+    "alt": "蓝色树景和山景落在投资卡片上，右侧保留生成提示框",
+    "credit": "Framer · 原发布片截图",
+    "sourceUrl": "https://www.youtube.com/watch?v=G9O1Ex3EXno"
+  },
+  "2026-11-25-sandwatch-director-v2": {
+    "src": "images/shot-2026-11-25-sandwatch-director-v2.webp",
+    "alt": "粉色衣服的角色跑在游戏街道上，画面右上叠加 Director 输入框",
+    "credit": "Sandwatch · 原发布片截图",
+    "sourceUrl": "https://x.com/SandwatchAI/status/2123048255173148986"
+  },
+  "2026-11-25-posty-rough-cut": {
+    "src": "images/shot-2026-11-25-posty-rough-cut.webp",
+    "alt": "Posty 官网样片的街区实拍镜头，从人物背后向前跟拍",
+    "credit": "Osmo Studio · 官方样片截图",
+    "sourceUrl": "https://osmo.inc/posty"
+  },
+  "2026-11-25-nuance-emma": {
+    "src": "images/shot-2026-11-25-nuance-emma.webp",
+    "alt": "手机屏幕里 Emma 一边说话一边微笑，画面保留 AI 标签",
+    "credit": "Nuance Labs / Fangchang Ma · 原发布片截图",
+    "sourceUrl": "https://x.com/fangchangma/status/2119852363494371466"
+  },
+  "2026-11-25-eachlabs-lockstep": {
+    "src": "images/shot-2026-11-25-eachlabs-lockstep.webp",
+    "alt": "Lockstep 样片里白裙草帽人物走在街上",
+    "credit": "each::labs · 官方样片截图",
+    "sourceUrl": "https://www.eachlabs.ai/eachlabs/eachlabs/lockstep"
+  },
+  "2026-11-24-higgsfield-miracle-selective-speed": {
+    "src": "images/shot-2026-11-24-higgsfield-miracle-selective-speed.webp",
+    "alt": "同一碗池里红衣滑手跃起、绿衣滑手继续移动，左侧显示 23 的速度圆盘",
+    "credit": "Higgsfield · 原发布片截图",
+    "sourceUrl": "https://x.com/higgsfield/status/2118732716346933423"
+  },
+  "2026-11-24-fovea": {
+    "src": "images/shot-2026-11-24-fovea.webp",
+    "alt": "Fovea 演示的图表折线低点出现蓝色注视反馈",
+    "credit": "Max Jiang / Fovea · 原发布片截图",
+    "sourceUrl": "https://x.com/maxjjiang/status/2124689415096442980"
+  },
+  "2026-11-24-timon-citadel": {
+    "src": "images/shot-2026-11-24-timon-citadel.webp",
+    "alt": "橙色场景中多张深色项目卡围成半圆",
+    "credit": "FBL（插件） / Timon（发布） · 原发布片截图",
+    "sourceUrl": "https://x.com/ai_timon/status/2123845901319844210"
+  },
+  "2026-11-24-opusclip-ai-producer-gaming": {
+    "src": "images/shot-2026-11-24-opusclip-ai-producer-gaming.webp",
+    "alt": "左边是编辑指令，右边为游戏短视频和下方时间线",
+    "credit": "OpusClip · 原发布片截图",
+    "sourceUrl": "https://x.com/OpusClip/status/2123900293264130559"
+  },
+  "2026-11-24-pages-in-reason": {
+    "src": "images/shot-2026-11-24-pages-in-reason.webp",
+    "alt": "Reason 页面展示上线准备清单、进度和右方紫色数字卡",
+    "credit": "Reason Machines · 原发布片截图",
+    "sourceUrl": "https://x.com/reasonmachines/status/2123810640217489486"
+  },
+  "2026-11-24-pi-bot": {
+    "src": "images/shot-2026-11-24-pi-bot.webp",
+    "alt": "Pi Bot 界面展开多个任务行以及右侧参与角色列表",
+    "credit": "it_works / @it_works_123 · 原发布片截图",
+    "sourceUrl": "https://x.com/it_works_123/status/2124106873729421365"
+  },
+  "2026-11-23-clueso-v2-milkshake-chart": {
+    "src": "images/shot-2026-11-23-clueso-v2-milkshake-chart.webp",
+    "alt": "白色幻灯片上四只粉红奶昔杯分别对应四周数值，左侧总数 1370",
+    "credit": "Clueso / Akash Anand · 原发布片截图",
+    "sourceUrl": "https://x.com/realAkashAnand/status/2123068893895770148"
+  },
+  "2026-11-23-pika-enact-research-preview": {
+    "src": "images/shot-2026-11-23-pika-enact-research-preview.webp",
+    "alt": "黑白片场里坐在导演椅上的人物与 Enact 标志",
+    "credit": "Pika · 官方发布图",
+    "sourceUrl": "https://pika.art/blog/pika-enact"
+  },
+  "2026-11-23-ideogram-4-6-precise-editing-launch": {
+    "src": "images/shot-2026-11-23-ideogram-4-6-precise-editing-launch.webp",
+    "alt": "Ideogram 编辑样例：蓝色服装的红发人物出现在红色物件和拼贴文字中",
+    "credit": "Ideogram · 官方示例图",
+    "sourceUrl": "https://ideogram.ai/models/4.6/"
+  },
+  "2026-11-23-neue-studio-first-look-neue-academy": {
+    "src": "images/shot-2026-11-23-neue-studio-first-look-neue-academy.webp",
+    "alt": "浅色 Neue Studio 编辑界面内是写有 Drawn 的深色画布",
+    "credit": "Neue Academy · 原发布片预览",
+    "sourceUrl": "https://x.com/neue_academy/status/2123767154054959406"
+  },
+  "2026-11-23-anijam-sensei-video-anything": {
+    "src": "images/shot-2026-11-23-anijam-sensei-video-anything.webp",
+    "alt": "汽车底盘悬浮拆开，车轮与黑色底盘旁带橙色定位标记",
+    "credit": "Anijam · 原发布片截图",
+    "sourceUrl": "https://x.com/Anijam_ai/status/2123071095532298680"
+  },
+  "2026-11-23-holymolly-playable-3d-world-launch": {
+    "src": "images/shot-2026-11-23-holymolly-playable-3d-world-launch.webp",
+    "alt": "手绘风格的草地与高塔风车场景，画面左右下角保留游戏操作控件",
+    "credit": "HolyMolly · 原发布片截图",
+    "sourceUrl": "https://x.com/HolyMolly_AI/status/2122604857127325911"
+  },
+  "2026-11-22-google-ai-studio-gemini-4-neon": {
+    "src": "images/shot-2026-11-22-google-ai-studio-gemini-4-neon.webp",
+    "alt": "黑底上的橙色霓虹字样 Gemini 4 Neon",
+    "credit": "Google AI Studio · 官方发布图",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  },
+  "2026-11-22-pitch-anything-block-interactive-slides": {
+    "src": "images/shot-2026-11-22-pitch-anything-block-interactive-slides.webp",
+    "alt": "紫色演示文稿里嵌着可操作的价格计算器",
+    "credit": "Pitch · 原发布片截图",
+    "sourceUrl": "https://www.youtube.com/watch?v=QzH4Y0aL9iE"
+  },
+  "2026-11-22-samuel-kelvin-memento-ai-launch-film": {
+    "src": "images/shot-2026-11-22-samuel-kelvin-memento-ai-launch-film.webp",
+    "alt": "Memento 原片的白底大字与两侧彩色记忆小卡",
+    "credit": "Samuel Kelvin · 原发布片截图",
+    "sourceUrl": "https://contra.com/p/EbgmFNYs-memento-ai-launch-film"
+  },
+  "2026-11-22-anima-agentic-canvas-launch-film": {
+    "src": "images/shot-2026-11-22-anima-agentic-canvas-launch-film.webp",
+    "alt": "Agentic Canvas 发布页展示白色画布和蓝色可编辑设计区",
+    "credit": "Anima / AgentGrid；原帖 Michal Cohen · 官方发布图",
+    "sourceUrl": "https://animaapp.com/blog/agentic/canvas/"
+  },
+  "2026-11-22-native-ai-introducing-native-edits": {
+    "src": "images/shot-2026-11-22-native-ai-introducing-native-edits.webp",
+    "alt": "鲜花环绕的山湖画面和桌上的印刷照片，上方写 Native Edits",
+    "credit": "Native；Benjamin Bekken · 官方发布图",
+    "sourceUrl": "https://native.no/blog/introducing-native-edits"
+  },
+  "2026-11-21-object-swap-field-fizz": {
+    "src": "images/shot-2026-11-21-object-swap-field-fizz.webp",
+    "alt": "桌边人物喝起一罐亮绿色 Field Fizz，保留了源片的竖屏构图",
+    "credit": "Made · 官方结果画面",
+    "sourceUrl": "https://www.made.app/videos/guides/product-in-trending-video/result.mp4"
+  },
+  "2026-11-25-wrong-button-groove-jones-shot-sandbox": {
+    "src": "images/shot-2026-11-25-wrong-button-groove-jones-shot-sandbox.webp",
+    "alt": "左边是实拍会议室，右边同一批演员坐在生成的海浪场景中。",
+    "credit": "Groove Jones / Karim Youssef · SH059 原对照画面 2.8 秒",
+    "sourceUrl": "https://webhost.groovejones.com/wp-content/uploads/2026/11/SH059_BEFORE_AFTER_loop.gif"
+  },
+  "2026-11-25-genvey-fia-2-generated-couture": {
+    "src": "images/shot-2026-11-25-genvey-fia-2-generated-couture.webp",
+    "alt": "暗舱内正面站立的模特被青色和橙色光环层叠围绕。",
+    "credit": "Aslı İlhan / Fashion Innovation Agency · 原片段 2.27 秒",
+    "sourceUrl": "https://www.fialondon.com/wp-content/uploads/2025/12/scene_10_revert-low-res-1.mp4"
+  },
+  "2026-11-24-face-value-wrong-department-gendia": {
+    "src": "images/shot-2026-11-24-face-value-wrong-department-gendia.webp",
+    "alt": "暖色选角室内，抱着文件夹的会计师和手持红色日程本的助理在桌边相对站立。",
+    "credit": "Gendia · The Wrong Department 成片约 0:28",
+    "sourceUrl": "https://front-v3.gendia.ai/blog/face-value-workbook/episode.mp4"
+  },
+  "2026-11-24-aura-hunyuan-reference-directed-animation": {
+    "src": "images/shot-2026-11-24-aura-hunyuan-reference-directed-animation.webp",
+    "alt": "白衣人物面向镜头斜举长杆，墨环围出水墨画般的近景。",
+    "credit": "Zixiang Zhou 等 / Tencent Hunyuan · Aura 第 4 条官方生成样例 3.6 秒",
+    "sourceUrl": "https://aura-project-page.github.io/assets/examples/demo_4.mp4"
+  },
+  "2026-11-23-pushups-for-love-blender-seedance": {
+    "src": "images/shot-2026-11-23-pushups-for-love-blender-seedance.webp",
+    "alt": "健身房落地镜里并列出现粉衣女子和举哑铃男子。",
+    "credit": "Hugo Caumo / 3D-Agent · Pushups for Love 原片 11.67 秒",
+    "sourceUrl": "https://kfgqdunxjdmbvuvs.public.blob.vercel-storage.com/ai-short-film-blender/pushups-for-love-ai-short-film.mp4"
+  },
+  "2026-11-23-axxolab-drowning-previz": {
+    "src": "images/shot-2026-11-23-axxolab-drowning-previz.webp",
+    "alt": "数名穿同色制服的工人沿着物流中心通道排成一列。",
+    "credit": "AXXOLAB · 该工作室制作页的原片工作图",
+    "sourceUrl": "https://axxolab.com/assets/work/drowning.jpg"
+  },
+  "2026-11-22-cginerd-article-to-film": {
+    "src": "images/shot-2026-11-22-cginerd-article-to-film.webp",
+    "alt": "工作日志的四宫格比较画面：四个低光工作室镜头中，人物坐在亮着台灯的桌前。",
+    "credit": "Alejandro Perez / CGI Nerd · 05-first-wan 播放器的作者海报",
+    "sourceUrl": "https://www.cginerd.com/journal-media/article-to-film/images/05-first-wan-poster.jpg"
+  },
+  "2026-11-23-aictrl-from-generated-image-to-blender-film": {
+    "src": "images/shot-2026-11-23-aictrl-from-generated-image-to-blender-film.webp",
+    "alt": "白色底上是一座由多层环形楼板和明亮工位组成的机器人工作坊，旁边保留 aictrl 原字样。",
+    "credit": "Bulat Yapparov / aictrl.dev · 制作日志 finished-poster 原图",
+    "sourceUrl": "https://aictrl.dev/blog/media/from-agent-factory-to-workflow/finished-poster.webp"
+  },
+  "2026-11-22-cel-studio-the-workshop-in-the-valley": {
+    "src": "images/shot-2026-11-22-cel-studio-the-workshop-in-the-valley.webp",
+    "alt": "橙色衣服的卡通小人在山谷木工坊门口站着，远处是多层蓝绿山峰。",
+    "credit": "scorpile / CartoonAI · El taller del valle 作者发布影片 11 秒",
+    "sourceUrl": "https://github.com/scorpile/CartoonAI/releases/download/v0.1.0/taller-v16.mp4"
+  },
+  "2026-11-22-digitalsamba-the-agent-handoff": {
+    "src": "images/shot-2026-11-22-digitalsamba-the-agent-handoff.webp",
+    "alt": "原片示意图通过四个方框展示 model、memory、you deciding、action 的衔接。",
+    "credit": "Digital Samba · The Agent Handoff 原片约 0:32.5",
+    "sourceUrl": "https://demos.digitalsamba.com/video/the-agent-handoff.mp4"
+  },
+  "2026-11-22-rust-3d-guided-ai": {
+    "src": "images/shot-2026-11-22-rust-3d-guided-ai.webp",
+    "alt": "金属机器人转向深色门边，抬起一只手查看发亮的控制面板。",
+    "credit": "John Martin / Reallusion · 官方登车片段",
+    "sourceUrl": "https://magazine.reallusion.com/wp-content/uploads/2026/10/RUS-TBoardHovercraft-1.gif"
+  },
+  "2026-11-22-runway-aleph-broll-environment": {
+    "src": "images/shot-2026-11-22-runway-aleph-broll-environment.webp",
+    "alt": "雪山背景下，绿色水瓶立在阳光照亮的石头上，保留原始竖屏比例。",
+    "credit": "Runway Dev · Aleph 换季示例官方原封面",
+    "sourceUrl": "https://d3phaj0sisr2ct.cloudfront.net/devportal/learn/generate-ugc-videos-aleph-8a2e5ee7.jpg"
+  },
+  "2026-11-24-vertex-lynx-holder-underground": {
+    "src": "images/shot-2026-11-24-vertex-lynx-holder-underground.webp",
+    "alt": "地铁楼梯旁的广告屏上保留 Lynx 标志，同屏展示骑马人物和蓝色香氛容器。",
+    "credit": "Vertex CGI / LOLA Madrid / Lynx · 制作工作室案例页原图",
+    "sourceUrl": "https://vertexcgi.com/_astro/c5dcdf5e69bbc3e9620693a9ab78671386b02aaf-1920x1080_ZN3cbW.jpg"
+  },
+  "2026-11-22-layerinbetween-occlusion-aware-vector-inbetweening": {
+    "src": "images/shot-2026-11-22-layerinbetween-occlusion-aware-vector-inbetweening.webp",
+    "alt": "白底黑线的卡通小狮子一腿向前、一腿屈起，保留作者补间预览的整幅画面。",
+    "credit": "Haoran Mo、Zhongyue Guan、Yixin Hu、Zeyu Wang · Zhongyue Guan 自绘关键帧的项目动图 0.35 秒",
+    "sourceUrl": "https://mo-haoran.com/LayerInbetween/figures/gif/7_v3.gif"
+  },
+  "2026-11-23-sakuga-vfx-remember-me": {
+    "src": "images/shot-2026-11-23-sakuga-vfx-remember-me.webp",
+    "alt": "勾选 Remember me 后，粉紫色斩击与漫画拟声字短暂覆盖复选框",
+    "credit": "finktheartist · 原作交互截图",
+    "sourceUrl": "https://sakuga-vfx.vercel.app/checkbox/"
+  },
+  "2026-11-23-apple-image-playground-orb-unfold": {
+    "src": "images/shot-2026-11-23-apple-image-playground-orb-unfold.webp",
+    "alt": "Mac 上的 Image Playground 深色界面，中央是蓝粉色描边的生成肖像，下方是配饰选项",
+    "credit": "Apple Newsroom · Image Playground 官方新闻图（生成结果示例）",
+    "sourceUrl": "https://www.apple.com/ie/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/"
+  },
+  "2026-11-23-gsap-vault-skeleton-loader": {
+    "src": "images/shot-2026-11-23-gsap-vault-skeleton-loader.webp",
+    "alt": "骨架加载示例显示三个摘要占位卡和五行列表占位，底部为 Loading 8 items…。",
+    "credit": "Jay Dickinson / GSAP Vault",
+    "sourceUrl": "https://gsapvault.com/ui-elements/skeleton-to-content-reveal"
+  },
+  "2026-11-23-motion-components-dialog": {
+    "src": "images/shot-2026-11-23-motion-components-dialog.webp",
+    "alt": "白色 Spring Dialog 已打开，后方背景变暗，右下角有 Close 按钮。",
+    "credit": "Tomi Gomilar / Motion Components",
+    "sourceUrl": "https://www.motion-components.dev/docs/components/motion-dialog/"
+  },
+  "2026-11-24-exode-command-menu": {
+    "src": "images/shot-2026-11-24-exode-command-menu.webp",
+    "alt": "ExodeUI 示例里，深色命令条亮起一圈橙边，下方展开 New file、Open recent、Share 和 Settings。",
+    "credit": "ExodeUI / Dropdown Studio",
+    "sourceUrl": "https://www.exodeui.com/exode-galleries/dropdowns/dd-command/"
+  },
+  "2026-11-22-exodeui-ev-cluster": {
+    "src": "images/shot-2026-11-22-exodeui-ev-cluster.webp",
+    "alt": "ExodeUI 的深色电动车仪表显示 71 km/h，蓝色指针和表弧同向，右边电池为 68%。",
+    "credit": "ExodeUI；单件作者未公开",
+    "sourceUrl": "https://www.exodeui.com/showcase/"
   }
 }
