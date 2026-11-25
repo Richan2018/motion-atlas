@@ -3955,5 +3955,65 @@
     "alt": "打开的纸书中竖起两排服务器和一条蓝色纸河，台灯照出暖色书边",
     "sourceUrl": "https://claudia.gallery/fable/",
     "credit": "Fable / Claudia by anabology · Claudia.gallery 原站 3:07 官方剧照；原站允许图片作为素材。"
+  },
+  "2026-11-24-4director-rigid-3d-trajectories": {
+    "src": "images/cover-2026-11-24-4director-rigid-3d-trajectories.png",
+    "alt": "4Director 的方法图：左侧展示输入、相机轨迹和被控制的 3D 人形，右侧展示用深度引导的视频生成流程。",
+    "sourceUrl": "https://arxiv.org/html/2610.02160v1",
+    "credit": "Wei Cao, Hao Zhang, Vikram Voleti, Yuqun Wu, Mallikarjun B R, Shimon Vainer, Mark Boss, Yaoyao Liu · arXiv:2610.02160 Figure 3 · CC BY 4.0 · 等比呈现 · creativecommons.org/licenses/by/4.0/"
+  },
+  "2026-11-25-rasa-cross-identity-motion-priors": {
+    "src": "images/cover-2026-11-25-rasa-cross-identity-motion-priors.png",
+    "alt": "RASA 的方法图：上方为骨架和动作先验，下方将外形参考与驱动片段转成目标角色的连续画面。",
+    "sourceUrl": "https://arxiv.org/html/2608.28219v1",
+    "credit": "Zhen Xiao, Zhen Shen, Zhaofan Qiu, Ting Yao, Xueliang Liu, Tao Mei · arXiv:2608.28219 Figure 2 · CC BY 4.0 · 等比呈现 · creativecommons.org/licenses/by/4.0/"
+  },
+  "2026-11-25-3agamefactory-motion-constraint-program": {
+    "src": "images/cover-2026-11-25-3agamefactory-motion-constraint-program.png",
+    "alt": "3AGameFactory-Motion 的方法图：把骨架配置与动作程序交给求解器，并导出可驱动的 3D 角色。",
+    "sourceUrl": "https://arxiv.org/html/2611.30013v1",
+    "credit": "Bohan Zeng et al. · arXiv:2611.30013 Figure 4 · CC BY 4.0 · 等比呈现 · creativecommons.org/licenses/by/4.0/"
+  },
+  "2026-11-22-ploto-code-animated-finance": {
+    "src": "images/cover-2026-11-22-ploto-code-animated-finance.png",
+    "alt": "Ploto 的 K07 第四版试片：黑地上两位方块人和一叠标有 250 万的透明薄片。",
+    "sourceUrl": "https://ploto.me/posts/how-i-made-a-long-video-with-ai/",
+    "credit": "Ploto ·《我是如何借助 AI 制作一支长视频的》K07（v4）原图 · CC BY 4.0 · 等比呈现 · creativecommons.org/licenses/by/4.0/"
+  },
+  "2026-11-24-toolbar": {
+    "src": "images/cover-2026-11-24-toolbar.png",
+    "alt": "蓝色背景中，手机白色画布的画笔工具条在左侧竖排停靠",
+    "sourceUrl": "https://github.com/mikelikesdesign/SwiftUI-experiments/blob/main/draggable%20toolbar/draggable%20toolbar.gif",
+    "credit": "Michael Lee / mikelikesdesign · MIT · 等比呈现"
+  },
+  "2026-11-24-scrubbers-thermostat-swing": {
+    "src": "images/cover-2026-11-24-scrubbers-thermostat-swing.png",
+    "alt": "蓝色恒温圆盘显示 54°，边缘刻度和白色指针清晰可见",
+    "sourceUrl": "https://github.com/haplollc/Scrubbers/blob/main/assets/styles/thermostat-light.gif",
+    "credit": "Haplo LLC · Scrubbers · MIT · 等比呈现"
+  },
+  "2026-11-24-smoothui-duration-picker": {
+    "src": "images/cover-2026-11-24-smoothui-duration-picker.png",
+    "alt": "浅灰色的 Duration Picker 三种示例：01:30、01:30:00 和归零 00:00:00",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/main/apps/docs/components/gallery/covers/components/duration-picker.webp",
+    "credit": "Eduardo Calvo · SmoothUI · MIT · 等比呈现"
+  },
+  "2026-11-22-custom-shaped-cursor-trail": {
+    "src": "images/cover-2026-11-22-custom-shaped-cursor-trail.png",
+    "alt": "黑底上红、黄、绿笔触呈弧线；作者用这张同教程的原始笔触场截图展示指针路径",
+    "sourceUrl": "https://github.com/BertovDev/cursor-shader-trail/blob/main/article/assets/01-trail-field-raw.jpg",
+    "credit": "Bautista Berto · Cursor Shader Trail · MIT · 等比呈现"
+  },
+  "2026-11-25-sandboxels-v116-pixels": {
+    "src": "images/cover-2026-11-25-sandboxels-v116-pixels.png",
+    "alt": "Sandboxels 官方演示截图：黑底像素画布上，蓝色材料积在容器里，右侧溅起白蓝颗粒",
+    "sourceUrl": "https://sandboxels.r74n.com/presskit",
+    "credit": "官方新闻资料截图：R74n / Sandboxels；CC0 1.0 · 等比呈现"
+  },
+  "2026-11-24-notboring-checkbox": {
+    "src": "https://i.vimeocdn.com/video/1441857952-3fe2f1bea196330e8cd894e788085198be2b84d7116f80577f9f4ade1ded5c33-d_295x166?region=us",
+    "alt": "深色双栏对比：左是常规小勾选框，右是具立体感的大勾选球",
+    "sourceUrl": "https://vimeo.com/715398709",
+    "credit": "Andy / !Boring Software · Vimeo"
   }
 }
