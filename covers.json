@@ -4615,5 +4615,173 @@
     "alt": "浅灰背景横排 Home、Office、Table 三个标签，Office 清晰，两侧标签模糊。",
     "credit": "PORTO ROCHA",
     "sourceUrl": "https://www.portorocha.com/grau"
+  },
+  "2026-11-26-solea-dj-waveforms": {
+    "src": "covers/2026-11-26/solea.jpg",
+    "alt": "Solea 官网黑底首屏，双层橙蓝像素波形与 BPM、调性、剩余时间读数",
+    "sourceUrl": "https://solea-dj.com/",
+    "credit": "Yung & Frish（Solea）（公开原站页面截图）"
+  },
+  "2026-11-26-seedfocus-ios-growing-timer": {
+    "src": "covers/2026-11-26/seedfocus.jpg",
+    "alt": "SeedFocus 官方媒体图，手机上的花朵、倒计时和专注进度",
+    "sourceUrl": "https://touch4feel.com/press/",
+    "credit": "Touch 4 Feel（SeedFocus 官方媒体包）"
+  },
+  "2026-11-26-noscripting-computing-css-editorial": {
+    "src": "covers/2026-11-26/noscript.jpg",
+    "alt": "暗色技术文章左侧绿底论点框，右侧彩色物理沙盒及形状按钮",
+    "sourceUrl": "https://noscript.ing/compute",
+    "credit": "Agustin Capeletto（公开原站页面截图）"
+  },
+  "2026-11-26-neatko-embroidery-annotations": {
+    "src": "covers/2026-11-26/neatko.jpg",
+    "alt": "浅米色刺绣服务网站左侧大字，右侧帽子和衣物上带尺寸位置标注",
+    "sourceUrl": "https://neatko.com/",
+    "credit": "Uwindi（为 Neatko 设计）（公开原站页面截图）"
+  },
+  "2026-11-26-two26-studio-illustrated-intro": {
+    "src": "covers/2026-11-26/two26.jpg",
+    "alt": "Two26 Studio 粉色原站首屏：两位手绘人物各持一半标志，两侧有猫",
+    "sourceUrl": "https://two26.studio/",
+    "credit": "Two26 Studio × ZzStudio（公开原站页面截图）"
+  },
+  "2026-11-26-atlas-for-ios-sneak-peek": {
+    "src": "covers/2026-11-26/atlas-for-ios-sneak-peek.webp",
+    "alt": "实拍的手机上，图片缩略图排成大小不一的网格，拇指贴着画面。",
+    "sourceUrl": "https://x.com/atlasformac/status/2125636285226459272",
+    "credit": "Atlas"
+  },
+  "2026-11-26-spin-to-reveal": {
+    "src": "covers/2026-11-26/spin-to-reveal.webp",
+    "alt": "手指操作手机，亮蓝色三维角色正在深蓝界面上旋转。",
+    "sourceUrl": "https://x.com/suriadesign/status/2125468344036004282",
+    "credit": "Yogi Suria"
+  },
+  "2026-11-26-microdata": {
+    "src": "covers/2026-11-26/microdata.webp",
+    "alt": "深紫背景中间发光的洋红点阵排列成多个小组，左侧有小标签。",
+    "sourceUrl": "https://x.com/sashabirukoff/status/2125283304081342683",
+    "credit": "Sasha Birukoff"
+  },
+  "2026-11-26-codex-icon-animations": {
+    "src": "covers/2026-11-26/codex-icon-animations.webp",
+    "alt": "白底一行 Codex 黑色线框图标，含页面、书本、地球等。",
+    "sourceUrl": "https://x.com/iconists/status/2125581848361255050",
+    "credit": "Iconists"
+  },
+  "2026-11-26-motion-fx-layout-shuffle": {
+    "src": "covers/2026-11-26/motion-fx-layout-shuffle.webp",
+    "alt": "黑底彩色卡片在九宫格位重排，部分卡缘仍带拖影。",
+    "sourceUrl": "https://motion.dev/examples/js-fx-layout-shuffle",
+    "credit": "Matt Perry / Motion"
+  },
+  "2026-11-26-project-navigation": {
+    "src": "covers/2026-11-26/project-navigation.webp",
+    "alt": "浅底页面的中间区域出现一个网站预览，边框保留很浅的导航标记。",
+    "sourceUrl": "https://x.com/osimijasur/status/2124483769327599994",
+    "credit": "Jasur Osimi"
+  },
+  "2026-11-26-ion-os-radial-menu": {
+    "src": "covers/2026-11-26/ion-os-radial-menu.webp",
+    "alt": "湖景背景上，多个圆形工具沿弧线悬浮，其中一个圆圈亮起。",
+    "sourceUrl": "https://ewl-motion.tv/project/ion-os",
+    "credit": "Eddie Livingstone"
+  },
+  "2026-11-26-accessgrid-cultural-principles": {
+    "src": "covers/2026-11-26/accessgrid-cultural-principles.webp",
+    "alt": "纯蓝页面上是三组白色线性示意图，底部短字段落仍排列在原框架。",
+    "sourceUrl": "https://x.com/jamesm/status/2123049150266925067",
+    "credit": "James McDonald"
+  },
+  "2026-11-26-looped-cards": {
+    "src": "covers/2026-11-26/looped-cards.webp",
+    "alt": "不同颜色的卡片在白底上排过，蓝色数字卡正脸朝向镜头，旁边卡片转成侧面。",
+    "sourceUrl": "https://x.com/kombaiselects/status/2108543003195519265",
+    "credit": "Basit A. Khan / Kombai Selects"
+  },
+  "2026-11-26-wallet-onboarding-screen": {
+    "src": "covers/2026-11-26/wallet-onboarding-screen.webp",
+    "alt": "白色手机钱包欢迎页，右上虹彩飘带绕过固定的黑色标志，底部留有文字与操作。",
+    "sourceUrl": "https://x.com/tojawuzik/status/2089768372376375585",
+    "credit": "Jakub Wuzik"
+  },
+  "2026-11-26-polydraw": {
+    "src": "covers/2026-11-26/polydraw.jpg",
+    "alt": "彩色三角拼成不规则图案，左侧列出排名、计时和表情反馈。",
+    "sourceUrl": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
+    "credit": "Spritely Institute｜官方实录截图，裁出游戏区"
+  },
+  "2026-11-26-mixbeam": {
+    "src": "covers/2026-11-26/mixbeam.jpg",
+    "alt": "浅蓝方格中有红色灯笼、粉色晶体与沿格子连接的半透明光路。",
+    "sourceUrl": "https://tinylanterndev.itch.io/mixbeam",
+    "credit": "TinyLanternDev｜试玩界面真实截图"
+  },
+  "2026-11-26-draw-your-way": {
+    "src": "covers/2026-11-26/draw.jpg",
+    "alt": "揉皱纸张上的第一关，左边一只仓鼠，右侧是黄色目标星。",
+    "sourceUrl": "https://mrblum.itch.io/draw-your-way",
+    "credit": "Mr.Blum｜原站游戏真实截图"
+  },
+  "2026-11-26-penwander": {
+    "src": "covers/2026-11-26/inkbridge.jpg",
+    "alt": "首关画面中，左边斜坡放着红球，右边是金环，中间有露出横线纸的缺口。",
+    "sourceUrl": "https://pnscripts.itch.io/inkbridge",
+    "credit": "PN Scripts｜原站游戏真实截图"
+  },
+  "2026-11-26-kinetile": {
+    "src": "covers/2026-11-26/kinetile-full.jpg",
+    "alt": "深蓝背景上的等距方砖棋盘中，蓝黄移动块连出路径，黄色小球正在棋盘上滚动。",
+    "sourceUrl": "https://sochalewski.itch.io/kinetile",
+    "credit": "Piotr Sochalewski｜作者试玩页所发动态演示截帧，补留白未裁图"
+  },
+  "2026-11-26-wonderclip-3d-studio": {
+    "src": "covers/2026-11-26/wonderclip-3d-studio.jpg",
+    "alt": "滑板场景灰模和成片并置",
+    "sourceUrl": "https://x.com/alibaba_cloud/status/2123353151759646863",
+    "credit": "Alibaba Cloud｜发布片原帧"
+  },
+  "2026-11-26-renoise-magi-2": {
+    "src": "covers/2026-11-26/renoise-magi-2.jpg",
+    "alt": "深蓝树影样片和左下角时间轨",
+    "sourceUrl": "https://x.com/renoiseai/status/2125419113711620185",
+    "credit": "Renoise / Sand AI｜发布片原帧"
+  },
+  "2026-11-26-taan-v1": {
+    "src": "covers/2026-11-26/taan-v1.jpg",
+    "alt": "光束照在舞台上的鼓手和完整鼓组",
+    "sourceUrl": "https://x.com/mp3addi/status/2125277353609932891",
+    "credit": "Addiiiii / Taan｜发布片原帧"
+  },
+  "2026-11-26-canva-mcp-open": {
+    "src": "covers/2026-11-26/canva-mcp-open.jpg",
+    "alt": "Canva 编辑器中的可编辑宣传卡版本",
+    "sourceUrl": "https://x.com/canva/status/2124926205313081394",
+    "credit": "Canva｜发布片原帧"
+  },
+  "2026-11-26-fiddle-design-ide": {
+    "src": "covers/2026-11-26/fiddle-design-ide.jpg",
+    "alt": "深色生产画布中散开的彩色节点和缩略图",
+    "sourceUrl": "https://x.com/vibamohan_/status/2125284410228625603",
+    "credit": "Viba Mohan / Fiddle｜发布片原帧"
+  },
+  "2026-11-26-the-last-show-pippit": {
+    "src": "covers/2026-11-26/the-last-show-pippit.jpg",
+    "alt": "木偶匠与工作台上的小物件和暗色鸟偶",
+    "sourceUrl": "https://thedorbrothers.com/work/pippit-the-last-show/",
+    "credit": "The Dor Brothers / Pippit｜项目原帧"
+  },
+  "2026-11-26-hollow-crown-ehab": {
+    "src": "covers/2026-11-26/hollow-crown-ehab.jpg",
+    "alt": "冰原上的年长守卫与背着巨大螺壳的生物",
+    "sourceUrl": "https://higgsfield.ai/@ehabatawfik/projects/hollow-crown",
+    "credit": "Ehab A. Tawfik｜官方播放源原帧，保留标记"
+  },
+  "2026-11-26-flipmove-mib-ais": {
+    "src": "covers/2026-11-26/flipmove-mib-ais-full.jpg",
+    "alt": "MiB-AIS 论文渲染序列对照图",
+    "sourceUrl": "https://arxiv.org/html/2605.02742v1/renderings_sequences.png",
+    "credit": "Anton Raël、Julien Boucher、Antoine Lhermitte｜Adaptive Interpolation-Synthesis for Motion In-Betweening on Keyframe-Based Animation, Fig. 5｜CC BY 4.0；等比缩小并留白，未裁图"
   }
 }

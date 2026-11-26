@@ -1,6 +1,6 @@
 {
   "title": "UI 与动效设计精选",
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "modules": [
     "UI设计",
     "UI动效",
@@ -10,6 +10,749 @@
   ],
   "archiveNote": "按原交付日期保存；原作发布日与热度观察日见各案例。历史收录保留当时数量，不用重复案例补足新配额。",
   "days": [
+    {
+      "date": "2026-11-26",
+      "title": "2026-11-26｜设计与动效精选",
+      "fullText": "# 2026-11-26｜设计与动效精选\n\n本期 32 个案例：UI设计 6、UI动效 11、趣味交互 5、AI产品宣传 5、AI制作动画 5。\n\n先看 Atlas 的实拍图库和 Motion FX 的九宫格：一个让网格与单图之间的切换不断线，一个让拖影跟着挪动的卡片走。想动手就试 Mixbeam；想看 AI 宣传怎么交代可控性，直接跳到 WonderClip 的滑板对照。\n\n## UI设计｜6 例\n\n1. **[Solea｜用波形做产品首屏](https://solea-dj.com/)**｜Yung & Frish（Solea）｜2026-11-25 Website Design Awards 刊载与 One Page Love 收录；非软件首发\n黑底首屏用上下两条橙蓝像素波形横穿画面，BPM、调性和剩余时间直接落在波形上。值得借鉴的是不用独立插画填首屏，而把产品最重要的读数做成视觉主角。已看官网首屏；未安装或测试 Mac 客户端。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。\n热度：Website Design Awards 评审 8.5/10\n更多：[日期与公开信号](https://websitedesignawards.com/site/solea)\n\n2. **[SeedFocus｜让专注进度长成一朵花](https://seedfocus.touch4feel.com/)**｜Touch 4 Feel｜2026-10-27 v1.2 从 Tendril 改名为 SeedFocus（官方媒体资料）；非首次上线\n开发者实机界面预览把花的状态、11:13 倒计时、55% 进度文字和细进度条叠成同一中轴。这个结构保留精确读数，也让没有数字的状态反馈可一眼扫见。已看官方截图；未安装原生应用。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。\n热度：美国 App Store 页面所示 2 份评分、5.0（样本小）\n更多：[日期与公开信号](https://apps.apple.com/us/app/seedfocus-pomodoro-timer/id6810488625) · [官方媒体资料及版本日期](https://touch4feel.com/press/)\n\n3. **[noscripting｜把技术论点放到可见的物理沙盒旁](https://noscript.ing/compute)**｜Agustin Capeletto｜2026-11-05 作者页标注更新；2026-11-23 Website Design Awards 刊载\n深灰文档开篇左侧先放正文和绿色观点框，右侧放可见的彩色物理沙盒与形状按钮。适合参考长文首屏怎么并排呈现“解释”和“证据”，而不把文档做成全屏特效。已见原站首屏，未逐项实测沙盒及跨浏览器行为。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。\n热度：Website Design Awards 评审 8.2/10；不是流量\n更多：[日期与公开信号](https://websitedesignawards.com/site/noscript-ing)\n\n4. **[Neatko｜把商品图变成刺绣标注图](https://neatko.com/)**｜Uwindi（为 Neatko 设计）｜2026-11-03 CSS Nectar 条目刊载，2026-11-25 首页日奖；均非首发\n左栏把服务名称排成三行，大图直接在帽前及两件上衣的左胸标出刺绣位置和尺寸。适合做定制服务时参考：把常见规格问题放到照片的具体位置，少让用户在 FAQ 来回找。已看原站；未打开或提交报价。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。\n热度：CSS Nectar Site of the Day；无可比站点流量\n更多：[日期与公开信号](https://cssnectar.com/css-gallery-inspiration/neatko-custom-embroidery-studio/) · [日奖首页](https://cssnectar.com/new-home/)\n\n5. **[Kocoro Studio｜让一个月亮托住整段标题](https://kocoro.co/)**｜Kocoro Studio｜2026-11-25 CSS Design Awards 提名，非首发\n首屏大面积深蓝颗粒背景只放一轮发光月亮，两行标题置于下方，语言切换与服务收在右上独立深色条中。可参考把视觉焦点、正文和导航分层，而不是靠更多控件表现科技感。见官网实际画面；未验证手机端。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。\n\n封面待补：原站条款仅允许未经书面同意的个人或私人使用；不上传官网截图。\n热度：CSSDA 公开票 UI 6 / UX 5 / 创新 5（核验时快照）\n更多：[日期与公开信号](https://cssdesignawards.com/sites/kocoro-studio/50892/) · [原站版权条款](https://kocoro.co/legal)\n\n6. **[Two26 Studio｜把工作室标志拆给两个角色](https://two26.studio/)**｜ZzStudio × Two26 Studio｜创作者 ZzStudio 作品表记为 2026-09；作者在 Muzli 有同项目原发；未把收录日当作首发\n浅粉首屏把标志拆成两块道具，由两个人各拿一块，两只猫压住两侧；真正的作品、关于和联络入口反而用小型胶囊放在顶部。可借鉴让插画讲品牌个性，同时让实际导航清清楚楚。已看原站完成加载的首屏；未验证完整动画。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。\n热度：无可比公开流量；以原站视觉入选\n更多：[网页创作者项目列表](https://zzstudio.design/) · [创作者项目发布](https://me.muz.li/zzstudio/two26-studio-boutique-design-studio-2)\n\n## UI动效｜11 例\n\n1. **[Atlas for iOS｜单手缩放灵感图库](https://x.com/atlasformac/status/2125636285226459272)**｜Atlas｜2026-11-25（作者 X 原帖，UTC）\n手指在一屏图格上浏览时，图格的缩放与轻微虚化把用户带向下一层内容；从单图退回时重新露出网格。值得借的是保持视觉锚点，而不是每次都用整页淡入。\n\n核验：已解码作者 41.64 秒实拍并核对多个时点的网格密度和往返变化。 作者明确称是即将推出的 iOS 预告；未安装测试，未验证所有手势。\n热度：约 4,952 浏览、186 赞（11/26 原帖公开元数据快照）\n更多：[产品官网](https://atlasformac.com)\n\n2. **[Spin to Reveal｜旋转蓝色角色换来收藏卡](https://x.com/suriadesign/status/2125468344036004282)**｜Yogi Suria｜2026-11-25（作者 X 原帖，UTC）\n手机屏幕先呈现可旋转的蓝色角色；旋转中的大轮廓和亮边占住同一个奖励区域，随后同一位置出现直立收藏卡。动作与奖励处在一条视线上，比另起弹窗更连续。\n\n核验：已解码作者 12.98 秒演示，核对亮蓝角色、过渡和奖励卡画面。 是 UI Maxx 模板展示，不是已验证的线上抽奖流程。\n热度：约 16,136 浏览、509 赞（11/26 原帖公开元数据快照）\n更多：[作者模板站](https://uimaxx.ing)\n\n3. **[Microdata｜洋红点阵把等待拆成不同节奏](https://x.com/sashabirukoff/status/2125283304081342683)**｜Sasha Birukoff｜2026-11-24（作者 X 原帖，UTC）\n同一组洋红像素用扩散、聚团、横向搬运做出不同等待状态。点与点之间的间距几乎不变，视觉差异来自哪些位置点亮和先后顺序，适合密度很高的工具栏。\n\n核验：已解码作者 9.60 秒原片；多帧核对点阵在不同节奏下聚合、散开和横向移动。 纯交互视觉实验；无法从循环推断实际任务进度。\n热度：约 3,881 浏览、218 赞（11/26 原帖公开元数据快照）\n\n4. **[Codex Icon Animations｜线框图标在原占位里动起来](https://x.com/iconists/status/2125581848361255050)**｜Iconists｜2026-11-25（作者 X 原帖，UTC）\n图像、书、地球、文档和点格并排，局部线条有各自的起伏，但外框和行内节距稳定。可借来做工具入口反馈：让内核动，不挤旁边的控件。\n\n核验：已解码作者 10.02 秒原片、对比各时点图标内部与外轮廓。 作者公布的是一组图标动效，不把演示外推为 Codex 全部功能状态。\n热度：约 21,445 浏览、657 赞（11/26 原帖公开元数据快照）\n\n5. **[Motion FX Layout Shuffle｜九宫格重排，拖影跟着每张卡](https://motion.dev/examples/js-fx-layout-shuffle)**｜Matt Perry / Motion｜2026-11-13（官方示例）\n点位变化不只靠起止态。彩色方片重新洗牌时，位移途中沿各自轨迹短暂出现拖影，停住就恢复清晰；同色方片是视线跟踪的锚点。\n\n核验：已解码 Motion 官方 6.55 秒公开演示，多帧核对网格重排；作者文档说明 animateLayout() 搭配 motionBlur()。 现场可调参数及源码属于 Motion+，未实操付费例，也未比较低端设备性能。\n热度：独立播放量未公开\n更多：[官方 FX 文档](https://motion.dev/docs/fx)\n\n6. **[Project Navigation｜切项目时保留外层导航位置](https://x.com/osimijasur/status/2124483769327599994)**｜Jasur Osimi｜2026-11-22（作者 X 原帖，UTC）\n组合框从轻量项目选择态展开为可看的作品页面：外层导航标记仍在原位，中央大面积内容才接管视觉。可用于作品集或多项目工具，避免每换一项就把整套位置关系清空。\n\n核验：已解码作者 28.88 秒原片；分段核对空框、浅深两种预览，以及多张预览堆叠。 作者称是新作品集的导航概念，未证实可用站点或移动端行为。\n热度：约 4,651 浏览、149 赞（11/26 原帖公开元数据快照）\n\n7. **[Ion OS Radial Menu｜径向控制用亮度确认焦点](https://ewl-motion.tv/project/ion-os)**｜Eddie Livingstone｜2026（作者作品页仅标年份；视频资源在 07 月目录，非首发日期）\n沿弧线布置的工具在中性态保持半透明；焦点移动时只有目标圆圈显著发光并扩散一圈，周围工具仍是位置参照。适合空间工具栏，不必用同样强度的发光动画同时争抢注意力。\n\n核验：已解码作者官网 13.02 秒组件录屏并对比多个高亮圆点位置；官网把它描述为手势启动、以手为锚的菜单。 visionOS 启发的 Live React 概念，不是 Apple 产品；没有在头显验证准确性、时延或眩光。\n热度：无独立公开播放量\n更多：[作者互动合集](https://ewl-motion.tv/ionos-showcase)\n\n8. **[AccessGrid｜价值列表用一组工程线图做翻页反馈](https://x.com/jamesm/status/2123049150266925067)**｜James McDonald｜2026-11-18（作者 X 原帖，UTC）\n切换价值主张时，上方和下方的排版架子保持定住，中间三列线图变化：曲线、生长的柱段和几何节点替换。适合把抽象段落变成可识别状态，而不是每页都重新摆版。\n\n核验：已解码设计师 James McDonald 的 29.45 秒原片，核对多组三栏线图与固定文字基线。 这是品牌网站演示，不把切换路径当作键盘、辅助技术或触屏测试。\n热度：约 17,911 浏览、728 赞（11/26 原帖公开元数据快照）\n\n9. **[Looped Cards｜用卡片姿态说明轮播方向](https://x.com/kombaiselects/status/2108543003195519265)**｜Basit A. Khan / Kombai Selects｜2026-10-09（作者 X 原帖，UTC）\n数字卡沿 3D 环路经过正面后转侧，亮色梯度与边缘仍然给到下一张卡的方向提示。参考点是用姿态给出“当前项”和“相邻项”，别用同样强的内容标记挤满整圈。\n\n核验：已解码作者合作方原帖的 14.58 秒源片，多帧核对色卡顺序回环与正/侧面转换。 10 月补录。是 AI 产品视觉概念里的轮播演示，不代表可以拖拽或具备已上线的自动播放设置。\n热度：约 3,397 浏览、88 赞（11/26 原帖公开元数据快照）\n\n10. **[Wallet Onboarding｜前景按钮不跟着玻璃飘带动](https://x.com/tojawuzik/status/2089768372376375585)**｜Jakub Wuzik｜2026-08-18（作者 X 原帖，UTC）\n登录页的材质循环集中在背景，虹彩带不断改变折光；标志、短文和主要操作没有位移。适合冷启动欢迎页中需要质感、但不能让读取路径跟着动画走的场景。\n\n核验：已解码作者 4.98 秒原片，比较折光流动和静止的标题、标志的位置。 8 月历史补录；为欢迎页视觉，未验证钱包真实功能或 reduced motion。\n热度：约 959 浏览、25 赞（11/26 原帖公开元数据快照）\n\n11. **[Dub｜打开一次，菜单沿着指针换位](https://dub.co/)**｜Dub｜2026-11-20 公开录屏分析；导航首发未核实\n三层动作分开做：灰色胶囊跟随鼠标，内容按方向进出，共用的菜单外框只调整为新内容的宽高。连续掠过多个入口时，不必等上个菜单关完再打开下一个。借用时先保持外框连续，再调换内容的速度。\n\n核验：核对了 Regards 4.15 秒桌面录屏的多个关键帧与 Dub 公开导航源码：从 Product 到 Solutions 再到 Resources，菜单外框保持同一个区域而改尺寸和内容。 不是屏幕缩放或容器宽度联动；原站生产版本与源码的发布对应、键盘操作未独立测试。\n\n封面待补：已看第三方录屏，未取得可确认用于卡片的原站下拉态截图，保留原站和录屏入口。\n热度：本条未找到可比的公开浏览或点赞数据\n更多：[公开录屏拆解](https://www.regards.design/blog/landing-page-animation-ideas) · [Dub 导航源码](https://github.com/dubinc/dub/blob/main/packages/ui/src/nav/nav.tsx)\n\n## 趣味交互｜5 例\n\n1. **[Polydraw｜60 秒只用三角形画给朋友猜](https://davexunit.itch.io/polydraw)**｜David Thompson / Christine Lemmer-Webber（Spritely Institute）｜2026-11-09 试玩发布；作者开发日志 11-19\n每轮只有 60 秒，画手不能自由涂抹，只能用有限数量的三角形拼图；其他人同步猜词，也可以用表情回应。作者实录里彩色三角挤在一起，画面和下方答案同步承担揭晓信息。它把画笔的「形状」和「用量」都做成了可见的规则。\n\n核验：核对了原站和作者公开实录截图。 这是联机派对游戏，未邀请其他玩家，未独立跑完整回合。\n热度：作者记录赛事综合第 5，itch.io 公开评分 5/5（1 票）\n更多：[作者开发日志与实录](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html) · [封面素材授权（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/)\n\n2. **[Mixbeam｜拖一盏灯，光路自己解释规则](https://tinylanterndev.itch.io/mixbeam)**｜TinyLanternDev｜2026-11-11 发布；11-13 更新\n不是把灯放到规定位置就过关，而是要让光抵达同色的晶体。棋盘把光线画成半透明色带，经过格子就留下方向；目标是把空间和颜色变成可以直接看出的因果关系。后续关卡还引入改变光路的镜面。\n\n核验：云端实玩第 1 关；放灯后，虚线提示变成实心红光，三个晶体点亮并出现黄色下一步。 未验证每日谜题、镜面关卡或移动端。\n热度：原站未列足以代表热度的公开游玩数\n\n3. **[Draw Your Way｜先画轨道，再把仓鼠弹出去](https://mrblum.itch.io/draw-your-way)**｜Mr.Blum｜2026-10-22 发布；11-01 更新\n在揉皱纸张的场景上画一条轨道，再从仓鼠位置往后拉，用放手这一下发射。线条不是装饰，会改写仓鼠的路径；已经发射还能补画或用右键擦除。创意点是让玩家同时设计路径和决定速度。\n\n核验：原站进入教程，实见第一关的仓鼠、目标星和拉动提示；后续动作按作者规则记录。 未核自制关卡与移动端。\n热度：公开评分 5/5（4 票，小样本）\n\n4. **[Penwander｜球开始滚后，画线会让时间放慢](https://pnscripts.itch.io/inkbridge)**｜PN Scripts｜2026-10 已公开；原站显示 10-27 更新\n用有限的墨水把笔记本上的空隙画成实心桥，再放小球沿路滚向金环。作品最有意思的规则是中途补画：球在移动时再次落笔，时间会减速，给你在前方接球的机会，而最短的可行路径又直接节约墨水。\n\n核验：实见首关 First line、用笔提示、缺口和 Go 控制；减速规则来自原站说明。 未计时测量减速倍数，未验证 24 页及移动端。\n热度：原站未核到可代表热度的统计\n\n5. **[Kinetile｜先拼地板，再看小球能不能走过去](https://sochalewski.itch.io/kinetile)**｜Piotr Sochalewski｜2026-11-06 浏览器试玩发布；原站 11-24 更新\n把等距棋盘拆成「排布」和「运行」两层：拖可移动方块筹划路径，然后放球验证。作者动图中，移动方块时可见预放轨迹，球随后在同一棋盘上移动；落空或主动停止时，作者说明会保留这次排布，下一轮只改有问题的一块。\n\n核验：查看作者试玩页的真实动图，确认排布与球滚动的先后。 云端试运行出现 Unity 弹窗及黑屏，未亲自拖动，也未实测失败后恢复；后者仅据作者说明。\n热度：未核公开试玩人数\n更多：[作者动态演示](https://img.itch.zone/aW1nLzMyNjE1NDEzLmdpZg%3D%3D/original/LWHDDT.gif)\n\n## AI产品宣传｜5 例\n\n1. **[WonderClip 3D Studio](https://x.com/alibaba_cloud/status/2123353151759646863)**｜Alibaba Cloud｜2026-11-19｜发布方原帖\n滑板一段先给完整街景，随后把灰模与台阶动作成片并排，再换成低角度。餐厅示例则依次放出带参考图的指令、画有红线的灰模路径、沿走廊跟拍的成片。想让人理解“镜头可控”，先让控制对象入画，再匹配成片，胜过直接放一串漂亮镜头。\n\n核验：解码公开影片。约 1:08–1:14 滑板；1:21–1:25 路径。 未操作产品；镜头连续性和生成速度只限发布演示。\n热度：暂无可核实的公开互动量。\n更多：[同片可播放备份](https://launchscene.app/v/alibaba-cloud-wonderclip-3d-studio)\n\n2. **[Renoise × MAGI-2](https://x.com/renoiseai/status/2125419113711620185)**｜Renoise / Sand AI｜2026-11-25｜原帖时间（UTC）\n先用打字游标把“延续的视频”变成一句未完成的话，再把小画框换成眼睛及几近满幅的蓝色光束、树影。它用画框占比暗示从界面走入样片，不把模型规格一股脑堆上屏。\n\n核验：解码约 10.0 秒原帖视频：0:01 打字；0:02 镜框堆叠；0:03 眼部；0:05–0:08 蓝色场景。 30 秒、1080p、原生声音是发行声明，不能用这支 10 秒剪辑验证。\n热度：约 24.9 万观看（What Ships 于本轮索引的原帖快照，非实时）。\n更多：[原帖影片可播放备份](https://whatships.com/videos/renoise-magi-2/) · [原帖视频媒体](https://video.twimg.com/amplify_video/2125419018018594817/vid/avc1/1920x1080/R3Pi-TGxsL6XJcDX.mp4)\n\n3. **[Taan V1](https://x.com/mp3addi/status/2125277353609932891)**｜Addiiiii / Taan｜2026-11-24｜原帖时间（UTC）\n不先放音乐生成器界面，而是用两位人物和鼓组演绎“能不能跟上意图”：大远景建立舞台，正反打建立人物关系，镲片微距给节奏落点。适合给生成音频产品做一支先讲创作冲突、后讲规格的片。\n\n核验：解码约 97.2 秒原帖视频：11.7 秒鼓手、33.1 秒对侧人物敲鼓、55.4 秒面对面、67.1 和 78.7 秒镲片。 这是音乐模型发行片；不推断画面是生成还是实拍，也未测试音乐指令遵循。\n热度：约 83.5 万观看（What Ships 于本轮索引的原帖快照，非实时）。\n更多：[原帖影片可播放备份](https://whatships.com/videos/taan-v1/) · [原帖视频媒体](https://video.twimg.com/amplify_video/2125274583783882752/vid/avc1/3840x2160/zYGQI6XmvhAgOLkT.mp4)\n\n4. **[Canva MCP](https://x.com/canva/status/2124926205313081394)**｜Canva｜2026-11-23｜原帖时间（UTC）\n紫色边框把连接、提需求、看结果分隔成一组章节；最后没有用品牌片盖过结果，而是在同一个版式里把 “Your work, already there.” 改成 “Your work, anywhere.”。可借鉴这个具体编辑动作作为导出后仍可操作的视觉证据。\n\n核验：解码约 45.0 秒原帖视频：15.3 秒连接代理、20.3 秒给简报、25.7 秒结果列表、36.5 与 42.3 秒在设计编辑器里对照两份结果。 只核实宣传片中打开和编辑的顺序；未连账号或实际运行 MCP。\n热度：约 76.8 万观看（What Ships 于本轮索引的原帖快照，非实时）。\n更多：[原帖影片可播放备份](https://whatships.com/videos/canva-mcp/) · [原帖视频媒体](https://video.twimg.com/amplify_video/2124923758079287296/vid/avc1/1920x1080/w4KFVpu0YUST5lXG.mp4)\n\n5. **[Fiddle](https://x.com/vibamohan_/status/2125284410228625603)**｜Viba Mohan / Fiddle｜2026-11-24｜原帖时间（UTC）\n先把创作过程拍成有体积的抽象物，再连续切到节点图、作品和人在桌前的镜头，最后回到深色面板。对比 Canva，这支让编排工具先有氛围，再给短促的交互证据；不适合当逐步教程。\n\n核验：解码约 68.1 秒原帖视频：1.7 秒抽象银色收缩、8.2 秒节点 UI、15.7 秒图像作品、47.0 秒面板图形、55.1 秒混合视窗。 等候名单发布片；不验证可用性，也不从成片推断哪段用 AI 制作。\n热度：约 2.55 万观看（What Ships 于本轮索引的原帖快照，非实时）。\n更多：[原帖影片可播放备份](https://whatships.com/videos/fiddle/) · [原帖视频媒体](https://video.twimg.com/amplify_video/2125281620223737856/vid/avc1/3840x2160/_OG1YSzGQt0dgiKG.mp4) · [创作者解释 AI 与设计工具的结合](https://www.linkedin.com/posts/viba-m_most-design-tools-force-you-to-think-inside-activity-7315560139292307456-nqE_) · [产品官网](https://fiddle.is/)\n\n## AI制作动画｜5 例\n\n1. **[The Last Show](https://thedorbrothers.com/work/pippit-the-last-show/)**｜The Dor Brothers / Pippit｜2026-09-29 正片，2026-10-15 幕后（制作方所列）；历史回看\n制作方写明先在 Pippit 3D Director Studio 安排角色和镜头走位，再用 Seedance 2.5 生成。穿针、容器、手指和舞台用统一材质和光线建立模型片感觉。可借鉴的是先把小物体接触点写进分镜，再给模型材质任务，不把表演和风格一次性丢给同一提示。\n\n核验：解码官方 137.7 秒 MP4：3.4 秒穿针，31.7 秒由室外看窗，78.5 秒工作台，96 秒木舞台，129.4 秒红帘前。 黏土质感不代表实物拍摄；模型、走位流程来自制作方，并非由画面反推。\n热度：原作者幕后帖约 6.2 万观看（公开索引 11-26 快照；非正片观看量）。\n更多：[正片原始 MP4](https://media.dordecks.com/website/pippit-the-last-show-1080p.mp4) · [创作者幕后原帖](https://x.com/thedorbrothers/status/2110773519986401560)\n\n2. **[HOLLOW CROWN](https://higgsfield.ai/@ehabatawfik/projects/hollow-crown)**｜Ehab A. Tawfik｜2026-11-25｜作者流程帖；首次正片发布日期未见可靠时间戳\n作者并非先生成整片，而是先准备灰阶黏土造型、轮廓与道具设计，多方位确认结构后才生成动作，最后人工选镜及统一颜色。可借鉴的是用 6.7 秒和 45.4 秒的双人同框检查人兽比例，再用俯拍和脸部近景检查轮廓是否还能辨认。\n\n核验：解码官方页面水印播放源取得的前 56 秒：6.7 秒护卫和巨兽同行、12.9 秒俯视龟裂冰面、25.2 秒骨杖脸部近景、45.4 秒再看到人兽同框。 56 秒为本轮实际取得的媒体片段，不是全片时长；未验证其余片段；无实物黏土来自作者说明。\n热度：作者公开逐步流程；暂无可对照的播放量。\n更多：[作者制作拆解](https://www.reddit.com/r/generativeAI/comments/1y5agod/hollow_crown_full_process_breakdown_ai_clay/)\n\n3. **[FlipMove｜手绘分镜到可改的 3D 布局](https://www.animaj.com/post/behind-flipmove-how-artists-and-engineers-build-flipmove-together)**｜Animaj / Anton Raël、Julien Boucher、Antoine Lhermitte｜2026-11-03 项目公布；11-12 工作流拆解；研究先于产品公布\nAnimaj 的生产线仍从艺术家画的 2D 分镜出发，并在 Blender 保留可重新安排的相机、表演和时间。配套研究单独验证了关键姿势间的插值，人工依然操作角色绑定与检查结果。可以把“从分镜转为有相机的场景”与“已有关键姿势间插值”拆成两个验收件。\n\n核验：核验 Animaj 双篇文章与 MiB-AIS 论文 Fig. 5 的真实渲染对照，不把它说成宣传片播放。 70.2 秒评估中的 289 / 83 分钟只属于论文小规模特定角色测试，不能替代 FlipMove 产品的普遍实测。\n热度：有制片方和作者论文双重原始说明，暂无可核实播放量。\n更多：[Animaj 项目发布](https://www.animaj.com/post/animaj-unveils-flipmove-artist-led-ai-animation-workflow) · [MiB-AIS 论文实验与原图](https://arxiv.org/html/2605.02742v1#S4.SS6) · [Maya 研究实现](https://github.com/animaj-lab/mib-ais) · [论文图许可 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)\n\n4. **[Forge Cinema｜Left, the production. Right, the picture.](https://forgecinema.ai/#proof)**｜Forge Cinema｜2026-11｜官网 11 月公开页面；示例首发日未标\n官方把同一段落拆成两条：左侧是 34 张有编号的场景板、每张对应分镜、渲染版和审批；右侧是它对应的开场成片。成片里铅笔和制图先建立“设计”，再切进实体飞轮和人物。最能迁移的是给看板和样片保留同一组镜头编号，以便反馈落回对应镜头。\n\n核验：先前核验官方双片：制作版约 25.2 秒，成片版约 74.7 秒。成片 7.5 秒铅笔、15.7 秒制图、43.3 秒飞轮、62.7 秒暖褐调人像。 官网示例为开场序列，不是独立发行的完整电影；人工审批存在于站方所述流程，未操作后台。\n\n封面待补：此前核过官网正片公开媒体；本轮云端未重新取得可作封面的媒体字节。\n热度：原站无示例播放计数；不把站内其他影片的流量归给这段。\n更多：[制作板录像](https://forgecinema.ai/assets/making.mp4) · [开场成片](https://forgecinema.ai/assets/final.mp4)\n\n5. **[OmniScribble: Mixed-Initiative Authoring of Animated Sketches through Inspectable and Repairable AI Decisions](https://arxiv.org/html/2611.04284v1)**｜Hien Trinh、Tan-Hiep To、Trung-Nghia Le｜2026-11-03｜arXiv v1 预印本\n多物体手绘先拆层，再补画遮挡区域，并给不同对象安排各自的轨迹。AI 产物在拆层后、定轨迹后都有停下来接受、手改或再生成的机会，而手工和 AI 路径用同一种可编辑表示。实验里轨迹阶段的干预多于对象拆分，做类似的 AE 辅助工具时，优先给轨迹编辑一键返回和局部替换。\n\n核验：核验原论文工作流 Fig. 1、可修订节点及鸟、树枝、太阳示例；未验证可播放演示。 仅为研究工作流；约 71% 为 8 人实验内的中位个体耗时变化，不能推广到真实长片。\n\n封面待补：论文 arXiv 非独占存档许可不是图像通用许可；原图留作来源链接，不转存。\n热度：作者原始研究；8 名参与者的组内实验，不是流量。\n更多：[作者工作流程原图](https://arxiv.org/html/2611.04284v1/overview1.png)\n\n## 延伸阅读｜不计入案例数\n\n**[AdapTest：触发条件撞车时，先定哪条规则生效，再调弹簧](https://make.kaist.ac.kr/project/2026-adaptest.html)**｜Jungwoo Rhee 等，ACM ISS 2026。工具把距离、光线和遮挡的 IF/THEN 规则挂在具体 XR 界面元素上，能并排比较状态并查看实时命中的规则。12 名设计师中，在 AdapTest 条件下有 9 人写了至少一条组合规则，对照条件是 2 人；两种任务场景和时间预算不同，不能由此断言工具更快。可借到小窗避让的不是论文里的参数，而是验收方法：录一段「A 生效 → B 插入 → B 解除」，分别检查谁赢、解除后窗口是否从当前位置接续。已查项目与论文，未试玩。[论文结果与方法](https://arxiv.org/html/2610.21386v1#S6.SS2)\n",
+      "cases": [
+        {
+          "id": "2026-11-26-solea-dj-waveforms",
+          "date": "2026-11-26",
+          "module": "UI设计",
+          "title": "Solea｜用波形做产品首屏",
+          "author": "Yung & Frish（Solea）",
+          "originalDateNote": "2026-11-25 Website Design Awards 刊载与 One Page Love 收录；非软件首发",
+          "heat": "Website Design Awards 评审 8.5/10",
+          "verification": "已查看公开作品画面，实际核验范围见本例。",
+          "limitations": "未把官网展示或作品录像当作客户端功能实测。",
+          "fullText": "黑底首屏用上下两条橙蓝像素波形横穿画面，BPM、调性和剩余时间直接落在波形上。值得借鉴的是不用独立插画填首屏，而把产品最重要的读数做成视觉主角。已看官网首屏；未安装或测试 Mac 客户端。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。",
+          "links": [
+            {
+              "url": "https://solea-dj.com/",
+              "label": "原作"
+            },
+            {
+              "url": "https://websitedesignawards.com/site/solea",
+              "label": "日期与公开信号"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-seedfocus-ios-growing-timer",
+          "date": "2026-11-26",
+          "module": "UI设计",
+          "title": "SeedFocus｜让专注进度长成一朵花",
+          "author": "Touch 4 Feel",
+          "originalDateNote": "2026-10-27 v1.2 从 Tendril 改名为 SeedFocus（官方媒体资料）；非首次上线",
+          "heat": "美国 App Store 页面所示 2 份评分、5.0（样本小）",
+          "verification": "已查看公开作品画面，实际核验范围见本例。",
+          "limitations": "未把官网展示或作品录像当作客户端功能实测。",
+          "fullText": "开发者实机界面预览把花的状态、11:13 倒计时、55% 进度文字和细进度条叠成同一中轴。这个结构保留精确读数，也让没有数字的状态反馈可一眼扫见。已看官方截图；未安装原生应用。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。",
+          "links": [
+            {
+              "url": "https://seedfocus.touch4feel.com/",
+              "label": "原作"
+            },
+            {
+              "url": "https://apps.apple.com/us/app/seedfocus-pomodoro-timer/id6810488625",
+              "label": "日期与公开信号"
+            },
+            {
+              "url": "https://touch4feel.com/press/",
+              "label": "官方媒体资料及版本日期"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-noscripting-computing-css-editorial",
+          "date": "2026-11-26",
+          "module": "UI设计",
+          "title": "noscripting｜把技术论点放到可见的物理沙盒旁",
+          "author": "Agustin Capeletto",
+          "originalDateNote": "2026-11-05 作者页标注更新；2026-11-23 Website Design Awards 刊载",
+          "heat": "Website Design Awards 评审 8.2/10；不是流量",
+          "verification": "已查看公开作品画面，实际核验范围见本例。",
+          "limitations": "未把官网展示或作品录像当作客户端功能实测。",
+          "fullText": "深灰文档开篇左侧先放正文和绿色观点框，右侧放可见的彩色物理沙盒与形状按钮。适合参考长文首屏怎么并排呈现“解释”和“证据”，而不把文档做成全屏特效。已见原站首屏，未逐项实测沙盒及跨浏览器行为。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。",
+          "links": [
+            {
+              "url": "https://noscript.ing/compute",
+              "label": "原作"
+            },
+            {
+              "url": "https://websitedesignawards.com/site/noscript-ing",
+              "label": "日期与公开信号"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-neatko-embroidery-annotations",
+          "date": "2026-11-26",
+          "module": "UI设计",
+          "title": "Neatko｜把商品图变成刺绣标注图",
+          "author": "Uwindi（为 Neatko 设计）",
+          "originalDateNote": "2026-11-03 CSS Nectar 条目刊载，2026-11-25 首页日奖；均非首发",
+          "heat": "CSS Nectar Site of the Day；无可比站点流量",
+          "verification": "已查看公开作品画面，实际核验范围见本例。",
+          "limitations": "未把官网展示或作品录像当作客户端功能实测。",
+          "fullText": "左栏把服务名称排成三行，大图直接在帽前及两件上衣的左胸标出刺绣位置和尺寸。适合做定制服务时参考：把常见规格问题放到照片的具体位置，少让用户在 FAQ 来回找。已看原站；未打开或提交报价。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。",
+          "links": [
+            {
+              "url": "https://neatko.com/",
+              "label": "原作"
+            },
+            {
+              "url": "https://cssnectar.com/css-gallery-inspiration/neatko-custom-embroidery-studio/",
+              "label": "日期与公开信号"
+            },
+            {
+              "url": "https://cssnectar.com/new-home/",
+              "label": "日奖首页"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-kocoro-eclipse-studio",
+          "date": "2026-11-26",
+          "module": "UI设计",
+          "title": "Kocoro Studio｜让一个月亮托住整段标题",
+          "author": "Kocoro Studio",
+          "originalDateNote": "2026-11-25 CSS Design Awards 提名，非首发",
+          "heat": "CSSDA 公开票 UI 6 / UX 5 / 创新 5（核验时快照）",
+          "verification": "已查看公开作品画面，实际核验范围见本例。",
+          "limitations": "未把官网展示或作品录像当作客户端功能实测。",
+          "fullText": "首屏大面积深蓝颗粒背景只放一轮发光月亮，两行标题置于下方，语言切换与服务收在右上独立深色条中。可参考把视觉焦点、正文和导航分层，而不是靠更多控件表现科技感。见官网实际画面；未验证手机端。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。\n\n封面待补：原站条款仅允许未经书面同意的个人或私人使用；不上传官网截图。",
+          "links": [
+            {
+              "url": "https://kocoro.co/",
+              "label": "原作"
+            },
+            {
+              "url": "https://cssdesignawards.com/sites/kocoro-studio/50892/",
+              "label": "日期与公开信号"
+            },
+            {
+              "url": "https://kocoro.co/legal",
+              "label": "原站版权条款"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-two26-studio-illustrated-intro",
+          "date": "2026-11-26",
+          "module": "UI设计",
+          "title": "Two26 Studio｜把工作室标志拆给两个角色",
+          "author": "ZzStudio × Two26 Studio",
+          "originalDateNote": "创作者 ZzStudio 作品表记为 2026-09；作者在 Muzli 有同项目原发；未把收录日当作首发",
+          "heat": "无可比公开流量；以原站视觉入选",
+          "verification": "已查看公开作品画面，实际核验范围见本例。",
+          "limitations": "未把官网展示或作品录像当作客户端功能实测。",
+          "fullText": "浅粉首屏把标志拆成两块道具，由两个人各拿一块，两只猫压住两侧；真正的作品、关于和联络入口反而用小型胶囊放在顶部。可借鉴让插画讲品牌个性，同时让实际导航清清楚楚。已看原站完成加载的首屏；未验证完整动画。\n\n核验：已查看公开作品画面，实际核验范围见本例。 未把官网展示或作品录像当作客户端功能实测。",
+          "links": [
+            {
+              "url": "https://two26.studio/",
+              "label": "原站"
+            },
+            {
+              "url": "https://zzstudio.design/",
+              "label": "网页创作者项目列表"
+            },
+            {
+              "url": "https://me.muz.li/zzstudio/two26-studio-boutique-design-studio-2",
+              "label": "创作者项目发布"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-atlas-for-ios-sneak-peek",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Atlas for iOS｜单手缩放灵感图库",
+          "author": "Atlas",
+          "originalDateNote": "2026-11-25（作者 X 原帖，UTC）",
+          "heat": "约 4,952 浏览、186 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码作者 41.64 秒实拍并核对多个时点的网格密度和往返变化。",
+          "limitations": "作者明确称是即将推出的 iOS 预告；未安装测试，未验证所有手势。",
+          "fullText": "手指在一屏图格上浏览时，图格的缩放与轻微虚化把用户带向下一层内容；从单图退回时重新露出网格。值得借的是保持视觉锚点，而不是每次都用整页淡入。\n\n核验：已解码作者 41.64 秒实拍并核对多个时点的网格密度和往返变化。 作者明确称是即将推出的 iOS 预告；未安装测试，未验证所有手势。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/atlasformac/status/2125636285226459272"
+            },
+            {
+              "label": "产品官网",
+              "url": "https://atlasformac.com"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-spin-to-reveal",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Spin to Reveal｜旋转蓝色角色换来收藏卡",
+          "author": "Yogi Suria",
+          "originalDateNote": "2026-11-25（作者 X 原帖，UTC）",
+          "heat": "约 16,136 浏览、509 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码作者 12.98 秒演示，核对亮蓝角色、过渡和奖励卡画面。",
+          "limitations": "是 UI Maxx 模板展示，不是已验证的线上抽奖流程。",
+          "fullText": "手机屏幕先呈现可旋转的蓝色角色；旋转中的大轮廓和亮边占住同一个奖励区域，随后同一位置出现直立收藏卡。动作与奖励处在一条视线上，比另起弹窗更连续。\n\n核验：已解码作者 12.98 秒演示，核对亮蓝角色、过渡和奖励卡画面。 是 UI Maxx 模板展示，不是已验证的线上抽奖流程。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/suriadesign/status/2125468344036004282"
+            },
+            {
+              "label": "作者模板站",
+              "url": "https://uimaxx.ing"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-microdata",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Microdata｜洋红点阵把等待拆成不同节奏",
+          "author": "Sasha Birukoff",
+          "originalDateNote": "2026-11-24（作者 X 原帖，UTC）",
+          "heat": "约 3,881 浏览、218 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码作者 9.60 秒原片；多帧核对点阵在不同节奏下聚合、散开和横向移动。",
+          "limitations": "纯交互视觉实验；无法从循环推断实际任务进度。",
+          "fullText": "同一组洋红像素用扩散、聚团、横向搬运做出不同等待状态。点与点之间的间距几乎不变，视觉差异来自哪些位置点亮和先后顺序，适合密度很高的工具栏。\n\n核验：已解码作者 9.60 秒原片；多帧核对点阵在不同节奏下聚合、散开和横向移动。 纯交互视觉实验；无法从循环推断实际任务进度。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/sashabirukoff/status/2125283304081342683"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-codex-icon-animations",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Codex Icon Animations｜线框图标在原占位里动起来",
+          "author": "Iconists",
+          "originalDateNote": "2026-11-25（作者 X 原帖，UTC）",
+          "heat": "约 21,445 浏览、657 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码作者 10.02 秒原片、对比各时点图标内部与外轮廓。",
+          "limitations": "作者公布的是一组图标动效，不把演示外推为 Codex 全部功能状态。",
+          "fullText": "图像、书、地球、文档和点格并排，局部线条有各自的起伏，但外框和行内节距稳定。可借来做工具入口反馈：让内核动，不挤旁边的控件。\n\n核验：已解码作者 10.02 秒原片、对比各时点图标内部与外轮廓。 作者公布的是一组图标动效，不把演示外推为 Codex 全部功能状态。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/iconists/status/2125581848361255050"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-motion-fx-layout-shuffle",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Motion FX Layout Shuffle｜九宫格重排，拖影跟着每张卡",
+          "author": "Matt Perry / Motion",
+          "originalDateNote": "2026-11-13（官方示例）",
+          "heat": "独立播放量未公开",
+          "verification": "已解码 Motion 官方 6.55 秒公开演示，多帧核对网格重排；作者文档说明 animateLayout() 搭配 motionBlur()。",
+          "limitations": "现场可调参数及源码属于 Motion+，未实操付费例，也未比较低端设备性能。",
+          "fullText": "点位变化不只靠起止态。彩色方片重新洗牌时，位移途中沿各自轨迹短暂出现拖影，停住就恢复清晰；同色方片是视线跟踪的锚点。\n\n核验：已解码 Motion 官方 6.55 秒公开演示，多帧核对网格重排；作者文档说明 animateLayout() 搭配 motionBlur()。 现场可调参数及源码属于 Motion+，未实操付费例，也未比较低端设备性能。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://motion.dev/examples/js-fx-layout-shuffle"
+            },
+            {
+              "label": "官方 FX 文档",
+              "url": "https://motion.dev/docs/fx"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-project-navigation",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Project Navigation｜切项目时保留外层导航位置",
+          "author": "Jasur Osimi",
+          "originalDateNote": "2026-11-22（作者 X 原帖，UTC）",
+          "heat": "约 4,651 浏览、149 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码作者 28.88 秒原片；分段核对空框、浅深两种预览，以及多张预览堆叠。",
+          "limitations": "作者称是新作品集的导航概念，未证实可用站点或移动端行为。",
+          "fullText": "组合框从轻量项目选择态展开为可看的作品页面：外层导航标记仍在原位，中央大面积内容才接管视觉。可用于作品集或多项目工具，避免每换一项就把整套位置关系清空。\n\n核验：已解码作者 28.88 秒原片；分段核对空框、浅深两种预览，以及多张预览堆叠。 作者称是新作品集的导航概念，未证实可用站点或移动端行为。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/osimijasur/status/2124483769327599994"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-ion-os-radial-menu",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Ion OS Radial Menu｜径向控制用亮度确认焦点",
+          "author": "Eddie Livingstone",
+          "originalDateNote": "2026（作者作品页仅标年份；视频资源在 07 月目录，非首发日期）",
+          "heat": "无独立公开播放量",
+          "verification": "已解码作者官网 13.02 秒组件录屏并对比多个高亮圆点位置；官网把它描述为手势启动、以手为锚的菜单。",
+          "limitations": "visionOS 启发的 Live React 概念，不是 Apple 产品；没有在头显验证准确性、时延或眩光。",
+          "fullText": "沿弧线布置的工具在中性态保持半透明；焦点移动时只有目标圆圈显著发光并扩散一圈，周围工具仍是位置参照。适合空间工具栏，不必用同样强度的发光动画同时争抢注意力。\n\n核验：已解码作者官网 13.02 秒组件录屏并对比多个高亮圆点位置；官网把它描述为手势启动、以手为锚的菜单。 visionOS 启发的 Live React 概念，不是 Apple 产品；没有在头显验证准确性、时延或眩光。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://ewl-motion.tv/project/ion-os"
+            },
+            {
+              "label": "作者互动合集",
+              "url": "https://ewl-motion.tv/ionos-showcase"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-accessgrid-cultural-principles",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "AccessGrid｜价值列表用一组工程线图做翻页反馈",
+          "author": "James McDonald",
+          "originalDateNote": "2026-11-18（作者 X 原帖，UTC）",
+          "heat": "约 17,911 浏览、728 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码设计师 James McDonald 的 29.45 秒原片，核对多组三栏线图与固定文字基线。",
+          "limitations": "这是品牌网站演示，不把切换路径当作键盘、辅助技术或触屏测试。",
+          "fullText": "切换价值主张时，上方和下方的排版架子保持定住，中间三列线图变化：曲线、生长的柱段和几何节点替换。适合把抽象段落变成可识别状态，而不是每页都重新摆版。\n\n核验：已解码设计师 James McDonald 的 29.45 秒原片，核对多组三栏线图与固定文字基线。 这是品牌网站演示，不把切换路径当作键盘、辅助技术或触屏测试。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/jamesm/status/2123049150266925067"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-looped-cards",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Looped Cards｜用卡片姿态说明轮播方向",
+          "author": "Basit A. Khan / Kombai Selects",
+          "originalDateNote": "2026-10-09（作者 X 原帖，UTC）",
+          "heat": "约 3,397 浏览、88 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码作者合作方原帖的 14.58 秒源片，多帧核对色卡顺序回环与正/侧面转换。",
+          "limitations": "10 月补录。是 AI 产品视觉概念里的轮播演示，不代表可以拖拽或具备已上线的自动播放设置。",
+          "fullText": "数字卡沿 3D 环路经过正面后转侧，亮色梯度与边缘仍然给到下一张卡的方向提示。参考点是用姿态给出“当前项”和“相邻项”，别用同样强的内容标记挤满整圈。\n\n核验：已解码作者合作方原帖的 14.58 秒源片，多帧核对色卡顺序回环与正/侧面转换。 10 月补录。是 AI 产品视觉概念里的轮播演示，不代表可以拖拽或具备已上线的自动播放设置。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/kombaiselects/status/2108543003195519265"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-wallet-onboarding-screen",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Wallet Onboarding｜前景按钮不跟着玻璃飘带动",
+          "author": "Jakub Wuzik",
+          "originalDateNote": "2026-08-18（作者 X 原帖，UTC）",
+          "heat": "约 959 浏览、25 赞（11/26 原帖公开元数据快照）",
+          "verification": "已解码作者 4.98 秒原片，比较折光流动和静止的标题、标志的位置。",
+          "limitations": "8 月历史补录；为欢迎页视觉，未验证钱包真实功能或 reduced motion。",
+          "fullText": "登录页的材质循环集中在背景，虹彩带不断改变折光；标志、短文和主要操作没有位移。适合冷启动欢迎页中需要质感、但不能让读取路径跟着动画走的场景。\n\n核验：已解码作者 4.98 秒原片，比较折光流动和静止的标题、标志的位置。 8 月历史补录；为欢迎页视觉，未验证钱包真实功能或 reduced motion。",
+          "links": [
+            {
+              "label": "作者原作",
+              "url": "https://x.com/tojawuzik/status/2089768372376375585"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-dub-adaptive-nav",
+          "date": "2026-11-26",
+          "module": "UI动效",
+          "title": "Dub｜打开一次，菜单沿着指针换位",
+          "author": "Dub",
+          "originalDateNote": "2026-11-20 公开录屏分析；导航首发未核实",
+          "heat": "本条未找到可比的公开浏览或点赞数据",
+          "verification": "核对了 Regards 4.15 秒桌面录屏的多个关键帧与 Dub 公开导航源码：从 Product 到 Solutions 再到 Resources，菜单外框保持同一个区域而改尺寸和内容。",
+          "limitations": "不是屏幕缩放或容器宽度联动；原站生产版本与源码的发布对应、键盘操作未独立测试。",
+          "fullText": "三层动作分开做：灰色胶囊跟随鼠标，内容按方向进出，共用的菜单外框只调整为新内容的宽高。连续掠过多个入口时，不必等上个菜单关完再打开下一个。借用时先保持外框连续，再调换内容的速度。\n\n核验：核对了 Regards 4.15 秒桌面录屏的多个关键帧与 Dub 公开导航源码：从 Product 到 Solutions 再到 Resources，菜单外框保持同一个区域而改尺寸和内容。 不是屏幕缩放或容器宽度联动；原站生产版本与源码的发布对应、键盘操作未独立测试。\n\n封面待补：已看第三方录屏，未取得可确认用于卡片的原站下拉态截图，保留原站和录屏入口。",
+          "links": [
+            {
+              "label": "原站（桌面悬停顶栏）",
+              "url": "https://dub.co/"
+            },
+            {
+              "label": "公开录屏拆解",
+              "url": "https://www.regards.design/blog/landing-page-animation-ideas"
+            },
+            {
+              "label": "Dub 导航源码",
+              "url": "https://github.com/dubinc/dub/blob/main/packages/ui/src/nav/nav.tsx"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-polydraw",
+          "date": "2026-11-26",
+          "module": "趣味交互",
+          "title": "Polydraw｜60 秒只用三角形画给朋友猜",
+          "author": "David Thompson / Christine Lemmer-Webber（Spritely Institute）",
+          "originalDateNote": "2026-11-09 试玩发布；作者开发日志 11-19",
+          "heat": "作者记录赛事综合第 5，itch.io 公开评分 5/5（1 票）",
+          "verification": "核对了原站和作者公开实录截图。",
+          "limitations": "这是联机派对游戏，未邀请其他玩家，未独立跑完整回合。",
+          "fullText": "每轮只有 60 秒，画手不能自由涂抹，只能用有限数量的三角形拼图；其他人同步猜词，也可以用表情回应。作者实录里彩色三角挤在一起，画面和下方答案同步承担揭晓信息。它把画笔的「形状」和「用量」都做成了可见的规则。\n\n核验：核对了原站和作者公开实录截图。 这是联机派对游戏，未邀请其他玩家，未独立跑完整回合。\n热度：作者记录赛事综合第 5，itch.io 公开评分 5/5（1 票）",
+          "links": [
+            {
+              "label": "试玩原站",
+              "url": "https://davexunit.itch.io/polydraw"
+            },
+            {
+              "label": "作者开发日志与实录",
+              "url": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html"
+            },
+            {
+              "label": "封面素材授权（CC BY 4.0）",
+              "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-mixbeam",
+          "date": "2026-11-26",
+          "module": "趣味交互",
+          "title": "Mixbeam｜拖一盏灯，光路自己解释规则",
+          "author": "TinyLanternDev",
+          "originalDateNote": "2026-11-11 发布；11-13 更新",
+          "heat": "原站未列足以代表热度的公开游玩数",
+          "verification": "云端实玩第 1 关；放灯后，虚线提示变成实心红光，三个晶体点亮并出现黄色下一步。",
+          "limitations": "未验证每日谜题、镜面关卡或移动端。",
+          "fullText": "不是把灯放到规定位置就过关，而是要让光抵达同色的晶体。棋盘把光线画成半透明色带，经过格子就留下方向；目标是把空间和颜色变成可以直接看出的因果关系。后续关卡还引入改变光路的镜面。\n\n核验：云端实玩第 1 关；放灯后，虚线提示变成实心红光，三个晶体点亮并出现黄色下一步。 未验证每日谜题、镜面关卡或移动端。\n热度：原站未列足以代表热度的公开游玩数",
+          "links": [
+            {
+              "label": "直接体验／规则",
+              "url": "https://tinylanterndev.itch.io/mixbeam"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-draw-your-way",
+          "date": "2026-11-26",
+          "module": "趣味交互",
+          "title": "Draw Your Way｜先画轨道，再把仓鼠弹出去",
+          "author": "Mr.Blum",
+          "originalDateNote": "2026-10-22 发布；11-01 更新",
+          "heat": "公开评分 5/5（4 票，小样本）",
+          "verification": "原站进入教程，实见第一关的仓鼠、目标星和拉动提示；后续动作按作者规则记录。",
+          "limitations": "未核自制关卡与移动端。",
+          "fullText": "在揉皱纸张的场景上画一条轨道，再从仓鼠位置往后拉，用放手这一下发射。线条不是装饰，会改写仓鼠的路径；已经发射还能补画或用右键擦除。创意点是让玩家同时设计路径和决定速度。\n\n核验：原站进入教程，实见第一关的仓鼠、目标星和拉动提示；后续动作按作者规则记录。 未核自制关卡与移动端。\n热度：公开评分 5/5（4 票，小样本）",
+          "links": [
+            {
+              "label": "直接体验／操作",
+              "url": "https://mrblum.itch.io/draw-your-way"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-penwander",
+          "date": "2026-11-26",
+          "module": "趣味交互",
+          "title": "Penwander｜球开始滚后，画线会让时间放慢",
+          "author": "PN Scripts",
+          "originalDateNote": "2026-10 已公开；原站显示 10-27 更新",
+          "heat": "原站未核到可代表热度的统计",
+          "verification": "实见首关 First line、用笔提示、缺口和 Go 控制；减速规则来自原站说明。",
+          "limitations": "未计时测量减速倍数，未验证 24 页及移动端。",
+          "fullText": "用有限的墨水把笔记本上的空隙画成实心桥，再放小球沿路滚向金环。作品最有意思的规则是中途补画：球在移动时再次落笔，时间会减速，给你在前方接球的机会，而最短的可行路径又直接节约墨水。\n\n核验：实见首关 First line、用笔提示、缺口和 Go 控制；减速规则来自原站说明。 未计时测量减速倍数，未验证 24 页及移动端。\n热度：原站未核到可代表热度的统计",
+          "links": [
+            {
+              "label": "直接体验／规则",
+              "url": "https://pnscripts.itch.io/inkbridge"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-kinetile",
+          "date": "2026-11-26",
+          "module": "趣味交互",
+          "title": "Kinetile｜先拼地板，再看小球能不能走过去",
+          "author": "Piotr Sochalewski",
+          "originalDateNote": "2026-11-06 浏览器试玩发布；原站 11-24 更新",
+          "heat": "未核公开试玩人数",
+          "verification": "查看作者试玩页的真实动图，确认排布与球滚动的先后。",
+          "limitations": "云端试运行出现 Unity 弹窗及黑屏，未亲自拖动，也未实测失败后恢复；后者仅据作者说明。",
+          "fullText": "把等距棋盘拆成「排布」和「运行」两层：拖可移动方块筹划路径，然后放球验证。作者动图中，移动方块时可见预放轨迹，球随后在同一棋盘上移动；落空或主动停止时，作者说明会保留这次排布，下一轮只改有问题的一块。\n\n核验：查看作者试玩页的真实动图，确认排布与球滚动的先后。 云端试运行出现 Unity 弹窗及黑屏，未亲自拖动，也未实测失败后恢复；后者仅据作者说明。\n热度：未核公开试玩人数",
+          "links": [
+            {
+              "label": "原作试玩／说明",
+              "url": "https://sochalewski.itch.io/kinetile"
+            },
+            {
+              "label": "作者动态演示",
+              "url": "https://img.itch.zone/aW1nLzMyNjE1NDEzLmdpZg%3D%3D/original/LWHDDT.gif"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-wonderclip-3d-studio",
+          "date": "2026-11-26",
+          "module": "AI产品宣传",
+          "title": "WonderClip 3D Studio",
+          "author": "Alibaba Cloud",
+          "originalDateNote": "2026-11-19｜发布方原帖",
+          "heat": "暂无可核实的公开互动量。",
+          "verification": "解码公开影片。约 1:08–1:14 滑板；1:21–1:25 路径。",
+          "limitations": "未操作产品；镜头连续性和生成速度只限发布演示。",
+          "fullText": "滑板一段先给完整街景，随后把灰模与台阶动作成片并排，再换成低角度。餐厅示例则依次放出带参考图的指令、画有红线的灰模路径、沿走廊跟拍的成片。想让人理解“镜头可控”，先让控制对象入画，再匹配成片，胜过直接放一串漂亮镜头。\n\n核验：解码公开影片。约 1:08–1:14 滑板；1:21–1:25 路径。 未操作产品；镜头连续性和生成速度只限发布演示。",
+          "links": [
+            {
+              "label": "Alibaba Cloud 原帖",
+              "url": "https://x.com/alibaba_cloud/status/2123353151759646863"
+            },
+            {
+              "label": "同片可播放备份",
+              "url": "https://launchscene.app/v/alibaba-cloud-wonderclip-3d-studio"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-renoise-magi-2",
+          "date": "2026-11-26",
+          "module": "AI产品宣传",
+          "title": "Renoise × MAGI-2",
+          "author": "Renoise / Sand AI",
+          "originalDateNote": "2026-11-25｜原帖时间（UTC）",
+          "heat": "约 24.9 万观看（What Ships 于本轮索引的原帖快照，非实时）。",
+          "verification": "解码约 10.0 秒原帖视频：0:01 打字；0:02 镜框堆叠；0:03 眼部；0:05–0:08 蓝色场景。",
+          "limitations": "30 秒、1080p、原生声音是发行声明，不能用这支 10 秒剪辑验证。",
+          "fullText": "先用打字游标把“延续的视频”变成一句未完成的话，再把小画框换成眼睛及几近满幅的蓝色光束、树影。它用画框占比暗示从界面走入样片，不把模型规格一股脑堆上屏。\n\n核验：解码约 10.0 秒原帖视频：0:01 打字；0:02 镜框堆叠；0:03 眼部；0:05–0:08 蓝色场景。 30 秒、1080p、原生声音是发行声明，不能用这支 10 秒剪辑验证。",
+          "links": [
+            {
+              "label": "发布方原帖",
+              "url": "https://x.com/renoiseai/status/2125419113711620185"
+            },
+            {
+              "label": "原帖影片可播放备份",
+              "url": "https://whatships.com/videos/renoise-magi-2/"
+            },
+            {
+              "label": "原帖视频媒体",
+              "url": "https://video.twimg.com/amplify_video/2125419018018594817/vid/avc1/1920x1080/R3Pi-TGxsL6XJcDX.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-taan-v1",
+          "date": "2026-11-26",
+          "module": "AI产品宣传",
+          "title": "Taan V1",
+          "author": "Addiiiii / Taan",
+          "originalDateNote": "2026-11-24｜原帖时间（UTC）",
+          "heat": "约 83.5 万观看（What Ships 于本轮索引的原帖快照，非实时）。",
+          "verification": "解码约 97.2 秒原帖视频：11.7 秒鼓手、33.1 秒对侧人物敲鼓、55.4 秒面对面、67.1 和 78.7 秒镲片。",
+          "limitations": "这是音乐模型发行片；不推断画面是生成还是实拍，也未测试音乐指令遵循。",
+          "fullText": "不先放音乐生成器界面，而是用两位人物和鼓组演绎“能不能跟上意图”：大远景建立舞台，正反打建立人物关系，镲片微距给节奏落点。适合给生成音频产品做一支先讲创作冲突、后讲规格的片。\n\n核验：解码约 97.2 秒原帖视频：11.7 秒鼓手、33.1 秒对侧人物敲鼓、55.4 秒面对面、67.1 和 78.7 秒镲片。 这是音乐模型发行片；不推断画面是生成还是实拍，也未测试音乐指令遵循。",
+          "links": [
+            {
+              "label": "发布方原帖",
+              "url": "https://x.com/mp3addi/status/2125277353609932891"
+            },
+            {
+              "label": "原帖影片可播放备份",
+              "url": "https://whatships.com/videos/taan-v1/"
+            },
+            {
+              "label": "原帖视频媒体",
+              "url": "https://video.twimg.com/amplify_video/2125274583783882752/vid/avc1/3840x2160/zYGQI6XmvhAgOLkT.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-canva-mcp-open",
+          "date": "2026-11-26",
+          "module": "AI产品宣传",
+          "title": "Canva MCP",
+          "author": "Canva",
+          "originalDateNote": "2026-11-23｜原帖时间（UTC）",
+          "heat": "约 76.8 万观看（What Ships 于本轮索引的原帖快照，非实时）。",
+          "verification": "解码约 45.0 秒原帖视频：15.3 秒连接代理、20.3 秒给简报、25.7 秒结果列表、36.5 与 42.3 秒在设计编辑器里对照两份结果。",
+          "limitations": "只核实宣传片中打开和编辑的顺序；未连账号或实际运行 MCP。",
+          "fullText": "紫色边框把连接、提需求、看结果分隔成一组章节；最后没有用品牌片盖过结果，而是在同一个版式里把 “Your work, already there.” 改成 “Your work, anywhere.”。可借鉴这个具体编辑动作作为导出后仍可操作的视觉证据。\n\n核验：解码约 45.0 秒原帖视频：15.3 秒连接代理、20.3 秒给简报、25.7 秒结果列表、36.5 与 42.3 秒在设计编辑器里对照两份结果。 只核实宣传片中打开和编辑的顺序；未连账号或实际运行 MCP。",
+          "links": [
+            {
+              "label": "发布方原帖",
+              "url": "https://x.com/canva/status/2124926205313081394"
+            },
+            {
+              "label": "原帖影片可播放备份",
+              "url": "https://whatships.com/videos/canva-mcp/"
+            },
+            {
+              "label": "原帖视频媒体",
+              "url": "https://video.twimg.com/amplify_video/2124923758079287296/vid/avc1/1920x1080/w4KFVpu0YUST5lXG.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-fiddle-design-ide",
+          "date": "2026-11-26",
+          "module": "AI产品宣传",
+          "title": "Fiddle",
+          "author": "Viba Mohan / Fiddle",
+          "originalDateNote": "2026-11-24｜原帖时间（UTC）",
+          "heat": "约 2.55 万观看（What Ships 于本轮索引的原帖快照，非实时）。",
+          "verification": "解码约 68.1 秒原帖视频：1.7 秒抽象银色收缩、8.2 秒节点 UI、15.7 秒图像作品、47.0 秒面板图形、55.1 秒混合视窗。",
+          "limitations": "等候名单发布片；不验证可用性，也不从成片推断哪段用 AI 制作。",
+          "fullText": "先把创作过程拍成有体积的抽象物，再连续切到节点图、作品和人在桌前的镜头，最后回到深色面板。对比 Canva，这支让编排工具先有氛围，再给短促的交互证据；不适合当逐步教程。\n\n核验：解码约 68.1 秒原帖视频：1.7 秒抽象银色收缩、8.2 秒节点 UI、15.7 秒图像作品、47.0 秒面板图形、55.1 秒混合视窗。 等候名单发布片；不验证可用性，也不从成片推断哪段用 AI 制作。",
+          "links": [
+            {
+              "label": "发布方原帖",
+              "url": "https://x.com/vibamohan_/status/2125284410228625603"
+            },
+            {
+              "label": "原帖影片可播放备份",
+              "url": "https://whatships.com/videos/fiddle/"
+            },
+            {
+              "label": "原帖视频媒体",
+              "url": "https://video.twimg.com/amplify_video/2125281620223737856/vid/avc1/3840x2160/_OG1YSzGQt0dgiKG.mp4"
+            },
+            {
+              "label": "创作者解释 AI 与设计工具的结合",
+              "url": "https://www.linkedin.com/posts/viba-m_most-design-tools-force-you-to-think-inside-activity-7315560139292307456-nqE_"
+            },
+            {
+              "label": "产品官网",
+              "url": "https://fiddle.is/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-the-last-show-pippit",
+          "date": "2026-11-26",
+          "module": "AI制作动画",
+          "title": "The Last Show",
+          "author": "The Dor Brothers / Pippit",
+          "originalDateNote": "2026-09-29 正片，2026-10-15 幕后（制作方所列）；历史回看",
+          "heat": "原作者幕后帖约 6.2 万观看（公开索引 11-26 快照；非正片观看量）。",
+          "verification": "解码官方 137.7 秒 MP4：3.4 秒穿针，31.7 秒由室外看窗，78.5 秒工作台，96 秒木舞台，129.4 秒红帘前。",
+          "limitations": "黏土质感不代表实物拍摄；模型、走位流程来自制作方，并非由画面反推。",
+          "fullText": "制作方写明先在 Pippit 3D Director Studio 安排角色和镜头走位，再用 Seedance 2.5 生成。穿针、容器、手指和舞台用统一材质和光线建立模型片感觉。可借鉴的是先把小物体接触点写进分镜，再给模型材质任务，不把表演和风格一次性丢给同一提示。\n\n核验：解码官方 137.7 秒 MP4：3.4 秒穿针，31.7 秒由室外看窗，78.5 秒工作台，96 秒木舞台，129.4 秒红帘前。 黏土质感不代表实物拍摄；模型、走位流程来自制作方，并非由画面反推。",
+          "links": [
+            {
+              "label": "制作方项目与幕后说明",
+              "url": "https://thedorbrothers.com/work/pippit-the-last-show/"
+            },
+            {
+              "label": "正片原始 MP4",
+              "url": "https://media.dordecks.com/website/pippit-the-last-show-1080p.mp4"
+            },
+            {
+              "label": "创作者幕后原帖",
+              "url": "https://x.com/thedorbrothers/status/2110773519986401560"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-hollow-crown-ehab",
+          "date": "2026-11-26",
+          "module": "AI制作动画",
+          "title": "HOLLOW CROWN",
+          "author": "Ehab A. Tawfik",
+          "originalDateNote": "2026-11-25｜作者流程帖；首次正片发布日期未见可靠时间戳",
+          "heat": "作者公开逐步流程；暂无可对照的播放量。",
+          "verification": "解码官方页面水印播放源取得的前 56 秒：6.7 秒护卫和巨兽同行、12.9 秒俯视龟裂冰面、25.2 秒骨杖脸部近景、45.4 秒再看到人兽同框。",
+          "limitations": "56 秒为本轮实际取得的媒体片段，不是全片时长；未验证其余片段；无实物黏土来自作者说明。",
+          "fullText": "作者并非先生成整片，而是先准备灰阶黏土造型、轮廓与道具设计，多方位确认结构后才生成动作，最后人工选镜及统一颜色。可借鉴的是用 6.7 秒和 45.4 秒的双人同框检查人兽比例，再用俯拍和脸部近景检查轮廓是否还能辨认。\n\n核验：解码官方页面水印播放源取得的前 56 秒：6.7 秒护卫和巨兽同行、12.9 秒俯视龟裂冰面、25.2 秒骨杖脸部近景、45.4 秒再看到人兽同框。 56 秒为本轮实际取得的媒体片段，不是全片时长；未验证其余片段；无实物黏土来自作者说明。",
+          "links": [
+            {
+              "label": "原作者作品页",
+              "url": "https://higgsfield.ai/@ehabatawfik/projects/hollow-crown"
+            },
+            {
+              "label": "作者制作拆解",
+              "url": "https://www.reddit.com/r/generativeAI/comments/1y5agod/hollow_crown_full_process_breakdown_ai_clay/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-flipmove-mib-ais",
+          "date": "2026-11-26",
+          "module": "AI制作动画",
+          "title": "FlipMove｜手绘分镜到可改的 3D 布局",
+          "author": "Animaj / Anton Raël、Julien Boucher、Antoine Lhermitte",
+          "originalDateNote": "2026-11-03 项目公布；11-12 工作流拆解；研究先于产品公布",
+          "heat": "有制片方和作者论文双重原始说明，暂无可核实播放量。",
+          "verification": "核验 Animaj 双篇文章与 MiB-AIS 论文 Fig. 5 的真实渲染对照，不把它说成宣传片播放。",
+          "limitations": "70.2 秒评估中的 289 / 83 分钟只属于论文小规模特定角色测试，不能替代 FlipMove 产品的普遍实测。",
+          "fullText": "Animaj 的生产线仍从艺术家画的 2D 分镜出发，并在 Blender 保留可重新安排的相机、表演和时间。配套研究单独验证了关键姿势间的插值，人工依然操作角色绑定与检查结果。可以把“从分镜转为有相机的场景”与“已有关键姿势间插值”拆成两个验收件。\n\n核验：核验 Animaj 双篇文章与 MiB-AIS 论文 Fig. 5 的真实渲染对照，不把它说成宣传片播放。 70.2 秒评估中的 289 / 83 分钟只属于论文小规模特定角色测试，不能替代 FlipMove 产品的普遍实测。",
+          "links": [
+            {
+              "label": "Animaj 艺术家工作流",
+              "url": "https://www.animaj.com/post/behind-flipmove-how-artists-and-engineers-build-flipmove-together"
+            },
+            {
+              "label": "Animaj 项目发布",
+              "url": "https://www.animaj.com/post/animaj-unveils-flipmove-artist-led-ai-animation-workflow"
+            },
+            {
+              "label": "MiB-AIS 论文实验与原图",
+              "url": "https://arxiv.org/html/2605.02742v1#S4.SS6"
+            },
+            {
+              "label": "Maya 研究实现",
+              "url": "https://github.com/animaj-lab/mib-ais"
+            },
+            {
+              "label": "论文图许可 CC BY 4.0",
+              "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-forge-cinema-board-to-sequence",
+          "date": "2026-11-26",
+          "module": "AI制作动画",
+          "title": "Forge Cinema｜Left, the production. Right, the picture.",
+          "author": "Forge Cinema",
+          "originalDateNote": "2026-11｜官网 11 月公开页面；示例首发日未标",
+          "heat": "原站无示例播放计数；不把站内其他影片的流量归给这段。",
+          "verification": "先前核验官方双片：制作版约 25.2 秒，成片版约 74.7 秒。成片 7.5 秒铅笔、15.7 秒制图、43.3 秒飞轮、62.7 秒暖褐调人像。",
+          "limitations": "官网示例为开场序列，不是独立发行的完整电影；人工审批存在于站方所述流程，未操作后台。",
+          "fullText": "官方把同一段落拆成两条：左侧是 34 张有编号的场景板、每张对应分镜、渲染版和审批；右侧是它对应的开场成片。成片里铅笔和制图先建立“设计”，再切进实体飞轮和人物。最能迁移的是给看板和样片保留同一组镜头编号，以便反馈落回对应镜头。\n\n核验：先前核验官方双片：制作版约 25.2 秒，成片版约 74.7 秒。成片 7.5 秒铅笔、15.7 秒制图、43.3 秒飞轮、62.7 秒暖褐调人像。 官网示例为开场序列，不是独立发行的完整电影；人工审批存在于站方所述流程，未操作后台。\n\n封面待补：此前核过官网正片公开媒体；本轮云端未重新取得可作封面的媒体字节。",
+          "links": [
+            {
+              "label": "Forge 官网 Act II 对照",
+              "url": "https://forgecinema.ai/#proof"
+            },
+            {
+              "label": "制作板录像",
+              "url": "https://forgecinema.ai/assets/making.mp4"
+            },
+            {
+              "label": "开场成片",
+              "url": "https://forgecinema.ai/assets/final.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-omniscribble-sketch-animation",
+          "date": "2026-11-26",
+          "module": "AI制作动画",
+          "title": "OmniScribble: Mixed-Initiative Authoring of Animated Sketches through Inspectable and Repairable AI Decisions",
+          "author": "Hien Trinh、Tan-Hiep To、Trung-Nghia Le",
+          "originalDateNote": "2026-11-03｜arXiv v1 预印本",
+          "heat": "作者原始研究；8 名参与者的组内实验，不是流量。",
+          "verification": "核验原论文工作流 Fig. 1、可修订节点及鸟、树枝、太阳示例；未验证可播放演示。",
+          "limitations": "仅为研究工作流；约 71% 为 8 人实验内的中位个体耗时变化，不能推广到真实长片。",
+          "fullText": "多物体手绘先拆层，再补画遮挡区域，并给不同对象安排各自的轨迹。AI 产物在拆层后、定轨迹后都有停下来接受、手改或再生成的机会，而手工和 AI 路径用同一种可编辑表示。实验里轨迹阶段的干预多于对象拆分，做类似的 AE 辅助工具时，优先给轨迹编辑一键返回和局部替换。\n\n核验：核验原论文工作流 Fig. 1、可修订节点及鸟、树枝、太阳示例；未验证可播放演示。 仅为研究工作流；约 71% 为 8 人实验内的中位个体耗时变化，不能推广到真实长片。\n\n封面待补：论文 arXiv 非独占存档许可不是图像通用许可；原图留作来源链接，不转存。",
+          "links": [
+            {
+              "label": "作者论文与图示",
+              "url": "https://arxiv.org/html/2611.04284v1"
+            },
+            {
+              "label": "作者工作流程原图",
+              "url": "https://arxiv.org/html/2611.04284v1/overview1.png"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "title": "2026-11-25｜设计与动效精选",
