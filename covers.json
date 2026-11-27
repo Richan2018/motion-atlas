@@ -4783,5 +4783,173 @@
     "alt": "MiB-AIS 论文渲染序列对照图",
     "sourceUrl": "https://arxiv.org/html/2605.02742v1/renderings_sequences.png",
     "credit": "Anton Raël、Julien Boucher、Antoine Lhermitte｜Adaptive Interpolation-Synthesis for Motion In-Betweening on Keyframe-Based Animation, Fig. 5｜CC BY 4.0；等比缩小并留白，未裁图"
+  },
+  "2026-11-27-luno-studio-halftone-cat": {
+    "src": "assets/covers/2026-11-27/luno-studio-halftone-cat.jpg",
+    "alt": "粉色的 Lunö Studio 首屏，中心是点阵猫，像素衬线标题分列两角",
+    "sourceUrl": "https://designluno.com/",
+    "credit": "Yana Savchuk / Lunö Studio（公开原站实拍）"
+  },
+  "2026-11-27-vitamarina-atlas-search": {
+    "src": "assets/covers/2026-11-27/vitamarina-atlas-search.jpg",
+    "alt": "浅青色海洋图鉴首屏，中央宽搜索框，下面有章鱼、海豚、海龟等标签",
+    "sourceUrl": "https://www.vitamarinaweb.com/atlamond.php",
+    "credit": "Vitamarinaweb（公开原站实拍）"
+  },
+  "2026-11-27-psychoactive-reel-centric-home": {
+    "src": "assets/covers/2026-11-27/psychoactive-reel-centric-home.jpg",
+    "alt": "黑色工作室首屏，中央彩色窄幅样片播放键，四周轨道线和错位的大字",
+    "sourceUrl": "https://www.psychoactive.co.nz/",
+    "credit": "Psychoactive Studios（公开原站实拍）"
+  },
+  "2026-11-27-goodform-action-hierarchy": {
+    "src": "assets/covers/2026-11-27/goodform-action-hierarchy.jpg",
+    "alt": "紫色云雾和连线背景的 Goodform 首屏，左侧橙白标题与主次不同的两个入口",
+    "sourceUrl": "https://goodform.org.uk/",
+    "credit": "Goodform Web Studio（公开原站实拍）"
+  },
+  "2026-11-27-siri-glow-reflection-interface": {
+    "src": "assets/covers/2026-11-27/siri-glow-reflection-interface.jpg",
+    "alt": "iPhone 锁屏上 Dynamic Island 下沿有一小片蓝、粉和青色反光，时钟依然原位。",
+    "sourceUrl": "https://x.com/avstorm/status/2066553477690531876",
+    "credit": "Andreas Storm"
+  },
+  "2026-11-27-ova-thermostat-dial-stepped-glow": {
+    "src": "assets/covers/2026-11-27/ova-thermostat-dial-stepped-glow.jpg",
+    "alt": "Ova 温控旋钮从蓝色刻度过渡到暖橙色目标刻度",
+    "sourceUrl": "https://ovamotion.com/templates/rotary-picker.webp",
+    "credit": "Ova Motion｜作者公开模板预览"
+  },
+  "2026-11-27-plasma-feature-onboarding-value-props-swipe-interaction": {
+    "src": "assets/covers/2026-11-27/plasma-feature-onboarding-value-props-swipe-interaction.jpg",
+    "alt": "浅色引导页中央有一个缩小的余额图表，页底保留继续按钮。",
+    "sourceUrl": "https://60fps.design/shots/plasma-feature-onboarding-value-props-swipe-interaction",
+    "credit": "Plasma｜60fps 公开实录截帧"
+  },
+  "2026-11-27-buttons-with-feelings": {
+    "src": "assets/covers/2026-11-27/buttons-with-feelings.jpg",
+    "alt": "一个紫色的小按钮显示 Copied 和小表情。",
+    "sourceUrl": "https://memorabl.es/work/buttons-with-feelings",
+    "credit": "Sasha Balandina｜Memorables 收录的作者演示截帧"
+  },
+  "2026-11-27-dood-illustrations-swipe-on-pricing-interaction": {
+    "src": "assets/covers/2026-11-27/dood-illustrations-swipe-on-pricing-interaction.jpg",
+    "alt": "浅色付费页顶部是一排小人物插画，下方价格卡和黑色按钮对齐。",
+    "sourceUrl": "https://60fps.design/shots/dood-illustrations-swipe-on-pricing-interaction",
+    "credit": "DOOD｜60fps 公开实录截帧"
+  },
+  "2026-11-27-runmo-fresh-start-loader-interaction": {
+    "src": "assets/covers/2026-11-27/runmo-fresh-start-loader-interaction.jpg",
+    "alt": "深色手机画面上只有居中的等待状态文字，底下是模糊的暗绿光。",
+    "sourceUrl": "https://60fps.design/shots/runmo-fresh-start-loader-interaction",
+    "credit": "Runmo｜60fps 公开实录截帧"
+  },
+  "2026-11-27-harshit-mentions-selection-interaction": {
+    "src": "assets/covers/2026-11-27/harshit-mentions-selection-interaction.jpg",
+    "alt": "手机中的白色 Mentions 弹层顶部有头像徽章，底部有黑色 Try Mentions 按钮。",
+    "sourceUrl": "https://60fps.design/community/harshit-mentions-selection-interaction",
+    "credit": "@harshitbeni｜60fps Community 原作演示截帧"
+  },
+  "2026-11-27-smoothui-social-selector-blur": {
+    "src": "assets/covers/2026-11-27/smoothui-social-selector-blur.jpg",
+    "alt": "三个社交平台图标与 Bluesky 选中状态，下方显示 bsky.app",
+    "sourceUrl": "https://smoothui.dev/preview/social-selector",
+    "credit": "Edu Calvo / SmoothUI（实际演示截图）"
+  },
+  "2026-11-27-smoothui-job-listing-detail-morph": {
+    "src": "assets/covers/2026-11-27/smoothui-job-listing-detail-morph.jpg",
+    "alt": "扩展后的 Resend 示例职位白卡，后方列表经过模糊",
+    "sourceUrl": "https://smoothui.dev/preview/job-listing-component",
+    "credit": "Edu Calvo / SmoothUI（实际演示截图）"
+  },
+  "2026-11-27-visumotus-interactive": {
+    "src": "assets/covers/2026-11-27/visumotus-interactive.jpg",
+    "alt": "一束浅蓝色纤维在深色背景上交错、弯曲。",
+    "sourceUrl": "https://discourse.threejs.org/t/visumotus-interactive-glass-fibres-and-a-logo-you-can-scatter/97616",
+    "credit": "Visumotus Interactive｜作者原帖真实场景截图"
+  },
+  "2026-11-27-koi-pond-webgl": {
+    "src": "assets/covers/2026-11-27/koi-pond-webgl.jpg",
+    "alt": "青色水面下有多条橙白锦鲤，鱼身穿过浅色波纹。",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/KoiPond_800x600.mp4",
+    "credit": "Himanshu Sangshetti｜Codrops 所刊原作演示截帧"
+  },
+  "2026-11-27-codevember-tension": {
+    "src": "assets/covers/2026-11-27/codevember-tension.jpg",
+    "alt": "蓝色背景中，橙色发光的链条从不同方向拉伸，中间散着亮点。",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/CodevemberTension_800x600.mp4",
+    "credit": "Ricardo Cabello｜Codrops 所刊原作演示截帧"
+  },
+  "2026-11-27-codevember-membrane": {
+    "src": "assets/covers/2026-11-27/codevember-membrane.jpg",
+    "alt": "白底上的浅紫透明物体翻至接近竖直，表面有破碎的折射。",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/CodevemberMembrane_800x600.mp4",
+    "credit": "Jaume Sánchez Elias｜Codrops 所刊原作演示截帧"
+  },
+  "2026-11-27-retro-loops": {
+    "src": "assets/covers/2026-11-27/retro-loops.jpg",
+    "alt": "霓虹紫的虚拟空间里，两侧砖墙以黄色亮块向中间收束。",
+    "sourceUrl": "https://tympanus.net/codrops/wp-content/uploads/2026/11/RetroLoops_800x600.mp4",
+    "credit": "Guillermo Rauch｜Codrops 所刊原作演示截帧"
+  },
+  "2026-11-27-elevencreative-huedini": {
+    "src": "assets/covers/2026-11-27/elevencreative-huedini.jpg",
+    "alt": "雪山角色旁悬浮着一组待选调色卡",
+    "sourceUrl": "https://www.youtube.com/watch?v=xEeTA9I8W4k",
+    "credit": "ElevenLabs／ElevenCreative｜发布片原帧"
+  },
+  "2026-11-27-incard-ai-oscar-builder": {
+    "src": "assets/covers/2026-11-27/incard-ai-oscar-builder.jpg",
+    "alt": "浅色 Bill pay 面板上，仪表卡片正在从高亮绿像素显现。",
+    "sourceUrl": "https://x.com/anagramclub/status/2126027166273970246",
+    "credit": "Anagram"
+  },
+  "2026-11-27-aina-a-whole-new-way-to-mac": {
+    "src": "assets/covers/2026-11-27/aina-a-whole-new-way-to-mac.jpg",
+    "alt": "侧视手机与叠加在屏外的短指令标签",
+    "sourceUrl": "https://www.youtube.com/watch?v=Q6tMW09exoI",
+    "credit": "Aina｜发布片原帧"
+  },
+  "2026-11-27-genspark-voicepad": {
+    "src": "assets/covers/2026-11-27/genspark-voicepad.jpg",
+    "alt": "四枚黑色实体按键与底部接口的产品特写",
+    "sourceUrl": "https://www.youtube.com/watch?v=FjyItdGJAvQ",
+    "credit": "Genspark｜发布片原帧"
+  },
+  "2026-11-27-heybreez-arabic-explainer": {
+    "src": "assets/covers/2026-11-27/heybreez-arabic-explainer.jpg",
+    "alt": "珊瑚红背景上手持手机，周围排布多条通话提示",
+    "sourceUrl": "https://www.youtube.com/watch?v=zFjKDcoB0Oc",
+    "credit": "Beliv8 Motion／Heybreez｜发布片原帧"
+  },
+  "2026-11-27-roma-one-place-for-all-your-agents": {
+    "src": "assets/covers/2026-11-27/roma-one-place-for-all-your-agents.jpg",
+    "alt": "Roma 深色画布中的曲线连接和多个代理节点",
+    "sourceUrl": "https://www.youtube.com/watch?v=TVkvjw0tmBE",
+    "credit": "Roma｜发布片原帧"
+  },
+  "2026-11-27-fotachu-unskippable": {
+    "src": "assets/covers/2026-11-27/fotachu-unskippable.jpg",
+    "alt": "持青色黄带礼盒的西装人物站在街道上",
+    "sourceUrl": "https://fotachustudios.com/films/unskippable.mp4",
+    "credit": "Fotachu Studios｜官方影片原帧"
+  },
+  "2026-11-27-miraki-blender-one-take": {
+    "src": "assets/covers/2026-11-27/miraki-blender-one-take.jpg",
+    "alt": "同一审讯室场景的生成成片与 Blender 预演叠列",
+    "sourceUrl": "https://miraki.ch/media/mind/2026-11-01-blender-one-take-verhoerraum-film.mp4?v=00de4ad8",
+    "credit": "Yves Farine／Miraki｜官网对照原帧"
+  },
+  "2026-11-27-life-cycles-procedural-lyrics": {
+    "src": "assets/covers/2026-11-27/life-cycles-procedural-lyrics.jpg",
+    "alt": "黑底上沿不同高度排布、倾斜的白色 cycling 字形",
+    "sourceUrl": "https://vimeo.com/842205935",
+    "credit": "Universal Everything｜工作室公开正片原帧"
+  },
+  "2026-11-27-daniel-white-sprite-stacking": {
+    "src": "assets/covers/2026-11-27/daniel-white-sprite-stacking.jpg",
+    "alt": "作者示例转台里的蓝色汽车、小屋、灯塔和其他像素道具",
+    "sourceUrl": "https://raw.githubusercontent.com/danielwh2/sprite-stacking/main/media/showcase.gif",
+    "credit": "Daniel White｜作者仓库 showcase.gif 原帧"
   }
 }
