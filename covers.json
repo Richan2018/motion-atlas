@@ -4951,5 +4951,209 @@
     "alt": "作者示例转台里的蓝色汽车、小屋、灯塔和其他像素道具",
     "sourceUrl": "https://raw.githubusercontent.com/danielwh2/sprite-stacking/main/media/showcase.gif",
     "credit": "Daniel White｜作者仓库 showcase.gif 原帧"
+  },
+  "2026-11-28-humo-grid-bottle": {
+    "src": "covers/2026-11-28-humo-grid-bottle.jpg",
+    "alt": "浅奶白和橙色网格首屏，斜置的 HUMO 玻璃瓶横越字标，左上保留原站 FWA 角标",
+    "sourceUrl": "https://drinkhumo.it/",
+    "credit": "BackDoor Studio（公开原站截图）"
+  },
+  "2026-11-28-miku-endo-orbital-work": {
+    "src": "covers/2026-11-28-miku-endo-orbital-work.jpg",
+    "alt": "暖白作品集上有两行粗黑 Miku Endo 字标和细彩色弧线",
+    "sourceUrl": "https://obake.xsrv.jp/portfolio2/",
+    "credit": "Miku Endo（AI_EC_Hacker）（公开原站截图）"
+  },
+  "2026-11-28-contra-creative-intelligence-report": {
+    "src": "covers/2026-11-28-contra-creative-intelligence-report.jpg",
+    "alt": "Contra 正文的浅桃色图表区，上方标题、图例、章节定位与下载分享控件",
+    "sourceUrl": "https://contralabs.com/creative-intelligence-report-2026",
+    "credit": "existacial；协作者 Heed Collective、Alex Karpodinis（CSS Winner）（公开原站截图）"
+  },
+  "2026-11-28-anekdote-projects-index": {
+    "src": "covers/2026-11-28-anekdote-projects-index.jpg",
+    "alt": "Anekdote 的 Projects 页黑底中央为粉发绿眼角色，底部是 AUTOR 与分类条",
+    "sourceUrl": "https://www.anekdotestudio.dk/projects",
+    "credit": "Anekdote Studio（公开原站截图）"
+  },
+  "2026-11-28-maurten-interface-study": {
+    "src": "covers/2026-11-28-maurten-interface-study.jpg",
+    "alt": "暗色分析卡中有等宽分析日志与接近完成的进度数字。",
+    "sourceUrl": "https://memorabl.es/work/maurten-interface-study",
+    "credit": "Gärde Design Studio｜署名原作演示截帧"
+  },
+  "2026-11-28-onboarding-flow-animation": {
+    "src": "covers/2026-11-28-onboarding-flow-animation.jpg",
+    "alt": "一只手操作手机，粉色和蓝紫色的引导界面从底部控件位置交接。",
+    "sourceUrl": "https://memorabl.es/work/onboarding-flow-animation",
+    "credit": "Cuberto｜署名原作演示截帧"
+  },
+  "2026-11-28-mografy": {
+    "src": "covers/2026-11-28-mografy.jpg",
+    "alt": "浅绿背景的个人资料卡显示 Following，其下还有关注成功提示。",
+    "sourceUrl": "https://www.mografy.app/showcase/films/follow-interaction.mp4",
+    "credit": "Mografy｜署名原作演示截帧"
+  },
+  "2026-11-28-feedback-you-can-pick-up": {
+    "src": "covers/2026-11-28-feedback-you-can-pick-up.jpg",
+    "alt": "白色聊天窗口中，客户反馈的一段文字被高亮并拖向回复区。",
+    "sourceUrl": "https://memorabl.es/work/feedback-you-can-pick-up",
+    "credit": "Alim Joldaspayev｜署名原作演示截帧"
+  },
+  "2026-11-28-image-compressor": {
+    "src": "covers/2026-11-28-image-compressor.jpg",
+    "alt": "一台浅色桌面机器下，山景图片两侧向中间弯曲。",
+    "sourceUrl": "https://memorabl.es/work/image-compressor",
+    "credit": "Gabriel Obholz｜署名原作演示截帧"
+  },
+  "2026-11-28-reci-star-generator": {
+    "src": "covers/2026-11-28-reci-star-generator.jpg",
+    "alt": "黑底上，细白放射线从浅色的参数调整面板后延伸。",
+    "sourceUrl": "https://memorabl.es/work/reci-star-generator",
+    "credit": "OB Studio｜署名原作演示截帧"
+  },
+  "2026-11-28-ruler-picker": {
+    "src": "covers/2026-11-28-ruler-picker.jpg",
+    "alt": "白底上的短刻度在光标附近扬起，中间黑色标签显示当前读数。",
+    "sourceUrl": "https://memorabl.es/work/ruler-picker",
+    "credit": "Nitish Khagwal｜署名原作演示截帧"
+  },
+  "2026-11-28-timeline-scrollbar": {
+    "src": "covers/2026-11-28-timeline-scrollbar.jpg",
+    "alt": "黑底界面上展示日期标尺与作品缩略图，当前日期用暖色标记。",
+    "sourceUrl": "https://memorabl.es/work/timeline-scrollbar",
+    "credit": "Peng Zheng｜署名原作演示截帧"
+  },
+  "2026-11-28-adi-clean-micro-interactions-interaction": {
+    "src": "covers/2026-11-28-adi-clean-micro-interactions-interaction.jpg",
+    "alt": "手机中展开了一张草地主题照片，下方保留其他图片的小缩略图。",
+    "sourceUrl": "https://60fps.design/community/adi-clean-micro-interactions-interaction",
+    "credit": "Aditya Sur（@AdityaSur11）｜署名原作演示截帧"
+  },
+  "2026-11-28-sucodee-interactive-card-animation": {
+    "src": "covers/2026-11-28-sucodee-interactive-card-animation.jpg",
+    "alt": "手机深色界面内是一张灰色虚拟卡，下方多组小选项和亮色主按钮。",
+    "sourceUrl": "https://60fps.design/community/sucodee-interactive-card-animation",
+    "credit": "sucodee｜署名原作演示截帧"
+  },
+  "2026-11-28-word-rotator": {
+    "src": "covers/2026-11-28-word-rotator.jpg",
+    "alt": "作者原站白色画布上的英文标题，句尾是正在轮播的词。",
+    "sourceUrl": "https://lab.xevrion.dev/lab/word-rotator",
+    "credit": "Yash Bavadiya｜原站实时演示截图"
+  },
+  "2026-11-28-aurelia-flight": {
+    "src": "covers/2026-11-28-aurelia-flight.webp",
+    "alt": "碧蓝天空下，镜头朝向草坡上的巨大环形构筑物。",
+    "sourceUrl": "https://discourse.threejs.org/t/97841",
+    "credit": "Bunny Chen"
+  },
+  "2026-11-28-eduard-bodak-card-flipbook": {
+    "src": "covers/2026-11-28-eduard-bodak-card-flipbook.webp",
+    "alt": "黑底中央的黄、绿、粉、蓝色字牌绕中间的装订线展开。",
+    "sourceUrl": "https://x.com/eduardbodak/status/2125889386797469762",
+    "credit": "Eduard Bodak"
+  },
+  "2026-11-28-luis-bizarro-mahjong": {
+    "src": "covers/2026-11-28-luis-bizarro-mahjong.webp",
+    "alt": "白底铺满以黄褐色背面为主的麻将牌，部分牌已翻面或正在滚动。",
+    "sourceUrl": "https://x.com/LuisBizarro/status/2122400554357813285",
+    "credit": "Luis Bizarro"
+  },
+  "2026-11-28-corentin-bernadou-flare": {
+    "src": "covers/2026-11-28-corentin-bernadou-flare.webp",
+    "alt": "黑底的半铬侧脸前，鼻梁和眼周出现黄紫色的短亮斑。",
+    "sourceUrl": "https://x.com/CorentinBerndu/status/2125270572661891187",
+    "credit": "Corentin Bernadou"
+  },
+  "2026-11-28-alex-marin-one-design-footer": {
+    "src": "covers/2026-11-28-alex-marin-one-design-footer.webp",
+    "alt": "黑底白字 One Design 被一个彩边圆形泡泡放大并扭曲。",
+    "sourceUrl": "https://x.com/alexmarin/status/2121270486214521306",
+    "credit": "Alex Marin"
+  },
+  "2026-11-28-slice-tilt-pinball": {
+    "src": "covers/2026-11-28-slice-tilt-pinball.webp",
+    "alt": "俯视圆形披萨弹球地图，正面赛区是蓝紫色，其他主题桌拼在圆周。",
+    "sourceUrl": "https://discourse.threejs.org/t/95133",
+    "credit": "Anderson Mancini"
+  },
+  "2026-11-28-gionatan-nese-404-laser": {
+    "src": "covers/2026-11-28-gionatan-nese-404-laser.webp",
+    "alt": "黑色空白页面中央悬着一颗小金属头，朝画面一侧发出两束红光。",
+    "sourceUrl": "https://x.com/YousufSoomroDev/status/2075600007076684172",
+    "credit": "Gionatan Nese（设计）/ Yousuf Soomro（原帖）"
+  },
+  "2026-11-28-laurent-del-rey-image-cloud": {
+    "src": "covers/2026-11-28-laurent-del-rey-image-cloud.webp",
+    "alt": "灰底页面上，多张图片和应用缩略图聚成一簇，顶端黑色工具条保持原位。",
+    "sourceUrl": "https://x.com/laurentdelrey/status/2094451395587878917",
+    "credit": "Laurent Del Rey"
+  },
+  "2026-11-28-kling-image-time-stands-still": {
+    "src": "covers/2026-11-28-kling-image-time-stands-still.jpg",
+    "alt": "城市里的横向广告牌重现沙漠人物，保留片中标记",
+    "sourceUrl": "https://cdn.launchscene.app/kling-ai-when-time-stands-still-kling-image-4-0/source.mp4",
+    "credit": "可灵｜同片 35.3 秒帧"
+  },
+  "2026-11-28-claude-meetings-launch": {
+    "src": "covers/2026-11-28-claude-meetings-launch.jpg",
+    "alt": "带会议小窗和彩色便签的共享白板",
+    "sourceUrl": "https://cdn.launchscene.app/anthropic-introducing-claude-meetings/source.mp4",
+    "credit": "Claude／Anthropic｜原片 23 秒帧"
+  },
+  "2026-11-28-invideo-ideogram-vector-1": {
+    "src": "covers/2026-11-28-invideo-ideogram-vector-1.jpg",
+    "alt": "带提示词变更的彩色骑车人街景",
+    "sourceUrl": "https://video.twimg.com/amplify_video/2116142026458808320/vid/avc1/1920x1080/1Z0GzCdxWczBu_YV.mp4?tag=29",
+    "credit": "Invideo｜原片 12 秒帧"
+  },
+  "2026-11-28-magnific-move-storyboard": {
+    "src": "covers/2026-11-28-magnific-move-storyboard.jpg",
+    "alt": "黑底上错落排开的多格手绘分镜",
+    "sourceUrl": "https://video.twimg.com/amplify_video/2116157150846406656/vid/avc1/2520x1080/XcmOiGDOrIkEccbB.mp4?tag=16",
+    "credit": "Magnific｜原片 40 秒帧"
+  },
+  "2026-11-28-decart-lucy-haunted-mirror": {
+    "src": "covers/2026-11-28-decart-lucy-haunted-mirror.jpg",
+    "alt": "红黑房间里角色伸手靠近装饰镜框",
+    "sourceUrl": "https://video.twimg.com/amplify_video/2115841588127510528/vid/avc1/1920x1080/U-YDZX9IEPl0AOvH.mp4",
+    "credit": "Decart｜原片 9.6 秒帧"
+  },
+  "2026-11-28-higgsfield-content-factory": {
+    "src": "covers/2026-11-28-higgsfield-content-factory.jpg",
+    "alt": "城市场景中央保留竖屏短剧原有包装",
+    "sourceUrl": "https://video.twimg.com/amplify_video/2113178516850413568/vid/avc1/1920x1080/lR_vMMoA7ob8drs8.mp4?tag=29",
+    "credit": "Higgsfield｜原片 23 秒帧"
+  },
+  "2026-11-28-flavatars-motion-lab": {
+    "src": "covers/2026-11-28-flavatars-motion-lab.jpg",
+    "alt": "纸偶四肢张开，原片内标注保留",
+    "sourceUrl": "https://www.flavatars.com/blog/flavatars-motion-lab-reel.mp4",
+    "credit": "Flavatars／Oleg Pylypenko｜官方短片 25.5 秒帧"
+  },
+  "2026-11-28-kitten-mormitten-ask-first": {
+    "src": "covers/2026-11-28-kitten-mormitten-ask-first.jpg",
+    "alt": "沙发上的 Jojo 和 Mormitten，来自原始生成而非成片",
+    "sourceUrl": "https://mormitten-ask-first-making-of.gmolodtsov.chatgpt.site/video/higgsfield-morning.mp4",
+    "credit": "Georgy Molodtsov／MALEEWICH TEAM／Film XR｜原始生成 22.5 秒帧"
+  },
+  "2026-11-28-decode-launch-film-workflow": {
+    "src": "covers/2026-11-28-decode-launch-film-workflow.jpg",
+    "alt": "Decode 发行片中橙色背景上并排的多屏审阅界面",
+    "sourceUrl": "https://media.decode.dev/videos/blog-launch-film-final-c6c4b13db27d.mp4",
+    "credit": "Francois Laberge／Decode｜官方影片 9 秒帧"
+  },
+  "2026-11-28-sienna-son-the-right-fit": {
+    "src": "covers/2026-11-28-sienna-son-the-right-fit.jpg",
+    "alt": "粉发饼干角色和同伴坐在灰色办公室电脑前",
+    "sourceUrl": "https://sujison.com/media/rightfit_540.mp4",
+    "credit": "Sienna S.J. Son｜导演官网原片原帧"
+  },
+  "2026-11-28-babylon-programming-lights": {
+    "src": "covers/2026-11-28-babylon-programming-lights.jpg",
+    "alt": "红色舞台灯光预览和多色灯光控制时间轨",
+    "sourceUrl": "https://x.com/TusharMagar_/status/2125259410402619856",
+    "credit": "Tushar Magar／Babylon Labs｜作者发布片原帧"
   }
 }
